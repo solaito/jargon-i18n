@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/Big-Red-Switch.rst:5
+msgid "Big Red Switch"
+msgstr ""
+
+#: ../../B/Big-Red-Switch.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/Big-Red-Switch.rst:9
+msgid ""
+"[IBM] The power switch on a computer, esp. the ‘Emergency Pull’ switch on"
+" an IBM :ref:`mainframe` or the power switch on an IBM PC where it really"
+" is large and red. \"This ! \\@%$% :ref:`bitty-box` is hung again; time "
+"to hit the Big Red Switch.\" Sources at IBM report that, in tune with the"
+" company's passion for :ref:`TLA`\\s, this is often abbreviated as BRS "
+"(this has also become established on FidoNet and in the PC :ref:`clone` "
+"world). It is alleged that the emergency pull switch on an IBM 360/91 "
+"actually fired a non-conducting bolt into the main power feed; the BRSes "
+"on more recent mainframes physically drop a block into place so that they"
+" can't be pushed back in. People get fired for pulling them, especially "
+"inappropriately (see also :ref:`molly-guard`\\). Compare :ref:`power-"
+"cycle`\\, :ref:`three-finger-salute`\\; see also :ref:`scram-switch`\\."
+msgstr ""
+

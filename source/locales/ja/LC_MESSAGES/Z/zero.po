@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../Z/zero.rst:5
+msgid "zero"
+msgstr ""
+
+#: ../../Z/zero.rst:7
+msgid "vt\\."
+msgstr ""
+
+#: ../../Z/zero.rst:10
+msgid ""
+"To set to 0. Usually said of small pieces of data, such as bits or words "
+"(esp. in the construction zero out)."
+msgstr ""
+
+#: ../../Z/zero.rst:15
+msgid ""
+"To erase; to discard all data from. Said of disks and directories, where "
+"‘zeroing’ need not involve actually writing zeroes throughout the area "
+"being zeroed. One may speak of something being logically zeroed rather "
+"than being physically zeroed. See :ref:`scribble`\\."
+msgstr ""
+

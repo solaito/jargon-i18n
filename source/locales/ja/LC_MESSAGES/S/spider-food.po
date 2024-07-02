@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/spider-food.rst:5
+msgid "spider food"
+msgstr ""
+
+#: ../../S/spider-food.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/spider-food.rst:9
+msgid ""
+"Keywords embedded (usually invisibly) into a web page to attract search "
+"engines (spiders). The intended result of including spider food in one's "
+"web page is to insure that the page appears high on the list of matching "
+"entries to a search engine query. There are right and wrong ways to do "
+"this; the right way is a discreet ‘meta keywords’ tag, the wrong way is "
+"to embed many repeats of a keyword in comments (and many search engines "
+"now detect and ignore the latter)."
+msgstr ""
+

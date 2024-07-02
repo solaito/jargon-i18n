@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/gritch.rst:5
+msgid "gritch"
+msgstr ""
+
+#: ../../G/gritch.rst:7
+msgid "/grich/"
+msgstr ""
+
+#: ../../G/gritch.rst:9
+msgid "[MIT]"
+msgstr ""
+
+#: ../../G/gritch.rst:11
+msgid "n\\. A complaint (often caused by a :ref:`glitch`\\)."
+msgstr ""
+
+#: ../../G/gritch.rst:14
+msgid "vi\\. To complain. Often verb-doubled: \"Gritch gritch\"."
+msgstr ""
+
+#: ../../G/gritch.rst:19
+msgid "A synonym for :ref:`glitch` (as verb or noun)."
+msgstr ""
+
+#: ../../G/gritch.rst:21
+msgid ""
+"Interestingly, this word seems to have a separate history from "
+":ref:`glitch`\\, with which it is often confused. Back in the early "
+"1960s, when ‘glitch’ was strictly a hardware-tech's term of art, the "
+"Burton House dorm at M.I.T. maintained a \"Gritch Book\", a blank volume,"
+" into which the residents hand-wrote complaints, suggestions, and "
+"witticisms. Previous years' volumes of this tradition were maintained, "
+"dating back to antiquity. The word \"gritch\" was described as a "
+"portmanteau of \"gripe\" and \"bitch\". Thus, sense 3 above is at least "
+"historically incorrect."
+msgstr ""
+

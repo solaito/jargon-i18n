@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/schroedinbug.rst:5
+msgid "schroedinbug"
+msgstr ""
+
+#: ../../S/schroedinbug.rst:7
+msgid "/shroh´din·buhg/, n\\."
+msgstr ""
+
+#: ../../S/schroedinbug.rst:9
+msgid ""
+"[MIT: from the Schroedinger's Cat thought-experiment in quantum physics] "
+"A design or implementation bug in a program that doesn't manifest until "
+"someone reading source or using the program in an unusual way notices "
+"that it never should have worked, at which point the program promptly "
+"stops working for everybody until fixed. Though (like :ref:`bit-rot`\\) "
+"this sounds impossible, it happens; some programs have harbored latent "
+"schroedinbugs for years. Compare :ref:`heisenbug`\\, :ref:`Bohr-bug`\\, "
+":ref:`mandelbug`\\."
+msgstr ""
+

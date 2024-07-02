@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/crufty.rst:5
+msgid "crufty"
+msgstr ""
+
+#: ../../C/crufty.rst:7
+msgid "/kruhf´tee/, adj\\."
+msgstr ""
+
+#: ../../C/crufty.rst:9
+msgid "[very common; origin unknown; poss. from ‘crusty’ or ‘cruddy’]"
+msgstr ""
+
+#: ../../C/crufty.rst:13
+msgid ""
+"Poorly built, possibly over-complex. The :ref:`canonical` example is "
+"\"This is standard old crufty :ref:`DEC` software\". In fact, one "
+"fanciful theory of the origin of crufty holds that was originally a "
+"mutation of ‘crusty’ applied to DEC software so old that the ‘s’ "
+"characters were tall and skinny, looking more like ‘f’ characters."
+msgstr ""
+
+#: ../../C/crufty.rst:18
+msgid ""
+"Unpleasant, especially to the touch, often with encrusted junk. Like "
+"spilled coffee smeared with peanut butter and catsup."
+msgstr ""
+
+#: ../../C/crufty.rst:22
+msgid "Generally unpleasant."
+msgstr ""
+
+#: ../../C/crufty.rst:25
+msgid ""
+"(sometimes spelled cruftie) n. A small crufty object (see :ref:`frob`\\);"
+" often one that doesn't fit well into the scheme of things. \"A LISP "
+"property list is a good place to store crufties (or, collectively, "
+":ref:`random` cruft).\""
+msgstr ""
+
+#: ../../C/crufty.rst:28
+msgid ""
+"This term is one of the oldest in the jargon and no one is sure of its "
+"etymology, but it is suggestive that there is a Cruft Hall at Harvard "
+"University which is part of the old physics building; it's said to have "
+"been the physics department's radar lab during WWII. To this day (early "
+"1993) the windows appear to be full of random techno-junk. MIT or Lincoln"
+" Labs people may well have coined the term as a knock on the competition."
+msgstr ""
+

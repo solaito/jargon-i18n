@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/Dissociated-Press.rst:5
+msgid "Dissociated Press"
+msgstr ""
+
+#: ../../D/Dissociated-Press.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/Dissociated-Press.rst:9
+msgid ""
+"[play on ‘Associated Press’; perhaps inspired by a reference in the 1950 "
+"Bugs Bunny cartoon *What's Up, Doc?*\\] An algorithm for transforming any"
+" text into potentially humorous garbage even more efficiently than by "
+"passing it through a :ref:`marketroid`\\. The algorithm starts by "
+"printing any ``N`` consecutive words (or letters) in the text. Then at "
+"every step it searches for any random occurrence in the original text of "
+"the last ``N`` words (or letters) already printed and then prints the "
+"next word or letter. :ref:`EMACS` has a handy command for this. Here is a"
+" short example of word-based Dissociated Press applied to an earlier "
+"version of this Jargon File:"
+msgstr ""
+
+#: ../../D/Dissociated-Press.rst:23
+msgid ""
+"Here is a short example of letter-based Dissociated Press applied to the "
+"same source:"
+msgstr ""
+
+#: ../../D/Dissociated-Press.rst:32
+msgid ""
+"A hackish idle pastime is to apply letter-based Dissociated Press to a "
+"random body of text and :ref:`vgrep` the output in hopes of finding an "
+"interesting new word. (In the preceding example, ‘window sysIWYG’ and "
+"‘informash’ show some promise.) Iterated applications of Dissociated "
+"Press usually yield better results. Similar techniques called travesty "
+"generators have been employed with considerable satirical effect to the "
+"utterances of Usenet flamers; see :ref:`pseudo`\\."
+msgstr ""
+

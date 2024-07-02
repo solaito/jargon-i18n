@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/chad-box.rst:5
+msgid "chad box"
+msgstr ""
+
+#: ../../C/chad-box.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/chad-box.rst:9
+msgid ""
+"A metal box about the size of a lunchbox (or in some models a large "
+"wastebasket), for collecting the :ref:`chad` (sense 2) that accumulated "
+"in :ref:`Iron-Age` card punches. You had to open the covers of the card "
+"punch periodically and empty the chad box. The :ref:`bit-bucket` was "
+"notionally the equivalent device in the CPU enclosure, which was "
+"typically across the room in another great gray-and-blue box."
+msgstr ""
+

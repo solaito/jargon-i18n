@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/spam.rst:5
+msgid "spam"
+msgstr ""
+
+#: ../../S/spam.rst:7
+msgid "vt\\.,vi\\.,n\\."
+msgstr ""
+
+#: ../../S/spam.rst:9
+msgid "[from *Monty Python's Flying Circus*\\]"
+msgstr ""
+
+#: ../../S/spam.rst:12
+msgid ""
+"To crash a program by overrunning a fixed-size buffer with excessively "
+"large input data. See also :ref:`buffer-overflow`\\, :ref:`overrun-"
+"screw`\\, :ref:`smash-the-stack`\\."
+msgstr ""
+
+#: ../../S/spam.rst:16
+msgid ""
+"To cause a newsgroup to be flooded with irrelevant or inappropriate "
+"messages. You can spam a newsgroup with as little as one well- (or ill-) "
+"planned message (e.g. asking \"What do you think of abortion?\" on "
+":samp:`soc.women`\\). This is often done with :ref:`cross-post`\\ing "
+"(e.g. any message which is cross-posted to :samp:`alt.rush-limbaugh` and "
+":samp:`alt.politics.homosexuality` will almost inevitably spam both "
+"groups). This overlaps with :ref:`troll` behavior; the latter more "
+"specific term has become more common."
+msgstr ""
+
+#: ../../S/spam.rst:25
+msgid ""
+"To send many identical or nearly-identical messages separately to a large"
+" number of Usenet newsgroups. This is more specifically called ECP, "
+"Excessive Cross-Posting. This is one sure way to infuriate nearly "
+"everyone on the Net. See also :ref:`velveeta` and :ref:`jello`\\."
+msgstr ""
+
+#: ../../S/spam.rst:31
+msgid ""
+"To bombard a newsgroup with multiple copies of a message. This is more "
+"specifically called EMP, Excessive Multi-Posting."
+msgstr ""
+
+#: ../../S/spam.rst:35
+msgid ""
+"To mass-mail unrequested identical or nearly-identical email messages, "
+"particularly those containing advertising. Especially used when the mail "
+"addresses have been culled from network traffic or databases without the "
+"consent of the recipients. Synonyms include :ref:`UCE`\\, :ref:`UBE`\\. "
+"As a noun, ‘spam’ refers to the messages so sent."
+msgstr ""
+
+#: ../../S/spam.rst:41
+msgid ""
+"Any large, annoying, quantity of output. For instance, someone on IRC who"
+" walks away from their screen and comes back to find 200 lines of text "
+"might say \"Oh no, spam\"."
+msgstr ""
+
+#: ../../S/spam.rst:44
+msgid ""
+"The later definitions have become much more prevalent as the Internet has"
+" opened up to non-techies, and to most people senses 3 4 and 5 are now "
+"primary. All three behaviors are considered abuse of the net, and are "
+"almost universally grounds for termination of the originator's email "
+"account or network connection. In these senses the term ‘spam’ has gone "
+"mainstream, though without its original sense or folkloric freight — "
+"there is apparently a widespread myth among :ref:`luser`\\s that "
+"\"spamming\" is what happens when you dump cans of Spam into a revolving "
+"fan. Hormel, the makers of Spam, have published a surprisingly "
+"enlightened `position statement <http://www.spam.com/ci/ci_in.htm>`_\\  "
+"on the Internet usage."
+msgstr ""
+

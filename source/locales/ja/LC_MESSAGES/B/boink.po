@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/boink.rst:5
+msgid "boink"
+msgstr ""
+
+#: ../../B/boink.rst:7
+msgid "/boynk/"
+msgstr ""
+
+#: ../../B/boink.rst:10
+msgid ""
+"[Usenet: variously ascribed to the TV series *Cheers*\\, "
+"*Moonlighting*\\, and *Soap*\\]v. To have sex with; compare "
+":ref:`bounce`\\, sense 2. (This is mainstream slang.) In Commonwealth "
+"hackish the variant ‘bonk’ is more common."
+msgstr ""
+
+#: ../../B/boink.rst:14
+msgid ""
+"n\\. After the original Peter Korn ‘Boinkon’ :ref:`Usenet` parties, used "
+"for almost any net social gathering, e.g., Miniboink, a small boink held "
+"by Nancy Gillett in 1988; Minniboink, a Boinkcon in Minnesota in 1989; "
+"Humpdayboinks, Wednesday get-togethers held in the San Francisco Bay "
+"Area. Compare :ref:`at-party`\\."
+msgstr ""
+
+#: ../../B/boink.rst:19
+msgid "Var of bonk; see :ref:`bonk-oif`\\."
+msgstr ""
+

@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/rogue.rst:5
+msgid "rogue"
+msgstr ""
+
+#: ../../R/rogue.rst:8
+msgid ""
+"[Unix] n. A Dungeons-and-Dragons-like game using character graphics, "
+"written under BSD Unix and subsequently ported to other Unix systems. The"
+" original BSD :manpage:`curses(3)` screen-handling package was hacked "
+"together by Ken Arnold primarily to support games, and the development of"
+" :manpage:`rogue(6)` popularized its use; it has since become one of "
+"Unix's most important and heavily used application libraries. Nethack, "
+"Omega, Larn, Angband, and an entire subgenre of computer dungeon games "
+"(all known as ‘roguelikes’) all took off from the inspiration provided by"
+" :manpage:`rogue(6)`\\; the popular Windows game Diablo, though graphics-"
+"intensive, has very similar play logic. See also :ref:`nethack`\\, "
+":ref:`moria`\\, :ref:`Angband`\\."
+msgstr ""
+
+#: ../../R/rogue.rst:14
+msgid ""
+"[Usenet] adj. An :ref:`ISP` which permits net abuse (usually in the form "
+"of :ref:`spam`\\ming) by its customers, or which itself engages in such "
+"activities. Rogue ISPs are sometimes subject to :ref:`IDP`\\s or "
+":ref:`UDP`\\s. Sometimes deliberately misspelled as \"rouge\"."
+msgstr ""
+

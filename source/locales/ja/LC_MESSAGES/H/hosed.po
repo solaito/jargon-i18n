@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hosed.rst:5
+msgid "hosed"
+msgstr ""
+
+#: ../../H/hosed.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../H/hosed.rst:9
+msgid ""
+"Same as :ref:`down`\\. Used primarily by Unix hackers. Humorous: also "
+"implies a condition thought to be relatively easy to reverse. Probably "
+"derived from the Canadian slang ‘hoser’ popularized by the Bob and Doug "
+"Mackenzie skits on SCTV, but this usage predated SCTV by years in "
+"hackerdom (it was certainly already live at CMU in the 1970s). See "
+":ref:`hose`\\. It is also widely used of people in the mainstream sense "
+"of ‘in an extremely unfortunate situation’."
+msgstr ""
+
+#: ../../H/hosed.rst:16
+msgid ""
+"Once upon a time, a Cray that had been experiencing periodic difficulties"
+" crashed, and it was announced to have been hosed. It was discovered that"
+" the crash was due to the disconnection of some coolant hoses. The "
+"problem was corrected, and users were then assured that everything was OK"
+" because the system had been rehosed. See also :ref:`dehose`\\."
+msgstr ""
+

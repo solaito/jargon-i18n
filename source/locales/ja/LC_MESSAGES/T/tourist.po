@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/tourist.rst:5
+msgid "tourist"
+msgstr ""
+
+#: ../../T/tourist.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/tourist.rst:10
+msgid ""
+"[ITS] A guest on the system, especially one who generally logs in over a "
+"network from a remote location for :ref:`comm-mode`\\, email, games, and "
+"other trivial purposes. One step below :ref:`luser`\\. ITS hackers often "
+"used to spell this :ref:`turist`\\, perhaps by some sort of tenuous "
+"analogy with :ref:`luser` (this usage may also have expressed the ITS "
+"culture's penchant for six-letterisms, and/or been some sort of tribute "
+"to Alan Turing). Compare :ref:`twink`\\, :ref:`lurker`\\, :ref:`read-"
+"only-user`\\."
+msgstr ""
+
+#: ../../T/tourist.rst:16
+msgid ""
+"[IRC] An :ref:`IRC` user who goes from channel to channel without saying "
+"anything; see :ref:`channel-hopping`\\."
+msgstr ""
+

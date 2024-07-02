@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/tiger-team.rst:5
+msgid "tiger team"
+msgstr ""
+
+#: ../../T/tiger-team.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/tiger-team.rst:9
+msgid "[U.S. military jargon]"
+msgstr ""
+
+#: ../../T/tiger-team.rst:12
+msgid ""
+"Originally, a team (of :ref:`sneaker`\\s) whose purpose is to penetrate "
+"security, and thus test security measures. These people are paid "
+"professionals who do hacker-type tricks, e.g., leave cardboard signs "
+"saying \"bomb\" in critical defense installations, hand-lettered notes "
+"saying \"Your codebooks have been stolen\" (they usually haven't been) "
+"inside safes, etc. After a successful penetration, some high-ranking "
+"security type shows up the next morning for a ‘security review’ and finds"
+" the sign, note, etc., and all hell breaks loose. Serious successes of "
+"tiger teams sometimes lead to early retirement for base commanders and "
+"security officers (see the :ref:`patch` entry for an example)."
+msgstr ""
+
+#: ../../T/tiger-team.rst:18
+msgid ""
+"Recently, and more generally, any official inspection team or special "
+":ref:`firefighting` group called in to look at a problem."
+msgstr ""
+
+#: ../../T/tiger-team.rst:20
+msgid ""
+"A subset of tiger teams are professional :ref:`cracker`\\s, testing the "
+"security of military computer installations by attempting remote attacks "
+"via networks or supposedly ‘secure’ comm channels. Some of their "
+"escapades, if declassified, would probably rank among the greatest hacks "
+"of all times. The term has been adopted in commercial computer-security "
+"circles in this more specific sense."
+msgstr ""
+

@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/backbone-cabal.rst:5
+msgid "backbone cabal"
+msgstr ""
+
+#: ../../B/backbone-cabal.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/backbone-cabal.rst:9
+msgid ""
+"A group of large-site administrators who pushed through the :ref:`Great-"
+"Renaming` and reined in the chaos of :ref:`Usenet` during most of the "
+"1980s. During most of its lifetime, the Cabal (as it was sometimes "
+"capitalized) steadfastly denied its own existence; it was almost "
+"obligatory for anyone privy to their secrets to respond \"There is no "
+"Cabal\" whenever the existence or activities of the group were speculated"
+" on in public."
+msgstr ""
+
+#: ../../B/backbone-cabal.rst:12
+msgid ""
+"The result of this policy was an attractive aura of mystery. Even a "
+"decade after the cabal :ref:`mailing-list` disbanded in late 1988 "
+"following a bitter internal catfight, many people believed (or claimed to"
+" believe) that it had not actually disbanded but only gone deeper "
+"underground with its power intact."
+msgstr ""
+
+#: ../../B/backbone-cabal.rst:15
+msgid ""
+"This belief became a model for various paranoid theories about various "
+"Cabals with dark nefarious objectives beginning with taking over the "
+"Usenet or Internet. These paranoias were later satirized in ways that "
+"took on a life of their own. See :ref:`Eric-Conspiracy` for one example. "
+"Part of the background for this kind of humor is that many hackers "
+"cultivate a fondness for conspiracy theory considered as a kind of "
+"surrealist art; see the bibliography entry on *Illuminatus!* for the "
+"novel that launched this trend."
+msgstr ""
+
+#: ../../B/backbone-cabal.rst:20
+msgid "See :ref:`NANA` for the subsequent history of \"the Cabal\"."
+msgstr ""
+

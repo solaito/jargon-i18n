@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/leech.rst:5
+msgid "leech"
+msgstr ""
+
+#: ../../L/leech.rst:7
+msgid ""
+"n\\. (Also leecher.) Among BBS types, crackers and :ref:`warez-d00dz`\\, "
+"one who consumes knowledge without generating new software, cracks, or "
+"techniques. BBS culture specifically defines a leech as someone who "
+"downloads files with few or no uploads in return, and who does not "
+"contribute to the message section. Cracker culture extends this "
+"definition to someone (a :ref:`lamer`\\, usually) who constantly presses "
+"informed sources for information and/or assistance, but has nothing to "
+"contribute. See :ref:`troughie`\\."
+msgstr ""
+
+#: ../../L/leech.rst:14
+msgid ""
+"v\\. [common, Toronto area] v. To download a file across any kind of "
+"internet link. \"Hop on IRC later so I can leech some MP3s from you.\" "
+"Used to describe activities ranging from FTP, to IRC DCC-send, to ICQ "
+"file requests, to Napster searches (but never to downloading email with "
+"file attachments; the implication is that the download is the result of a"
+" browse or search of some sort of file server). Seems to be a holdover "
+"from the early 1990s when Toronto had a very active BBS and warez scene. "
+"Synonymous with :ref:`snarf` (sense 2), and contrast :ref:`snarf` (sense "
+"4)."
+msgstr ""
+

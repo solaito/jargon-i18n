@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/clock.rst:5
+msgid "clock"
+msgstr ""
+
+#: ../../C/clock.rst:7
+msgid "n.,v."
+msgstr ""
+
+#: ../../C/clock.rst:10
+msgid ""
+"[techspeak] The master oscillator that steps a CPU or other digital "
+"circuit through its paces. This has nothing to do with the time of day, "
+"although the software counter that keeps track of the latter may be "
+"derived from the former."
+msgstr ""
+
+#: ../../C/clock.rst:13
+msgid ""
+"vt\\. To run a CPU or other digital circuit at a particular rate. \"If "
+"you clock it at 1000MHz, it gets warm.\". See :ref:`overclock`\\."
+msgstr ""
+
+#: ../../C/clock.rst:18
+msgid ""
+"vt\\. To force a digital circuit from one state to the next by applying a"
+" single clock pulse. \"The data must be stable 10ns before you clock the "
+"latch.\""
+msgstr ""
+

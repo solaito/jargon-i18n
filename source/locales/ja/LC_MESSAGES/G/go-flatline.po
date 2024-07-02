@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/go-flatline.rst:5
+msgid "go flatline"
+msgstr ""
+
+#: ../../G/go-flatline.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../G/go-flatline.rst:9
+msgid ""
+"[from cyberpunk SF, refers to flattening of EEG traces upon brain-death] "
+"(also adjectival flatlined)."
+msgstr ""
+
+#: ../../G/go-flatline.rst:12
+msgid ""
+"To :ref:`die`\\, terminate, or fail, esp. irreversibly. In hacker "
+"parlance, this is used of machines only, human death being considered "
+"somewhat too serious a matter to employ jargon-jokes about."
+msgstr ""
+
+#: ../../G/go-flatline.rst:17
+msgid ""
+"To go completely quiescent; said of machines undergoing controlled "
+"shutdown. \"You can suffer file damage if you shut down Unix but power "
+"off before the system has gone flatline.\""
+msgstr ""
+
+#: ../../G/go-flatline.rst:21
+msgid ""
+"Of a video tube, to fail by losing vertical scan, so all one sees is a "
+"bright horizontal line bisecting the screen."
+msgstr ""
+

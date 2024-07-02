@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../V/Vulcan-nerve-pinch.rst:5
+msgid "Vulcan nerve pinch"
+msgstr ""
+
+#: ../../V/Vulcan-nerve-pinch.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../V/Vulcan-nerve-pinch.rst:9
+msgid ""
+"[from the old *Star Trek* TV series via Commodore Amiga hackers] The "
+"keyboard combination that forces a soft-boot or jump to ROM monitor (on "
+"machines that support such a feature). On Amigas this is <Ctrl>-<Left-"
+"Amiga>-<Right-Amiga>; on PC clones this is Ctrl-Alt-Del; on Suns, L1-A; "
+"on Macintoshes, it is <Cmd>-<Power switch> or <Cmd>-<Ctrl>-<Power>! On "
+"IRIX, <Left-Ctrl><Left-Shift><F12><Keypad-Slash>, which kills and "
+"restarts the X server, is sometimes called a vulcan nerve pinch. Also "
+"called :ref:`three-finger-salute` and Vulcan death grip. At shops with a "
+"lot of Microsoft Windows machines, this is often called the Microsoft "
+"Maneuver because of the distressing frequency with which Microsoft's "
+"unreliable software requires it. Compare :ref:`quadruple-bucky`\\."
+msgstr ""
+

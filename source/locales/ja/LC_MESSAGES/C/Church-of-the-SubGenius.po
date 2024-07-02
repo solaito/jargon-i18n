@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/Church-of-the-SubGenius.rst:5
+msgid "Church of the SubGenius"
+msgstr ""
+
+#: ../../C/Church-of-the-SubGenius.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/Church-of-the-SubGenius.rst:9
+msgid ""
+"A mutant offshoot of :ref:`Discordianism` launched in 1981 as a spoof of "
+"fundamentalist Christianity by the ‘Reverend’ Ivan Stang, a brilliant "
+"satirist with a gift for promotion. Popular among hackers as a rich "
+"source of bizarre imagery and references such as \"Bob\" the divine "
+"drilling-equipment salesman, the Benevolent Space Xists, and the Stark "
+"Fist of Removal. Much SubGenius theory is concerned with the acquisition "
+"of the mystical substance or quality of :ref:`slack`\\. There is a home "
+"page at `http://www.subgenius.com/ <http://www.subgenius.com/>`_."
+msgstr ""
+

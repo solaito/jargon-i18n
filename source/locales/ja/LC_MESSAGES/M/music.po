@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/music.rst:5
+msgid "music"
+msgstr ""
+
+#: ../../M/music.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../M/music.rst:9
+msgid ""
+"A common extracurricular interest of hackers (compare :ref:`science-"
+"fiction-fandom`\\, :ref:`oriental-food`\\; see also :ref:`filk`\\). "
+"Hackish folklore has long claimed that musical and programming abilities "
+"are closely related, and there has been at least one large-scale "
+"statistical study that supports this. Hackers, as a rule, like music and "
+"often develop musical appreciation in unusual and interesting directions."
+" Folk music is very big in hacker circles; so is electronic music, and "
+"the sort of elaborate instrumental jazz/rock that used to be called "
+"‘progressive’ and isn't recorded much any more. The hacker's musical "
+"range tends to be wide; many can listen with equal appreciation to (say) "
+"Talking Heads, Yes, Gentle Giant, Pat Metheny, Scott Joplin, Tangerine "
+"Dream, Dream Theater, King Sunny Ade, The Pretenders, Screaming Trees, or"
+" the Brandenburg Concerti. It is also apparently true that hackerdom "
+"includes a much higher concentration of talented amateur musicians than "
+"one would expect from a similar-sized control group of :ref:`mundane` "
+"types."
+msgstr ""
+

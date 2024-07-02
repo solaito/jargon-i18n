@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/lenna.rst:5
+msgid "lenna"
+msgstr ""
+
+#: ../../L/lenna.rst:7
+msgid ""
+"The Internet's first poster girl, a standard test load used in the image "
+"processing community. The image was originally cropped from the November "
+"1972 issue of *Playboy Magazine*\\, which anglicized the model's name "
+"with a double n. It has interesting properties — complex feathers, "
+"shadows, smooth (but not flat) surfaces — that are pertinent in "
+"demonstrating various processing algorithms for image compression, "
+"filtering, dithering, texture mapping, image recognition, and so on. "
+"After a quarter century of remaining completely unaware that she had "
+"become an icon, a gray-haired but still winsome Lenna finally met her "
+"fans at a computer graphics conference in 1997. There is a fan page at "
+"`www.lenna.org <http://www.lenna.org>`_, with more details. Compare :ref"
+":`Utah-teapot` and :ref:`Stanford-Bunny`"
+msgstr ""
+
+#: ../../L/lenna.rst:15
+msgid "Miss Lena Sjööblom"
+msgstr ""
+

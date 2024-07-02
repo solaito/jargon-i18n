@@ -1,0 +1,136 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/blinkenlights.rst:5
+msgid "blinkenlights"
+msgstr ""
+
+#: ../../B/blinkenlights.rst:7
+msgid "/blink'\\@n·li:tz/, n\\."
+msgstr ""
+
+#: ../../B/blinkenlights.rst:9
+msgid ""
+"[common] Front-panel diagnostic lights on a computer, esp. a "
+":ref:`dinosaur`\\. Now that dinosaurs are rare, this term usually refers "
+"to status lights on a modem, network hub, or the like."
+msgstr ""
+
+#: ../../B/blinkenlights.rst:13
+msgid ""
+"This term derives from the last word of the famous blackletter-Gothic "
+"sign in mangled pseudo-German that once graced about half the computer "
+"rooms in the English-speaking world. One version ran in its entirety as "
+"follows:"
+msgstr ""
+
+#: ../../B/blinkenlights.rst:28
+msgid ""
+"This silliness dates back at least as far as 1955 at IBM and had already "
+"gone international by the early 1960s, when it was reported at London "
+"University's ATLAS computing site. There are several variants of it in "
+"circulation, some of which actually do end with the word ‘blinkenlights’."
+msgstr ""
+
+#: ../../B/blinkenlights.rst:31
+msgid ""
+"In an amusing example of turnabout-is-fair-play, German hackers have "
+"developed their own versions of the blinkenlights poster in fractured "
+"English, one of which is reproduced here:"
+msgstr ""
+
+#: ../../B/blinkenlights.rst:46
+msgid "See also :ref:`geef`\\."
+msgstr ""
+
+#: ../../B/blinkenlights.rst:48
+msgid ""
+"Old-time hackers sometimes get nostalgic for blinkenlights because they "
+"were so much more fun to look at than a blank panel. Sadly, very few "
+"computers still have them (the three LEDs on a PC keyboard certainly "
+"don't count). The obvious reasons (cost of wiring, cost of front-panel "
+"cutouts, almost nobody needs or wants to interpret machine-register "
+"states on the fly anymore) are only part of the story. Another part of it"
+" is that radio-frequency leakage from the lamp wiring was beginning to be"
+" a problem as far back as transistor machines. But the most fundamental "
+"fact is that there are very few signals slow enough to blink an LED these"
+" days! With slow CPUs, you could watch the bus register or instruction "
+"counter tick, but even at 33/66/150MHz (let alone gigahertz speeds) it's "
+"all a blur."
+msgstr ""
+
+#: ../../B/blinkenlights.rst:55
+msgid ""
+"Despite this, a couple of relatively recent computer designs of note have"
+" featured programmable blinkenlights that were added just because they "
+"looked cool. The Connection Machine, a 65,536-processor parallel computer"
+" designed in the mid-1980s, was a black cube with one side covered with a"
+" grid of red blinkenlights; the sales demo had them evolving :ref:`life` "
+"patterns. A few years later the ill-fated BeBox (a personal computer "
+"designed to run the BeOS operating system) featured twin rows of "
+"blinkenlights on the case front. When Be, Inc. decided to get out of the "
+"hardware business in 1996 and instead ported their OS to the PowerPC and "
+"later to the Intel architecture, many users suffered severely from the "
+"absence of their beloved blinkenlights. Before long an external version "
+"of the blinkenlights driven by a PC serial port became available; there "
+"is some sort of plot symmetry in the fact that it was assembled by a "
+"German."
+msgstr ""
+
+#: ../../B/blinkenlights.rst:61
+msgid ""
+"Finally, a version updated for the Internet has been seen on "
+":samp:`news.admin.net-abuse.email`\\:"
+msgstr ""
+
+#: ../../B/blinkenlights.rst:74
+msgid ""
+"This newest version partly reflects reports that the word ‘blinkenlights’"
+" is (in 1999) undergoing something of a revival in usage, but applied to "
+"networking equipment. The transmit and receive lights on routers, "
+"activity lights on switches and hubs, and other network equipment often "
+"blink in visually pleasing and seemingly coordinated ways. Although this "
+"is different in some ways from register readings, a tall stack of Cisco "
+"equipment or a 19-inch rack of ISDN terminals can provoke a similar "
+"feeling of hypnotic awe, especially in a darkened network operations "
+"center or server room."
+msgstr ""
+
+#: ../../B/blinkenlights.rst:78
+msgid ""
+"The ancestor of the original blinkenlights posters of the 1950s was "
+"probably this:"
+msgstr ""
+
+#: ../../B/blinkenlights.rst:84
+msgid "WWII-era machine-shop poster"
+msgstr ""
+
+#: ../../B/blinkenlights.rst:87
+msgid ""
+"We are informed that cod-German parodies of this kind were very common in"
+" Allied machine shops during and following WWII. Germans, then as now, "
+"had a reputation for being both good with precision machinery and prone "
+"to officious notices."
+msgstr ""
+

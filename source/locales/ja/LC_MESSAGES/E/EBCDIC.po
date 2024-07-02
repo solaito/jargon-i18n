@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/EBCDIC.rst:5
+msgid "EBCDIC"
+msgstr ""
+
+#: ../../E/EBCDIC.rst:7
+msgid "/eb´s\\@·dik/, /eb´see\\`dik/, /eb´k\\@·dik/, n\\."
+msgstr ""
+
+#: ../../E/EBCDIC.rst:9
+msgid ""
+"[abbreviation, Extended Binary Coded Decimal Interchange Code] An alleged"
+" character set used on IBM :ref:`dinosaur`\\s. It exists in at least six "
+"mutually incompatible versions, all featuring such delights as non-"
+"contiguous letter sequences and the absence of several ASCII punctuation "
+"characters fairly important for modern computer languages (exactly which "
+"characters are absent varies according to which version of EBCDIC you're "
+"looking at). IBM adapted EBCDIC from :ref:`punched-card` code in the "
+"early 1960s and promulgated it as a customer-control tactic (see :ref"
+":`connector-conspiracy`\\), spurning the already established ASCII "
+"standard. Today, IBM claims to be an open-systems company, but IBM's own "
+"description of the EBCDIC variants and how to convert between them is "
+"still internally classified top-secret, burn-before-reading. Hackers "
+"blanch at the very *name* of EBCDIC and consider it a manifestation of "
+"purest :ref:`evil`\\. See also :ref:`fear-and-loathing`\\."
+msgstr ""
+

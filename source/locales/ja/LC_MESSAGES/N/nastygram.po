@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/nastygram.rst:5
+msgid "nastygram"
+msgstr ""
+
+#: ../../N/nastygram.rst:7
+msgid "/nas´tee·gram/, n\\."
+msgstr ""
+
+#: ../../N/nastygram.rst:10
+msgid ""
+"A protocol packet or item of email (the latter is also called a "
+":ref:`letterbomb`\\) that takes advantage of misfeatures or security "
+"holes on the target system to do untoward things."
+msgstr ""
+
+#: ../../N/nastygram.rst:13
+msgid ""
+"Disapproving mail, esp. from a :ref:`net-god`\\, pursuant to a violation "
+"of :ref:`netiquette` or a complaint about failure to correct some mail- "
+"or news-transmission problem. Compare :ref:`shitogram`\\, "
+":ref:`mailbomb`\\."
+msgstr ""
+
+#: ../../N/nastygram.rst:18
+msgid ""
+"A status report from an unhappy, and probably picky, customer. \"What'd "
+"Corporate say in today's nastygram?\""
+msgstr ""
+
+#: ../../N/nastygram.rst:22
+msgid ""
+"[deprecated] An error reply by mail from a :ref:`daemon`\\; in "
+"particular, a :ref:`bounce-message`\\."
+msgstr ""
+

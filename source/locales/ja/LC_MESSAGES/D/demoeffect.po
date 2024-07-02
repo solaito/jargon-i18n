@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/demoeffect.rst:5
+msgid "demoeffect"
+msgstr ""
+
+#: ../../D/demoeffect.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/demoeffect.rst:9
+msgid "[ :ref:`demoscene`\\]"
+msgstr ""
+
+#: ../../D/demoeffect.rst:12
+msgid ""
+"What among hackers is called a :ref:`display-hack`\\. Classical effects "
+"include \"plasma\" (colorful mess), \"keftales\" (``x\\*x+y\\*y`` and "
+"other similar patterns, usually combined with color-cycling), realtime "
+"fractals, realtime 3d graphics, etc. Historically, demo effects have "
+"cheated as much as possible to gain more speed and more complexity, using"
+" low-precision math and masses of assembler code and building animation "
+"realtime are three common tricks, but use of special hardware to fake "
+"effects is a :ref:`Good-Thing` on the demoscene (though this is becoming "
+"less common as platforms like the Amiga fade away)."
+msgstr ""
+
+#: ../../D/demoeffect.rst:17
+msgid ""
+"[Finland] Opposite of :ref:`dancing-frog`\\. The crash that happens when "
+"you demonstrate a perfectly good prototype to a client. Plagues most "
+"often CS students and small businesses, but there is a well-known case "
+"involving Bill Gates demonstrating a brand new version of a major "
+"operating system."
+msgstr ""
+

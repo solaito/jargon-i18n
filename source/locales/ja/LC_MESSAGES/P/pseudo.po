@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/pseudo.rst:5
+msgid "pseudo"
+msgstr ""
+
+#: ../../P/pseudo.rst:7
+msgid "/soo´doh/, n\\."
+msgstr ""
+
+#: ../../P/pseudo.rst:9
+msgid "[Usenet: truncation of ‘pseudonym’]"
+msgstr ""
+
+#: ../../P/pseudo.rst:12
+msgid ""
+"An electronic-mail or :ref:`Usenet` persona adopted by a human for "
+"amusement value or as a means of avoiding negative repercussions of one's"
+" net.behavior; a ‘nom de Usenet’, often associated with forged postings "
+"designed to conceal message origins. Perhaps the best-known and funniest "
+"hoax of this type is :ref:`B1FF`\\. See also :ref:`tentacle`\\."
+msgstr ""
+
+#: ../../P/pseudo.rst:17
+msgid ""
+"Notionally, a :ref:`flamage`\\-generating AI program simulating a Usenet "
+"user. Many flamers have been accused of actually being such entities, "
+"despite the fact that no AI program of the required sophistication yet "
+"exists. However, in 1989 there was a famous series of forged postings "
+"that used a phrase-frequency-based travesty generator to simulate the "
+"styles of several well-known flamers; it was based on large samples of "
+"their back postings (compare :ref:`Dissociated-Press`\\). A significant "
+"number of people were fooled by the forgeries, and the debate over their "
+"authenticity was settled only when the perpetrator came forward to "
+"publicly admit the hoax."
+msgstr ""
+

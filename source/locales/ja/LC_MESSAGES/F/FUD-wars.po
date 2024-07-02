@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/FUD-wars.rst:5
+msgid "FUD wars"
+msgstr ""
+
+#: ../../F/FUD-wars.rst:7
+msgid "/fuhd worz/, n\\."
+msgstr ""
+
+#: ../../F/FUD-wars.rst:9
+msgid ""
+"1, [from :ref:`FUD`\\] Historically, political posturing engaged in by "
+"hardware and software vendors ostensibly committed to standardization but"
+" actually willing to fragment the market to protect their own shares. The"
+" Unix International vs.: OSF conflict about Unix standards was one "
+"outstanding example; Microsoft vs. Netscape vs. W3C about HTML standards "
+"is another."
+msgstr ""
+
+#: ../../F/FUD-wars.rst:13
+msgid ""
+"Since about 2000 the FUD wars have a different character; the battle over"
+" open standards has been partly replaced and partly subsumed by the "
+"argument between closed- and :ref:`open-source` proponents. Nowadays, "
+"accordingly, the term is most likely to be used of anti-open-source "
+"propaganda emitted by Microsoft. Compare :ref:`astroturfing`\\."
+msgstr ""
+

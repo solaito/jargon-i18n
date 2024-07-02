@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../V/vannevar.rst:5
+msgid "vannevar"
+msgstr ""
+
+#: ../../V/vannevar.rst:7
+msgid "/van'\\@·var/, n\\."
+msgstr ""
+
+#: ../../V/vannevar.rst:9
+msgid ""
+"A bogus technological prediction or a foredoomed engineering concept, "
+"esp. one that fails by implicitly assuming that technologies develop "
+"linearly, incrementally, and in isolation from one another when in fact "
+"the learning curve tends to be highly nonlinear, revolutions are common, "
+"and competition is the rule. The prototype was Vannevar Bush's prediction"
+" of ‘electronic brains’ the size of the Empire State Building with a "
+"Niagara-Falls-equivalent cooling system for their tubes and relays, a "
+"prediction made at a time when the semiconductor effect had already been "
+"demonstrated. Other famous vannevars have included magnetic-bubble "
+"memory, LISP machines, :ref:`videotex`\\, and a paper from the late 1970s"
+" that computed a purported ultimate limit on areal density for ICs that "
+"was in fact less than the routine densities of 5 years later."
+msgstr ""
+

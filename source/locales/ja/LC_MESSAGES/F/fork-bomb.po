@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/fork-bomb.rst:5
+msgid "fork bomb"
+msgstr ""
+
+#: ../../F/fork-bomb.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/fork-bomb.rst:9
+msgid ""
+"[Unix] A particular species of :ref:`wabbit` that can be written in one "
+"line of C (:code:`main() {for(;;)fork();`\\}) or shell (:code:`$0 & $0 "
+"&`\\) on any Unix system, or occasionally created by an egregious coding "
+"bug. A fork bomb process ‘explodes’ by recursively spawning copies of "
+"itself (using the Unix system call :manpage:`fork(2)`\\). Eventually it "
+"eats all the process table entries and effectively wedges the system. "
+"Fortunately, fork bombs are relatively easy to spot and kill, so creating"
+" one deliberately seldom accomplishes more than to bring the just wrath "
+"of the gods down upon the perpetrator. Also called a fork bunny. See also"
+" :ref:`logic-bomb`\\."
+msgstr ""
+

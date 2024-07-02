@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../O/out-of-band.rst:5
+msgid "out-of-band"
+msgstr ""
+
+#: ../../O/out-of-band.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../O/out-of-band.rst:9
+msgid "[from telecommunications and network theory]"
+msgstr ""
+
+#: ../../O/out-of-band.rst:12
+msgid ""
+"In software, describes values of a function which are not in its "
+"‘natural’ range of return values, but are rather signals that some kind "
+"of exception has occurred. Many C functions, for example, return a "
+"nonnegative integral value, but indicate failure with an out-of-band "
+"return value of −1. Compare :ref:`hidden-flag`\\, :ref:`green-bytes`\\, "
+":ref:`fence`\\."
+msgstr ""
+
+#: ../../O/out-of-band.rst:17
+msgid ""
+"Also sometimes used to describe what communications people call shift "
+"characters, such as the ESC that leads control sequences for many "
+"terminals, or the level shift indicators in the old 5-bit Baudot codes."
+msgstr ""
+
+#: ../../O/out-of-band.rst:20
+msgid ""
+"In personal communication, using methods other than email, such as "
+"telephones or :ref:`snail-mail`\\."
+msgstr ""
+

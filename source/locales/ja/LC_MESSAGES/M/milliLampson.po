@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/milliLampson.rst:5
+msgid "milliLampson"
+msgstr ""
+
+#: ../../M/milliLampson.rst:7
+msgid "/mil'\\@·lamp\\`sn/, n\\."
+msgstr ""
+
+#: ../../M/milliLampson.rst:9
+msgid ""
+"A unit of talking speed, abbreviated mL. Most people run about 200 "
+"milliLampsons. The eponymous Butler Lampson (a CS theorist and systems "
+"implementor highly regarded among hackers) goes at 1000. A few people "
+"speak faster. This unit is sometimes used to compare the (sometimes "
+"widely disparate) rates at which people can generate ideas and actually "
+"emit them in speech. For example, noted computer architect C. Gordon Bell"
+" (designer of the :ref:`PDP-11`\\) is said, with some awe, to think at "
+"about 1200 mL but only talk at about 300; he is frequently reduced to "
+"fragments of sentences as his mouth tries to keep up with his speeding "
+"brain."
+msgstr ""
+

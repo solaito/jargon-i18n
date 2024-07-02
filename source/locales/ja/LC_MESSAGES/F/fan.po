@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/fan.rst:5
+msgid "fan"
+msgstr ""
+
+#: ../../F/fan.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/fan.rst:9
+msgid ""
+"Without qualification, indicates a fan of science fiction, especially one"
+" who goes to :ref:`con_`\\s and tends to hang out with other fans. Many "
+"hackers are fans, so this term has been imported from fannish slang; "
+"however, unlike much fannish slang it is recognized by most non-fannish "
+"hackers. Among SF fans the plural is correctly fen, but this usage is not"
+" automatic to hackers. \"Laura reads the stuff occasionally but isn't "
+"really a fan.\""
+msgstr ""
+

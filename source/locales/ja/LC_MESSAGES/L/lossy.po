@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/lossy.rst:5
+msgid "lossy"
+msgstr ""
+
+#: ../../L/lossy.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../L/lossy.rst:9
+msgid "[Usenet]"
+msgstr ""
+
+#: ../../L/lossy.rst:12
+msgid ""
+"Said of people, this indicates a poor memory, usually short-term. This "
+"usage is analogical to the same term applied to data compression and "
+"analysis. \"He's very lossy.\" means that you can't rely on him to "
+"accurately remember recent experiences or conversations, or requests. Not"
+" to be confused with a ‘loser’, which is a person who is in a continual "
+"state of lossiness, as in sense 2 (see below)."
+msgstr ""
+
+#: ../../L/lossy.rst:19
+msgid ""
+"Said of an attitude or a situation, this indicates a general downturn in "
+"emotions, lack of success in attempted endeavors, etc. Eg, \"I'm having a"
+" lossy day today.\" means that the speaker has ‘lost’ or is ‘losing’ in "
+"all of their activities, and that this is causing some increase in "
+"negative emotions."
+msgstr ""
+

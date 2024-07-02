@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/TMRC.rst:5
+msgid "TMRC"
+msgstr ""
+
+#: ../../T/TMRC.rst:7
+msgid "/tmerk´/, n\\."
+msgstr ""
+
+#: ../../T/TMRC.rst:9
+msgid ""
+"The Tech Model Railroad Club at MIT, one of the wellsprings of hacker "
+"culture. The 1959 *Dictionary of the TMRC Language* compiled by Peter "
+"Samson included several terms that became basics of the hackish "
+"vocabulary (see esp. :ref:`foo`\\, :ref:`mung`\\, and :ref:`frob`\\)."
+msgstr ""
+
+#: ../../T/TMRC.rst:13
+msgid ""
+"By 1962, TMRC's legendary layout was already a marvel of complexity and "
+"has grown in the years since. All the features described here were still "
+"present when the old layout was decommissioned in 1998 just before the "
+"demolition of MIT Building 20, and will almost certainly be retained when"
+" the old layout is rebuilt (expected in 2003). The control system alone "
+"featured about 1200 relays. There were :ref:`scram-switch`\\es located at"
+" numerous places around the room that could be thwacked if something "
+"undesirable was about to occur, such as a train going full-bore at an "
+"obstruction. Another feature of the system was a digital clock on the "
+"dispatch board, which was itself something of a wonder in those bygone "
+"days before cheap LEDs and seven-segment displays. When someone hit a "
+"scram switch the clock stopped and the display was replaced with the word"
+" ‘FOO’; at TMRC the scram switches are therefore called foo switches."
+msgstr ""
+
+#: ../../T/TMRC.rst:20
+msgid ""
+"Steven Levy, in his book *Hackers* (see the "
+":ref:`Bibliography<bibliography>` in Appendix C), gives a stimulating "
+"account of those early years. TMRC's Signals and Power Committee included"
+" many of the early PDP-1 hackers and the people who later became the core"
+" of the MIT AI Lab staff. Thirty years later that connection is still "
+"very much alive, and this lexicon accordingly includes a number of "
+"entries from a recent revision of the TMRC dictionary."
+msgstr ""
+
+#: ../../T/TMRC.rst:24
+msgid ""
+"TMRC has a web page at `http://tmrc-www.mit.edu/ <http://tmrc-"
+"www.mit.edu/>`_. The TMRC Dictionary is available there, at `http://tmrc-"
+"www.mit.edu/dictionary.html <http://tmrc-www.mit.edu/dictionary.html>`_."
+msgstr ""
+

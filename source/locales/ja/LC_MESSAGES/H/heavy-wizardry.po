@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/heavy-wizardry.rst:5
+msgid "heavy wizardry"
+msgstr ""
+
+#: ../../H/heavy-wizardry.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../H/heavy-wizardry.rst:9
+msgid ""
+"Code or designs that trade on a particularly intimate knowledge or "
+"experience of a particular operating system or language or complex "
+"application interface. Distinguished from :ref:`deep-magic`\\, which "
+"trades more on arcane *theoretical* knowledge. Writing device drivers is "
+"heavy wizardry; so is interfacing to :ref:`X` (sense 2) without a "
+"toolkit. Esp. : found in source-code comments of the form \"Heavy "
+"wizardry begins here\". Compare :ref:`voodoo-programming`\\."
+msgstr ""
+

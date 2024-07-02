@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/catatonic.rst:5
+msgid "catatonic"
+msgstr ""
+
+#: ../../C/catatonic.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../C/catatonic.rst:9
+msgid ""
+"Describes a condition of suspended animation in which something is so "
+":ref:`wedged` or :ref:`hung` that it makes no response. If you are typing"
+" on a terminal and suddenly the computer doesn't even echo the letters "
+"back to the screen as you type, let alone do what you're asking it to do,"
+" then the computer is suffering from catatonia (possibly because it has "
+"crashed). \"There I was in the middle of a winning game of :ref:`nethack`"
+" and it went catatonic on me! Aaargh!\" Compare :ref:`buzz`\\."
+msgstr ""
+

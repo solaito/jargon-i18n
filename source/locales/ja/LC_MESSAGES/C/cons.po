@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/cons.rst:5
+msgid "cons"
+msgstr ""
+
+#: ../../C/cons.rst:7
+msgid "/konz/, /kons/"
+msgstr ""
+
+#: ../../C/cons.rst:9
+msgid "[from LISP]"
+msgstr ""
+
+#: ../../C/cons.rst:11
+msgid ""
+"vt\\. To add a new element to a specified list, esp. at the top. \"OK, "
+"cons picking a replacement for the console TTY onto the agenda.\""
+msgstr ""
+
+#: ../../C/cons.rst:16
+msgid "cons up: vt. To synthesize from smaller pieces: \"to cons up an example\"."
+msgstr ""
+
+#: ../../C/cons.rst:18
+msgid ""
+"In LISP itself, :code:`cons` is the most fundamental operation for "
+"building structures. It takes any two objects and returns a dot-pair or "
+"two-branched tree with one object hanging from each branch. Because the "
+"result of a cons is an object, it can be used to build binary trees of "
+"any shape and complexity. Hackers think of it as a sort of universal "
+"constructor, and that is where the jargon meanings spring from."
+msgstr ""
+

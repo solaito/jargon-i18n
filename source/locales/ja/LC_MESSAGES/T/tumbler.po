@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/tumbler.rst:5
+msgid "tumbler"
+msgstr ""
+
+#: ../../T/tumbler.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/tumbler.rst:10
+msgid ""
+"[Originally from the Xanadu hypertext project] A tumbler is a :ref"
+":`magic-cookie` generated as part of a record or message to give it a "
+"unique identity. Usually a tumbler includes an encoded form of its "
+"creation date, but if a software system has more than one concurrent "
+"process that could generate tumblers it must also include an encoding of "
+"the process ID. If tumblers will be shared across multiple network hosts,"
+" they must also include the host name or network address. Tumblers often "
+"include a hash of the rest of the message or record content so that it is"
+" possible to verify the correctness of the data the tumbler is attached "
+"to."
+msgstr ""
+
+#: ../../T/tumbler.rst:16
+msgid ""
+"Variant text added to spam instances (often in the Subject line) to make "
+"them unique. This kind of tumbler is used to defeat schemes that check an"
+" exact hash of an incoming message against known spam signatures; it also"
+" compromises some kinds of statistical spam recognition."
+msgstr ""
+

@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/dump.rst:5
+msgid "dump"
+msgstr ""
+
+#: ../../D/dump.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/dump.rst:10
+msgid ""
+"An undigested and voluminous mass of information about a problem or the "
+"state of a system, especially one routed to the slowest available output "
+"device (compare :ref:`core-dump`\\), and most especially one consisting "
+"of hex or octal :ref:`runes` describing the byte-by-byte state of memory,"
+" mass storage, or some file. In :ref:`elder-days`\\, debugging was "
+"generally done by groveling over a dump (see :ref:`grovel`\\); increasing"
+" use of high-level languages and interactive debuggers has made such "
+"tedium uncommon, and the term dump now has a faintly archaic flavor."
+msgstr ""
+
+#: ../../D/dump.rst:14
+msgid "A backup. This usage is typical only at large timesharing installations."
+msgstr ""
+

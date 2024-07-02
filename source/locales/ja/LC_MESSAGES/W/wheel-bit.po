@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/wheel-bit.rst:5
+msgid "wheel bit"
+msgstr ""
+
+#: ../../W/wheel-bit.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../W/wheel-bit.rst:9
+msgid ""
+"A privilege bit that allows the possessor to perform some restricted "
+"operation on a timesharing system, such as read or write any file on the "
+"system regardless of protections, change or look at any address in the "
+"running monitor, crash or reload the system, and kill or create jobs and "
+"user accounts. The term was invented on the TENEX operating system, and "
+"carried over to TOPS-20, XEROX-IFS, and others. The state of being in a "
+"privileged logon is sometimes called wheel mode. This term entered the "
+"Unix culture from TWENEX in the mid-1980s and has been gaining popularity"
+" there (esp. at university sites). See also :ref:`root`\\."
+msgstr ""
+

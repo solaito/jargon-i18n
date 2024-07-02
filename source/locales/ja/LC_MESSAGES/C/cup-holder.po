@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/cup-holder.rst:5
+msgid "cup holder"
+msgstr ""
+
+#: ../../C/cup-holder.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/cup-holder.rst:9
+msgid ""
+"The tray of a CD-ROM drive, or by extension the CD drive itself. So "
+"called because of a common tech support legend about the idiot who called"
+" to complain that the cup holder on his computer broke. A joke program "
+"was once distributed around the net called \"cupholder.exe\", which when "
+"run simply extended the CD drive tray. The humor of this was of course "
+"lost on people whose drive had a slot or a caddy instead."
+msgstr ""
+

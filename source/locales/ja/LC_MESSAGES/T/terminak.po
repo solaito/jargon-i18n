@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/terminak.rst:5
+msgid "terminak"
+msgstr ""
+
+#: ../../T/terminak.rst:7
+msgid "/ter´mi·nak\\`/, n\\."
+msgstr ""
+
+#: ../../T/terminak.rst:9
+msgid ""
+"[Caltech, ca. 1979] Any malfunctioning computer terminal. A common "
+"failure mode of Lear-Siegler ADM 3a terminals caused the ‘L’ key to "
+"produce the ‘K’ code instead; complaints about this tended to look like "
+"\"Terminak #3 has a bad keyboard. Pkease fix.\" Compare :ref:`dread-high-"
+"bit-disease`\\, :ref:`frogging`\\; see also :ref:`sun-stools`\\, :ref"
+":`HP-SUX`\\, :ref:`Slowlaris`\\."
+msgstr ""
+

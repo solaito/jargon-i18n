@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/flag.rst:5
+msgid "flag"
+msgstr ""
+
+#: ../../F/flag.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/flag.rst:9
+msgid ""
+"[very common] A variable or quantity that can take on one of two values; "
+"a bit, particularly one that is used to indicate one of two outcomes or "
+"is used to control which of two things is to be done. \"This flag "
+"controls whether to clear the screen before printing the message.\" \"The"
+" program status word contains several flag bits.\" Used of humans "
+"analogously to :ref:`bit`\\. See also :ref:`hidden-flag`\\, :ref:`mode-"
+"bit`\\."
+msgstr ""
+

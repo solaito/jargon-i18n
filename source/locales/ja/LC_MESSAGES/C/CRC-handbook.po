@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/CRC-handbook.rst:5
+msgid "CRC handbook"
+msgstr ""
+
+#: ../../C/CRC-handbook.rst:7
+msgid ""
+"Any of the editions of the *Chemical Rubber Company Handbook of Chemistry"
+" and Physics*\\; there are other CRC handbooks, such as the *CRC Standard"
+" Mathematical Tables and Formulae*\\, but \"the\" CRC handbook is the "
+"chemistry and physics reference. It is massive tome full of mathematical "
+"tables, physical constants of thousands of alloys and chemical compounds,"
+" dielectric strengths, vapor pressure, resistivity, and the like. Hackers"
+" have remarkably little actual use for these sorts of arcana, but are "
+"such information junkies that a large percentage of them acquire copies "
+"anyway and would feel vaguely bereft if they couldn't look up the "
+"magnetic susceptibility of potassium permanganate at a moment's notice. "
+"On hackers' bookshelves, the CRC handbook is rather likely to keep "
+"company with an unabridged Oxford English Dictionary and a good atlas."
+msgstr ""
+

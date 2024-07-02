@@ -1,0 +1,12 @@
+.. _raster-burn:
+
+============================================================
+raster burn
+============================================================
+
+n\.
+
+Eyestrain brought on by too many hours of looking at low-res, poorly tuned, or glare-ridden monitors, esp.
+graphics monitors.
+See :ref:`terminal-illness`\.
+

@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/sneakernet.rst:5
+msgid "sneakernet"
+msgstr ""
+
+#: ../../S/sneakernet.rst:7
+msgid "/snee´ker·net/, n\\."
+msgstr ""
+
+#: ../../S/sneakernet.rst:9
+msgid ""
+"Term used (generally with ironic intent) for transfer of electronic "
+"information by physically carrying tape, disks, or some other media from "
+"one machine to another. \"Never underestimate the bandwidth of a station "
+"wagon filled with magtape, or a 747 filled with CD-ROMs.\" Also called "
+"‘Tennis-Net’, ‘Armpit-Net’, ‘Floppy-Net’ or ‘Shoenet’; in the 1990s, "
+"‘Nike network’ after a well-known sneaker brand."
+msgstr ""
+

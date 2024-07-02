@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/troff.rst:5
+msgid "troff"
+msgstr ""
+
+#: ../../T/troff.rst:7
+msgid "/T´rof/, /trof/, n\\."
+msgstr ""
+
+#: ../../T/troff.rst:9
+msgid ""
+"[Unix] The gray eminence of Unix text processing; a formatting and "
+"phototypesetting program, written originally in :ref:`PDP-11` assembler "
+"and then in barely-structured early C by the late Joseph Ossanna, modeled"
+" after the earlier ROFF which was in turn modeled after the "
+":ref:`Multics` and :ref:`CTSS` program RUNOFF by Jerome Saltzer (*that* "
+"name came from the expression \"to run off a copy\"). A companion "
+"program, nroff, formats output for terminals and line printers."
+msgstr ""
+
+#: ../../T/troff.rst:12
+msgid ""
+"In 1979, Brian Kernighan modified troff so that it could drive "
+"phototypesetters other than the Graphic Systems CAT. His paper describing"
+" that work (\"A Typesetter-independent troff,\" AT&T CSTR #97) explains "
+"troff's durability. After discussing the program's \"obvious deficiencies"
+" — a rebarbative input syntax, mysterious and undocumented properties in "
+"some areas, and a voracious appetite for computer resources\" and noting "
+"the ugliness and extreme hairiness of the code and internals, Kernighan "
+"concludes:"
+msgstr ""
+
+#: ../../T/troff.rst:26
+msgid ""
+"The success of :ref:`TeX` and desktop publishing systems have reduced "
+":code:`troff`\\'s relative importance, but this tribute perfectly "
+"captures the strengths that secured :code:`troff` a place in hacker "
+"folklore; indeed, it could be taken more generally as an indication of "
+"those qualities of good programs that, in the long run, hackers most "
+"admire."
+msgstr ""
+

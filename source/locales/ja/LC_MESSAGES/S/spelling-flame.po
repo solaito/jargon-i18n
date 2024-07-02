@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/spelling-flame.rst:5
+msgid "spelling flame"
+msgstr ""
+
+#: ../../S/spelling-flame.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/spelling-flame.rst:9
+msgid ""
+"[Usenet] A posting ostentatiously correcting a previous article's "
+"spelling as a way of casting scorn on the point the article was trying to"
+" make, instead of actually responding to that point (compare :ref"
+":`dictionary-flame`\\). Of course, people who are more than usually "
+"slovenly spellers are prone to think *any* correction is a spelling "
+"flame. It's an amusing comment on human nature that spelling flames "
+"themselves often contain spelling errors."
+msgstr ""
+

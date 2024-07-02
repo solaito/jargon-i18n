@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../story-of-mel.rst:5
+msgid "The Story of Mel"
+msgstr ""
+
+#: ../../story-of-mel.rst:7
+msgid ""
+"This was posted to Usenet by its author, Ed Nather "
+"(<nather@astro.as.utexas.edu>), on May 21, 1983."
+msgstr ""
+
+#: ../../story-of-mel.rst:259
+msgid ""
+"This is one of hackerdom's great heroic epics, free verse or no. In a few"
+" spare images it captures more about the esthetics and psychology of "
+"hacking than all the scholarly volumes on the subject put together. (But "
+"for an opposing point of view, see the entry for :ref:`Real-"
+"Programmer`\\.)"
+msgstr ""
+
+#: ../../story-of-mel.rst:263
+msgid ""
+"[1992 postscript — the author writes: “The original submission to the net"
+" was not in free verse, nor any approximation to it — it was straight "
+"prose style, in non-justified paragraphs. In bouncing around the net it "
+"apparently got modified into the ‘free verse' form now popular. In other "
+"words, it got hacked on the net. That seems appropriate, somehow.” The "
+"author adds that he likes the ‘free-verse' version better than his prose "
+"original...]"
+msgstr ""
+
+#: ../../story-of-mel.rst:268
+msgid ""
+"[1999 update: Mel's last name is now known. The manual for the LGP-30 "
+"refers to \"Mel Kaye of Royal McBee who did the bulk of the programming "
+"[...] of the ACT 1 system\".]"
+msgstr ""
+
+#: ../../story-of-mel.rst:271
+msgid ""
+"[2001: The Royal McBee LPG-30 turns out to have one other claim to fame. "
+"It turns out that meteorologist Edward Lorenz was doing weather "
+"simulations on an LGP-30 when, in 1961, he discovered the \"Butterfly "
+"Effect\" and computational chaos. This seems, somehow, appropriate.]"
+msgstr ""
+
+#: ../../story-of-mel.rst:275
+msgid ""
+"[2002: A copy of the programming manual for the LGP-30 lives at `http"
+"://ed-thelen.org/comp-hist/lgp-30-man.html <http://ed-thelen.org/comp-"
+"hist/lgp-30-man.html>`_]"
+msgstr ""
+

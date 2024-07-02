@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/super-source-quench.rst:5
+msgid "super source quench"
+msgstr ""
+
+#: ../../S/super-source-quench.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/super-source-quench.rst:9
+msgid ""
+"A special packet designed to shut up an Internet host. The Internet "
+"Protocol (IP) has a control message called Source Quench that asks a host"
+" to transmit more slowly on a particular connection to avoid congestion. "
+"It also has a Redirect control message intended to instruct a host to "
+"send certain packets to a different local router. A \"super source "
+"quench\" is actually a redirect control packet, forged to look like it "
+"came from a local router, that instructs a host to send all packets to "
+"its own local loopback address. This will effectively tie many Internet "
+"hosts up in knots. Compare :ref:`Godzillagram`\\, :ref:`breath-of-life-"
+"packet`\\."
+msgstr ""
+

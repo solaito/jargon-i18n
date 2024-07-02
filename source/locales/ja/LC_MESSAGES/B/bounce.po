@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bounce.rst:5
+msgid "bounce"
+msgstr ""
+
+#: ../../B/bounce.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../B/bounce.rst:10
+msgid ""
+"[common; perhaps by analogy to a bouncing check] An electronic mail "
+"message that is undeliverable and returns an error notification to the "
+"sender is said to bounce. See also :ref:`bounce-message`\\."
+msgstr ""
+
+#: ../../B/bounce.rst:14
+msgid ""
+"To engage in sexual intercourse; prob. : from the expression ‘bouncing "
+"the mattress’, but influenced by Roo's psychosexually loaded \"Try "
+"bouncing me, Tigger!\" from the *Winnie-the-Pooh* books. Compare "
+":ref:`boink`\\."
+msgstr ""
+
+#: ../../B/bounce.rst:20
+msgid ""
+"To casually reboot a system in order to clear up a transient problem "
+"(possibly editing a configuration file in the process, if it is one that "
+"is only re-read at boot time). Reported primarily among :ref:`VMS` and "
+":ref:`Unix` users."
+msgstr ""
+
+#: ../../B/bounce.rst:24
+msgid ""
+"[VM/CMS programmers] *Automatic* warm-start of a machine after an error. "
+"\"I logged on this morning and found it had bounced 7 times during the "
+"night\""
+msgstr ""
+
+#: ../../B/bounce.rst:28
+msgid "[IBM] To :ref:`power-cycle` a peripheral in order to reset it."
+msgstr ""
+

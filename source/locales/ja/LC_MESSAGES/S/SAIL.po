@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/SAIL.rst:5
+msgid "SAIL"
+msgstr ""
+
+#: ../../S/SAIL.rst:7
+msgid "/sayl/, /S·A·I·L/, n\\."
+msgstr ""
+
+#: ../../S/SAIL.rst:10
+msgid ""
+"The Stanford Artificial Intelligence Lab. An important site in the early "
+"development of LISP; with the MIT AI Lab, BBN, CMU, XEROX PARC, and the "
+"Unix community, one of the major wellsprings of technical innovation and "
+"hacker-culture traditions (see the :ref:`WAITS` entry for details). The "
+"SAIL machines were shut down in late May 1990, scant weeks after the MIT "
+"AI Lab's ITS cluster was officially decommissioned."
+msgstr ""
+
+#: ../../S/SAIL.rst:15
+msgid ""
+"The Stanford Artificial Intelligence Language used at SAIL (sense 1). It "
+"was an Algol-60 derivative with a coroutining facility and some new data "
+"types intended for building search trees and association lists."
+msgstr ""
+

@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/fuck-me-harder.rst:5
+msgid "fuck me harder"
+msgstr ""
+
+#: ../../F/fuck-me-harder.rst:7
+msgid "excl\\."
+msgstr ""
+
+#: ../../F/fuck-me-harder.rst:9
+msgid ""
+"Sometimes uttered in response to egregious misbehavior, esp. in software,"
+" and esp. of misbehaviors which seem unfairly persistent (as though "
+"designed in by the imp of the perverse). Often theatrically elaborated: "
+"\"Aiighhh! Fuck me with a piledriver and 16 feet of curare-tipped "
+"wrought-iron fence and no lubricants!\" The phrase is sometimes heard "
+"abbreviated FMH in polite company."
+msgstr ""
+
+#: ../../F/fuck-me-harder.rst:17
+msgid ""
+"[This entry is an extreme example of the hackish habit of coining "
+"elaborate and evocative terms for lossage. Here we see a quite self-"
+"conscious parody of mainstream expletives that has become a running gag "
+"in part of the hacker culture; it illustrates the hackish tendency to "
+"turn any situation, even one of extreme frustration, into an intellectual"
+" game (the point being, in this case, to creatively produce a long-winded"
+" description of the most anatomically absurd mental image possible — the "
+"short forms implicitly allude to all the ridiculous long forms ever "
+"spoken). Scatological language is actually relatively uncommon among "
+"hackers, and there was some controversy over whether this entry ought to "
+"be included at all. As it reflects a live usage recognizably peculiar to "
+"the hacker culture, we feel it is in the hackish spirit of truthfulness "
+"and opposition to all forms of censorship to record it here. —ESR & GLS]"
+msgstr ""
+

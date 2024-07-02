@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/wabbit.rst:5
+msgid "wabbit"
+msgstr ""
+
+#: ../../W/wabbit.rst:7
+msgid "/wab´it/, n\\."
+msgstr ""
+
+#: ../../W/wabbit.rst:9
+msgid ""
+"[almost certainly from Elmer Fudd's immortal line \"You wascawwy "
+"wabbit!\"]"
+msgstr ""
+
+#: ../../W/wabbit.rst:12
+msgid ""
+"A legendary early hack reported on a System/360 at RPI and elsewhere "
+"around 1978; this may have descended (if only by inspiration) from a hack"
+" called RABBITS reported from 1969 on a Burroughs 5500 at the University "
+"of Washington Computer Center. The program would make two copies of "
+"itself every time it was run, eventually crashing the system."
+msgstr ""
+
+#: ../../W/wabbit.rst:16
+msgid ""
+"By extension, any hack that includes infinite self-replication but is not"
+" a :ref:`virus` or :ref:`worm`\\. See :ref:`fork-bomb` and :ref:`rabbit-"
+"job`\\, see also :ref:`cookie-monster`\\."
+msgstr ""
+

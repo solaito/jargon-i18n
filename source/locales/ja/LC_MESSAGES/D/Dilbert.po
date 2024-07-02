@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/Dilbert.rst:5
+msgid "Dilbert"
+msgstr ""
+
+#: ../../D/Dilbert.rst:7
+msgid ""
+"n. Name and title character of a comic strip nationally syndicated in the"
+" U.S. and enormously popular among hackers. Dilbert is an archetypical "
+"engineer-nerd who works at an anonymous high-technology company; the "
+"strips present a lacerating satire of insane working conditions and "
+"idiotic :ref:`management` practices all too readily recognized by "
+"hackers. Adams, who spent nine years in :ref:`cube` 4S700R at Pacific "
+"Bell (not :ref:`DEC` as often reported), often remarks that he has never "
+"been able to come up with a fictional management blunder that his "
+"correspondents didn't quickly either report to have actually happened or "
+"top with a similar but even more bizarre incident. In 1996 Adams "
+"distilled his insights into the collective psychology of businesses into "
+"an even funnier book, *The Dilbert Principle* (HarperCollins, ISBN "
+"0-887-30787-6). See also :ref:`pointy-haired`\\, :ref:`rat-dance`\\."
+msgstr ""
+

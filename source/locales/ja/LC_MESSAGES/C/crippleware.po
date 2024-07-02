@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/crippleware.rst:5
+msgid "crippleware"
+msgstr ""
+
+#: ../../C/crippleware.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/crippleware.rst:10
+msgid ""
+"[common] Software that has some important functionality deliberately "
+"removed, so as to entice potential users to pay for a working version."
+msgstr ""
+
+#: ../../C/crippleware.rst:13
+msgid ""
+"[Cambridge] Variety of :ref:`guiltware` that exhorts you to donate to "
+"some charity (compare :ref:`careware`\\, :ref:`nagware`\\)."
+msgstr ""
+
+#: ../../C/crippleware.rst:16
+msgid ""
+"Hardware deliberately crippled, which can be upgraded to a more expensive"
+" model by a trivial change (e.g., cutting a jumper)."
+msgstr ""
+
+#: ../../C/crippleware.rst:18
+msgid ""
+"An excellent example of crippleware (sense 3) is Intel's 486SX chip, "
+"which is a standard 486DX chip with the co-processor diked out (in some "
+"early versions it was present but disabled). To upgrade, you buy a "
+"complete 486DX chip with *working* co-processor (its identity thinly "
+"veiled by a different pinout) and plug it into the board's expansion "
+"socket. It then disables the SX, which becomes a fancy power sink. Don't "
+"you love Intel?"
+msgstr ""
+

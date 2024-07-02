@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/flap.rst:5
+msgid "flap"
+msgstr ""
+
+#: ../../F/flap.rst:7
+msgid "vt\\."
+msgstr ""
+
+#: ../../F/flap.rst:10
+msgid ""
+"[obs.] To unload a DECtape (so it goes flap, flap, flap...). Old-time "
+"hackers at MIT tell of the days when the disk was device 0 and DEC "
+"microtapes were 1, 2,... and attempting to flap device 0 would instead "
+"start a motor banging inside a cabinet near the disk."
+msgstr ""
+
+#: ../../F/flap.rst:15
+msgid ""
+"By extension, to unload any magnetic tape. Modern cartridge tapes no "
+"longer actually flap, but the usage has remained. (The term could well be"
+" re-applied to DEC's TK50 cartridge tape drive, a spectacularly "
+"misengineered contraption which makes a loud flapping sound, almost like "
+"an old reel-type lawnmower, in one of its many tape-eating failure "
+"modes.)"
+msgstr ""
+

@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/ping.rst:5
+msgid "ping"
+msgstr ""
+
+#: ../../P/ping.rst:7
+msgid "[from the submariners' term for a sonar pulse]"
+msgstr ""
+
+#: ../../P/ping.rst:9
+msgid ""
+"n\\. Slang term for a small network message (ICMP ECHO) sent by a "
+"computer to check for the presence and alertness of another. The Unix "
+"command :manpage:`ping(8)` can be used to do this manually (note that "
+":manpage:`ping(8)`\\'s author denies the widespread folk etymology that "
+"the name was ever intended as an acronym for ‘Packet INternet Groper’). "
+"Occasionally used as a phone greeting. See :ref:`ACK`\\, also "
+":ref:`ENQ`\\."
+msgstr ""
+
+#: ../../P/ping.rst:15
+msgid "vt\\. To verify the presence of."
+msgstr ""
+
+#: ../../P/ping.rst:18
+msgid "vt\\. To get the attention of."
+msgstr ""
+
+#: ../../P/ping.rst:21
+msgid ""
+"vt\\. To send a message to all members of a :ref:`mailing-list` "
+"requesting an :ref:`ACK` (in order to verify that everybody's addresses "
+"are reachable). \"We haven't heard much of anything from Geoff, but he "
+"did respond with an ACK both times I pinged jargon-friends.\""
+msgstr ""
+
+#: ../../P/ping.rst:25
+msgid ""
+"n\\. A quantum packet of happiness. People who are very happy tend to "
+"exude pings; furthermore, one can intentionally create pings and aim them"
+" at a needy party (e.g., a depressed person). This sense of ping may "
+"appear as an exclamation; \"Ping!\" (I'm happy; I am emitting a quantum "
+"of happiness; I have been struck by a quantum of happiness). The form "
+"\"pingfulness\", which is used to describe people who exude pings, also "
+"occurs. (In the standard abuse of language, \"pingfulness\" can also be "
+"used as an exclamation, in which case it's a much stronger exclamation "
+"than just \"ping\"!). Oppose :ref:`blargh`\\."
+msgstr ""
+
+#: ../../P/ping.rst:34
+msgid ""
+"The funniest use of ‘ping’ to date was `described "
+"<http://groups.google.com/groups?selm=1991Jan23.211609.877%40news.cs.indiana.edu>`_\\"
+"  in January 1991 by Steve Hayman on the Usenet group "
+":samp:`comp.sys.next`\\. He was trying to isolate a faulty cable segment "
+"on a TCP/IP Ethernet hooked up to a NeXT machine, and got tired of having"
+" to run back to his console after each cabling tweak to see if the ping "
+"packets were getting through. So he used the sound-recording feature on "
+"the NeXT, then wrote a script that repeatedly invoked "
+":manpage:`ping(8)`\\, listened for an echo, and played back the recording"
+" on each returned packet. Result? A program that caused the machine to "
+"repeat, over and over, \"Ping ... ping ... ping ...\" as long as the "
+"network was up. He turned the volume to maximum, ferreted through the "
+"building with one ear cocked, and found a faulty tee connector in no "
+"time."
+msgstr ""
+

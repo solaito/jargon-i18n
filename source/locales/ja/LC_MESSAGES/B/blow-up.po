@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/blow-up.rst:5
+msgid "blow up"
+msgstr ""
+
+#: ../../B/blow-up.rst:7
+msgid "vi\\."
+msgstr ""
+
+#: ../../B/blow-up.rst:10
+msgid ""
+"[scientific computation] To become unstable. Suggests that the "
+"computation is diverging so rapidly that it will soon overflow or at "
+"least go :ref:`nonlinear`\\."
+msgstr ""
+
+#: ../../B/blow-up.rst:14
+msgid "Syn. :ref:`blow-out`\\."
+msgstr ""
+

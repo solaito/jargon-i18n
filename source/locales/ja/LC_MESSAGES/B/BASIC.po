@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/BASIC.rst:5
+msgid "BASIC"
+msgstr ""
+
+#: ../../B/BASIC.rst:7
+msgid "/bay'·sic/, n\\."
+msgstr ""
+
+#: ../../B/BASIC.rst:9
+msgid ""
+"A programming language, originally designed for Dartmouth's experimental "
+"timesharing system in the early 1960s, which for many years was the "
+"leading cause of brain damage in proto-hackers. Edsger W. Dijkstra "
+"observed in *Selected Writings on Computing: A Personal Perspective* that"
+" \"It is practically impossible to teach good programming style to "
+"students that have had prior exposure to BASIC: as potential programmers "
+"they are mentally mutilated beyond hope of regeneration.\" This is "
+"another case (like :ref:`Pascal`\\) of the cascading :ref:`lossage` that "
+"happens when a language deliberately designed as an educational toy gets "
+"taken too seriously. A novice can write short BASIC programs (on the "
+"order of 10-20 lines) very easily; writing anything longer (a) is very "
+"painful, and (b) encourages bad habits that will make it harder to use "
+"more powerful languages well. This wouldn't be so bad if historical "
+"accidents hadn't made BASIC so common on low-end micros in the 1980s. As "
+"it is, it probably ruined tens of thousands of potential wizards."
+msgstr ""
+
+#: ../../B/BASIC.rst:16
+msgid ""
+"[1995: Some languages called \"BASIC\" aren't quite this nasty any more, "
+"having acquired Pascal- and C-like procedures and control structures and "
+"shed their line numbers. —ESR]"
+msgstr ""
+
+#: ../../B/BASIC.rst:19
+msgid ""
+"BASIC stands for \"Beginner's All-purpose Symbolic Instruction Code\". "
+"Earlier versions of this entry claiming this was a later :ref:`backronym`"
+" were incorrect."
+msgstr ""
+

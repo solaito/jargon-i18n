@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/McQuary-limit.rst:5
+msgid "McQuary limit"
+msgstr ""
+
+#: ../../M/McQuary-limit.rst:7
+msgid ""
+"[from the name of the founder of :samp:`alt.fan.warlord`\\; see "
+":ref:`warlording`\\.] 4 lines of at most 80 characters each, sometimes "
+"still cited on Usenet as the maximum acceptable size of a :ref:`sig-"
+"block`\\. Before the great bandwidth explosion of the early 1990s, long "
+"sigs actually cost people running Usenet servers significant amounts of "
+"money. Nowadays social pressure against long sigs is intended to avoid "
+"waste of human attention rather than machine bandwidth. Accordingly, the "
+"McQuary limit should be considered a rule of thumb rather than a hard "
+"limit; it's best to avoid sigs that are large, repetitive, and "
+"distracting. See also :ref:`warlording`\\."
+msgstr ""
+

@@ -1,20 +1,29 @@
-.. jargon-i18n documentation master file, created by
-   sphinx-quickstart on Wed Jul  3 01:22:01 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+============================================================
+The Jargon File
+============================================================
 
-Welcome to jargon-i18n's documentation!
-=======================================
+************************************************************
+(version 4.4.7)
+************************************************************
 
 .. toctree::
+   :caption: Table of Contents
+   
+   online-preface
+
+.. toctree::
+   :numbered: 2
+   
+   pt01
+
+.. toctree::
+   :numbered: 1
    :maxdepth: 2
-   :caption: Contents:
+   
+   lexicon
 
+.. toctree::
+   :numbered: 1
+   
+   pt03
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

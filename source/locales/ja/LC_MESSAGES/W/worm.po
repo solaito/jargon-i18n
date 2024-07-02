@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/worm.rst:5
+msgid "worm"
+msgstr ""
+
+#: ../../W/worm.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../W/worm.rst:9
+msgid ""
+"[from tapeworm in John Brunner's novel *The Shockwave Rider*\\, via XEROX"
+" PARC] A program that propagates itself over a network, reproducing "
+"itself as it goes. Compare :ref:`virus`\\. Nowadays the term has negative"
+" connotations, as it is assumed that only :ref:`cracker`\\s write worms. "
+"Perhaps the best-known example was Robert T. Morris's :ref:`Great-Worm` "
+"of 1988, a ‘benign’ one that got out of control and hogged hundreds of "
+"Suns and VAXen across the U.S. See also :ref:`cracker`\\, :ref:`RTM`\\, "
+":ref:`Trojan-horse`\\, :ref:`ice`\\."
+msgstr ""
+

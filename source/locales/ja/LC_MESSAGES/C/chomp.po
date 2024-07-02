@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/chomp.rst:5
+msgid "chomp"
+msgstr ""
+
+#: ../../C/chomp.rst:7
+msgid "vi\\."
+msgstr ""
+
+#: ../../C/chomp.rst:10
+msgid ""
+"To :ref:`lose`\\; specifically, to chew on something of which more was "
+"bitten off than one can. Probably related to gnashing of teeth."
+msgstr ""
+
+#: ../../C/chomp.rst:14
+msgid "To bite the bag; See :ref:`bagbiter`\\."
+msgstr ""
+
+#: ../../C/chomp.rst:16
+msgid ""
+"A hand gesture commonly accompanies this. To perform it, hold the four "
+"fingers together and place the thumb against their tips. Now open and "
+"close your hand rapidly to suggest a biting action (much like what Pac-"
+"Man does in the classic video game, though this pantomime seems to "
+"predate that). The gesture alone means ‘chomp chomp’ (see :ref:`Verb "
+"Doubling<verb-doubling>` in the :ref:`Jargon Construction<construction>` "
+"section of the Prependices). The hand may be pointed at the object of "
+"complaint, and for real emphasis you can use both hands at once. Doing "
+"this to a person is equivalent to saying \"You chomper!\" If you point "
+"the gesture at yourself, it is a humble but humorous admission of some "
+"failure. You might do this if someone told you that a program you had "
+"written had failed in some surprising way and you felt dumb for not "
+"having anticipated it."
+msgstr ""
+

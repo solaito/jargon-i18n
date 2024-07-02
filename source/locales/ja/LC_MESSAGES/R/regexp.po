@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/regexp.rst:5
+msgid "regexp"
+msgstr ""
+
+#: ../../R/regexp.rst:7
+msgid "/reg´eksp/, n\\."
+msgstr ""
+
+#: ../../R/regexp.rst:9
+msgid "[Unix] (alt. : regex or reg-ex)"
+msgstr ""
+
+#: ../../R/regexp.rst:13
+msgid ""
+"Common written and spoken abbreviation for regular expression, one of the"
+" wildcard patterns used, e.g., by Unix utilities such as "
+":manpage:`grep(1)`\\, :manpage:`sed(1)`\\, and :manpage:`awk(1)`\\. These"
+" use conventions similar to but more elaborate than those described under"
+" :ref:`glob`\\. For purposes of this lexicon, it is sufficient to note "
+"that regexps also allow complemented character sets using ``^``\\; thus, "
+"one can specify ‘any non-alphabetic character’ with :code:`[^A-Za-z]`\\."
+msgstr ""
+
+#: ../../R/regexp.rst:18
+msgid ""
+"Name of a well-known PD regexp-handling package in portable C, written by"
+" revered Usenetter Henry Spencer."
+msgstr ""
+

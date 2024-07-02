@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/LAN-party.rst:5
+msgid "LAN party"
+msgstr ""
+
+#: ../../L/LAN-party.rst:7
+msgid "/lan par´tee/"
+msgstr ""
+
+#: ../../L/LAN-party.rst:9
+msgid ""
+"An event to which several users bring their boxes and hook them up to a "
+"common LAN (Local Area Network), often for the purpose of playing "
+"multiplayer computer games, especially action games such as Quake or "
+"Unreal Tournament. This is also a good venue for people to show-off their"
+" fancy new hardware. Such events can get pretty large, several hundred "
+"people attend the annual QuakeCon in Texas. The theoretical rationale "
+"behind LAN parties is that playing over the Internet often introduces too"
+" much lag in the playing experience — but just as important is the "
+"special quality of trash-talking each other across the room while "
+"playing, and the instinctive social ritual of consuming vast amounts of "
+"food and drink together."
+msgstr ""
+

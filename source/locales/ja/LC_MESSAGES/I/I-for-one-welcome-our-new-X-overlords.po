@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../I/I-for-one-welcome-our-new-X-overlords.rst:5
+msgid "I for one welcome our new X overlords"
+msgstr ""
+
+#: ../../I/I-for-one-welcome-our-new-X-overlords.rst:7
+msgid ""
+"Variants of this phrase with various values of X came into common use in "
+"2002-2003, generally used to suggest that whatever party referred to as "
+"the new overlords is deeply evil. In the original *Simpsons* episode "
+"`(#96, Homer In Space) "
+"<http://www.tvtome.com/tvtome/servlet/GuidePageServlet/showid-146/epid-1381/>`_\\"
+"  X = \"insect\" and th line is part of a speech in which a smarmy "
+"newscaster expresses his willingness to collaborate with an invading race"
+" of giant space ants."
+msgstr ""
+

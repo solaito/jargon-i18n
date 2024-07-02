@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../lexicon.rst:22
+msgid "Table of Contents"
+msgstr ""
+
+#: ../../lexicon.rst:5
+msgid "The Jargon Lexicon"
+msgstr ""
+
+#: ../../lexicon.rst:11
+msgid "The Crunchly saga begins here."
+msgstr ""
+
+#: ../../lexicon.rst:13
+msgid ""
+"(The next cartoon in the Crunchly saga is  "
+":ref:`73-05-18<crunchly73-05-18>`\\.)"
+msgstr ""
+
+#: ../../lexicon.rst:16
+msgid ""
+"The infamous Crunchly cartoons by The Great Quux are woven into the "
+"lexicon, each next to an appropriate entry. To read them in the sequence "
+"in which they were written, :ref:`chase-pointers` from here using the "
+"‘next cartoon’ information in the captions. A few don't have next "
+"pointers; these are vignettes from the 1973 *Crunchland* tableau spread "
+"that inaugurated the strip."
+msgstr ""
+
+#: ../../lexicon.rst:20
+msgid "Here is a `framed <frames.html>`_\\  version of the glossary."
+msgstr ""
+

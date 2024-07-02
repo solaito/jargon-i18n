@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/taste.rst:5
+msgid "taste"
+msgstr ""
+
+#: ../../T/taste.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/taste.rst:10
+msgid ""
+"The quality in a program that tends to be inversely proportional to the "
+"number of features, hacks, and kluges programmed into it. Also tasty, "
+"tasteful, tastefulness. \"This feature comes in ``N`` tasty flavors.\" "
+"Although tasty and flavorful are essentially synonyms, taste and "
+":ref:`flavor` are not. Taste refers to sound judgment on the part of the "
+"creator; a program or feature can *exhibit* taste but cannot *have* "
+"taste. On the other hand, a feature can have :ref:`flavor`\\. Also, "
+":ref:`flavor` has the additional meaning of ‘kind’ or ‘variety’ not "
+"shared by taste. The marked sense of :ref:`flavor` is more popular than "
+"taste, though both are widely used. See also :ref:`elegant`\\."
+msgstr ""
+
+#: ../../T/taste.rst:21
+msgid "Alt. sp. of :ref:`tayste`\\."
+msgstr ""
+

@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/working-as-designed.rst:5
+msgid "working as designed"
+msgstr ""
+
+#: ../../W/working-as-designed.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../W/working-as-designed.rst:9
+msgid "[IBM]"
+msgstr ""
+
+#: ../../W/working-as-designed.rst:12
+msgid ""
+"In conformance to a wrong or inappropriate specification; useful, but "
+"misdesigned."
+msgstr ""
+
+#: ../../W/working-as-designed.rst:15
+msgid "Frequently used as a sardonic comment on a program's utility."
+msgstr ""
+
+#: ../../W/working-as-designed.rst:18
+msgid ""
+"Unfortunately also used as a bogus reason for not accepting a criticism "
+"or suggestion. At :ref:`IBM`\\, this sense is used in official documents!"
+" See :ref:`BAD`\\."
+msgstr ""
+

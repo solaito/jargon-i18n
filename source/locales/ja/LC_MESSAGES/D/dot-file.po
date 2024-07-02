@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/dot-file.rst:5
+msgid "dot file"
+msgstr ""
+
+#: ../../D/dot-file.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/dot-file.rst:9
+msgid ""
+"A file that is not visible by default to normal directory-browsing tools "
+"(on Unix, files named with a leading dot are, by convention, not normally"
+" presented in directory listings). Many programs define one or more dot "
+"files in which startup or configuration information may be optionally "
+"recorded; a user can customize the program's behavior by creating the "
+"appropriate file in the current or home directory. (Therefore, dot files "
+"tend to :ref:`creep` — with every nontrivial application program defining"
+" at least one, a user's home directory can be filled with scores of dot "
+"files, of course without the user's really being aware of it.) See also "
+":ref:`profile` (sense 1), :ref:`rc-file`\\."
+msgstr ""
+

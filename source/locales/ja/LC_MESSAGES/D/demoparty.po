@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/demoparty.rst:5
+msgid "demoparty"
+msgstr ""
+
+#: ../../D/demoparty.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/demoparty.rst:9
+msgid ""
+"[ :ref:`demoscene`\\] Aboveground descendant of the :ref:`copyparty`\\, "
+"with emphasis shifted away from software piracy and towards "
+":ref:`compo`\\s. Smaller demoparties, for 100 persons or less, are held "
+"quite often, sometimes even once a month, and usually last for one to two"
+" days. On the other end of the scale, huge demo parties are held once a "
+"year (and four of these have grown very large and occur annually — "
+"Assembly in Finland, The Party in Denmark, The Gathering in Norway, and "
+"NAID somewhere in north America). These parties usually last for three to"
+" five days, have room for 3000-5000 people, and have a party network with"
+" connection to the internet."
+msgstr ""
+

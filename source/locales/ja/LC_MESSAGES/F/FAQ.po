@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/FAQ.rst:5
+msgid "FAQ"
+msgstr ""
+
+#: ../../F/FAQ.rst:7
+msgid "/F·A·Q/, /fak/, n\\."
+msgstr ""
+
+#: ../../F/FAQ.rst:9
+msgid "[Usenet]"
+msgstr ""
+
+#: ../../F/FAQ.rst:12
+msgid "A Frequently Asked Question."
+msgstr ""
+
+#: ../../F/FAQ.rst:15
+msgid ""
+"A compendium of accumulated lore, posted periodically to high-volume "
+"newsgroups in an attempt to forestall such questions. Some people prefer "
+"the term ‘FAQ list’ or ‘FAQL’ /fa´kl/, reserving ‘FAQ’ for sense 1."
+msgstr ""
+
+#: ../../F/FAQ.rst:18
+msgid ""
+"This lexicon itself serves as a good example of a collection of one kind "
+"of lore, although it is far too big for a regular FAQ posting. Examples: "
+"\"What is the proper type of NULL?\" and \"What's that funny name for the"
+" ``#`` character?\" are both Frequently Asked Questions. Several FAQs "
+"refer readers to the Jargon File."
+msgstr ""
+

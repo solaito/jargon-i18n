@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/samurai.rst:5
+msgid "samurai"
+msgstr ""
+
+#: ../../S/samurai.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/samurai.rst:9
+msgid ""
+"A hacker who hires out for legal cracking jobs, snooping for factions in "
+"corporate political fights, lawyers pursuing privacy-rights and First "
+"Amendment cases, and other parties with legitimate reasons to need an "
+"electronic locksmith. In 1991, mainstream media reported the existence of"
+" a loose-knit culture of samurai that meets electronically on BBS "
+"systems, mostly bright teenagers with personal micros; they have modeled "
+"themselves explicitly on the historical samurai of Japan and on the \"net"
+" cowboys\" of William Gibson's :ref:`cyberpunk` novels. Those interviewed"
+" claim to adhere to a rigid ethic of loyalty to their employers and to "
+"disdain the vandalism and theft practiced by criminal crackers as beneath"
+" them and contrary to the hacker ethic; some quote Miyamoto Musashi's "
+"*Book of Five Rings*\\, a classic of historical samurai doctrine, in "
+"support of these principles. See also :ref:`sneaker`\\, :ref:`Stupids`\\,"
+" :ref:`social-engineering`\\, :ref:`cracker`\\, :ref:`hacker-ethic`\\, "
+"and :ref:`dark-side-hacker`\\."
+msgstr ""
+

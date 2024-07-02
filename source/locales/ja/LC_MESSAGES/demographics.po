@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../demographics.rst:5
+msgid "Gender and Ethnicity"
+msgstr ""
+
+#: ../../demographics.rst:7
+msgid ""
+"Hackerdom is still predominantly male. However, the percentage of women "
+"is clearly higher than the low-single-digit range typical for technical "
+"professions, and female hackers are generally respected and dealt with as"
+" equals."
+msgstr ""
+
+#: ../../demographics.rst:10
+msgid ""
+"In the U.S., hackerdom is predominantly Caucasian with strong minorities "
+"of Jews (East Coast) and Orientals (West Coast). The Jewish contingent "
+"has exerted a particularly pervasive cultural influence (see "
+":ref:`Food<food>`\\, above, and note that several common jargon terms are"
+" obviously mutated Yiddish)."
+msgstr ""
+
+#: ../../demographics.rst:13
+msgid ""
+"The ethnic distribution of hackers is understood by them to be a function"
+" of which ethnic groups tend to seek and value education. Racial and "
+"ethnic prejudice is notably uncommon and tends to be met with freezing "
+"contempt."
+msgstr ""
+
+#: ../../demographics.rst:16
+msgid ""
+"When asked, hackers often ascribe their culture's gender- and color-"
+"blindness to a positive effect of text-only network channels, and this is"
+" doubtless a powerful influence. Also, the ties many hackers have to AI "
+"research and SF literature may have helped them to develop an idea of "
+"personhood that is inclusive rather than exclusive — after all, if one's "
+"imagination readily grants full human rights to future AI programs, "
+"robots, dolphins, and extraterrestrial aliens, mere color and gender "
+"can't seem very important any more."
+msgstr ""
+

@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/foreground.rst:5
+msgid "foreground"
+msgstr ""
+
+#: ../../F/foreground.rst:7
+msgid "vt\\."
+msgstr ""
+
+#: ../../F/foreground.rst:9
+msgid ""
+"[Unix; common] To bring a task to the top of one's :ref:`stack` for "
+"immediate processing, and hackers often use it in this sense for non-"
+"computer tasks. \"If your presentation is due next week, I guess I'd "
+"better foreground writing up the design document.\""
+msgstr ""
+
+#: ../../F/foreground.rst:12
+msgid ""
+"Technically, on a timesharing system, a task executing in foreground is "
+"one able to accept input from and return output to the user; oppose "
+":ref:`background`\\. Nowadays this term is primarily associated with "
+":ref:`Unix`\\, but it appears first to have been used in this sense on "
+"OS/360. Normally, there is only one foreground task per terminal (or "
+"terminal window); having multiple processes simultaneously reading the "
+"keyboard is a good way to :ref:`lose`\\."
+msgstr ""
+

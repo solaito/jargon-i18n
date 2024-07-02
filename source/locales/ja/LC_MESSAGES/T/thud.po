@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/thud.rst:5
+msgid "thud"
+msgstr ""
+
+#: ../../T/thud.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/thud.rst:10
+msgid ""
+"Yet another :ref:`metasyntactic-variable` (see :ref:`foo`\\). It is "
+"reported that at CMU from the mid-1970s the canonical series of these was"
+" ‘foo’, ‘bar’, ‘thud’, ‘blat’."
+msgstr ""
+
+#: ../../T/thud.rst:14
+msgid ""
+"Rare term for the hash character, ‘#’ (ASCII 0100011). See :ref:`ASCII` "
+"for other synonyms."
+msgstr ""
+

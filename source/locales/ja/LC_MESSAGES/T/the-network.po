@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/the-network.rst:5
+msgid "the network"
+msgstr ""
+
+#: ../../T/the-network.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/the-network.rst:10
+msgid ""
+"Historically, the union of all the major noncommercial, academic, and "
+"hacker-oriented networks, such as Internet, the pre-1990 ARPANET, NSFnet,"
+" BITNET, and the virtual UUCP and :ref:`Usenet` ‘networks’, plus the "
+"corporate in-house networks and commercial timesharing services (such as "
+"CompuServe, GEnie and AOL) that gateway to them. A site is generally "
+"considered on the network if it can be reached through some combination "
+"of Internet-style (\\@-sign) and UUCP (bang-path) addresses. See "
+":ref:`Internet`\\, :ref:`bang-path`\\, :ref:`network-address`\\."
+msgstr ""
+
+#: ../../T/the-network.rst:15
+msgid ""
+"Following the mass-culture discovery of the Internet in 1994 and "
+"subsequent proliferation of cheap TCP/IP connections, \"the network\" is "
+"increasingly synonymous with the Internet itself (as it was before the "
+"second wave of wide-area computer networking began around 1980)."
+msgstr ""
+
+#: ../../T/the-network.rst:18
+msgid ""
+"A fictional conspiracy of libertarian hacker-subversives and anti-"
+"authoritarian monkeywrenchers described in Robert Anton Wilson's novel "
+"*Schrödinger's Cat*\\, to which many hackers have subsequently decided "
+"they belong (this is an example of :ref:`ha-ha-only-serious`\\)."
+msgstr ""
+
+#: ../../T/the-network.rst:20
+msgid ""
+"In sense 1, the network is often abbreviated to the net. \"Are you on the"
+" net?\" is a frequent question when hackers first meet face to face, and "
+"\"See you on the net!\" is a frequent goodbye."
+msgstr ""
+

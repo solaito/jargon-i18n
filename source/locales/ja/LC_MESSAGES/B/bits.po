@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bits.rst:5
+msgid "bits"
+msgstr ""
+
+#: ../../B/bits.rst:7
+msgid "pl\\.n\\."
+msgstr ""
+
+#: ../../B/bits.rst:10
+msgid ""
+"Information. Examples: \"I need some bits about file formats.\" (\"I need"
+" to know about file formats.\") Compare :ref:`core-dump`\\, sense 4."
+msgstr ""
+
+#: ../../B/bits.rst:16
+msgid ""
+"Machine-readable representation of a document, specifically as contrasted"
+" with paper: \"I have only a photocopy of the Jargon File; does anyone "
+"know where I can get the bits?\". See :ref:`softcopy`\\, :ref:`source-of-"
+"all-good-bits` See also :ref:`bit`\\."
+msgstr ""
+

@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/BBS.rst:5
+msgid "BBS"
+msgstr ""
+
+#: ../../B/BBS.rst:7
+msgid "/B·B·S/, n\\."
+msgstr ""
+
+#: ../../B/BBS.rst:9
+msgid ""
+"[common; abbreviation, \"Bulletin Board System\"] An electronic bulletin "
+"board system; that is, a message database where people can log in and "
+"leave broadcast messages for others grouped (typically) into :ref:`topic-"
+"group`\\s. The term was especially applied to the thousands of local BBS "
+"systems that operated during the pre-Internet microcomputer era of "
+"roughly 1980 to 1995, typically run by amateurs for fun out of their "
+"homes on MS-DOS boxes with a single modem line each. Fans of Usenet and "
+"Internet or the big commercial timesharing bboards such as CompuServe and"
+" GEnie tended to consider local BBSes the low-rent district of the hacker"
+" culture, but they served a valuable function by knitting together lots "
+"of hackers and users in the personal-micro world who would otherwise have"
+" been unable to exchange code at all. Post-Internet, BBSs are likely to "
+"be local newsgroups on an ISP; efficiency has increased but a certain "
+"flavor has been lost. See also :ref:`bboard`\\."
+msgstr ""
+

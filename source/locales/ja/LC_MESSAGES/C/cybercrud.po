@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/cybercrud.rst:5
+msgid "cybercrud"
+msgstr ""
+
+#: ../../C/cybercrud.rst:7
+msgid "/si:´ber·kruhd/, n\\."
+msgstr ""
+
+#: ../../C/cybercrud.rst:10
+msgid ""
+"[coined by Ted Nelson] Obfuscatory tech-talk. Verbiage with a high "
+":ref:`MEGO` factor. The computer equivalent of bureaucratese."
+msgstr ""
+
+#: ../../C/cybercrud.rst:15
+msgid ""
+"Incomprehensible stuff embedded in email. First there were the "
+"\"Received\" headers that show how mail flows through systems, then MIME "
+"(Multi-purpose Internet Mail Extensions) headers and part boundaries, and"
+" now huge blocks of radix-64 for PEM (Privacy Enhanced Mail) or PGP "
+"(Pretty Good Privacy) digital signatures and certificates of "
+"authenticity. This stuff all serves a purpose and good user interfaces "
+"should hide it, but all too often users are forced to wade through it."
+msgstr ""
+

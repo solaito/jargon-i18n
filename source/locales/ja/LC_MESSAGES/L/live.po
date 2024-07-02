@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/live.rst:5
+msgid "live"
+msgstr ""
+
+#: ../../L/live.rst:7
+msgid "/li:v/, adj\\.,adv\\."
+msgstr ""
+
+#: ../../L/live.rst:9
+msgid ""
+"[common] Opposite of ‘test’. Refers to actual real-world data or a "
+"program working with it. For example, the response to \"I think the "
+"record deleter is finished\" might be \"Is it live yet?\" or \"Have you "
+"tried it out on live data?\" This usage usually carries the connotation "
+"that live data is more fragile and must not be corrupted, or bad things "
+"will happen. So a more appropriate response might be: \"Well, make sure "
+"it works perfectly before we throw live data at it.\" The implication "
+"here is that record deletion is something pretty significant, and a "
+"haywire record-deleter running amok live would probably cause great harm."
+msgstr ""
+

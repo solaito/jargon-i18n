@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/honey-pot.rst:5
+msgid "honey pot"
+msgstr ""
+
+#: ../../H/honey-pot.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../H/honey-pot.rst:10
+msgid ""
+"A box designed to attract :ref:`cracker`\\s so that they can be observed "
+"in action. It is usually well isolated from the rest of the network, but "
+"has extensive logging (usually network layer, on a different machine). "
+"Different from an :ref:`iron-box` in that its purpose is to attract, not "
+"merely observe. Sometimes, it is also a defensive network security tactic"
+" — you set up an easy-to-crack box so that your real servers don't get "
+"messed with. The concept was presented in Cheswick & Bellovin's book "
+"*Firewalls and Internet Security*\\."
+msgstr ""
+
+#: ../../H/honey-pot.rst:17
+msgid ""
+"A mail server that acts as an open relay when a single message is "
+"attempted to send through it, but discards or diverts for examination "
+"messages that are detected to be part of a spam run."
+msgstr ""
+

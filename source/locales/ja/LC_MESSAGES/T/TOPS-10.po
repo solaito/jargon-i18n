@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/TOPS-10.rst:5
+msgid "TOPS-10"
+msgstr ""
+
+#: ../../T/TOPS-10.rst:7
+msgid "/tops·ten/, n\\."
+msgstr ""
+
+#: ../../T/TOPS-10.rst:9
+msgid ""
+":ref:`DEC`\\'s proprietary OS for the fabled :ref:`PDP-10` machines, long"
+" a favorite of hackers but now long extinct. A fountain of hacker "
+"folklore; see Appendix A. See also :ref:`ITS`\\, :ref:`TOPS-20`\\, "
+":ref:`TWENEX`\\, :ref:`VMS`\\, :ref:`operating-system`\\. TOPS-10 was "
+"sometimes called BOTS-10 (from ‘bottoms-ten’) as a comment on the "
+"inappropriateness of describing it as the top of anything."
+msgstr ""
+

@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/Brookss-Law.rst:5
+msgid "Brooks's Law"
+msgstr ""
+
+#: ../../B/Brookss-Law.rst:7
+msgid "prov\\."
+msgstr ""
+
+#: ../../B/Brookss-Law.rst:9
+msgid ""
+"\"Adding manpower to a late software project makes it later\" — a result "
+"of the fact that the expected advantage from splitting development work "
+"among ``N`` programmers is ``O(N)`` (that is, proportional to ``N``\\), "
+"but the complexity and communications cost associated with coordinating "
+"and then merging their work is ``O(N^2)`` (that is, proportional to the "
+"square of ``N``\\). The quote is from Fred Brooks, a manager of IBM's "
+"OS/360 project and author of *The Mythical Man-Month* (Addison-Wesley, "
+"1975, ISBN 0-201-00650-2), an excellent early book on software "
+"engineering. The myth in question has been most tersely expressed as "
+"\"Programmer time is fungible\" and Brooks established conclusively that "
+"it is not. Hackers have never forgotten his advice (though it's not the "
+"whole story; see :ref:`bazaar`\\); too often, :ref:`management` still "
+"does. See also :ref:`creationism`\\, :ref:`second-system-effect`\\, "
+":ref:`optimism`\\."
+msgstr ""
+

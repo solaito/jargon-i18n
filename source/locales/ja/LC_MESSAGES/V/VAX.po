@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../V/VAX.rst:5
+msgid "VAX"
+msgstr ""
+
+#: ../../V/VAX.rst:7
+msgid "/vaks/, n\\."
+msgstr ""
+
+#: ../../V/VAX.rst:10
+msgid ""
+"[from Virtual Address eXtension] The most successful minicomputer design "
+"in industry history, possibly excepting its immediate ancestor, the "
+":ref:`PDP-11`\\. Between its release in 1978 and its eclipse by :ref"
+":`killer-micro`\\s after about 1986, the VAX was probably the hacker's "
+"favorite machine of them all, esp. after the 1982 release of 4.2 BSD Unix"
+" (see :ref:`BSD`\\). Especially noted for its large, assembler-"
+"programmer-friendly instruction set — an asset that became a liability "
+"after the RISC revolution."
+msgstr ""
+
+#: ../../V/VAX.rst:15
+msgid ""
+"It is worth noting that the standard plural of VAX was ‘vaxen’ and that "
+"VAX system operators were sometimes referred to as ‘vaxherds’"
+msgstr ""
+
+#: ../../V/VAX.rst:18
+msgid ""
+"A major brand of vacuum cleaner in Britain. Cited here because its sales "
+"pitch, \"Nothing sucks like a VAX!\" became a sort of battle-cry of RISC "
+"partisans. It is even sometimes claimed that DEC actually entered a "
+"cross-licensing deal with the vacuum-Vax people that allowed them to "
+"market VAX computers in the U.K. in return for not challenging the vacuum"
+" cleaner trademark in the U.S."
+msgstr ""
+
+#: ../../V/VAX.rst:23
+msgid ""
+"A rival brand actually pioneered the slogan: its original form was "
+"\"Nothing sucks like Electrolux\". It has apparently become a classic "
+"example (used in advertising textbooks) of the perils of not knowing the "
+"local idiom. But in 1996, the press manager of Electrolux AB, while "
+"confirming that the company used this slogan in the late 1960s, also "
+"tells us that their marketing people were fully aware of the possible "
+"double entendre and intended it to gain attention."
+msgstr ""
+
+#: ../../V/VAX.rst:27
+msgid ""
+"And gain attention it did — the VAX-vacuum-cleaner people thought the "
+"slogan a sufficiently good idea to copy it. Several British hackers "
+"report that VAX's promotions used it in 1986--1987, and we have one "
+"report from a New Zealander that the infamous slogan surfaced there in TV"
+" ads for the product in 1992."
+msgstr ""
+

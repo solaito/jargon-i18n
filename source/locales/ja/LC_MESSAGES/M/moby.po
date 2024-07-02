@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/moby.rst:5
+msgid "moby"
+msgstr ""
+
+#: ../../M/moby.rst:7
+msgid "/moh´bee/"
+msgstr ""
+
+#: ../../M/moby.rst:9
+msgid ""
+"[MIT: seems to have been in use among model railroad fans years ago. "
+"Derived from Melville's *Moby Dick* (some say from ‘Moby Pickle’). Now "
+"common.]"
+msgstr ""
+
+#: ../../M/moby.rst:13
+msgid ""
+"adj. Large, immense, complex, impressive. \"A Saturn V rocket is a truly "
+"moby frob.\" \"Some MIT undergrads pulled off a moby hack at the Harvard-"
+"Yale game.\" (See :ref:`Appendix A<appendixa>` for discussion.)"
+msgstr ""
+
+#: ../../M/moby.rst:19
+msgid ""
+"n\\. obs. The maximum address space of a machine (see below). For a "
+"680[234]0 or :ref:`VAX` or most modern 32-bit architectures, it is "
+"4,294,967,296 8-bit bytes (4 gigabytes)."
+msgstr ""
+
+#: ../../M/moby.rst:25
+msgid ""
+"A title of address (never of third-person reference), usually used to "
+"show admiration, respect, and/or friendliness to a competent hacker. "
+"\"Greetings, moby Dave. How's that address-book thing for the Mac "
+"going?\""
+msgstr ""
+
+#: ../../M/moby.rst:29
+msgid ""
+"adj. In backgammon, doubles on the dice, as in moby sixes, moby ones, "
+"etc. Compare this with :ref:`bignum` (sense 3): double sixes are both "
+"bignums and moby sixes, but moby ones are not bignums (the use of moby to"
+" describe double ones is sarcastic). Standard emphatic forms: Moby foo, "
+"moby win, moby loss. Foby moo: a spoonerism due to Richard Greenblatt."
+msgstr ""
+
+#: ../../M/moby.rst:36
+msgid ""
+"The largest available unit of something which is available in discrete "
+"increments. Thus, ordering a \"moby Coke\" at the local fast-food joint "
+"is not just a request for a large Coke, it's an explicit request for the "
+"largest size they sell."
+msgstr ""
+
+#: ../../M/moby.rst:39
+msgid ""
+"This term entered hackerdom with the Fabritek 256K memory added to the "
+"MIT AI PDP-6 machine, which was considered unimaginably huge when it was "
+"installed in the 1960s (at a time when a more typical memory size for a "
+"timesharing system was 72 kilobytes). Thus, a moby is classically 256K "
+"36-bit words, the size of a PDP-6 or PDP-10 moby. Back when address "
+"registers were narrow the term was more generally useful, because when a "
+"computer had virtual memory mapping, it might actually have more physical"
+" memory attached to it than any one program could access directly. One "
+"could then say \"This computer has 6 mobies\" meaning that the ratio of "
+"physical memory to address space is 6, without having to say specifically"
+" how much memory there actually is. That in turn implied that the "
+"computer could timeshare six ‘full-sized’ programs without having to swap"
+" programs between memory and disk."
+msgstr ""
+
+#: ../../M/moby.rst:45
+msgid ""
+"Nowadays the low cost of processor logic means that address spaces are "
+"usually larger than the most physical memory you can cram onto a machine,"
+" so most systems have much *less* than one theoretical ‘native’ moby of "
+":ref:`core`\\. Also, more modern memory-management techniques (esp. "
+"paging) make the ‘moby count’ less significant. However, there is one "
+"series of widely-used chips for which the term could stand to be revived "
+"— the Intel 8088 and 80286 with their incredibly :ref:`brain-damaged` "
+"segmented-memory designs. On these, a moby would be the 1-megabyte "
+"address span of a segment/offset pair (by coincidence, a PDP-10 moby was "
+"exactly 1 megabyte of 9-bit bytes)."
+msgstr ""
+

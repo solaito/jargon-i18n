@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../U/unwind-the-stack.rst:5
+msgid "unwind the stack"
+msgstr ""
+
+#: ../../U/unwind-the-stack.rst:7
+msgid "vi\\."
+msgstr ""
+
+#: ../../U/unwind-the-stack.rst:10
+msgid ""
+"[techspeak] During the execution of a procedural language, one is said to"
+" unwind the stack from a called procedure up to a caller when one "
+"discards the stack frame and any number of frames above it, popping back "
+"up to the level of the given caller. In C this is done with "
+":code:`longjmp`\\/:code:`setjmp`\\, in LISP or C++ with "
+":code:`throw/catch`\\. See also :ref:`smash-the-stack`\\."
+msgstr ""
+
+#: ../../U/unwind-the-stack.rst:15
+msgid ""
+"People can unwind the stack as well, by quickly dealing with a bunch of "
+"problems: \"Oh heck, let's do lunch. Just a second while I unwind my "
+"stack.\""
+msgstr ""
+

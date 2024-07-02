@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/prime-time.rst:5
+msgid "prime time"
+msgstr ""
+
+#: ../../P/prime-time.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../P/prime-time.rst:9
+msgid ""
+"[from TV programming] Normal high-usage hours on a system or network. "
+"Back in the days of big timesharing machines ‘prime time’ was when lots "
+"of people were competing for limited cycles, usually the day shift. "
+"Avoidance of prime time was traditionally given as a major reason for "
+":ref:`night-mode` hacking. The term fell into disuse during the early PC "
+"era, but has been revived to refer to times of day or evening at which "
+"the Internet tends to be heavily loaded, making Web access slow. The "
+"hackish tendency to late-night :ref:`hacking-run`\\s has changed not a "
+"bit."
+msgstr ""
+

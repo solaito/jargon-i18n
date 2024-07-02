@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/dogpile.rst:5
+msgid "dogpile"
+msgstr ""
+
+#: ../../D/dogpile.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../D/dogpile.rst:9
+msgid ""
+"[Usenet: prob. fr. mainstream \"puppy pile\"] When many people post "
+"unfriendly responses in short order to a single posting, they are "
+"sometimes said to \"dogpile\" or \"dogpile on\" the person to whom "
+"they're responding. For example, when a religious missionary posts a "
+"simplistic appeal to :samp:`alt.atheism`\\, he can expect to be dogpiled."
+" It has been suggested that this derives from U.S. football slang for a "
+"tackle involving three or more people; among hackers, it seems at least "
+"as likely to derive from an ‘autobiographical’ Bugs Bunny cartoon in "
+"which a gang of attacking canines actually yells \"Dogpile on the rabbit!"
+" \"."
+msgstr ""
+

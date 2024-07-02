@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/control-C.rst:5
+msgid "control-C"
+msgstr ""
+
+#: ../../C/control-C.rst:7
+msgid "vi\\."
+msgstr ""
+
+#: ../../C/control-C.rst:10
+msgid ""
+"\"Stop whatever you are doing.\" From the interrupt character used on "
+"many operating systems to abort a running program. Considered silly."
+msgstr ""
+
+#: ../../C/control-C.rst:14
+msgid ""
+"interj. Among BSD Unix hackers, the canonical humorous response to \"Give"
+" me a break!\""
+msgstr ""
+

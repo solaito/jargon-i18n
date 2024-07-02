@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/blivet.rst:5
+msgid "blivet"
+msgstr ""
+
+#: ../../B/blivet.rst:7
+msgid "/bliv'\\@t/, n\\."
+msgstr ""
+
+#: ../../B/blivet.rst:9
+msgid ""
+"[allegedly from a World War II military term meaning \"ten pounds of "
+"manure in a five-pound bag\"]"
+msgstr ""
+
+#: ../../B/blivet.rst:12
+msgid "An intractable problem."
+msgstr ""
+
+#: ../../B/blivet.rst:15
+msgid "A crucial piece of hardware that can't be fixed or replaced if it breaks."
+msgstr ""
+
+#: ../../B/blivet.rst:18
+msgid ""
+"A tool that has been hacked over by so many incompetent programmers that "
+"it has become an unmaintainable tissue of hacks."
+msgstr ""
+
+#: ../../B/blivet.rst:21
+msgid "An out-of-control but unkillable development effort."
+msgstr ""
+
+#: ../../B/blivet.rst:24
+msgid "An embarrassing bug that pops up during a customer demo."
+msgstr ""
+
+#: ../../B/blivet.rst:27
+msgid ""
+"In the subjargon of computer security specialists, a denial-of-service "
+"attack performed by hogging limited resources that have no access "
+"controls (for example, shared spool space on a multi-user system)."
+msgstr ""
+
+#: ../../B/blivet.rst:29
+msgid ""
+"This term has other meanings in other technical cultures; among "
+"experimental physicists and hardware engineers of various kinds it seems "
+"to mean any random object of unknown purpose (similar to hackish use of "
+":ref:`frob`\\). It has also been used to describe an amusing trick-the-"
+"eye drawing resembling a three-pronged fork that appears to depict a "
+"three-dimensional object until one realizes that the parts fit together "
+"in an impossible way."
+msgstr ""
+
+#: ../../B/blivet.rst:34
+msgid "This is a blivet"
+msgstr ""
+

@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../O/Orange-Book.rst:5
+msgid "Orange Book"
+msgstr ""
+
+#: ../../O/Orange-Book.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../O/Orange-Book.rst:9
+msgid ""
+"The U.S. Government's (now obsolete) standards document *Trusted Computer"
+" System Evaluation Criteria, DOD standard 5200.28-STD, December, 1985* "
+"which characterize secure computing architectures and defines levels A1 "
+"(most secure) through D (least). Modern Unixes are roughly C2. See also "
+":ref:`book-titles`\\."
+msgstr ""
+

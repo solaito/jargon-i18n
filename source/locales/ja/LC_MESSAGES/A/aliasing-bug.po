@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/aliasing-bug.rst:5
+msgid "aliasing bug"
+msgstr ""
+
+#: ../../A/aliasing-bug.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../A/aliasing-bug.rst:9
+msgid ""
+"A class of subtle programming errors that can arise in code that does "
+"dynamic allocation, esp. via :manpage:`malloc(3)` or equivalent. If "
+"several pointers address (are aliases for) a given hunk of storage, it "
+"may happen that the storage is freed or reallocated (and thus moved) "
+"through one alias and then referenced through another, which may lead to "
+"subtle (and possibly intermittent) lossage depending on the state and the"
+" allocation history of the malloc :ref:`arena`\\. Avoidable by use of "
+"allocation strategies that never alias allocated core, or by use of "
+"higher-level languages, such as :ref:`LISP`\\, which employ a garbage "
+"collector (see :ref:`GC`\\). Also called a :ref:`stale-pointer-bug`\\. "
+"See also :ref:`precedence-lossage`\\, :ref:`smash-the-stack`\\, :ref"
+":`fandango-on-core`\\, :ref:`memory-leak`\\, :ref:`memory-smash`\\, :ref"
+":`overrun-screw`\\, :ref:`spam`\\."
+msgstr ""
+
+#: ../../A/aliasing-bug.rst:16
+msgid ""
+"Historical note: Though this term is nowadays associated with C "
+"programming, it was already in use in a very similar sense in the "
+"Algol-60 and FORTRAN communities in the 1960s."
+msgstr ""
+

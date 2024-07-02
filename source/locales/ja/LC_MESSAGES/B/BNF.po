@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/BNF.rst:5
+msgid "BNF"
+msgstr ""
+
+#: ../../B/BNF.rst:7
+msgid "/B·N·F/, n\\."
+msgstr ""
+
+#: ../../B/BNF.rst:10
+msgid ""
+"[techspeak] Acronym for Backus Normal Form (later retronymed to Backus-"
+"Naur Form because BNF was not in fact a normal form), a metasyntactic "
+"notation used to specify the syntax of programming languages, command "
+"sets, and the like. Widely used for language descriptions but seldom "
+"documented anywhere, so that it must usually be learned by osmosis from "
+"other hackers. Consider this BNF for a U.S. postal address:"
+msgstr ""
+
+#: ../../B/BNF.rst:28
+msgid ""
+"This translates into English as: \"A postal-address consists of a name-"
+"part, followed by a street-address part, followed by a zip-code part. A "
+"personal-part consists of either a first name or an initial followed by a"
+" dot. A name-part consists of either: a personal-part followed by a last "
+"name followed by an optional jr-part (Jr., Sr., or dynastic number) and "
+"end-of-line, or a personal part followed by a name part (this rule "
+"illustrates the use of recursion in BNFs, covering the case of people who"
+" use multiple first and middle names and/or initials). A street address "
+"consists of an optional apartment specifier, followed by a street number,"
+" followed by a street name. A zip-part consists of a town-name, followed "
+"by a comma, followed by a state code, followed by a ZIP-code followed by "
+"an end-of-line.\" Note that many things (such as the format of a "
+"personal-part, apartment specifier, or ZIP-code) are left unspecified. "
+"These are presumed to be obvious from context or detailed somewhere "
+"nearby. See also :ref:`parse`\\."
+msgstr ""
+
+#: ../../B/BNF.rst:38
+msgid ""
+"Any of a number of variants and extensions of BNF proper, possibly "
+"containing some or all of the :ref:`regexp` wildcards such as :code:`\\*`"
+" or :code:`+`\\. In fact the example above isn't the pure form invented "
+"for the Algol-60 report; it uses :code:`[]`\\, which was introduced a few"
+" years later in IBM's PL/I definition but is now universally recognized."
+msgstr ""
+
+#: ../../B/BNF.rst:42
+msgid ""
+"In :ref:`science-fiction-fandom`\\, a ‘Big-Name Fan’ (someone famous or "
+"notorious). Years ago a fan started handing out black-on-green BNF "
+"buttons at SF conventions; this confused the hacker contingent terribly."
+msgstr ""
+

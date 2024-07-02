@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/Easter-egg.rst:5
+msgid "Easter egg"
+msgstr ""
+
+#: ../../E/Easter-egg.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../E/Easter-egg.rst:9
+msgid ""
+"[from the custom of the Easter Egg hunt observed in the U.S. and many "
+"parts of Europe]"
+msgstr ""
+
+#: ../../E/Easter-egg.rst:12
+msgid ""
+"A message hidden in the object code of a program as a joke, intended to "
+"be found by persons disassembling or browsing the code."
+msgstr ""
+
+#: ../../E/Easter-egg.rst:15
+msgid ""
+"A message, graphic, or sound effect emitted by a program (or, on a PC, "
+"the BIOS ROM) in response to some undocumented set of commands or "
+"keystrokes, intended as a joke or to display program credits. One well-"
+"known early Easter egg found in a couple of OSes caused them to respond "
+"to the command :code:`make love` with :code:`not war?`\\. Many personal "
+"computers have much more elaborate eggs hidden in ROM, including lists of"
+" the developers' names, political exhortations, snatches of music, and "
+"(in one case) graphics images of the entire development team."
+msgstr ""
+

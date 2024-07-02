@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/Multics.rst:5
+msgid "Multics"
+msgstr ""
+
+#: ../../M/Multics.rst:7
+msgid "/muhl´tiks/, n\\."
+msgstr ""
+
+#: ../../M/Multics.rst:9
+msgid ""
+"[from \"MULTiplexed Information and Computing Service\"] An early "
+"timesharing :ref:`operating-system` co-designed by a consortium including"
+" MIT, GE, and Bell Laboratories as a successor to :ref:`CTSS`\\. The "
+"design was first presented in 1965, planned for operation in 1967, first "
+"operational in 1969, and took several more years to achieve respectable "
+"performance and stability."
+msgstr ""
+
+#: ../../M/Multics.rst:12
+msgid ""
+"Multics was very innovative for its time — among other things, it "
+"provided a hierarchical file system with access control on individual "
+"files and introduced the idea of treating all devices uniformly as "
+"special files. It was also the first OS to run on a symmetric "
+"multiprocessor, and the only general-purpose system to be awarded a B2 "
+"security rating by the NSA (see :ref:`Orange-Book`\\)."
+msgstr ""
+
+#: ../../M/Multics.rst:15
+msgid ""
+"Bell Labs left the development effort in 1969 after judging that :ref"
+":`second-system-effect` had bloated Multics to the point of practical "
+"unusability. Honeywell commercialized Multics in 1972 after buying out "
+"GE's computer group, but it was never very successful: at its peak in the"
+" 1980s, there were between 75 and 100 Multics sites, each a multi-million"
+" dollar mainframe."
+msgstr ""
+
+#: ../../M/Multics.rst:18
+msgid ""
+"One of the former Multics developers from Bell Labs was Ken Thompson, and"
+" :ref:`Unix` deliberately carried through and extended many of Multics' "
+"design ideas; indeed, Thompson described the very name ‘Unix’ as \"a weak"
+" pun on Multics\". For this and other reasons, aspects of the Multics "
+"design remain a topic of occasional debate among hackers. See also :ref"
+":`brain-damaged` and :ref:`GCOS`\\."
+msgstr ""
+
+#: ../../M/Multics.rst:22
+msgid ""
+"MIT ended its development association with Multics in 1977. Honeywell "
+"sold its computer business to Bull in the mid 80s, and development on "
+"Multics was stopped in 1988. Four Multics sites were known to be still in"
+" use as late as 1998, but the last one (a Canadian military site) was "
+"decommissioned in November 2000. There is a Multics page at "
+"`http://www.stratus.com/pub/vos/multics/tvv/multics.html "
+"<http://www.stratus.com/pub/vos/multics/tvv/multics.html>`_."
+msgstr ""
+

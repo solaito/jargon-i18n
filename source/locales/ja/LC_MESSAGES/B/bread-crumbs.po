@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bread-crumbs.rst:5
+msgid "bread crumbs"
+msgstr ""
+
+#: ../../B/bread-crumbs.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/bread-crumbs.rst:10
+msgid ""
+"Debugging statements inserted into a program that emit output or log "
+"indicators of the program's :ref:`state` to a file so you can see where "
+"it dies or pin down the cause of surprising behavior. The term is "
+"probably a reference to the Hansel and Gretel story from the Brothers "
+"Grimm or the older French folktale of Thumbelina; in several variants of "
+"these, a character leaves a trail of bread crumbs so as not to get lost "
+"in the woods."
+msgstr ""
+
+#: ../../B/bread-crumbs.rst:14
+msgid ""
+"In user-interface design, any feature that allows some tracking of where "
+"you've been, like coloring visited links purple rather than blue in "
+"Netscape (also called footprinting)."
+msgstr ""
+

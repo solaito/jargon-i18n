@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/and-there-was-much-rejoicing.rst:5
+msgid "and there was much rejoicing"
+msgstr ""
+
+#: ../../A/and-there-was-much-rejoicing.rst:7
+msgid "[from the movie *Monty Python and the HolyGrail*\\.]"
+msgstr ""
+
+#: ../../A/and-there-was-much-rejoicing.rst:9
+msgid ""
+"Acknowledgement of a notable accomplishment. Something long-awaited, "
+"widely desired, possibly unexpected but secretly wished-for, with a "
+"suggestion that something about the problem (and perhaps the steps "
+"necessary to make it go away) was deeply disturbing to hacker "
+"sensibilities."
+msgstr ""
+
+#: ../../A/and-there-was-much-rejoicing.rst:12
+msgid ""
+"In person, the phrase is almost invariably pronounced with the same "
+"portentious intonation as the movie. The customary in-person (approving) "
+"response is a weak and halfhearted \"Yaaaay...\", with one index finger "
+"raised like a flag and moved in a small circle. The reason for this, like"
+" most of the Monty Python *oeuvre*\\, cannot easily be explained outside "
+"its original context."
+msgstr ""
+
+#: ../../A/and-there-was-much-rejoicing.rst:16
+msgid ""
+"Example: \"changelog entry #436: with the foo driver brain damage taken "
+"care of, finally obsoleted BROKEN_EVIL_KLUDGE. Removed from source tree. "
+"(And there was much rejoicing).\""
+msgstr ""
+

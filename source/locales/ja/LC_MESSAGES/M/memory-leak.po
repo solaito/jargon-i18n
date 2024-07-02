@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/memory-leak.rst:5
+msgid "memory leak"
+msgstr ""
+
+#: ../../M/memory-leak.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../M/memory-leak.rst:9
+msgid ""
+"An error in a program's dynamic-store allocation logic that causes it to "
+"fail to reclaim discarded memory, leading to eventual collapse due to "
+"memory exhaustion. Also (esp. at CMU) called :ref:`core-leak`\\. These "
+"problems were severe on older machines with small, fixed-size address "
+"spaces, and special \"leak detection\" tools were commonly written to "
+"root them out. With the advent of virtual memory, it is unfortunately "
+"easier to be sloppy about wasting a bit of memory (although when you run "
+"out of memory on a VM machine, it means you've got a *real* leak!). See "
+":ref:`aliasing-bug`\\, :ref:`fandango-on-core`\\, :ref:`smash-the-"
+"stack`\\, :ref:`precedence-lossage`\\, :ref:`overrun-screw`\\, :ref"
+":`leaky-heap`\\, :ref:`leak`\\."
+msgstr ""
+

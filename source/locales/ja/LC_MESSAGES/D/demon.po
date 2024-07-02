@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/demon.rst:5
+msgid "demon"
+msgstr ""
+
+#: ../../D/demon.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/demon.rst:10
+msgid ""
+"Often used equivalently to :ref:`daemon` — especially in the :ref:`Unix` "
+"world, where the latter spelling and pronunciation is considered mildly "
+"archaic."
+msgstr ""
+
+#: ../../D/demon.rst:13
+msgid ""
+"[MIT; now probably obsolete] A portion of a program that is not invoked "
+"explicitly, but that lies dormant waiting for some condition(s) to occur."
+" See :ref:`daemon`\\. The distinction is that demons are usually "
+"processes within a program, while daemons are usually programs running on"
+" an operating system."
+msgstr ""
+
+#: ../../D/demon.rst:17
+msgid ""
+"Demons in sense 2 are particularly common in AI programs. For example, a "
+"knowledge-manipulation program might implement inference rules as demons."
+" Whenever a new piece of knowledge was added, various demons would "
+"activate (which demons depends on the particular piece of data) and would"
+" create additional pieces of knowledge by applying their respective "
+"inference rules to the original piece. These new pieces could in turn "
+"activate more demons as the inferences filtered down through chains of "
+"logic. Meanwhile, the main program could continue with whatever its "
+"primary task was."
+msgstr ""
+

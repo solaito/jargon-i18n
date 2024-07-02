@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/EOF.rst:5
+msgid "EOF"
+msgstr ""
+
+#: ../../E/EOF.rst:7
+msgid "/E·O·F/, n\\."
+msgstr ""
+
+#: ../../E/EOF.rst:9
+msgid "[abbreviation, ‘End Of File’]"
+msgstr ""
+
+#: ../../E/EOF.rst:12
+msgid ""
+"[techspeak] The :ref:`out-of-band` value returned by C's sequential "
+"character-input functions (and their equivalents in other environments) "
+"when end of file has been reached. This value is usually -1 under C "
+"libraries postdating V6 Unix, but was originally 0. DOS hackers think EOF"
+" is ^Z, and a few Amiga hackers think it's ^\\."
+msgstr ""
+
+#: ../../E/EOF.rst:17
+msgid ""
+"[Unix] The keyboard character (usually control-D, the ASCII EOT (End Of "
+"Transmission) character) that is mapped by the terminal driver into an "
+"end-of-file condition."
+msgstr ""
+
+#: ../../E/EOF.rst:20
+msgid ""
+"Used by extension in non-computer contexts when a human is doing "
+"something that can be modeled as a sequential read and can't go further. "
+"\"Yeah, I looked for a list of 360 mnemonics to post as a joke, but I hit"
+" EOF pretty fast; all the library had was a :ref:`JCL` manual.\" See also"
+" :ref:`EOL`\\."
+msgstr ""
+

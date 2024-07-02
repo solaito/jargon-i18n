@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../Z/Zero-One-Infinity-Rule.rst:5
+msgid "Zero-One-Infinity Rule"
+msgstr ""
+
+#: ../../Z/Zero-One-Infinity-Rule.rst:7
+msgid "prov\\."
+msgstr ""
+
+#: ../../Z/Zero-One-Infinity-Rule.rst:9
+msgid ""
+"\"Allow none of :ref:`foo`\\, one of :ref:`foo`\\, or any number of "
+":ref:`foo`\\.\" A rule of thumb for software design, which instructs one "
+"to not place :ref:`random` limits on the number of instances of a given "
+"entity (such as: windows in a window system, letters in an OS's "
+"filenames, etc.). Specifically, one should either disallow the entity "
+"entirely, allow exactly one instance (an \"exception\"), or allow as many"
+" as the user wants — address space and memory permitting."
+msgstr ""
+
+#: ../../Z/Zero-One-Infinity-Rule.rst:13
+msgid ""
+"The logic behind this rule is that there are often situations where it "
+"makes clear sense to allow one of something instead of none. However, if "
+"one decides to go further and allow N (for N > 1), then why not N+1? And "
+"if N+1, then why not N+2, and so on? Once above 1, there's no excuse not "
+"to allow any N; hence, :ref:`infinity`\\."
+msgstr ""
+
+#: ../../Z/Zero-One-Infinity-Rule.rst:18
+msgid ""
+"Many hackers recall in this connection Isaac Asimov's SF novel *The Gods "
+"Themselves* in which a character announces that the number 2 is "
+"impossible — if you're going to believe in more than one universe, you "
+"might as well believe in an infinite number of them."
+msgstr ""
+

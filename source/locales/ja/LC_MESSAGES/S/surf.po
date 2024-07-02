@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/surf.rst:5
+msgid "surf"
+msgstr ""
+
+#: ../../S/surf.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../S/surf.rst:9
+msgid ""
+"[from the ‘surf’ idiom for rapidly flipping TV channels] To traverse the "
+"Internet in search of interesting stuff, used esp. if one is doing so "
+"with a World Wide Web browser. It is also common to speak of surfing in "
+"to a particular resource."
+msgstr ""
+
+#: ../../S/surf.rst:13
+msgid ""
+"Hackers adopted this term early, but many have stopped using it since it "
+"went completely mainstream around 1995. The passive, couch-potato "
+"connotations that go with TV channel surfing were never pleasant, and "
+"hearing non-hackers wax enthusiastic about \"surfing the net\" tends to "
+"make hackers feel a bit as though their home is being overrun by "
+"ignorami."
+msgstr ""
+

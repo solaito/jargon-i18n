@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/wizard.rst:5
+msgid "wizard"
+msgstr ""
+
+#: ../../W/wizard.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../W/wizard.rst:10
+msgid ""
+"Transitively, a person who knows how a complex piece of software or "
+"hardware works (that is, who :ref:`grok`\\s it); esp. someone who can "
+"find and fix bugs quickly in an emergency. Someone is a :ref:`hacker` if "
+"he or she has general hacking ability, but is a wizard with respect to "
+"something only if he or she has specific detailed knowledge of that "
+"thing. A good hacker could become a wizard for something given the time "
+"to study it."
+msgstr ""
+
+#: ../../W/wizard.rst:16
+msgid ""
+"The term ‘wizard’ is also used intransitively of someone who has "
+"extremely high-level hacking or problem-solving ability."
+msgstr ""
+
+#: ../../W/wizard.rst:19
+msgid ""
+"A person who is permitted to do things forbidden to ordinary people; one "
+"who has :ref:`wheel` privileges on a system."
+msgstr ""
+
+#: ../../W/wizard.rst:22
+msgid ""
+"A Unix expert, esp. a Unix systems programmer. This usage is well enough "
+"established that ‘Unix Wizard’ is a recognized job title at some "
+"corporations and to most headhunters."
+msgstr ""
+
+#: ../../W/wizard.rst:26
+msgid ""
+"See :ref:`guru`\\, :ref:`lord-high-fixer`\\. See also :ref:`deep-"
+"magic`\\, :ref:`heavy-wizardry`\\, :ref:`incantation`\\, :ref:`magic`\\, "
+":ref:`mutter`\\, :ref:`rain-dance`\\, :ref:`voodoo-programming`\\, "
+":ref:`wave-a-dead-chicken`\\."
+msgstr ""
+

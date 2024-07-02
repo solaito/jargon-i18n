@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/nanotechnology.rst:5
+msgid "nanotechnology"
+msgstr ""
+
+#: ../../N/nanotechnology.rst:7
+msgid "/nan'·oh·tek·no\\`l\\@·jee/, n\\."
+msgstr ""
+
+#: ../../N/nanotechnology.rst:9
+msgid ""
+"A hypothetical fabrication technology in which objects are designed and "
+"built with the individual specification and placement of each separate "
+"atom. The first unequivocal nanofabrication experiments took place in "
+"1990, for example with the deposition of individual xenon atoms on a "
+"nickel substrate to spell the logo of a certain very large computer "
+"company. Nanotechnology has been a hot topic in the hacker subculture "
+"ever since the term was coined by K. Eric Drexler in his book *Engines of"
+" Creation* (Anchor/Doubleday, ISBN 0-385-19973-2), where he predicted "
+"that nanotechnology could give rise to replicating assemblers, permitting"
+" an exponential growth of productivity and personal wealth (there's an "
+"authorized transcription at `http://www.foresight.org/EOC/index.html "
+"<http://www.foresight.org/EOC/index.html>`_). See also :ref:`blue-goo`\\,"
+" :ref:`gray-goo`\\, :ref:`nanobot`\\."
+msgstr ""
+

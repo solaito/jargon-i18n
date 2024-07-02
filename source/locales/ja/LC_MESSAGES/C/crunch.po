@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/crunch.rst:5
+msgid "crunch"
+msgstr ""
+
+#: ../../C/crunch.rst:7
+msgid ""
+"vi\\. To process, usually in a time-consuming or complicated way. "
+"Connotes an essentially trivial operation that is nonetheless painful to "
+"perform. The pain may be due to the triviality's being embedded in a loop"
+" from 1 to 1,000,000,000. \"FORTRAN programs do mostly :ref:`number-"
+"crunching`\\.\""
+msgstr ""
+
+#: ../../C/crunch.rst:13
+msgid ""
+"vt\\. To reduce the size of a file by a complicated scheme that produces "
+"bit configurations completely unrelated to the original data, such as by "
+"a Huffman code. (The file ends up looking something like a paper document"
+" would if somebody crunched the paper into a wad.) Since such compression"
+" usually takes more computations than simpler methods such as run-length "
+"encoding, the term is doubly appropriate. (This meaning is usually used "
+"in the construction file crunch(ing) to distinguish it from :ref:`number-"
+"crunching`\\.) See :ref:`compress`\\."
+msgstr ""
+
+#: ../../C/crunch.rst:20
+msgid ""
+"n\\. The character ``#``\\. Used at XEROX and CMU, among other places. "
+"See :ref:`ASCII`\\."
+msgstr ""
+
+#: ../../C/crunch.rst:25
+msgid ""
+"vt\\. To squeeze program source into a minimum-size representation that "
+"will still compile or execute. The term came into being specifically for "
+"a famous program on the BBC micro that crunched BASIC source in order to "
+"make it run more quickly (it was a wholly interpretive BASIC, so the "
+"number of characters mattered). :ref:`Obfuscated-C-Contest` entries are "
+"often crunched; see the first example under that entry."
+msgstr ""
+

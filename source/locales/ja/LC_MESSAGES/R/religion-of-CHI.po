@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/religion-of-CHI.rst:5
+msgid "religion of CHI"
+msgstr ""
+
+#: ../../R/religion-of-CHI.rst:7
+msgid "/ki:/, n\\."
+msgstr ""
+
+#: ../../R/religion-of-CHI.rst:9
+msgid ""
+"[Case Western Reserve University] Yet another hackish parody religion "
+"(see also :ref:`Church-of-the-SubGenius`\\, :ref:`Discordianism`\\). In "
+"the mid-70s, the canonical \"Introduction to Programming\" courses at "
+"CWRU were taught in Algol, and student exercises were punched on cards "
+"and run on a Univac 1108 system using a homebrew operating system named "
+"CHI. The religion had no doctrines and but one ritual: whenever the "
+"worshiper noted that a digital clock read 11:08, he or she would recite "
+"the phrase \"It is 11:08; ABS, ALPHABETIC, ARCSIN, ARCCOS, ARCTAN.\" The "
+"last five words were the first five functions in the appropriate chapter "
+"of the Algol manual; note the special pronunciations /obz/ and /ark´sin/ "
+"rather than the more common /ahbz/ and /ark´si:n/. Using an alarm clock "
+"to warn of 11:08's arrival was :ref:`considered-harmful`\\."
+msgstr ""
+

@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bug-compatible.rst:5
+msgid "bug-compatible"
+msgstr ""
+
+#: ../../B/bug-compatible.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../B/bug-compatible.rst:9
+msgid ""
+"[common] Said of a design or revision that has been badly compromised by "
+"a requirement to be compatible with :ref:`fossil`\\s or "
+":ref:`misfeature`\\s in other programs or (esp.) previous releases of "
+"itself. \"MS-DOS 2.0 used \\ as a path separator to be bug-compatible "
+"with some cretin's choice of / as an option character in 1.0.\""
+msgstr ""
+

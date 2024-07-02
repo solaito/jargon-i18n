@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/screen-scraping.rst:5
+msgid "screen scraping"
+msgstr ""
+
+#: ../../S/screen-scraping.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../S/screen-scraping.rst:9
+msgid ""
+"The act of capturing data from a system or program by snooping the "
+"contents of some display that is not actually intended for data transport"
+" or inspection by programs. Around 1980 this term referred to tricks like"
+" reading the display memory of a smart terminal through its auxiliary "
+"port. Nowadays it often refers to parsing the HTML in generated web pages"
+" with programs designed to mine out particular patterns of content. In "
+"either guise screen-scraping is an ugly, ad-hoc, last-resort technique "
+"that is very likely to break on even minor changes to the format of the "
+"data being snooped."
+msgstr ""
+

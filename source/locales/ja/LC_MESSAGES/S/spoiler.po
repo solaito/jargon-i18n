@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/spoiler.rst:5
+msgid "spoiler"
+msgstr ""
+
+#: ../../S/spoiler.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/spoiler.rst:9
+msgid "[Usenet]"
+msgstr ""
+
+#: ../../S/spoiler.rst:12
+msgid ""
+"A remark which reveals important plot elements from books or movies, thus"
+" denying the reader (of the article) the proper suspense when reading the"
+" book or watching the movie."
+msgstr ""
+
+#: ../../S/spoiler.rst:15
+msgid ""
+"Any remark which telegraphs the solution of a problem or puzzle, thus "
+"denying the reader the pleasure of working out the correct answer (see "
+"also :ref:`interesting`\\). Either sense readily forms compounds like "
+"total spoiler, quasi-spoiler and even pseudo-spoiler."
+msgstr ""
+
+#: ../../S/spoiler.rst:18
+msgid ""
+"By convention, articles which are spoilers in either sense should contain"
+" the word ‘spoiler’ in the Subject: line, or guarantee via various tricks"
+" that the answer appears only after several screens-full of warning, or "
+"conceal the sensitive information via :ref:`rot13`\\, :ref:`spoiler-"
+"space` or some combination of these techniques."
+msgstr ""
+

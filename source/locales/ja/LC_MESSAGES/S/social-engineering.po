@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/social-engineering.rst:5
+msgid "social engineering"
+msgstr ""
+
+#: ../../S/social-engineering.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/social-engineering.rst:9
+msgid ""
+"Term used among :ref:`cracker`\\s and :ref:`samurai` for cracking "
+"techniques that rely on weaknesses in :ref:`wetware` rather than "
+"software; the aim is to trick people into revealing passwords or other "
+"information that compromises a target system's security. Classic scams "
+"include phoning up a mark who has the required information and posing as "
+"a field service tech or a fellow employee with an urgent access problem. "
+"See also the :ref:`tiger-team` story in the :ref:`patch` entry, and :ref"
+":`rubber-hose-cryptanalysis`\\."
+msgstr ""
+

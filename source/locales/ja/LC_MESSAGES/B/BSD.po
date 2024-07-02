@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/BSD.rst:5
+msgid "BSD"
+msgstr ""
+
+#: ../../B/BSD.rst:7
+msgid "/B·S·D/, n\\."
+msgstr ""
+
+#: ../../B/BSD.rst:9
+msgid ""
+"[abbreviation for ‘Berkeley Software Distribution’] a family of "
+":ref:`Unix` versions for the :ref:`DEC` :ref:`VAX` and :ref:`PDP-11` "
+"developed by Bill Joy and others at :ref:`Berzerkeley` starting around "
+"1977, incorporating paged virtual memory, TCP/IP networking enhancements,"
+" and many other features. The BSD versions (4.1, 4.2, and 4.3) and the "
+"commercial versions derived from them (SunOS, ULTRIX, and Mt. Xinu) held "
+"the technical lead in the Unix world until AT&T's successful "
+"standardization efforts after about 1986; descendants including "
+"Free/Open/NetBSD, BSD/OS and MacOS X are still widely popular. Note that "
+"BSD versions going back to 2.9 are often referred to by their version "
+"numbers alone, without the BSD prefix. See also :ref:`Unix`\\."
+msgstr ""
+

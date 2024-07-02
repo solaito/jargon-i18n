@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/fossil.rst:5
+msgid "fossil"
+msgstr ""
+
+#: ../../F/fossil.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/fossil.rst:10
+msgid ""
+"In software, a misfeature that becomes understandable only in historical "
+"context, as a remnant of times past retained so as not to break "
+"compatibility. Example: the retention of octal as default base for string"
+" escapes in :ref:`C`\\, in spite of the better match of hexadecimal to "
+"ASCII and modern byte-addressable architectures. See :ref:`dusty-deck`\\."
+msgstr ""
+
+#: ../../F/fossil.rst:15
+msgid ""
+"More restrictively, a feature with past but no present utility. Example: "
+"the force-all-caps (LCASE) bits in the V7 and :ref:`BSD` Unix tty driver,"
+" designed for use with monocase terminals. (In a perversion of the usual "
+"backward-compatibility goal, this functionality has actually been "
+"expanded and renamed in some later USG Unix releases as the IUCLC and "
+"OLCUC bits.)"
+msgstr ""
+

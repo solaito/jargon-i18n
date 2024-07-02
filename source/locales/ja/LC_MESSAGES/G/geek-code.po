@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/geek-code.rst:5
+msgid "geek code"
+msgstr ""
+
+#: ../../G/geek-code.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../G/geek-code.rst:9
+msgid ""
+"(also \"Code of the Geeks\"). A set of codes commonly used in :ref:`sig-"
+"block`\\s to broadcast the interests, skills, and aspirations of the "
+"poster. Features a G at the left margin followed by numerous letter "
+"codes, often suffixed with plusses or minuses. Because many net users are"
+" involved in computer science, the most common prefix is ‘GCS’. To see a "
+"copy of the current code, browse `http://www.geekcode.com/ "
+"<http://www.geekcode.com/>`_. Here is a sample geek code (that of Robert "
+"Hayden, the code's inventor) from that page:"
+msgstr ""
+
+#: ../../G/geek-code.rst:26
+msgid ""
+"The geek code originated in 1993; it was inspired (according to the "
+"inventor) by previous \"bear\", \"smurf\" and \"twink\" style-and-sexual-"
+"preference codes from lesbian and gay :ref:`newsgroup`\\s. It has in turn"
+" spawned imitators; there is now even a \"Saturn geek code\" for owners "
+"of the Saturn car. See also :ref:`geek`\\."
+msgstr ""
+

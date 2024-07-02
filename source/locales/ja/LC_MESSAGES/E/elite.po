@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/elite.rst:5
+msgid "elite"
+msgstr ""
+
+#: ../../E/elite.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../E/elite.rst:9
+msgid ""
+"Clueful. Plugged-in. One of the cognoscenti. Also used as a general "
+"positive adjective. This term is not actually native hacker slang; it is "
+"used primarily by crackers and :ref:`warez-d00dz`\\, for which reason "
+"hackers use it only with heavy irony. The term used to refer to the folks"
+" allowed in to the \"hidden\" or \"privileged\" sections of BBSes in the "
+"early 1980s (which, typically, contained pirated software). Frequently, "
+"early boards would only let you post, or even see, a certain subset of "
+"the sections (or ‘boards’) on a BBS. Those who got to the frequently "
+"legendary ‘triple super secret’ boards were elite. Misspellings of this "
+"term in warez d00dz style abound; the forms l337 eleet, and 31337 (among "
+"others) have been sighted."
+msgstr ""
+
+#: ../../E/elite.rst:19
+msgid ""
+"A true hacker would be more likely to use ‘wizardly’. Oppose "
+":ref:`lamer`\\."
+msgstr ""
+

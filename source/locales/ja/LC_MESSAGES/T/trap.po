@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/trap.rst:5
+msgid "trap"
+msgstr ""
+
+#: ../../T/trap.rst:7
+msgid ""
+"n\\. A program interrupt, usually an interrupt caused by some exceptional"
+" situation in the user program. In most cases, the OS performs some "
+"action, then returns control to the program."
+msgstr ""
+
+#: ../../T/trap.rst:11
+msgid ""
+"vi\\. To cause a trap. \"These instructions trap to the monitor.\" Also "
+"used transitively to indicate the cause of the trap. \"The monitor traps "
+"all input/output instructions.\""
+msgstr ""
+
+#: ../../T/trap.rst:17
+msgid ""
+"This term is associated with assembler programming (interrupt or "
+"exception is more common among :ref:`HLL` programmers) and appears to be "
+"fading into history among programmers as the role of assembler continues "
+"to shrink. However, it is still important to computer architects and "
+"systems hackers (see :ref:`system`\\, sense 1), who use it to distinguish"
+" deterministically repeatable exceptions from timing-dependent ones (such"
+" as I/O interrupts)."
+msgstr ""
+

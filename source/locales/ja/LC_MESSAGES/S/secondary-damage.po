@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/secondary-damage.rst:5
+msgid "secondary damage"
+msgstr ""
+
+#: ../../S/secondary-damage.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/secondary-damage.rst:9
+msgid ""
+"When a fatal error occurs (esp. a :ref:`segfault`\\) the immediate cause "
+"may be that a pointer has been trashed due to a previous :ref:`fandango-"
+"on-core`\\. However, this fandango may have been due to an *earlier* "
+"fandango, so no amount of analysis will reveal (directly) how the damage "
+"occurred. \"The data structure was clobbered, but it was secondary "
+"damage.\" By extension, the corruption resulting from ``N`` cascaded "
+"fandangoes on core is ‘``N``\\th-level damage’. There is at least one "
+"case on record in which 17 hours of :ref:`grovel`\\ling with :code:`adb` "
+"actually dug up the underlying bug behind an instance of seventh-level "
+"damage! The hacker who accomplished this near-superhuman feat was "
+"presented with an award by his fellows."
+msgstr ""
+

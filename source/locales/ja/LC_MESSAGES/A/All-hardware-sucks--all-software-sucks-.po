@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/All-hardware-sucks--all-software-sucks-.rst:5
+msgid "All hardware sucks, all software sucks."
+msgstr ""
+
+#: ../../A/All-hardware-sucks--all-software-sucks-.rst:7
+msgid "prov\\."
+msgstr ""
+
+#: ../../A/All-hardware-sucks--all-software-sucks-.rst:9
+msgid ""
+"[from :ref:`scary-devil-monastery`\\] A general recognition of the "
+"fallibility of any computer system, ritually intoned as an attempt to "
+"quell incipient :ref:`holy-wars`\\. It is a common response to any sort "
+"of :ref:`bigot`\\. When discussing :ref:`Wintel` systems, however, it is "
+"often snidely appended with, ‘but some suck more than others.’"
+msgstr ""
+

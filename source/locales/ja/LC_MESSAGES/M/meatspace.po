@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/meatspace.rst:5
+msgid "meatspace"
+msgstr ""
+
+#: ../../M/meatspace.rst:7
+msgid "/meet´spays/, n\\."
+msgstr ""
+
+#: ../../M/meatspace.rst:9
+msgid ""
+"The physical world, where the meat lives — as opposed to "
+":ref:`cyberspace`\\. Hackers are actually more willing to use this term "
+"than ‘cyberspace’, because it's not speculative — we already have a "
+"running meatspace implementation (the universe). Compare :ref:`RL`\\."
+msgstr ""
+

@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/for-values-of.rst:5
+msgid "for values of"
+msgstr ""
+
+#: ../../F/for-values-of.rst:7
+msgid ""
+"[MIT] A common rhetorical maneuver at MIT is to use any of the canonical "
+":ref:`random-numbers` as placeholders for variables. \"The max function "
+"takes 42 arguments, for arbitrary values of 42.:\" \"There are 69 ways to"
+" leave your lover, for 69 = 50.\" This is especially likely when the "
+"speaker has uttered a random number and realizes that it was not "
+"recognized as such, but even ‘non-random’ numbers are occasionally used "
+"in this fashion. A related joke is that ``π`` equals 3 — for small values"
+" of ``π`` and large values of 3."
+msgstr ""
+
+#: ../../F/for-values-of.rst:12
+msgid ""
+"Historical note: at MIT this usage has traditionally been traced to the "
+"programming language MAD (Michigan Algorithm Decoder), an Algol-58-like "
+"language that was the most common choice among mainstream (non-hacker) "
+"users at MIT in the mid-60s. It inherited from Algol-58 a control "
+"structure FOR VALUES OF X = 3, 7, 99 DO ... that would repeat the "
+"indicated instructions for each value in the list (unlike the usual FOR "
+"that only works for arithmetic sequences of values). MAD is long extinct,"
+" but similar for-constructs still flourish (e.g., in Unix's shell "
+"languages)."
+msgstr ""
+

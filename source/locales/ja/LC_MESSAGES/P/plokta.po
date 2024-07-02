@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/plokta.rst:5
+msgid "plokta"
+msgstr ""
+
+#: ../../P/plokta.rst:7
+msgid "/plok´t\\@/, v\\."
+msgstr ""
+
+#: ../../P/plokta.rst:9
+msgid ""
+"[acronym: Press Lots Of Keys To Abort] To press random keys in an attempt"
+" to get some response from the system. One might plokta when the abort "
+"procedure for a program is not known, or when trying to figure out if the"
+" system is just sluggish or really hung. Plokta can also be used while "
+"trying to figure out any unknown key sequence for a particular operation."
+" Someone going into plokta mode usually places both hands flat on the "
+"keyboard and mashes them down, hoping for some useful response."
+msgstr ""
+
+#: ../../P/plokta.rst:14
+msgid ""
+"A slightly more directed form of plokta can often be seen in mail "
+"messages or Usenet articles from new users — the text might end with"
+msgstr ""
+
+#: ../../P/plokta.rst:32
+msgid ""
+"as the user vainly tries to find the right exit sequence, with the "
+"incorrect tries piling up at the end of the message...."
+msgstr ""
+

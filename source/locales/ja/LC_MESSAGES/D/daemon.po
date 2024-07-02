@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/daemon.rst:5
+msgid "daemon"
+msgstr ""
+
+#: ../../D/daemon.rst:7
+msgid "/day´mn/, /dee´mn/, n\\."
+msgstr ""
+
+#: ../../D/daemon.rst:9
+msgid ""
+"[from Maxwell's Demon, later incorrectly retronymed as ‘Disk And "
+"Execution MONitor’] A program that is not invoked explicitly, but lies "
+"dormant waiting for some condition(s) to occur. The idea is that the "
+"perpetrator of the condition need not be aware that a daemon is lurking "
+"(though often a program will commit an action only because it knows that "
+"it will implicitly invoke a daemon). For example, under :ref:`ITS`\\, "
+"writing a file on the LPT spooler's directory would invoke the spooling "
+"daemon, which would then print the file. The advantage is that programs "
+"wanting (in this example) files printed need neither compete for access "
+"to nor understand any idiosyncrasies of the LPT. They simply enter their "
+"implicit requests and let the daemon decide what to do with them. Daemons"
+" are usually spawned automatically by the system, and may either live "
+"forever or be regenerated at intervals."
+msgstr ""
+
+#: ../../D/daemon.rst:16
+msgid ""
+"Daemon and :ref:`demon` are often used interchangeably, but seem to have "
+"distinct connotations. The term daemon was introduced to computing by "
+":ref:`CTSS` people (who pronounced it /dee´mon/) and used it to refer to "
+"what ITS called a :ref:`dragon`\\; the prototype was a program called "
+"DAEMON that automatically made tape backups of the file system. Although "
+"the meaning and the pronunciation have drifted, we think this glossary "
+"reflects current (2003) usage."
+msgstr ""
+

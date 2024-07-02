@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../Y/YAFIYGI.rst:5
+msgid "YAFIYGI"
+msgstr ""
+
+#: ../../Y/YAFIYGI.rst:7
+msgid "/yaf´ee·y\\@·gee/, adj\\."
+msgstr ""
+
+#: ../../Y/YAFIYGI.rst:9
+msgid ""
+"[coined in response to WYSIWYG] Describes the command-oriented "
+"ed/vi/nroff/TeX style of word processing or other user interface, the "
+"opposite of :ref:`WYSIWYG`\\. Stands for \"You asked for it, you got "
+"it\", because what you actually asked for is often not apparent until "
+"long after it is too late to do anything about it. Used to denote "
+"perversity (\"Real Programmers use YAFIYGI tools...and like it!\") or, "
+"less often, a necessary tradeoff (\"Only a YAFIYGI tool can have full "
+"programmable flexibility in its interface. \")."
+msgstr ""
+
+#: ../../Y/YAFIYGI.rst:15
+msgid ""
+"This precise sense of \"You asked for it, you got it\" seems to have "
+"first appeared in Ed Post's classic parody *Real Programmers don't use "
+"Pascal* (see :ref:`Real-Programmer`\\s); the acronym is a more recent "
+"invention."
+msgstr ""
+

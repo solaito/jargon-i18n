@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/precedence-lossage.rst:5
+msgid "precedence lossage"
+msgstr ""
+
+#: ../../P/precedence-lossage.rst:7
+msgid "/pre´s\\@·dens los'\\@j/, n\\."
+msgstr ""
+
+#: ../../P/precedence-lossage.rst:9
+msgid ""
+"[C programmers] Coding error in an expression due to unexpected grouping "
+"of arithmetic or logical operators by the compiler. Used esp. of certain "
+"common coding errors in C due to the nonintuitively low precedence levels"
+" of :code:`&`\\, :code:`\\|`\\, :code:`^`\\, :code:`<<`\\, and :code:`>>`"
+" (for this reason, experienced C programmers deliberately forget the "
+"language's :ref:`baroque` precedence hierarchy and parenthesize "
+"defensively). Can always be avoided by suitable use of parentheses. "
+":ref:`LISP` fans enjoy pointing out that this can't happen in *their* "
+"favorite language, which eschews precedence entirely, requiring one to "
+"use explicit parentheses everywhere. See :ref:`aliasing-bug`\\, :ref"
+":`memory-leak`\\, :ref:`memory-smash`\\, :ref:`smash-the-stack`\\, :ref"
+":`fandango-on-core`\\, :ref:`overrun-screw`\\."
+msgstr ""
+

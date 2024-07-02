@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../I/Imminent-Death-Of-The-Net-Predicted-.rst:5
+msgid "Imminent Death Of The Net Predicted!"
+msgstr ""
+
+#: ../../I/Imminent-Death-Of-The-Net-Predicted-.rst:7
+msgid "prov\\."
+msgstr ""
+
+#: ../../I/Imminent-Death-Of-The-Net-Predicted-.rst:9
+msgid ""
+"[Usenet] Since :ref:`Usenet` first got off the ground in 1980--81, it has"
+" grown exponentially, approximately doubling in size every year. On the "
+"other hand, most people feel the :ref:`signal-to-noise-ratio` of Usenet "
+"has dropped steadily. These trends led, as far back as mid-1983, to "
+"predictions of the imminent collapse (or death) of the net. Ten years and"
+" numerous doublings later, enough of these gloomy prognostications have "
+"been confounded that the phrase \"Imminent Death Of The Net Predicted!\" "
+"has become a running joke, hauled out any time someone grumbles about the"
+" :ref:`S-N-ratio` or the huge and steadily increasing volume, or the "
+"possible loss of a key node or link, or the potential for lawsuits when "
+"ignoramuses post copyrighted material, etc., etc., etc."
+msgstr ""
+

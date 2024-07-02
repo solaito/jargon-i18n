@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/eye-candy.rst:5
+msgid "eye candy"
+msgstr ""
+
+#: ../../E/eye-candy.rst:7
+msgid "/i:´ kand\\`ee/, n\\."
+msgstr ""
+
+#: ../../E/eye-candy.rst:9
+msgid ""
+"[from mainstream slang \"ear candy\"] A display of some sort that's "
+"presented to :ref:`luser`\\s to keep them distracted while the program "
+"performs necessary background tasks. \"Give 'em some eye candy while the "
+"back-end :ref:`slurp`\\s that :ref:`BLOB` into core.\" Reported as "
+"mainstream usage among players of graphics-heavy computer games. We're "
+"also told this term is mainstream slang for soft pornography, but that "
+"sense does not appear to be live among hackers."
+msgstr ""
+

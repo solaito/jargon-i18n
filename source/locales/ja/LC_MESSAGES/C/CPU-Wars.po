@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/CPU-Wars.rst:5
+msgid "CPU Wars"
+msgstr ""
+
+#: ../../C/CPU-Wars.rst:7
+msgid "/C·P·U worz/, n\\."
+msgstr ""
+
+#: ../../C/CPU-Wars.rst:9
+msgid ""
+"A 1979 large-format comic by Chas Andres chronicling the attempts of the "
+"brainwashed androids of IPM (Impossible to Program Machines) to conquer "
+"and destroy the peaceful denizens of HEC (Human Engineered Computers). "
+"This rather transparent allegory featured many references to "
+":ref:`ADVENT` and the immortal line \"Eat flaming death, minicomputer "
+"mongrels!\" (uttered, of course, by an IPM stormtrooper). The whole "
+"shebang is now `available on the Web "
+"<http://www.e-pix.com/CPUWARS/cpuwars.html>`_."
+msgstr ""
+
+#: ../../C/CPU-Wars.rst:14
+msgid ""
+"It is alleged that the author subsequently received a letter of "
+"appreciation on IBM company stationery from the head of IBM's Thomas J. "
+"Watson Research Laboratories (at that time one of the few islands of true"
+" hackerdom in the IBM archipelago). The lower loop of the B in the IBM "
+"logo, it is said, had been carefully whited out. See :ref:`eat-flaming-"
+"death`\\."
+msgstr ""
+

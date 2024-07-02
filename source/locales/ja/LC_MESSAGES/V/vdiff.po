@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../V/vdiff.rst:5
+msgid "vdiff"
+msgstr ""
+
+#: ../../V/vdiff.rst:7
+msgid "/vee´dif/, v\\.,n\\."
+msgstr ""
+
+#: ../../V/vdiff.rst:9
+msgid ""
+"Visual diff. The operation of finding differences between two files by "
+":ref:`eyeball-search`\\. The term optical diff has also been reported, "
+"and is sometimes more specifically used for the act of superimposing two "
+"nearly identical printouts on one another and holding them up to a light "
+"to spot differences. Though this method is poor for detecting omissions "
+"in the ‘rear’ file, it can also be used with printouts of graphics, a "
+"claim few if any diff programs can make. See :ref:`diff`\\."
+msgstr ""
+
+#: ../../V/vdiff.rst:15
+msgid ""
+"An interesting variant of the vdiff technique usable by anyone who has "
+"sufficient control over the parallax of their eyeballs (e.g. those who "
+"can easily view random-dot stereograms), is to hold up two paper "
+"printouts and go cross-eyed to superimpose them. This invokes deep, fast,"
+" built-in image comparison wetware (the same machinery responsible for "
+"depth perception) and differences stand out almost immediately. This "
+"technique is good for finding edits in graphical images, or for comparing"
+" an image with a compressed version to spot artifacts."
+msgstr ""
+

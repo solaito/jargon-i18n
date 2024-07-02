@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../V/virtual-Friday.rst:5
+msgid "virtual Friday"
+msgstr ""
+
+#: ../../V/virtual-Friday.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../V/virtual-Friday.rst:9
+msgid ""
+"(also logical Friday) The last day before an extended weekend, if that "
+"day is not a ‘real’ Friday. For example, the U.S. holiday Thanksgiving is"
+" always on a Thursday. The next day is often also a holiday or taken as "
+"an extra day off, in which case Wednesday of that week is a virtual "
+"Friday (and Thursday is a virtual Saturday, as is Friday). There are also"
+" virtual Mondays that are actually Tuesdays, after the three-day weekends"
+" associated with many national holidays in the U.S."
+msgstr ""
+

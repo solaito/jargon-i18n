@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../Z/zap.rst:5
+msgid "zap"
+msgstr ""
+
+#: ../../Z/zap.rst:7
+msgid "n\\. Spiciness."
+msgstr ""
+
+#: ../../Z/zap.rst:10
+msgid "vt\\. To make food spicy."
+msgstr ""
+
+#: ../../Z/zap.rst:13
+msgid ""
+"vt\\. To make someone ‘suffer’ by making his food spicy. (Most hackers "
+"love spicy food. Hot-and-sour soup is considered wimpy unless it makes "
+"you wipe your nose for the rest of the meal.) See :ref:`zapped`\\."
+msgstr ""
+
+#: ../../Z/zap.rst:19
+msgid ""
+"vt\\. To modify, usually to correct; esp. used when the action is "
+"performed with a debugger or binary patching tool. Also implies surgical "
+"precision. \"Zap the debug level to 6 and run it again.\" In the IBM "
+"mainframe world, binary patches are applied to programs or to the OS with"
+" a program called ‘superzap’, whose file name is ‘IMASPZAP’ (possibly "
+"contrived from I M A SuPerZAP)."
+msgstr ""
+
+#: ../../Z/zap.rst:26
+msgid "vt\\. To erase or reset."
+msgstr ""
+
+#: ../../Z/zap.rst:30
+msgid ""
+"To :ref:`fry` a chip with static electricity. \"Uh oh — I think that "
+"lightning strike may have zapped the disk controller.\""
+msgstr ""
+

@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/sitename.rst:5
+msgid "sitename"
+msgstr ""
+
+#: ../../S/sitename.rst:7
+msgid "/si:t´naym/, n\\."
+msgstr ""
+
+#: ../../S/sitename.rst:9
+msgid ""
+"[Unix/Internet] The unique electronic name of a computer system, used to "
+"identify it in email, Usenet, or other forms of electronic information "
+"interchange. The folklore interest of sitenames stems from the creativity"
+" and humor they often display. Interpreting a sitename is not unlike "
+"interpreting a vanity license plate; one has to mentally unpack it, "
+"allowing for mono-case and length restrictions and the lack of "
+"whitespace. Hacker tradition deprecates dull, institutional-sounding "
+"names in favor of punchy, humorous, and clever coinages (except that it "
+"is considered appropriate for the official public gateway machine of an "
+"organization to bear the organization's name or acronym). Mythological "
+"references, cartoon characters, animal names, and allusions to SF or "
+"fantasy literature are probably the most popular sources for sitenames "
+"(in roughly descending order). The obligatory comment when discussing "
+"these is Harris's Lament: \"All the good ones are taken!\" See also :ref"
+":`network-address`\\."
+msgstr ""
+

@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/feep.rst:5
+msgid "feep"
+msgstr ""
+
+#: ../../F/feep.rst:7
+msgid "/feep/"
+msgstr ""
+
+#: ../../F/feep.rst:9
+msgid ""
+"n\\. The soft electronic ‘bell’ sound of a display terminal (except for a"
+" VT-52); a beep (in fact, the microcomputer world seems to prefer "
+":ref:`beep`\\)."
+msgstr ""
+
+#: ../../F/feep.rst:12
+msgid ""
+"vi\\. To cause the display to make a feep sound. ASR-33s (the original "
+"TTYs) do not feep; they have mechanical bells that ring. Alternate forms:"
+" :ref:`beep`\\, ‘bleep’, or just about anything suitably onomatopoeic. "
+"(Jeff MacNelly, in his comic strip *Shoe*\\, uses the word ‘eep’ for "
+"sounds made by computer terminals and video games; this is perhaps the "
+"closest written approximation yet.) The term ‘breedle’ was sometimes "
+"heard at SAIL, where the terminal bleepers are not particularly soft "
+"(they sound more like the musical equivalent of a raspberry or Bronx "
+"cheer; for a close approximation, imagine the sound of a Star Trek "
+"communicator's beep lasting for five seconds). The ‘feeper’ on a VT-52 "
+"has been compared to the sound of a '52 Chevy stripping its gears. See "
+"also :ref:`ding`\\."
+msgstr ""
+

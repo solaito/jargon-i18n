@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/spike.rst:5
+msgid "spike"
+msgstr ""
+
+#: ../../S/spike.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../S/spike.rst:10
+msgid ""
+"To defeat a selection mechanism by introducing a (sometimes temporary) "
+"device that forces a specific result. The word is used in several "
+"industries; telephone engineers refer to spiking a relay by inserting a "
+"pin to hold the relay in either the closed or open state, and railroaders"
+" refer to spiking a track switch so that it cannot be moved. In "
+"programming environments it normally refers to a temporary change, "
+"usually for testing purposes (as opposed to a permanent change, which "
+"would be called :ref:`hardwired`\\)."
+msgstr ""
+
+#: ../../S/spike.rst:15
+msgid ""
+"[borderline techspeak] A visible peak in an otherwise rather constant "
+"graph (e.g. a sudden surge in line voltage, an unexpected short \"high\" "
+"on a logical line in a circuit). Hackers frequently use this for a sudden"
+" short increase in some quantity such as system load or network traffic."
+msgstr ""
+

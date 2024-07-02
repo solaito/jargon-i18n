@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/memetics.rst:5
+msgid "memetics"
+msgstr ""
+
+#: ../../M/memetics.rst:7
+msgid "/me·met´iks/, n\\."
+msgstr ""
+
+#: ../../M/memetics.rst:9
+msgid ""
+"[from :ref:`meme`\\] The study of memes. As of early 2003, this is still "
+"an extremely informal and speculative endeavor, though the first steps "
+"towards at least statistical rigor have been made by H. Keith Henson and "
+"others. Memetics is a popular topic for speculation among hackers, who "
+"like to see themselves as the architects of the new information ecologies"
+" in which memes live and replicate."
+msgstr ""
+

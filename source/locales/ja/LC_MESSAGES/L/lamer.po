@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/lamer.rst:5
+msgid "lamer"
+msgstr ""
+
+#: ../../L/lamer.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../L/lamer.rst:9
+msgid "[originally among Amiga fans]"
+msgstr ""
+
+#: ../../L/lamer.rst:12
+msgid ""
+"Synonym for :ref:`luser`\\, not used much by hackers but common among "
+":ref:`warez-d00dz`\\, crackers, and :ref:`phreaker`\\s. A person who "
+"downloads much, but who never uploads. (Also known as leecher). Oppose "
+":ref:`elite`\\. Has the same connotations of self-conscious elitism that "
+"use of :ref:`luser` does among hackers."
+msgstr ""
+
+#: ../../L/lamer.rst:19
+msgid "Someone who tries to crack a BBS."
+msgstr ""
+
+#: ../../L/lamer.rst:22
+msgid ""
+"Someone who annoys the sysop or other BBS users — for instance, by "
+"posting lots of silly messages, uploading virus-ridden software, "
+"frequently dropping carrier, etc."
+msgstr ""
+
+#: ../../L/lamer.rst:24
+msgid ""
+"Crackers also use it to refer to cracker :ref:`wannabee`\\s. In phreak "
+"culture, a lamer is one who scams codes off others rather than doing "
+"cracks or really understanding the fundamental concepts. In :ref:`warez-"
+"d00dz` culture, where the ability to wave around cracked commercial "
+"software within days of (or before) release to the commercial market is "
+"much esteemed, the lamer might try to upload garbage or shareware or "
+"something incredibly old (old in this context is read as a few years to "
+"anything older than 3 days). ‘Lamer’ is also much used in the IRC world "
+"in a similar sense to the above."
+msgstr ""
+
+#: ../../L/lamer.rst:29
+msgid ""
+"This term seems to have originated in the Commodore-64 scene in the mid "
+"1980s. It was popularized among Amiga crackers of the mid-1980s by ‘Lamer"
+" Exterminator’, the most famous and feared Amiga virus ever, which "
+"gradually corrupted non-write-protected floppy disks with bad sectors. "
+"The bad sectors, when looked at, were overwritten with repetitions of the"
+" string \"LAMER! \"."
+msgstr ""
+

@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/Whorfian-mind-lock.rst:5
+msgid "Whorfian mind-lock"
+msgstr ""
+
+#: ../../W/Whorfian-mind-lock.rst:7
+msgid ""
+"[from the Lojban-language list] Software designs are often restricted in "
+"unavoidable ways by the capacities of the operating system or hardware "
+"they have to work with. Sometimes they are restricted in avoidable ways "
+"by mental habits a developer has picked up from a particular language or "
+"environment (perhaps a now-obsolete one) and never discarded. When a "
+"design develops complications that are the result of a mental habit that "
+"is no longer adaptive, the developer has succumbed to Whorfian mind-lock."
+" The design itself has been ‘whorfed’."
+msgstr ""
+
+#: ../../W/Whorfian-mind-lock.rst:12
+msgid ""
+"For example, some Unix designs are whorfed by the assumption that "
+"directory searches are linear and expensive for large directories; "
+"therefore directories must be kept small. Another common way to succumb "
+"to Whorfian mind-lock is to do serial processing with a small working set"
+" rather than slurping an entire file or data structure into memory; the "
+"hidden assumption here is that not much core is available and virtual "
+"memory works poorly if at all. Detecting Whorfian mind-lock is important,"
+" because it tends to introduce unnecessary complexity and bugs."
+msgstr ""
+

@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/free-software.rst:5
+msgid "free software"
+msgstr ""
+
+#: ../../F/free-software.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/free-software.rst:9
+msgid ""
+"As defined by Richard M. Stallman and used by the Free Software movement,"
+" this means software that gives users enough freedom to be used by the "
+"free software community. Specifically, users must be free to modify the "
+"software for their private use, and free to redistribute it either with "
+"or without modifications, either commercially or noncommercially, either "
+"gratis or charging a distribution fee. Free software has existed since "
+"the dawn of computing; Free Software as a movement began in 1984 with the"
+" GNU Project."
+msgstr ""
+
+#: ../../F/free-software.rst:13
+msgid ""
+"RMS observes that the English word \"free\" can refer either to liberty "
+"(where it means the same as the Spanish or French \"libre\") or to price "
+"(where it means the same as the Spanish \"gratis\" or French "
+"\"gratuit\"). RMS and other people associated with the FSF like to "
+"explain the word \"free\" in \"free software\" by saying \"Free as in "
+"speech, not as in beer.\""
+msgstr ""
+
+#: ../../F/free-software.rst:16
+msgid ""
+"See also :ref:`open-source`\\. Hard-core proponents of the term \"free "
+"software\" sometimes reject this newer term, claiming that the style of "
+"argument associated with it ignores or downplays the moral imperative at "
+"the heart of free software."
+msgstr ""
+

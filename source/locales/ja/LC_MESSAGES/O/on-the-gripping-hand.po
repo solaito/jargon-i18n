@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../O/on-the-gripping-hand.rst:5
+msgid "on the gripping hand"
+msgstr ""
+
+#: ../../O/on-the-gripping-hand.rst:7
+msgid ""
+"In the progression that starts \"On the one hand...\" and continues \"On "
+"the other hand...\" mainstream English may add \"on the third hand...\" "
+"even though most people don't have three hands. Among hackers, it is just"
+" as likely to be \"on the gripping hand\". This metaphor supplied the "
+"title of Larry Niven & Jerry Pournelle's 1993 SF novel \"The Gripping "
+"Hand\" which involved a species of hostile aliens with three arms (the "
+"same species, in fact, referenced in :ref:`juggling-eggs`\\). As with "
+":ref:`TANSTAAFL` and :ref:`con_`\\, this usage became one of the "
+"naturalized imports from SF fandom frequently observed among hackers."
+msgstr ""
+

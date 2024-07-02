@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/ARMM.rst:5
+msgid "ARMM"
+msgstr ""
+
+#: ../../A/ARMM.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../A/ARMM.rst:9
+msgid ""
+"[acronym, ‘Automated Retroactive Minimal Moderation’] A Usenet "
+":ref:`cancelbot` created by Dick Depew of Munroe Falls, Ohio. ARMM was "
+"intended to automatically cancel posts from anonymous-posting sites. "
+"Unfortunately, the robot's recognizer for anonymous postings triggered on"
+" its own automatically-generated control messages! Transformed by this "
+"stroke of programming ineptitude into a monster of Frankensteinian "
+"proportions, it broke loose on the night of March 30, 1993 and proceeded "
+"to :ref:`spam` :samp:`news.admin.policy` with a recursive explosion of "
+"over 200 messages."
+msgstr ""
+
+#: ../../A/ARMM.rst:14
+msgid ""
+"ARMM's bug produced a recursive :ref:`cascade` of messages each of which "
+"mechanically added text to the ID and Subject and some other headers of "
+"its parent. This produced a flood of messages in which each header took "
+"up several screens and each message ID and subject line got longer and "
+"longer and longer."
+msgstr ""
+
+#: ../../A/ARMM.rst:17
+msgid ""
+"Reactions varied from amusement to outrage. The pathological messages "
+"crashed at least one mail system, and upset people paying line charges "
+"for their Usenet feeds. One poster described the ARMM debacle as "
+"\"instant Usenet history\" (also establishing the term :ref:`despew`\\), "
+"and it has since been widely cited as a cautionary example of the havoc "
+"the combination of good intentions and incompetence can wreak on a "
+"network. The Usenet thread on the subject is `archived here "
+"<http://groups.google.com/groups?threadm=tweekC4qM0A.H3q%40netcom.com>`_."
+" Compare :ref:`Great-Worm`\\; :ref:`sorcerers-apprentice-mode`\\. See "
+"also :ref:`software-laser`\\, :ref:`network-meltdown`\\."
+msgstr ""
+

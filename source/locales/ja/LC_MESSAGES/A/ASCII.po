@@ -1,0 +1,407 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/ASCII.rst:5
+msgid "ASCII"
+msgstr ""
+
+#: ../../A/ASCII.rst:7
+msgid "/as´kee/, n\\."
+msgstr ""
+
+#: ../../A/ASCII.rst:9
+msgid ""
+"[originally an acronym (American Standard Code for Information "
+"Interchange) but now merely conventional] The predominant character set "
+"encoding of present-day computers. The standard version uses 7 bits for "
+"each character, whereas most earlier codes (including early drafts of "
+"ASCII prior to June 1961) used fewer. This change allowed the inclusion "
+"of lowercase letters — a major :ref:`win` — but it did not provide for "
+"accented letters or any other letterforms not used in English (such as "
+"the German sharp-S ß. or the ae-ligature æ which is a letter in, for "
+"example, Norwegian). It could be worse, though. It could be much worse. "
+"See :ref:`EBCDIC` to understand how. A history of ASCII and its ancestors"
+" is at `http://www.wps.com/texts/codes/index.html "
+"<http://www.wps.com/texts/codes/index.html>`_."
+msgstr ""
+
+#: ../../A/ASCII.rst:17
+msgid ""
+"Computers are much pickier and less flexible about spelling than humans; "
+"thus, hackers need to be very precise when talking about characters, and "
+"have developed a considerable amount of verbal shorthand for them. Every "
+"character has one or more names — some formal, some concise, some silly. "
+"Common jargon names for ASCII characters are collected here. See also "
+"individual entries for :ref:`bang`\\, :ref:`excl`\\, :ref:`open`\\, "
+":ref:`ques`\\, :ref:`semi`\\, :ref:`shriek`\\, :ref:`splat`\\, "
+":ref:`twiddle`\\, and :ref:`Yu-Shiang-Whole-Fish`\\."
+msgstr ""
+
+#: ../../A/ASCII.rst:22
+msgid ""
+"This list derives from revision 2.3 of the Usenet ASCII pronunciation "
+"guide. Single characters are listed in ASCII order; character pairs are "
+"sorted in by first member. For each character, common names are given in "
+"rough order of popularity, followed by names that are reported but rarely"
+" seen; official ANSI/CCITT names are surrounded by brokets: <>. Square "
+"brackets mark the particularly silly names introduced by "
+":ref:`INTERCAL`\\. The abbreviations \"l/r\" and \"o/c\" stand for "
+"left/right and \"open/close\" respectively. Ordinary parentheticals "
+"provide some usage information."
+msgstr ""
+
+#: ../../A/ASCII.rst:31
+msgid "!"
+msgstr ""
+
+#: ../../A/ASCII.rst:32
+msgid ""
+"Common: :ref:`bang` ; pling; excl; not; shriek; ball-bat; <exclamation "
+"mark>. Rare: factorial; exclam; smash; cuss; boing; yell; wow; hey; wham;"
+" eureka; [spark-spot]; soldier, control."
+msgstr ""
+
+#: ../../A/ASCII.rst:34
+msgid "\""
+msgstr ""
+
+#: ../../A/ASCII.rst:35
+msgid ""
+"Common: double quote; quote. Rare: literal mark; double-glitch; "
+"snakebite; <quotation marks>; <dieresis>; dirk; [rabbit-ears]; double "
+"prime."
+msgstr ""
+
+#: ../../A/ASCII.rst:37
+msgid "#"
+msgstr ""
+
+#: ../../A/ASCII.rst:38
+msgid ""
+"Common: number sign; pound; pound sign; hash; sharp; :ref:`crunch` ; hex;"
+" [mesh]. Rare: grid; cross­hatch; oc­to­thorpe; flash; <square>, pig-pen;"
+" tic­tac­toe; scratchmark; thud; thump; :ref:`splat` ."
+msgstr ""
+
+#: ../../A/ASCII.rst:40
+msgid "$"
+msgstr ""
+
+#: ../../A/ASCII.rst:41
+msgid ""
+"Common: dollar; <dollar sign>. Rare: currency symbol; buck; cash; bling; "
+"string (from BASIC); escape (when used as the echo of ASCII ESC); ding; "
+"cache; [big money]."
+msgstr ""
+
+#: ../../A/ASCII.rst:43
+msgid "%"
+msgstr ""
+
+#: ../../A/ASCII.rst:44
+msgid "Common: percent; <percent sign>; mod; grapes. Rare: [double-oh-seven]."
+msgstr ""
+
+#: ../../A/ASCII.rst:46
+msgid "&"
+msgstr ""
+
+#: ../../A/ASCII.rst:47
+msgid ""
+"Common: <ampersand>; amp; amper; and, and sign. Rare: address (from C); "
+"reference (from C++); andpersand; bitand; background (from "
+":manpage:`sh(1)` ); pretzel. [INTERCAL called this *ampersand* ; what "
+"could be sillier?]"
+msgstr ""
+
+#: ../../A/ASCII.rst:50
+msgid "'"
+msgstr ""
+
+#: ../../A/ASCII.rst:51
+msgid ""
+"Common: single quote; quote; <apostrophe>. Rare: prime; glitch; tick; "
+"irk; pop; [spark]; <closing single quotation mark>; <acute accent>."
+msgstr ""
+
+#: ../../A/ASCII.rst:53
+msgid "( )"
+msgstr ""
+
+#: ../../A/ASCII.rst:54
+msgid ""
+"Common: l/r paren; l/r parenthesis; left/right; o­pen­/­close; "
+"par­en/the­sis; o/c paren; o/c par­en­the­sis; l/r paren­the­sis; l/r "
+"ba­na­na. Rare: so/al­ready; lparen/rparen; <opening/closing "
+"parenthesis>; o/c round bracket, l/r round bracket, [wax/wane]; "
+"par­en­this­ey/un­par­en­this­ey; l/r ear."
+msgstr ""
+
+#: ../../A/ASCII.rst:56
+msgid "\\*"
+msgstr ""
+
+#: ../../A/ASCII.rst:57
+msgid ""
+"Common: star; [ :ref:`splat` ]; <asterisk>. Rare: wildcard; gear; dingle;"
+" mult; spider; aster; times; twinkle; glob (see :ref:`glob` ); :ref"
+":`Nathan-Hale` ."
+msgstr ""
+
+#: ../../A/ASCII.rst:60
+msgid "Common: <plus>; add. Rare: cross; [intersection]."
+msgstr ""
+
+#: ../../A/ASCII.rst:62
+msgid ","
+msgstr ""
+
+#: ../../A/ASCII.rst:63
+msgid "Common: <comma>. Rare: <cedilla>; [tail]."
+msgstr ""
+
+#: ../../A/ASCII.rst:66
+msgid "Common: dash; <hyphen>; <minus>. Rare: [worm]; option; dak; bithorpe."
+msgstr ""
+
+#: ../../A/ASCII.rst:68
+msgid "."
+msgstr ""
+
+#: ../../A/ASCII.rst:69
+msgid ""
+"Common: dot; point; <period>; <decimal point>. Rare: radix point; full "
+"stop; [spot]."
+msgstr ""
+
+#: ../../A/ASCII.rst:71
+msgid "/"
+msgstr ""
+
+#: ../../A/ASCII.rst:72
+msgid ""
+"Common: slash; stroke; <slant>; forward slash. Rare: diagonal; solidus; "
+"over; slak; virgule; [slat]."
+msgstr ""
+
+#: ../../A/ASCII.rst:74
+msgid ":"
+msgstr ""
+
+#: ../../A/ASCII.rst:75
+msgid "Common: <colon>. Rare: dots; [two-spot]."
+msgstr ""
+
+#: ../../A/ASCII.rst:77
+msgid ";"
+msgstr ""
+
+#: ../../A/ASCII.rst:78
+msgid "Common: <semicolon>; semi. Rare: weenie; [hybrid], pit-thwong."
+msgstr ""
+
+#: ../../A/ASCII.rst:80
+msgid "< >"
+msgstr ""
+
+#: ../../A/ASCII.rst:81
+msgid ""
+"Common: <less/great­er than>; bra/ket; l/r angle; l/r angle bracket; l/r "
+"broket. Rare: from/{into, towards}; read from/write to; suck/blow; comes-"
+"from/gozinta; in/out; crunch/zap (all from UNIX); tic/tac; [angle/right "
+"angle]."
+msgstr ""
+
+#: ../../A/ASCII.rst:83
+msgid "="
+msgstr ""
+
+#: ../../A/ASCII.rst:84
+msgid "Common: <equals>; gets; takes. Rare: quadrathorpe; [half-mesh]."
+msgstr ""
+
+#: ../../A/ASCII.rst:86
+msgid "?"
+msgstr ""
+
+#: ../../A/ASCII.rst:87
+msgid ""
+"Common: query; <question mark>; :ref:`ques` . Rare: quiz; whatmark; "
+"[what]; wildchar; huh; hook; buttonhook; hunchback."
+msgstr ""
+
+#: ../../A/ASCII.rst:89
+msgid "\\@"
+msgstr ""
+
+#: ../../A/ASCII.rst:90
+msgid ""
+"Common: at sign; at; strudel. Rare: each; vortex; whorl; [whirlpool]; "
+"cyclone; snail; ape; cat; rose; cabbage; <commercial at>."
+msgstr ""
+
+#: ../../A/ASCII.rst:92
+msgid "V"
+msgstr ""
+
+#: ../../A/ASCII.rst:93
+msgid "Rare: [book]."
+msgstr ""
+
+#: ../../A/ASCII.rst:94
+msgid "[ ]"
+msgstr ""
+
+#: ../../A/ASCII.rst:95
+msgid ""
+"Common: l/r square bracket; l/r bracket; <opening/closing brack­et>; "
+"brack­et/un­brack­et. Rare: square­/­un­square; [U turn/U turn back]."
+msgstr ""
+
+#: ../../A/ASCII.rst:98
+msgid ""
+"Common: backslash, hack, whack; escape (from C/UNIX); reverse slash; "
+"slosh; backslant; backwhack. Rare: bash; <reverse slant>; reversed "
+"virgule; [backslat]."
+msgstr ""
+
+#: ../../A/ASCII.rst:100
+msgid "^"
+msgstr ""
+
+#: ../../A/ASCII.rst:101
+msgid ""
+"Common: hat; control; uparrow; caret; <circumflex>. Rare: xor sign, "
+"chevron; [shark (or shark-fin)]; to the (‘to the power of’); fang; "
+"pointer (in Pascal)."
+msgstr ""
+
+#: ../../A/ASCII.rst:103
+msgid "_"
+msgstr ""
+
+#: ../../A/ASCII.rst:104
+msgid ""
+"Common: <underline>; underscore; underbar; under. Rare: score; backarrow;"
+" skid; [flatworm]."
+msgstr ""
+
+#: ../../A/ASCII.rst:106
+msgid "\\`"
+msgstr ""
+
+#: ../../A/ASCII.rst:107
+msgid ""
+"Common: backquote; left quote; left single quote; open quote; <grave "
+"accent>; grave. Rare: backprime; [backspark]; unapostrophe; birk; blugle;"
+" back tick; back glitch; push; <opening single quotation mark>; "
+"quasiquote."
+msgstr ""
+
+#: ../../A/ASCII.rst:109
+msgid "{ }"
+msgstr ""
+
+#: ../../A/ASCII.rst:110
+msgid ""
+"Common: o/c brace; l/r brace; l/r squiggly; l/r squiggly bracket/brace; "
+"l/r curly bracket/brace; <opening/closing brace>. Rare: brace/unbrace; "
+"curly/un­curly; leftit/rytit; l/r squirrelly; [embrace/bracelet]. A "
+"balanced pair of these may be called *curlies* ."
+msgstr ""
+
+#: ../../A/ASCII.rst:113
+msgid "\\|"
+msgstr ""
+
+#: ../../A/ASCII.rst:114
+msgid ""
+"Common: bar; or; or-bar; v-bar; pipe; vertical bar. Rare: <vertical "
+"line>; gozinta; thru; pipesinta (last three from UNIX); [spike]."
+msgstr ""
+
+#: ../../A/ASCII.rst:116
+msgid "~"
+msgstr ""
+
+#: ../../A/ASCII.rst:117
+msgid ""
+"Common: <tilde>; squiggle; :ref:`twiddle` ; not. Rare: approx; wiggle; "
+"swung dash; enyay; [sqiggle (sic)]."
+msgstr ""
+
+#: ../../A/ASCII.rst:120
+msgid ""
+"The pronunciation of ``#`` as ‘pound’ is common in the U.S. but a bad "
+"idea; :ref:`Commonwealth-Hackish` has its own, rather more apposite use "
+"of ‘pound sign’ (confusingly, on British keyboards the £ happens to "
+"replace ``#``\\; thus Britishers sometimes call ``#`` on a U.S.-ASCII "
+"keyboard ‘pound’, compounding the American error). The U.S. usage derives"
+" from an old-fashioned commercial practice of using a ``#`` suffix to tag"
+" pound weights on bills of lading. The character is usually pronounced "
+"‘hash’ outside the U.S. There are more culture wars over the correct "
+"pronunciation of this character than any other, which has led to the :ref"
+":`ha-ha-only-serious` suggestion that it be pronounced \"shibboleth\" "
+"(see Judges 12:6 in an Old Testament or Tanakh)."
+msgstr ""
+
+#: ../../A/ASCII.rst:125
+msgid ""
+"The ‘uparrow’ name for circumflex and ‘leftarrow’ name for underline are "
+"historical relics from archaic ASCII (the 1963 version), which had these "
+"graphics in those character positions rather than the modern punctuation "
+"characters."
+msgstr ""
+
+#: ../../A/ASCII.rst:127
+msgid ""
+"The ‘swung dash’ or ‘approximation’ sign (∼) is not quite the same as "
+"tilde ~ in typeset material, but the ASCII tilde serves for both (compare"
+" :ref:`angle-brackets`\\)."
+msgstr ""
+
+#: ../../A/ASCII.rst:129
+msgid ""
+"Some other common usages cause odd overlaps. The ``#``\\, ``$``\\, "
+"``>``\\, and ``&`` characters, for example, are all pronounced \"hex\" in"
+" different communities because various assemblers use them as a prefix "
+"tag for hexadecimal constants (in particular, ``#`` in many assembler-"
+"programming cultures, ``$`` in the 6502 world, ``>`` at Texas "
+"Instruments, and ``&`` on the BBC Micro, Sinclair, and some Z80 "
+"machines). See also :ref:`splat`\\."
+msgstr ""
+
+#: ../../A/ASCII.rst:133
+msgid ""
+"The inability of ASCII text to correctly represent any of the world's "
+"other major languages makes the designers' choice of 7 bits look more and"
+" more like a serious :ref:`misfeature` as the use of international "
+"networks continues to increase (see :ref:`software-rot`\\). Hardware and "
+"software from the U.S. still tends to embody the assumption that ASCII is"
+" the universal character set and that characters have 7 bits; this is a "
+"major irritant to people who want to use a character set suited to their "
+"own languages. Perversely, though, efforts to solve this problem by "
+"proliferating ‘national’ character sets produce an evolutionary pressure "
+"to use a *smaller* subset common to all those in use."
+msgstr ""
+

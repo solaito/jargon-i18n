@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../O/oriental-food.rst:5
+msgid "oriental food"
+msgstr ""
+
+#: ../../O/oriental-food.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../O/oriental-food.rst:9
+msgid ""
+"Hackers display an intense tropism towards oriental cuisine, especially "
+"Chinese, and especially of the spicier varieties such as Szechuan and "
+"Hunan. This phenomenon (which has also been observed in subcultures that "
+"overlap heavily with hackerdom, most notably science-fiction fandom) has "
+"never been satisfactorily explained, but is sufficiently intense that one"
+" can assume the target of a hackish dinner expedition to be the best "
+"local Chinese place and be right at least three times out of four. See "
+"also :ref:`ravs`\\, :ref:`great-wall`\\, :ref:`stir-fried-random`\\, :ref"
+":`laser-chicken`\\, :ref:`Yu-Shiang-Whole-Fish`\\. Thai, Indian, Korean, "
+"Burmese, and Vietnamese cuisines are also quite popular."
+msgstr ""
+

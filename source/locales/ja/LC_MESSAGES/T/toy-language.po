@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/toy-language.rst:5
+msgid "toy language"
+msgstr ""
+
+#: ../../T/toy-language.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/toy-language.rst:9
+msgid ""
+"A language useful for instructional purposes or as a proof-of-concept for"
+" some aspect of computer-science theory, but inadequate for general-"
+"purpose programming. :ref:`Bad-Thing`\\s can result when a toy language "
+"is promoted as a general purpose solution for programming (see :ref"
+":`bondage-and-discipline-language`\\); the classic example is "
+":ref:`Pascal`\\. Several moderately well-known formalisms for conceptual "
+"tasks such as programming Turing machines also qualify as toy languages "
+"in a less negative sense. See also :ref:`MFTL`\\."
+msgstr ""
+

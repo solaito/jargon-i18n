@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/choad.rst:5
+msgid "choad"
+msgstr ""
+
+#: ../../C/choad.rst:7
+msgid "/chohd/, n\\."
+msgstr ""
+
+#: ../../C/choad.rst:9
+msgid ""
+"Synonym for ‘penis’ used in :samp:`alt.tasteless` and popularized by the "
+"denizens thereof. They say: \"We think maybe it's from Middle English but"
+" we're all too damned lazy to check the OED.\" [I'm not. It isn't. —ESR] "
+"This term is alleged to have been inherited through 1960s underground "
+"comics, and to have been recently sighted in the Beavis and Butthead "
+"cartoons. Speakers of the Hindi, Bengali and Gujarati languages have "
+"confirmed that ‘choad’ is in fact an Indian vernacular word equivalent to"
+" ‘fuck’; it is therefore likely to have entered English slang via the "
+"British Raj."
+msgstr ""
+

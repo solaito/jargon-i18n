@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/religious-issues.rst:5
+msgid "religious issues"
+msgstr ""
+
+#: ../../R/religious-issues.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../R/religious-issues.rst:9
+msgid ""
+"Questions which seemingly cannot be raised without touching off :ref"
+":`holy-wars`\\, such as \"What is the best operating system (or editor, "
+"language, architecture, shell, mail reader, news reader)? \", \"What "
+"about that Heinlein guy, eh? \", \"What should we add to the new Jargon "
+"File?\" See :ref:`holy-wars`\\; see also :ref:`theology`\\, "
+":ref:`bigot`\\, and compare :ref:`rathole`\\."
+msgstr ""
+
+#: ../../R/religious-issues.rst:14
+msgid ""
+"This term is a prime example of :ref:`ha-ha-only-serious`\\. People "
+"actually develop the most amazing and religiously intense attachments to "
+"their tools, even when the tools are intangible. The most constructive "
+"thing one can do when one stumbles into the crossfire is mumble "
+":ref:`Get-a-life-` and leave — unless, of course, one's *own* "
+"unassailably rational and obviously correct choices are being slammed."
+msgstr ""
+

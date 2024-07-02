@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../O/one-banana-problem.rst:5
+msgid "one-banana problem"
+msgstr ""
+
+#: ../../O/one-banana-problem.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../O/one-banana-problem.rst:9
+msgid ""
+"At mainframe shops, where the computers have operators for routine "
+"administrivia, the programmers and hardware people tend to look down on "
+"the operators and claim that a trained monkey could do their job. It is "
+"frequently observed that the incentives that would be offered said "
+"monkeys can be used as a scale to describe the difficulty of a task. A "
+"one-banana problem is simple; hence, \"It's only a one-banana job at the "
+"most; what's taking them so long?\" At IBM, folklore divides the world "
+"into one-, two-, and three-banana problems. Other cultures have different"
+" hierarchies and may divide them more finely; at ICL, for example, five "
+"grapes (a bunch) equals a banana. Their upper limit for the in-house "
+":ref:`sysape`\\s is said to be two bananas and three grapes (another "
+"source claims it's three bananas and one grape, but observes \"However, "
+"this is subject to local variations, cosmic rays and ISO\"). At a "
+"complication level any higher than that, one asks the manufacturers to "
+"send someone around to check things."
+msgstr ""
+
+#: ../../O/one-banana-problem.rst:17
+msgid "See also :ref:`Infinite-Monkey-Theorem`\\."
+msgstr ""
+

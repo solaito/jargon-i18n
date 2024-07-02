@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../I/idempotent.rst:5
+msgid "idempotent"
+msgstr ""
+
+#: ../../I/idempotent.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../I/idempotent.rst:9
+msgid ""
+"[from mathematical techspeak] Acting as if used only once, even if used "
+"multiple times. This term is often used with respect to :ref:`C` header "
+"files, which contain common definitions and declarations to be included "
+"by several source files. If a header file is ever included twice during "
+"the same compilation (perhaps due to nested #include files), compilation "
+"errors can result unless the header file has protected itself against "
+"multiple inclusion; a header file so protected is said to be idempotent. "
+"The term can also be used to describe an initialization subroutine that "
+"is arranged to perform some critical action exactly once, even if the "
+"routine is called several times."
+msgstr ""
+

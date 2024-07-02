@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/samizdat.rst:5
+msgid "samizdat"
+msgstr ""
+
+#: ../../S/samizdat.rst:7
+msgid "/sahm·iz·daht/, n\\."
+msgstr ""
+
+#: ../../S/samizdat.rst:9
+msgid ""
+"[Russian, literally \"self publishing\"] The process of disseminating "
+"documentation via underground channels. Originally referred to "
+"underground duplication and distribution of banned books in the Soviet "
+"Union; now refers by obvious extension to any less-than-official "
+"promulgation of textual material, esp. rare, obsolete, or never-formally-"
+"published computer documentation. Samizdat is obviously much easier when "
+"one has access to high-bandwidth networks and high-quality laser "
+"printers. Note that samizdat is properly used only with respect to "
+"documents which contain needed information (see also :ref:`hacker-"
+"ethic`\\) but which are for some reason otherwise unavailable, but *not* "
+"in the context of documents which are available through normal channels, "
+"for which unauthorized duplication would be unethical copyright "
+"violation. See :ref:`Lions-Book` for a historical example."
+msgstr ""
+

@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/TAN.rst:5
+msgid "TAN"
+msgstr ""
+
+#: ../../T/TAN.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../T/TAN.rst:9
+msgid ""
+"[Usenet, particularly :samp:`rec.arts.sf.written.robert-jordan`\\] "
+"Abbrev. of ‘tangent’, as in \"off on a tangent\", and synonym for "
+":ref:`OT`\\. A number of hacker-humor synonyms are used for TAN in some "
+"newsgroups. Instances such as BEIGE, OFF-WHITE, BROWNISH-GRAY, and LIGHT "
+"BROWN have been observed. It is generally understood on newsgroups with "
+"this convention that any color descriptor is a TAN synonym if (a) used as"
+" the first word(s) of the topic of a Usenet post, (b) written in ALL "
+"CAPS, and (c) followed immediately by a colon. Usage: \"OFF-WHITE: 2000 "
+"Presidential candidates\" on an SF newsgroup."
+msgstr ""
+

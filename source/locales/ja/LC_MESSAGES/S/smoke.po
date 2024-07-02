@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/smoke.rst:5
+msgid "smoke"
+msgstr ""
+
+#: ../../S/smoke.rst:7
+msgid "vi\\."
+msgstr ""
+
+#: ../../S/smoke.rst:10
+msgid ""
+"To :ref:`crash` or blow up, usually spectacularly. \"The new version "
+"smoked, just like the last one.\" Used for both hardware (where it often "
+"describes an actual physical event), and software (where it's merely "
+"colorful)."
+msgstr ""
+
+#: ../../S/smoke.rst:15
+msgid ""
+"[from automotive slang] To be conspicuously fast. \"That processor really"
+" smokes.\" Compare :ref:`magic-smoke`\\."
+msgstr ""
+

@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/shell.rst:5
+msgid "shell"
+msgstr ""
+
+#: ../../S/shell.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/shell.rst:9
+msgid "[orig. :ref:`Multics` techspeak, widely propagated via Unix]"
+msgstr ""
+
+#: ../../S/shell.rst:13
+msgid ""
+"[techspeak] The command interpreter used to pass commands to an operating"
+" system; so called because it is the part of the operating system that "
+"interfaces with the outside world."
+msgstr ""
+
+#: ../../S/shell.rst:16
+msgid ""
+"More generally, any interface program that mediates access to a special "
+"resource or :ref:`server` for convenience, efficiency, or security "
+"reasons; for this meaning, the usage is usually a shell around whatever. "
+"This sort of program is also called a wrapper."
+msgstr ""
+
+#: ../../S/shell.rst:20
+msgid ""
+"A skeleton program, created by hand or by another program (like, say, a "
+"parser generator), which provides the necessary :ref:`incantation`\\s to "
+"set up some task and the control flow to drive it (the term :ref:`driver`"
+" is sometimes used synonymously). The user is meant to fill in whatever "
+"code is needed to get real work done. This usage is common in the AI and "
+"Microsoft Windows worlds, and confuses Unix hackers."
+msgstr ""
+
+#: ../../S/shell.rst:24
+msgid ""
+"Historical note: Apparently, the original Multics shell (sense 1) was so "
+"called because it was a shell (sense 3); it ran user programs not by "
+"starting up separate processes, but by dynamically linking the programs "
+"into its own code, calling them as subroutines, and then dynamically de-"
+"linking them on return. The VMS command interpreter still does something "
+"very like this."
+msgstr ""
+

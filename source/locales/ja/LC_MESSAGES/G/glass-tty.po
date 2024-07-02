@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/glass-tty.rst:5
+msgid "glass tty"
+msgstr ""
+
+#: ../../G/glass-tty.rst:7
+msgid "/glas T·T·Y/, /glas ti´tee/, n\\."
+msgstr ""
+
+#: ../../G/glass-tty.rst:9
+msgid ""
+"[obs.] A terminal that has a display screen but which, because of "
+"hardware or software limitations, behaves like a teletype or some other "
+"printing terminal, thereby combining the disadvantages of both: like a "
+"printing terminal, it can't do fancy display hacks, and like a display "
+"terminal, it doesn't produce hard copy. An example is the early ‘dumb’ "
+"version of Lear-Siegler ADM 3 (without cursor control). See "
+":ref:`tube`\\, :ref:`tty`\\; compare :ref:`dumb-terminal`\\. See * TV "
+"Typewriters* (Appendix A) for an interesting true story about a glass "
+"tty."
+msgstr ""
+

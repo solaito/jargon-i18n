@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/RTFB.rst:5
+msgid "RTFB"
+msgstr ""
+
+#: ../../R/RTFB.rst:7
+msgid "/R·T·F·B/, imp\\."
+msgstr ""
+
+#: ../../R/RTFB.rst:9
+msgid ""
+"[Unix] Abbreviation for ‘Read The Fucking Binary’. Used when neither "
+"documentation nor source for the problem at hand exists, and the only "
+"thing to do is use some debugger or monitor and directly analyze the "
+"assembler or even the machine code. \"No source for the buggy port "
+"driver? Aaargh! I hate proprietary operating systems. Time to RTFB.\""
+msgstr ""
+
+#: ../../R/RTFB.rst:16
+msgid ""
+"Of the various RTF? forms, ‘RTFB’ is the least pejorative against anyone "
+"asking a question for which RTFB is the answer; the anger here is "
+"directed at the absence of both source *and* adequate documentation."
+msgstr ""
+

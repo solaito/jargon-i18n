@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/thrash.rst:5
+msgid "thrash"
+msgstr ""
+
+#: ../../T/thrash.rst:7
+msgid "vi\\."
+msgstr ""
+
+#: ../../T/thrash.rst:9
+msgid ""
+"To move wildly or violently, without accomplishing anything useful. "
+"Paging or swapping systems that are overloaded waste most of their time "
+"moving data into and out of core (rather than performing useful "
+"computation) and are therefore said to thrash. Someone who keeps changing"
+" his mind (esp. about what to work on next) is said to be thrashing. A "
+"person frantically trying to execute too many tasks at once (and not "
+"spending enough time on any single task) may also be described as "
+"thrashing. Compare :ref:`multitask`\\."
+msgstr ""
+

@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/TLA.rst:5
+msgid "TLA"
+msgstr ""
+
+#: ../../T/TLA.rst:7
+msgid "/T·L·A/, n\\."
+msgstr ""
+
+#: ../../T/TLA.rst:9
+msgid "[Three-Letter Acronym]"
+msgstr ""
+
+#: ../../T/TLA.rst:12
+msgid ""
+"Self-describing abbreviation for a species with which computing "
+"terminology is infested."
+msgstr ""
+
+#: ../../T/TLA.rst:15
+msgid ""
+"Any confusing acronym. Examples include MCA, FTP, SNA, CPU, MMU, SCCS, "
+"DMU, FPU, NNTP, TLA. People who like this looser usage argue that not all"
+" TLAs have three letters, just as not all four-letter words have four "
+"letters. One also hears of ‘ETLA’ (Extended Three-Letter Acronym, "
+"pronounced /ee tee el ay/) being used to describe four-letter acronyms; "
+"the terms ‘SFLA’ (Stupid Four-Letter Acronym), ‘LFLA’ (Longer Four Letter"
+" Acronym), and VLFLA (Very Long Five Letter Acronym) have also been "
+"reported. See also :ref:`YABA`\\."
+msgstr ""
+
+#: ../../T/TLA.rst:21
+msgid ""
+"The self-effacing phrase \"TDM TLA\" (Too Damn Many...) is often used to "
+"bemoan the plethora of TLAs in use. In 1989, a random of the journalistic"
+" persuasion asked hacker Paul Boutin \"What do you think will be the "
+"biggest problem in computing in the 90s?\" Paul's straight-faced "
+"response: \"There are only 17,000 three-letter acronyms.\" (To be exact, "
+"there are ``26^3 = 17,576``\\.) There is probably some karmic justice in "
+"the fact that Paul Boutin subsequently became a journalist."
+msgstr ""
+

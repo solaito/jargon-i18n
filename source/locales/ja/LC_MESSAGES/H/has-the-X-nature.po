@@ -1,0 +1,36 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/has-the-X-nature.rst:5
+msgid "has the X nature"
+msgstr ""
+
+#: ../../H/has-the-X-nature.rst:7
+msgid ""
+"[seems to derive from Zen Buddhist koans of the form \"Does an X have the"
+" Buddha-nature?\"] adj. Common hacker construction for ‘is an X’, used "
+"for humorous emphasis. \"Anyone who can't even use a program with on-"
+"screen help embedded in it truly has the :ref:`loser` nature!\" See also "
+":ref:`the-X-that-can-be-Y-is-not-the-true-X`\\. See also :ref:`mu`\\."
+msgstr ""
+

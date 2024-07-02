@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/avatar.rst:5
+msgid "avatar"
+msgstr ""
+
+#: ../../A/avatar.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../A/avatar.rst:9
+msgid "[in Hindu mythology, the incarnation of a god]"
+msgstr ""
+
+#: ../../A/avatar.rst:12
+msgid ""
+"Among people working on virtual reality and :ref:`cyberspace` interfaces,"
+" an avatar is an icon or representation of a user in a shared virtual "
+"reality. The term is sometimes used on :ref:`MUD`\\s."
+msgstr ""
+
+#: ../../A/avatar.rst:16
+msgid ""
+"[CMU, Tektronix] :ref:`root`\\, :ref:`superuser`\\. There are quite a few"
+" Unix machines on which the name of the superuser account is ‘avatar’ "
+"rather than ‘root’. This quirk was originated by a CMU hacker who found "
+"the terms root and superuser unimaginative, and thought ‘avatar’ might "
+"better impress people with the responsibility they were accepting."
+msgstr ""
+

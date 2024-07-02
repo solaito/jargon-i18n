@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/chickenboner.rst:5
+msgid "chickenboner"
+msgstr ""
+
+#: ../../C/chickenboner.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/chickenboner.rst:9
+msgid ""
+"[spamfighters] Derogatory term for a spammer. The image that goes with it"
+" is of an overweight redneck with bad teeth living in a trailer, hunched "
+"in semi-darkness over his computer and surrounded by rotting chicken "
+"bones in half-eaten KFC buckets and empty beer cans. See "
+"`http://www.spamfaq.net/terminology.shtml#chickenboner "
+"<http://www.spamfaq.net/terminology.shtml#chickenboner>`_\\  for "
+"discussion."
+msgstr ""
+

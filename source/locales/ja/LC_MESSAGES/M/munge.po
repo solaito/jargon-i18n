@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/munge.rst:5
+msgid "munge"
+msgstr ""
+
+#: ../../M/munge.rst:7
+msgid "/muhnj/, vt\\."
+msgstr ""
+
+#: ../../M/munge.rst:10
+msgid "[derogatory] To imperfectly transform information."
+msgstr ""
+
+#: ../../M/munge.rst:13
+msgid "A comprehensive rewrite of a routine, data structure or the whole program."
+msgstr ""
+
+#: ../../M/munge.rst:16
+msgid ""
+"To modify data in some way the speaker doesn't need to go into right now "
+"or cannot describe succinctly (compare :ref:`mumble`\\)."
+msgstr ""
+
+#: ../../M/munge.rst:19
+msgid "To add :ref:`spamblock` to an email address."
+msgstr ""
+
+#: ../../M/munge.rst:21
+msgid ""
+"This term is often confused with :ref:`mung`\\, which probably was "
+"derived from it. However, it also appears the word munge was in common "
+"use in Scotland in the 1940s, and in Yorkshire in the 1950s, as a verb, "
+"meaning to munch up into a masticated mess, and as a noun, meaning the "
+"result of munging something up (the parallel with the :ref:`kluge`\\/ "
+":ref:`kludge` pair is amusing). The OED reports \"munge\" as an archaic "
+"verb meaning \"to wipe (a person's nose)\"."
+msgstr ""
+

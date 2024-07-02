@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/tweak.rst:5
+msgid "tweak"
+msgstr ""
+
+#: ../../T/tweak.rst:7
+msgid "vt\\."
+msgstr ""
+
+#: ../../T/tweak.rst:10
+msgid ""
+"To change slightly, usually in reference to a value. Also used "
+"synonymously with :ref:`twiddle`\\. If a program is almost correct, "
+"rather than figure out the precise problem you might just keep tweaking "
+"it until it works. See :ref:`frobnicate` and :ref:`fudge-factor`\\; also "
+"see :ref:`shotgun-debugging`\\."
+msgstr ""
+
+#: ../../T/tweak.rst:16
+msgid "To :ref:`tune` a program; preferred usage in the U.K."
+msgstr ""
+

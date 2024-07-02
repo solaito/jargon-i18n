@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/banner-site.rst:5
+msgid "banner site"
+msgstr ""
+
+#: ../../B/banner-site.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/banner-site.rst:9
+msgid ""
+"[warez d00dz] An FTP site storing pirated files where one must first "
+"click on several banners and/or subscribe to various ‘free’ services, "
+"usually generating some form of revenues for the site owner, to be able "
+"to access the site. More often than not, the username/password painfully "
+"obtained by clicking on banners and subscribing to bogus services or "
+"mailing lists turns out to be non-working or gives access to a site that "
+"always responds busy. See :ref:`ratio-site`\\, :ref:`leech-mode`\\."
+msgstr ""
+

@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/letterbomb.rst:5
+msgid "letterbomb"
+msgstr ""
+
+#: ../../L/letterbomb.rst:7
+msgid ""
+"n\\. A piece of :ref:`email` containing :ref:`live-data` intended to do "
+"nefarious things to the recipient's machine or terminal. It used to be "
+"possible, for example, to send letterbombs that would lock up some "
+"specific kinds of terminals when they are viewed, so thoroughly that the "
+"user must cycle power (see :ref:`cycle`\\, sense 3) to unwedge them. "
+"Under Unix, a letterbomb can also try to get part of its contents "
+"interpreted as a shell command to the mailer. The results of this could "
+"range from silly to tragic; fortunately it has been some years since any "
+"of the standard Unix/Internet mail software was vulnerable to such an "
+"attack (though, as the Melissa virus attack demonstrated in early 1999, "
+"Microsoft systems can have serious problems). See also :ref:`Trojan-"
+"horse`\\; compare :ref:`nastygram`\\."
+msgstr ""
+
+#: ../../L/letterbomb.rst:15
+msgid "Loosely, a :ref:`mailbomb`\\."
+msgstr ""
+

@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/elvish.rst:5
+msgid "elvish"
+msgstr ""
+
+#: ../../E/elvish.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../E/elvish.rst:10
+msgid ""
+"The Tengwar of Feanor, a table of letterforms resembling the beautiful "
+"Celtic half-uncial hand of the *Book of Kells*\\. Invented and described "
+"by J. R. R. Tolkien in *The Lord of The Rings* as an orthography for his "
+"fictional ‘elvish’ languages, this system (which is both visually and "
+"phonetically :ref:`elegant`\\) has long fascinated hackers (who tend to "
+"be intrigued by artificial languages in general). It is traditional for "
+"graphics printers, plotters, window systems, and the like to support a "
+"Feanorian typeface as one of their demo items. See also :ref:`elder-"
+"days`\\."
+msgstr ""
+
+#: ../../E/elvish.rst:16
+msgid ""
+"By extension, any odd or unreadable typeface produced by a graphics "
+"device."
+msgstr ""
+
+#: ../../E/elvish.rst:19
+msgid "The typeface mundanely called ‘Böcklin’, an art-Noveau display font."
+msgstr ""
+

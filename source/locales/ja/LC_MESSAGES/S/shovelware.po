@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/shovelware.rst:5
+msgid "shovelware"
+msgstr ""
+
+#: ../../S/shovelware.rst:7
+msgid "/shuh´v\\@l·weir\\`/, n\\."
+msgstr ""
+
+#: ../../S/shovelware.rst:10
+msgid ""
+"Extra software dumped onto a CD-ROM or tape to fill up the remaining "
+"space on the medium after the software distribution it's intended to "
+"carry, but not integrated with the distribution."
+msgstr ""
+
+#: ../../S/shovelware.rst:13
+msgid ""
+"A slipshod compilation of software dumped onto a CD-ROM without much care"
+" for organization or even usability."
+msgstr ""
+

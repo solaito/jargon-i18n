@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../K/Knights-of-the-Lambda-Calculus.rst:5
+msgid "Knights of the Lambda Calculus"
+msgstr ""
+
+#: ../../K/Knights-of-the-Lambda-Calculus.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../K/Knights-of-the-Lambda-Calculus.rst:9
+msgid ""
+"A semi-mythical organization of wizardly LISP and Scheme hackers. The "
+"name refers to a mathematical formalism invented by Alonzo Church, with "
+"which LISP is intimately connected. There is no enrollment list and the "
+"criteria for induction are unclear, but one well-known LISPer has been "
+"known to give out buttons and, in general, the *members* know who they "
+"are...."
+msgstr ""
+

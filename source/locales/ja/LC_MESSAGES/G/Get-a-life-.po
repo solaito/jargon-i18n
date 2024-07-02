@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/Get-a-life-.rst:5
+msgid "Get a life!"
+msgstr ""
+
+#: ../../G/Get-a-life-.rst:7
+msgid "imp\\."
+msgstr ""
+
+#: ../../G/Get-a-life-.rst:9
+msgid ""
+"Hacker-standard way of suggesting that the person to whom it is directed "
+"has succumbed to terminal geekdom (see :ref:`geek`\\). Often heard on "
+":ref:`Usenet`\\, esp. as a way of suggesting that the target is taking "
+"some obscure issue of :ref:`theology` too seriously. This exhortation was"
+" popularized by William Shatner on a 1987 *Saturday Night Live* episode "
+"in a speech that ended \"Get a life! \", but it can be traced back at "
+"least to ‘Valley Girl’ slang in 1983. It was certainly in wide use among "
+"hackers for years before achieving mainstream currency via the sitcom "
+"*Get A Life* in 1990."
+msgstr ""
+

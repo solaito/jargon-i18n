@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/HLL.rst:5
+msgid "HLL"
+msgstr ""
+
+#: ../../H/HLL.rst:7
+msgid "/H·L·L/, n\\."
+msgstr ""
+
+#: ../../H/HLL.rst:9
+msgid ""
+"[High-Level Language (as opposed to assembler)] Found primarily in email "
+"and news rather than speech. Rarely, the variants ‘VHLL’ and ‘MLL’ are "
+"found. VHLL stands for ‘Very-High-Level Language’ and is used to describe"
+" a :ref:`bondage-and-discipline-language` that the speaker happens to "
+"like; Prolog and Backus's FP are often called VHLLs. ‘MLL’ stands for "
+"‘Medium-Level Language’ and is sometimes used half-jokingly to describe "
+":ref:`C`\\, alluding to its ‘structured-assembler’ image. See also :ref"
+":`languages-of-choice`\\."
+msgstr ""
+

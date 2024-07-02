@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/DDT.rst:5
+msgid "DDT"
+msgstr ""
+
+#: ../../D/DDT.rst:7
+msgid "/D·D·T/, n\\."
+msgstr ""
+
+#: ../../D/DDT.rst:9
+msgid "[from the insecticide para-dichloro-diphenyl-trichloroethene]"
+msgstr ""
+
+#: ../../D/DDT.rst:12
+msgid ""
+"Generic term for a program that assists in debugging other programs by "
+"showing individual machine instructions in a readable symbolic form and "
+"letting the user change them. In this sense the term DDT is now archaic, "
+"having been widely displaced by debugger or names of individual programs "
+"like :code:`adb`\\, :code:`sdb`\\, :code:`dbx`\\, or :code:`gdb`\\."
+msgstr ""
+
+#: ../../D/DDT.rst:16
+msgid ""
+"[ITS] Under MIT's fabled :ref:`ITS` operating system, DDT (running under "
+"the alias HACTRN, a six-letterism for ‘Hack Translator’) was also used as"
+" the :ref:`shell` or top level command language used to execute other "
+"programs."
+msgstr ""
+
+#: ../../D/DDT.rst:19
+msgid ""
+"Any one of several specific DDTs (sense 1) supported on early :ref:`DEC` "
+"hardware and CP/M. The PDP-10 Reference Handbook (1969) contained a "
+"footnote on the first page of the documentation for DDT that illuminates "
+"the origin of the term:"
+msgstr ""
+
+#: ../../D/DDT.rst:38
+msgid ""
+"(The ‘tape’ referred to was, incidentally, not magnetic but paper.) "
+"Sadly, this quotation was removed from later editions of the handbook "
+"after the :ref:`suit`\\s took over and :ref:`DEC` became much more "
+"‘businesslike’."
+msgstr ""
+
+#: ../../D/DDT.rst:41
+msgid ""
+"The history above is known to many old-time hackers. But there's more: "
+"Peter Samson, compiler of the original :ref:`TMRC` lexicon, reports that "
+"he named DDT after a similar tool on the TX-0 computer, the direct "
+"ancestor of the PDP-1 built at MIT's Lincoln Lab in 1957. The debugger on"
+" that ground-breaking machine rejoiced in the name FLIT (FLexowriter "
+"Interrogation Tape). Flit was for many years the trade-name of a popular "
+"insecticide."
+msgstr ""
+

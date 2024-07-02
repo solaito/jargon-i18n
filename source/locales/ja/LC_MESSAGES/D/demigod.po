@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/demigod.rst:5
+msgid "demigod"
+msgstr ""
+
+#: ../../D/demigod.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/demigod.rst:9
+msgid ""
+"A hacker with years of experience, a world-wide reputation, and a major "
+"role in the development of at least one design, tool, or game used by or "
+"known to more than half of the hacker community. To qualify as a genuine "
+"demigod, the person must recognizably identify with the hacker community "
+"and have helped shape it. Major demigods include Ken Thompson and Dennis "
+"Ritchie (co-inventors of :ref:`Unix` and :ref:`C`\\), Richard M. Stallman"
+" (inventor of :ref:`EMACS`\\), Larry Wall (inventor of :ref:`Perl`\\), "
+"Linus Torvalds (inventor of :ref:`Linux`\\), and most recently James "
+"Gosling (inventor of Java, :ref:`NeWS`\\, and :ref:`GOSMACS`\\) and Guido"
+" van Rossum (inventor of :ref:`Python`\\). In their hearts of hearts, "
+"most hackers dream of someday becoming demigods themselves, and more than"
+" one major software project has been driven to completion by the author's"
+" veiled hopes of apotheosis. See also :ref:`net-god`\\, :ref:`true-"
+"hacker`\\, :ref:`ubergeek`\\. Since 1995 or so this term has been "
+"gradually displaced by :ref:`ubergeek`\\."
+msgstr ""
+

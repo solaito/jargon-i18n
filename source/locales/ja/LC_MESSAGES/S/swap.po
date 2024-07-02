@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/swap.rst:5
+msgid "swap"
+msgstr ""
+
+#: ../../S/swap.rst:7
+msgid "vt\\."
+msgstr ""
+
+#: ../../S/swap.rst:10
+msgid ""
+"[techspeak] To move information from a fast-access memory to a slow-"
+"access memory (swap out), or vice versa (swap in). Often refers "
+"specifically to the use of disks as virtual memory. As pieces of data or "
+"program are needed, they are swapped into :ref:`core` for processing; "
+"when they are no longer needed they may be swapped out again."
+msgstr ""
+
+#: ../../S/swap.rst:15
+msgid ""
+"The jargon use of these terms analogizes people's short-term memories "
+"with core. Cramming for an exam might be spoken of as swapping in. If you"
+" temporarily forget someone's name, but then remember it, your excuse is "
+"that it was swapped out. To keep something swapped in means to keep it "
+"fresh in your memory: \"I reread the TECO manual every few months to keep"
+" it swapped in.\" If someone interrupts you just as you got a good idea, "
+"you might say \"Wait a moment while I swap this out\", implying that a "
+"piece of paper is your extra-somatic memory and that if you don't swap "
+"the idea out by writing it down it will get overwritten and lost as you "
+"talk. Compare :ref:`page-in`\\, :ref:`page-out`\\."
+msgstr ""
+

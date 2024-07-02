@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/tardegy.rst:5
+msgid "tardegy"
+msgstr ""
+
+#: ../../T/tardegy.rst:7
+msgid "tar´d­jee, n\\."
+msgstr ""
+
+#: ../../T/tardegy.rst:9
+msgid ""
+"[deliberate mangling of tragedy] An incident in which someone who clearly"
+" deserves to be selected out of the gene pool on grounds of extreme "
+"stupidity meets with a messy end. Coined on the Darwin list, which is "
+"dedicated to chronicling such incidents; but almost all hackers would "
+"instantly recognize the intention of the term and laugh."
+msgstr ""
+

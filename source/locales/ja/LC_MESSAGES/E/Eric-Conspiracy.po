@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/Eric-Conspiracy.rst:5
+msgid "Eric Conspiracy"
+msgstr ""
+
+#: ../../E/Eric-Conspiracy.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../E/Eric-Conspiracy.rst:9
+msgid ""
+"A shadowy group of mustachioed hackers named Eric first pinpointed as a "
+"sinister conspiracy by an infamous :samp:`talk.bizarre` posting ca. 1987;"
+" this was doubtless influenced by the numerous ‘Eric’ jokes in the Monty "
+"Python oeuvre. There do indeed seem to be considerably more mustachioed "
+"Erics in hackerdom than the frequency of these three traits can account "
+"for unless they are correlated in some arcane way. Well-known examples "
+"include Eric Allman (he of the ‘Allman style’ described under :ref"
+":`indent-style`\\) and Erik Fair (co-author of NNTP); your editor has "
+"heard from more than a hundred others by email, and the organization line"
+" ‘Eric Conspiracy Secret Laboratories’ now emanates regularly from more "
+"than one site. See the Eric Conspiracy Web Page at "
+"`http://www.catb.org/~esr/ecsl/ <http://www.catb.org/~esr/ecsl/>`_\\  for"
+" full details."
+msgstr ""
+

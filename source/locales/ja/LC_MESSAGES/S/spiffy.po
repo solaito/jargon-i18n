@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/spiffy.rst:5
+msgid "spiffy"
+msgstr ""
+
+#: ../../S/spiffy.rst:7
+msgid "/spi´fee/, adj\\."
+msgstr ""
+
+#: ../../S/spiffy.rst:10
+msgid ""
+"Said of programs having a pretty, clever, or exceptionally well-designed "
+"interface. \"Have you seen the spiffy :ref:`X` version of :ref:`empire` "
+"yet?\""
+msgstr ""
+
+#: ../../S/spiffy.rst:14
+msgid ""
+"Said sarcastically of a program that is perceived to have little more "
+"than a flashy interface going for it. Which meaning should be drawn "
+"depends delicately on tone of voice and context. This word was common "
+"mainstream slang during the 1940s, in a sense close to 1."
+msgstr ""
+

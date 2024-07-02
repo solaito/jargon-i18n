@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../V/Visual-Fred.rst:5
+msgid "Visual Fred"
+msgstr ""
+
+#: ../../V/Visual-Fred.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../V/Visual-Fred.rst:9
+msgid ""
+"Pejorative hackerism for VB.NET (Visual Basic for the .NET framework). "
+"VB.NET has been marketed by Microsoft as an updated version of the "
+"previous Visual Basic on its .NET framework, but VB.NET is really just C#"
+" with a slightly different syntax and fewer libraries. Migrating existing"
+" code from Visual Basic to VB.NET is generally impractical because VB.NET"
+" has a large number of unnecessary incompatibilities with Visual Basic. "
+"Since VB.NET has essentially nothing to do with Visual Basic, a well-"
+"known ex-Microserf suggested that VB.NET should have a completely "
+"different name — Visual Fred. This rapidly caught on."
+msgstr ""
+

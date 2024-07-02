@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/proglet.rst:5
+msgid "proglet"
+msgstr ""
+
+#: ../../P/proglet.rst:7
+msgid "/prog´let/, n\\."
+msgstr ""
+
+#: ../../P/proglet.rst:9
+msgid ""
+"[UK] A short *extempore* program written to meet an immediate, transient "
+"need. Often written in BASIC, rarely more than a dozen lines long, and "
+"containing no subroutines. The largest amount of code that can be written"
+" off the top of one's head, that does not need any editing, and that runs"
+" correctly the first time (this amount varies significantly according to "
+"one's skill and the language one is using). Compare :ref:`toy-program`\\,"
+" :ref:`noddy`\\, :ref:`one-liner-wars`\\."
+msgstr ""
+

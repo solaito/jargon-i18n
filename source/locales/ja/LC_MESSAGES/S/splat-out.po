@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/splat-out.rst:5
+msgid "splat out"
+msgstr ""
+
+#: ../../S/splat-out.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../S/splat-out.rst:9
+msgid ""
+"[Usenet; syn. disemvowel] To partially obscure a potentially provocative "
+"word by substituting :ref:`splat` characters for some of its letters "
+"(usually, but not always, the vowels). The purpose is not to make the "
+"word unrecognizable but to make it a mention rather than a use, so that "
+"no flamewar ensues. Words often splatted out include N\\*z\\* (see :ref"
+":`Godwins-Law`\\), k\\*bo\\* (see :ref:`KIBO`\\, sense 2), "
+"\\*v\\*l\\*t\\*\\*n (anywhere fundamentalists might be lurking), "
+"\\*b\\*rt\\*\\*n, and g\\*n c\\*ntr\\*l. Compare :ref:`UN-asterisk-X`\\."
+msgstr ""
+

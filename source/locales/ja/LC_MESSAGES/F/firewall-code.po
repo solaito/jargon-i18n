@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/firewall-code.rst:5
+msgid "firewall code"
+msgstr ""
+
+#: ../../F/firewall-code.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/firewall-code.rst:10
+msgid ""
+"The code you put in a system (say, a telephone switch) to make sure that "
+"the users can't do any damage. Since users always want to be able to do "
+"everything but never want to suffer for any mistakes, the construction of"
+" a firewall is a question not only of defensive coding but also of "
+"interface presentation, so that users don't even get curious about those "
+"corners of a system where they can burn themselves."
+msgstr ""
+
+#: ../../F/firewall-code.rst:14
+msgid ""
+"Any sanity check inserted to catch a :ref:`can-t-happen` error. Wise "
+"programmers often change code to fix a bug twice: once to fix the bug, "
+"and once to insert a firewall which would have arrested the bug before it"
+" did quite as much damage."
+msgstr ""
+

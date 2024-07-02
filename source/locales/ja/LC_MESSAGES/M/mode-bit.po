@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/mode-bit.rst:5
+msgid "mode bit"
+msgstr ""
+
+#: ../../M/mode-bit.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../M/mode-bit.rst:9
+msgid ""
+"[common] A :ref:`flag`\\, usually in hardware, that selects between two "
+"(usually quite different) modes of operation. The connotations are "
+"different from :ref:`flag` bit in that mode bits are mainly written "
+"during a boot or set-up phase, are seldom explicitly read, and seldom "
+"change over the lifetime of an ordinary program. The classic example was "
+"the EBCDIC-vs.-ASCII bit (#12) of the Program Status Word of the IBM 360."
+msgstr ""
+

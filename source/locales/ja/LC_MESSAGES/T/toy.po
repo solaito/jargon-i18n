@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/toy.rst:5
+msgid "toy"
+msgstr ""
+
+#: ../../T/toy.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/toy.rst:9
+msgid "A computer system; always used with qualifiers."
+msgstr ""
+
+#: ../../T/toy.rst:11
+msgid "nice toy: One that supports the speaker's hacking style adequately."
+msgstr ""
+
+#: ../../T/toy.rst:13
+msgid ""
+"just a toy: A machine that yields insufficient :ref:`computron`\\s for "
+"the speaker's preferred uses. This is not condemnatory, as is :ref"
+":`bitty-box`\\; toys can at least be fun. It is also strongly conditioned"
+" by one's expectations; Cray XMP users sometimes consider the Cray-1 a "
+"toy, and certainly all RISC boxes and mainframes are toys by their "
+"standards. See also :ref:`Get-a-real-computer-`\\."
+msgstr ""
+

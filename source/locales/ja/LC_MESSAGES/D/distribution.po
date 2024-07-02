@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/distribution.rst:5
+msgid "distribution"
+msgstr ""
+
+#: ../../D/distribution.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/distribution.rst:10
+msgid ""
+"A software source tree packaged for distribution; but see :ref:`kit`\\. "
+"Since about 1996 unqualified use of this term often implies ‘ "
+":ref:`Linux` distribution’. The short form :ref:`distro` is often used "
+"for this sense."
+msgstr ""
+
+#: ../../D/distribution.rst:15
+msgid ""
+"A vague term encompassing mailing lists and Usenet newsgroups (but not "
+":ref:`BBS` :ref:`fora`\\); any topic-oriented message channel with "
+"multiple recipients."
+msgstr ""
+
+#: ../../D/distribution.rst:18
+msgid ""
+"An information-space domain (usually loosely correlated with geography) "
+"to which propagation of a Usenet message is restricted; a much-"
+"underutilized feature."
+msgstr ""
+

@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/ASCII-art.rst:5
+msgid "ASCII art"
+msgstr ""
+
+#: ../../A/ASCII-art.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../A/ASCII-art.rst:9
+msgid ""
+"The fine art of drawing diagrams using the ASCII character set (mainly "
+"``|``\\, ``-``\\, ``/``\\, ``\\``, and ``+``\\). Also known as character "
+"graphics or ASCII graphics; see also :ref:`boxology`\\. Here is a serious"
+" example:"
+msgstr ""
+
+#: ../../A/ASCII-art.rst:27
+msgid "And here are some very silly examples:"
+msgstr ""
+
+#: ../../A/ASCII-art.rst:48
+msgid ""
+"There is an important subgenre of ASCII art that puns on the standard "
+"character names in the fashion of a rebus."
+msgstr ""
+
+#: ../../A/ASCII-art.rst:62
+msgid ""
+"Within humorous ASCII art, there is for some reason an entire flourishing"
+" subgenre of pictures of silly cows. Four of these are reproduced in the "
+"examples above, here are three more:"
+msgstr ""
+
+#: ../../A/ASCII-art.rst:76
+msgid ""
+"Finally, here's a magnificent example of ASCII art depicting an Edwardian"
+" train station in Dunedin, New Zealand:"
+msgstr ""
+
+#: ../../A/ASCII-art.rst:103
+msgid ""
+"The next step beyond static tableaux in ASCII art is ASCII animation. "
+"There are not many large examples of this; perhaps the best known is the "
+"ASCII animation of the original *Star Wars* movie at "
+"`http://www.asciimation.co.nz/ <http://www.asciimation.co.nz/>`_."
+msgstr ""
+
+#: ../../A/ASCII-art.rst:106
+msgid ""
+"There is a newsgroup, :samp:`alt.ascii-art`\\, devoted to this genre; "
+"however, see also :ref:`warlording`\\."
+msgstr ""
+

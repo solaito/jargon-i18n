@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../Z/zigamorph.rst:5
+msgid "zigamorph"
+msgstr ""
+
+#: ../../Z/zigamorph.rst:7
+msgid "/zig'\\@·morf/, n\\."
+msgstr ""
+
+#: ../../Z/zigamorph.rst:10
+msgid ""
+"Hex FF (11111111) when used as a delimiter or :ref:`fence` character. "
+"Usage: primarily at IBM shops."
+msgstr ""
+
+#: ../../Z/zigamorph.rst:14
+msgid ""
+"[proposed] n. The Unicode non-character U+FFFF (1111111111111111), a "
+"character code which is not assigned to any character, and so is usable "
+"as end-of-string. (Unicode is a 16-bit character code intended to cover "
+"all of the world's writing systems, including Latin, Greek, Cyrillic, "
+"Chinese, hiragana, katakana, Devanagari, Thai, Laotian and many other "
+"scripts — support for :ref:`elvish` is planned for a future release)."
+msgstr ""
+

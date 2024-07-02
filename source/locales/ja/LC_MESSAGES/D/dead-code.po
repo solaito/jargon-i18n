@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/dead-code.rst:5
+msgid "dead code"
+msgstr ""
+
+#: ../../D/dead-code.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/dead-code.rst:9
+msgid ""
+"Routines that can never be accessed because all calls to them have been "
+"removed, or code that cannot be reached because it is guarded by a "
+"control structure that provably must always transfer control somewhere "
+"else. The presence of dead code may reveal either logical errors due to "
+"alterations in the program or significant changes in the assumptions and "
+"environment of the program (see also :ref:`software-rot`\\); a good "
+"compiler should report dead code so a maintainer can think about what it "
+"means. (Sometimes it simply means that an *extremely* defensive "
+"programmer has inserted :ref:`can-t-happen` tests which really can't "
+"happen — yet.) Syn. :ref:`grunge`\\. See also :ref:`dead`\\, and "
+":ref:`The Story of Mel'<story-of-mel>`\\."
+msgstr ""
+

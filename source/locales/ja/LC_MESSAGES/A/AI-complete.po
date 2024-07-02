@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/AI-complete.rst:5
+msgid "AI-complete"
+msgstr ""
+
+#: ../../A/AI-complete.rst:7
+msgid "/A·I k\\@m·pleet'/, adj\\."
+msgstr ""
+
+#: ../../A/AI-complete.rst:9
+msgid ""
+"[MIT, Stanford: by analogy with NP-complete (see :ref:`NP-`\\)] Used to "
+"describe problems or subproblems in AI, to indicate that the solution "
+"presupposes a solution to the ‘strong AI problem’ (that is, the synthesis"
+" of a human-level intelligence). A problem that is AI-complete is, in "
+"other words, just too hard."
+msgstr ""
+
+#: ../../A/AI-complete.rst:12
+msgid ""
+"Examples of AI-complete problems are ‘The Vision Problem’ (building a "
+"system that can see as well as a human) and ‘The Natural Language "
+"Problem’ (building a system that can understand and speak a natural "
+"language as well as a human). These may appear to be modular, but all "
+"attempts so far (2003) to solve them have foundered on the amount of "
+"context information and ‘intelligence’ they seem to require. See also "
+":ref:`gedanken`\\."
+msgstr ""
+

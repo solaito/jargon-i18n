@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/evil-and-rude.rst:5
+msgid "evil and rude"
+msgstr ""
+
+#: ../../E/evil-and-rude.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../E/evil-and-rude.rst:9
+msgid ""
+"Both :ref:`evil` and :ref:`rude`\\, but with the additional connotation "
+"that the rudeness was due to malice rather than incompetence. Thus, for "
+"example: Microsoft's Windows NT is *evil* because it's a competent "
+"implementation of a bad design; it's *rude* because it's gratuitously "
+"incompatible with Unix in places where compatibility would have been as "
+"easy and effective to do; but it's *evil and rude* because the "
+"incompatibilities are apparently there not to fix design bugs in Unix but"
+" rather to lock hapless customers and developers into the Microsoft way. "
+"Hackish *evil and rude* is close to the mainstream sense of ‘evil’."
+msgstr ""
+

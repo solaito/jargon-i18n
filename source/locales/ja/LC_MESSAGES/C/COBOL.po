@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/COBOL.rst:5
+msgid "COBOL"
+msgstr ""
+
+#: ../../C/COBOL.rst:7
+msgid "/koh´bol/, n\\."
+msgstr ""
+
+#: ../../C/COBOL.rst:9
+msgid ""
+"[COmmon Business-Oriented Language] (Synonymous with :ref:`evil`\\.) A "
+"weak, verbose, and flabby language used by :ref:`code-grinder`\\s to do "
+"boring mindless things on :ref:`dinosaur` mainframes. Hackers believe "
+"that all COBOL programmers are :ref:`suit`\\s or :ref:`code-grinder`\\s, "
+"and no self-respecting hacker will ever admit to having learned the "
+"language. Its very name is seldom uttered without ritual expressions of "
+"disgust or horror. One popular one is Edsger W. Dijkstra's famous "
+"observation that \"The use of COBOL cripples the mind; its teaching "
+"should, therefore, be regarded as a criminal offense.\" (from *Selected "
+"Writings on Computing: A Personal Perspective*\\) See also :ref:`fear-"
+"and-loathing`\\, :ref:`software-rot`\\."
+msgstr ""
+

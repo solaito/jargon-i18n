@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bomb.rst:5
+msgid "bomb"
+msgstr ""
+
+#: ../../B/bomb.rst:7
+msgid ""
+"v\\. General synonym for :ref:`crash` (sense 1) except that it is not "
+"used as a noun; esp. used of software or OS failures. \"Don't run Empire "
+"with less than 32K stack, it'll bomb.\""
+msgstr ""
+
+#: ../../B/bomb.rst:12
+msgid ""
+"n.,v. Atari ST and Macintosh equivalents of a Unix panic or Amiga :ref"
+":`guru-meditation`\\, in which icons of little black-powder bombs or "
+"mushroom clouds are displayed, indicating that the system has died. On "
+"the Mac, this may be accompanied by a decimal (or occasionally "
+"hexadecimal) number indicating what went wrong, similar to the Amiga :ref"
+":`guru-meditation` number. :ref:`MS-DOS` machines tend to get :ref"
+":`locked-up` in this situation."
+msgstr ""
+

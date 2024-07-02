@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/gas.rst:5
+msgid "gas"
+msgstr ""
+
+#: ../../G/gas.rst:7
+msgid "[as in ‘gas chamber’]"
+msgstr ""
+
+#: ../../G/gas.rst:9
+msgid ""
+"interj. A term of disgust and hatred, implying that gas should be "
+"dispensed in generous quantities, thereby exterminating the source of "
+"irritation. \"Some loser just reloaded the system for no reason! Gas!\""
+msgstr ""
+
+#: ../../G/gas.rst:14
+msgid ""
+"interj. A suggestion that someone or something ought to be flushed out of"
+" mercy. \"The system's getting :ref:`wedged` every few minutes. Gas!\""
+msgstr ""
+
+#: ../../G/gas.rst:19
+msgid ""
+"vt\\. To :ref:`flush` (sense 1). \"You should gas that old crufty "
+"software.\""
+msgstr ""
+
+#: ../../G/gas.rst:24
+msgid ""
+"[IBM] n. Dead space in nonsequentially organized files that was occupied "
+"by data that has since been deleted; the compression operation that "
+"removes it is called degassing (by analogy, perhaps, with the use of the "
+"same term in vacuum technology)."
+msgstr ""
+
+#: ../../G/gas.rst:27
+msgid ""
+"[IBM] n. Empty space on a disk that has been clandestinely allocated "
+"against future need."
+msgstr ""
+

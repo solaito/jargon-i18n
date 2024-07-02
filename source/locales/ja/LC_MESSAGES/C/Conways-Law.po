@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/Conways-Law.rst:5
+msgid "Conway's Law"
+msgstr ""
+
+#: ../../C/Conways-Law.rst:7
+msgid "prov\\."
+msgstr ""
+
+#: ../../C/Conways-Law.rst:9
+msgid ""
+"The rule that the organization of the software and the organization of "
+"the software team will be congruent; commonly stated as \"If you have "
+"four groups working on a compiler, you'll get a 4-pass compiler\". The "
+"original statement was more general, \"Organizations which design systems"
+" are constrained to produce designs which are copies of the communication"
+" structures of these organizations.\" This first appeared in the April "
+"1968 issue of :ref:`Datamation`\\. Compare :ref:`SNAFU-principle`\\."
+msgstr ""
+
+#: ../../C/Conways-Law.rst:14
+msgid ""
+"The law was named after Melvin Conway, an early proto-hacker who wrote an"
+" assembler for the Burroughs 220 called SAVE. (The name ‘SAVE’ didn't "
+"stand for anything; it was just that you lost fewer card decks and "
+"listings because they all had SAVE written on them.) There is also Tom "
+"Cheatham's amendment of Conway's Law: \"If a group of N persons "
+"implements a COBOL compiler, there will be N-1 passes. Someone in the "
+"group has to be the manager.\""
+msgstr ""
+

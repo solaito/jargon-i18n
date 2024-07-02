@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/Bad-Thing.rst:5
+msgid "Bad Thing"
+msgstr ""
+
+#: ../../B/Bad-Thing.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/Bad-Thing.rst:9
+msgid ""
+"[very common; always pronounced as if capitalized. Orig. fr. the 1930 "
+"Sellar & Yeatman parody of British history *1066 And All That*\\, but "
+"well-established among hackers in the U.S. as well.] Something that can't"
+" possibly result in improvement of the subject. This term is always "
+"capitalized, as in \"Replacing all of the DSL links with bicycle couriers"
+" would be a Bad Thing\". Oppose :ref:`Good-Thing`\\. British "
+"correspondents confirm that :ref:`Bad-Thing` and :ref:`Good-Thing` (and "
+"prob. therefore :ref:`Right-Thing` and :ref:`Wrong-Thing`\\) come from "
+"the book referenced in the etymology, which discusses rulers who were "
+"Good Kings but Bad Things. This has apparently created a mainstream idiom"
+" on the British side of the pond. It is very common among American "
+"hackers, but not in mainstream usage in the U.S. Compare :ref:`Bad-and-"
+"Wrong`\\."
+msgstr ""
+

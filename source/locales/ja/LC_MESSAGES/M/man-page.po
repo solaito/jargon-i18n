@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/man-page.rst:5
+msgid "man page"
+msgstr ""
+
+#: ../../M/man-page.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../M/man-page.rst:9
+msgid ""
+"A page from the Unix Programmer's Manual, documenting one of Unix's many "
+"commands, system calls, library subroutines, device driver interfaces, "
+"file formats, games, macro packages, or maintenance utilities. By "
+"extension, the term \"man page\" may be used to refer to documentation of"
+" any kind, under any system, though it is most likely to be confined to "
+"short on-line references."
+msgstr ""
+
+#: ../../M/man-page.rst:12
+msgid ""
+"As mentioned in , there is a standard syntax for referring to man page "
+"entries: the phrase \"foo(n)\" refers to the page for \"foo\" in chapter "
+"n of the manual, where chapter 1 is user commands, chapter 2 is system "
+"calls, etc."
+msgstr ""
+
+#: ../../M/man-page.rst:14
+msgid ""
+"The man page format is beloved, or berated, for having the same sort of "
+"pithy utility as the rest of Unix. Man pages tend to be written as very "
+"compact, concise descriptions which are complete but not forgiving of the"
+" lazy or careless reader. Their stylized format does a good job of "
+"summarizing the essentials: invocation syntax, options, basic "
+"functionality. While such a concise reference is perfect for the do-one-"
+"thing-and-do-it-well tools which are favored by the Unix philosophy, it "
+"admittedly breaks down when applied to a command which is itself a major "
+"subsystem."
+msgstr ""
+

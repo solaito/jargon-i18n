@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/for-the-rest-of-us.rst:5
+msgid "for the rest of us"
+msgstr ""
+
+#: ../../F/for-the-rest-of-us.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../F/for-the-rest-of-us.rst:9
+msgid "[from the Mac slogan \"The computer for the rest of us\"]"
+msgstr ""
+
+#: ../../F/for-the-rest-of-us.rst:12
+msgid ""
+"Used to describe a :ref:`spiffy` product whose affordability shames other"
+" comparable products, or (more often) used sarcastically to describe "
+":ref:`spiffy` but very overpriced products."
+msgstr ""
+
+#: ../../F/for-the-rest-of-us.rst:15
+msgid ""
+"Describes a program with a limited interface, deliberately limited "
+"capabilities, non-orthogonality, inability to compose primitives, or any "
+"other limitation designed to not ‘confuse’ a naive user. This places an "
+"upper bound on how far that user can go before the program begins to get "
+"in the way of the task instead of helping accomplish it. Used in "
+"reference to Macintosh software which doesn't provide obvious "
+"capabilities because it is thought that the poor lusers might not be able"
+" to handle them. Becomes ‘the rest of *them*\\’ when used in third-party "
+"reference; thus, \"Yes, it is an attractive program, but it's designed "
+"for The Rest Of Them\" means a program that superficially looks neat but "
+"has no depth beyond the surface flash. See also :ref:`WIMP-"
+"environment`\\, :ref:`Macintrash`\\, :ref:`point-and-drool-interface`\\, "
+":ref:`user-friendly`\\."
+msgstr ""
+

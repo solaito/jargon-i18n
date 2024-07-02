@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bogo-sort.rst:5
+msgid "bogo-sort"
+msgstr ""
+
+#: ../../B/bogo-sort.rst:7
+msgid "/boh\\`goh·sort´/, n\\."
+msgstr ""
+
+#: ../../B/bogo-sort.rst:9
+msgid ""
+"(var. : stupid-sort) The archetypical perversely awful algorithm (as "
+"opposed to :ref:`bubble-sort`\\, which is merely the generic *bad* "
+"algorithm). Bogo-sort is equivalent to repeatedly throwing a deck of "
+"cards in the air, picking them up at random, and then testing whether "
+"they are in order. It serves as a sort of canonical example of awfulness."
+" Looking at a program and seeing a dumb algorithm, one might say \"Oh, I "
+"see, this program uses bogo-sort.\" Esp. appropriate for algorithms with "
+"factorial or super-exponential running time in the average case and "
+"probabilistically infinite worst-case running time. Compare "
+":ref:`bogus`\\, :ref:`brute-force`\\."
+msgstr ""
+
+#: ../../B/bogo-sort.rst:18
+msgid ""
+"A spectacular variant of bogo-sort has been proposed which has the "
+"interesting property that, if the Many Worlds interpretation of quantum "
+"mechanics is true, it can sort an arbitrarily large array in linear time."
+" (In the Many-Worlds model, the result of any quantum action is to split "
+"the universe-before into a sheaf of universes-after, one for each "
+"possible way the state vector can collapse; in any one of the universes-"
+"after the result appears random.) The steps are: 1. Permute the array "
+"randomly using a quantum process, 2. If the array is not sorted, destroy "
+"the universe (checking that the list is sorted requires O(n) time). "
+"Implementation of step 2 is left as an exercise for the reader."
+msgstr ""
+

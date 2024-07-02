@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/weenie.rst:5
+msgid "weenie"
+msgstr ""
+
+#: ../../W/weenie.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../W/weenie.rst:10
+msgid ""
+"[on BBSes] Any of a species of luser resembling a less amusing version of"
+" :ref:`B1FF` that infests many :ref:`BBS` systems. The typical weenie is "
+"a teenage boy with poor social skills travelling under a grandiose "
+":ref:`handle` derived from fantasy or heavy-metal rock lyrics. Among "
+"sysops, the weenie problem refers to the marginally literate and "
+"profanity-laden :ref:`flamage` weenies tend to spew all over a newly-"
+"discovered BBS. Compare :ref:`spod`\\, :ref:`geek`\\, :ref:`terminal-"
+"junkie`\\, :ref:`warez-d00dz`\\."
+msgstr ""
+
+#: ../../W/weenie.rst:16
+msgid ""
+"[among hackers] When used with a qualifier (for example, as in :ref"
+":`Unix-weenie`\\, VMS weenie, IBM weenie) this can be either an insult or"
+" a term of praise, depending on context, tone of voice, and whether or "
+"not it is applied by a person who considers him or herself to be the same"
+" sort of weenie. Implies that the weenie has put a major investment of "
+"time, effort, and concentration into the area indicated; whether this is "
+"good or bad depends on the hearer's judgment of how the speaker feels "
+"about that area. See also :ref:`bigot`\\."
+msgstr ""
+
+#: ../../W/weenie.rst:21
+msgid "The semicolon character, ``;`` (ASCII 0111011)."
+msgstr ""
+

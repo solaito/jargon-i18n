@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/war-dialer.rst:5
+msgid "war dialer"
+msgstr ""
+
+#: ../../W/war-dialer.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../W/war-dialer.rst:9
+msgid ""
+"[originally from ‘wargames dialer’, a reference to the movie *War "
+"Games*\\] A cracking tool, a program that calls a given list or range of "
+"phone numbers and records those which answer with handshake tones (and so"
+" might be entry points to computer or telecommunications systems). Some "
+"of these programs have become quite sophisticated, and can now detect "
+"modem, fax, or PBX tones and log each one separately. The war dialer is "
+"one of the most important tools in the :ref:`phreaker`\\'s kit. These "
+"programs evolved from early :ref:`demon-dialer`\\s."
+msgstr ""
+

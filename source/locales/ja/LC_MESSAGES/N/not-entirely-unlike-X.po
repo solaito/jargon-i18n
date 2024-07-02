@@ -1,0 +1,37 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/not-entirely-unlike-X.rst:5
+msgid "not entirely unlike X"
+msgstr ""
+
+#: ../../N/not-entirely-unlike-X.rst:7
+msgid ""
+"Used ironically of things which are in fact almost entirely unlike X, "
+"except for one feature which the speaker clearly regards as "
+"insignificant. \"That is not entirely unlike cool...at least it's "
+"small.\" Comes directly from the Hitchiker's Guide to the Galaxy scene in"
+" which the food synthesizer on the starship *Heart of Gold* dispenses "
+"something \"almost, but not quite, entirely unlike tea\"."
+msgstr ""
+

@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/mode.rst:5
+msgid "mode"
+msgstr ""
+
+#: ../../M/mode.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../M/mode.rst:9
+msgid ""
+"[common] A general state, usually used with an adjective describing the "
+"state. Use of the word ‘mode’ rather than ‘state’ implies that the state "
+"is extended over time, and probably also that some activity "
+"characteristic of that state is being carried out. \"No time to hack; I'm"
+" in thesis mode.\" In its jargon sense, ‘mode’ is most often attributed "
+"to people, though it is sometimes applied to programs and inanimate "
+"objects. In particular, see :ref:`hack-mode`\\, :ref:`day-mode`\\, :ref"
+":`night-mode`\\, :ref:`demo-mode`\\, :ref:`fireworks-mode`\\, and :ref"
+":`yoyo-mode`\\; also :ref:`talk-mode`\\."
+msgstr ""
+
+#: ../../M/mode.rst:15
+msgid ""
+"One also often hears the verbs enable and disable used in connection with"
+" jargon modes. Thus, for example, a sillier way of saying \"I'm going to "
+"crash\" is \"I'm going to enable crash mode now\". One might also hear a "
+"request to \"disable flame mode, please\"."
+msgstr ""
+
+#: ../../M/mode.rst:19
+msgid ""
+"In a usage much closer to techspeak, a mode is a special state that "
+"certain user interfaces must pass into in order to perform certain "
+"functions. For example, in order to insert characters into a document in "
+"the Unix editor :code:`vi`\\, one must type the \"i\" key, which invokes "
+"the \"Insert\" command. The effect of this command is to put vi into "
+"\"insert mode\", in which typing the \"i\" key has a quite different "
+"effect (to wit, it inserts an \"i\" into the document). One must then hit"
+" another special key, \"ESC\", in order to leave \"insert mode\". "
+"Nowadays, modeful interfaces are generally considered :ref:`losing` but "
+"survive in quite a few widely used tools built in less enlightened times."
+msgstr ""
+

@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/FRS.rst:5
+msgid "FRS"
+msgstr ""
+
+#: ../../F/FRS.rst:7
+msgid "//, n\\.,obs\\."
+msgstr ""
+
+#: ../../F/FRS.rst:9
+msgid ""
+"[obs.] Abbreviation for \"Freely Redistributable Software\" which entered"
+" general use on the Internet in 1995 after years of low-level confusion "
+"over what exactly to call software written to be passed around and shared"
+" (contending terms including :ref:`freeware`\\, :ref:`shareware`\\, and "
+"sourceware were never universally felt to be satisfactory for various "
+"subtle reasons). The first formal conference on freely redistributable "
+"software was held in Cambridge, Massachussetts, in February 1996 "
+"(sponsored by the Free Software Foundation). The conference organizers "
+"used the FRS abbreviation heavily in its calls for papers and other "
+"literature during 1995. The term was in steady though not common use "
+"until 1998 and the invention of :ref:`open-source`\\, after which it "
+"became swiftly obsolete."
+msgstr ""
+

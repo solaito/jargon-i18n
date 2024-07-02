@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../U/uptime.rst:5
+msgid "uptime"
+msgstr ""
+
+#: ../../U/uptime.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../U/uptime.rst:9
+msgid ""
+"Technically, a machine's time since last reboot; jargonically, how long a"
+" hacker has gone without sleep. \"What's your uptime?\" \"Oh, about 28 "
+"hours so far, but I think I can probably do another 12.\" This is, of "
+"course, a reference to the uptime command and the pride with which most "
+"Unix types note how long their computers go without reboots. Uptime is a "
+"testament to the stability of the OS and the stamina of the hacker."
+msgstr ""
+

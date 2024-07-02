@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/display-hack.rst:5
+msgid "display hack"
+msgstr ""
+
+#: ../../D/display-hack.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/display-hack.rst:9
+msgid ""
+"A program with the same approximate purpose as a kaleidoscope: to make "
+"pretty pictures. Famous display hacks include :ref:`munching-squares`\\, "
+":ref:`smoking-clover`\\, the BSD Unix :manpage:`rain(6)` program, "
+":manpage:`worms(6)` on miscellaneous Unixes, and the :ref:`X` "
+":manpage:`kaleid(1)` program. Display hacks can also be implemented by "
+"creating text files containing numerous escape sequences for "
+"interpretation by a video terminal; one notable example displayed, on any"
+" VT100, a Christmas tree with twinkling lights and a toy train circling "
+"its base. The :ref:`hack-value` of a display hack is proportional to the "
+"esthetic value of the images times the cleverness of the algorithm "
+"divided by the size of the code. Syn. :ref:`psychedelicware`\\."
+msgstr ""
+

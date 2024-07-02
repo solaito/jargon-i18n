@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/FM.rst:5
+msgid "FM"
+msgstr ""
+
+#: ../../F/FM.rst:7
+msgid "/F·M/, n\\."
+msgstr ""
+
+#: ../../F/FM.rst:10
+msgid ""
+"[common] *Not* ‘Frequency Modulation’ but rather an abbreviation for "
+"‘Fucking Manual’, the back-formation from :ref:`RTFM`\\. Used to refer to"
+" the manual itself in the :ref:`RTFM`\\. \"Have you seen the Networking "
+"FM lately?\""
+msgstr ""
+
+#: ../../F/FM.rst:15
+msgid ""
+"Abbreviation for \"Fucking Magic\", used in the sense of :ref:`black-"
+"magic`\\."
+msgstr ""
+

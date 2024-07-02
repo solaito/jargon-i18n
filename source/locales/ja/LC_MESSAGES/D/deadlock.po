@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/deadlock.rst:5
+msgid "deadlock"
+msgstr ""
+
+#: ../../D/deadlock.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/deadlock.rst:10
+msgid ""
+"[techspeak] A situation wherein two or more processes are unable to "
+"proceed because each is waiting for one of the others to do something. A "
+"common example is a program communicating to a server, which may find "
+"itself waiting for output from the server before sending anything more to"
+" it, while the server is similarly waiting for more input from the "
+"controlling program before outputting anything. (It is reported that this"
+" particular flavor of deadlock is sometimes called a starvation deadlock,"
+" though the term starvation is more properly used for situations where a "
+"program can never run simply because it never gets high enough priority. "
+"Another common flavor is constipation, in which each process is trying to"
+" send stuff to the other but all buffers are full because nobody is "
+"reading anything.) See :ref:`deadly-embrace`\\."
+msgstr ""
+
+#: ../../D/deadlock.rst:17
+msgid ""
+"Also used of deadlock-like interactions between humans, as when two "
+"people meet in a narrow corridor, and each tries to be polite by moving "
+"aside to let the other pass, but they end up swaying from side to side "
+"without making any progress because they always move the same way at the "
+"same time."
+msgstr ""
+

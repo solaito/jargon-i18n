@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/Chernobyl-packet.rst:5
+msgid "Chernobyl packet"
+msgstr ""
+
+#: ../../C/Chernobyl-packet.rst:7
+msgid "/cher·noh´b\\@l pak'\\@t/, n\\."
+msgstr ""
+
+#: ../../C/Chernobyl-packet.rst:9
+msgid ""
+"A network packet that induces a :ref:`broadcast-storm` and/or :ref"
+":`network-meltdown`\\, in memory of the April 1986 nuclear accident at "
+"Chernobyl in Ukraine. The typical scenario involves an IP Ethernet "
+"datagram that passes through a gateway with both source and destination "
+"Ether and IP address set as the respective broadcast addresses for the "
+"subnetworks being gated between. Compare :ref:`Christmas-tree-packet`\\."
+msgstr ""
+

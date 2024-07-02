@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/like-nailing-jelly-to-a-tree.rst:5
+msgid "like nailing jelly to a tree"
+msgstr ""
+
+#: ../../L/like-nailing-jelly-to-a-tree.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../L/like-nailing-jelly-to-a-tree.rst:9
+msgid ""
+"Used to describe a task thought to be impossible, esp. one in which the "
+"difficulty arises from poor specification or inherent slipperiness in the"
+" problem domain. \"Trying to display the ‘prettiest’ arrangement of nodes"
+" and arcs that diagrams a given graph is like nailing jelly to a tree, "
+"because nobody's sure what ‘prettiest’ means algorithmically.\""
+msgstr ""
+
+#: ../../L/like-nailing-jelly-to-a-tree.rst:13
+msgid ""
+"Hacker use of this term may recall mainstream slang originated early in "
+"the 20th century by President Theodore Roosevelt. There is a legend that,"
+" weary of inconclusive talks with Colombia over the right to dig a canal "
+"through its then-province Panama, he remarked, \"Negotiating with those "
+"pirates is like trying to nail currant jelly to the wall.\" Roosevelt's "
+"government subsequently encouraged the anti-Colombian insurgency that "
+"created the nation of Panama."
+msgstr ""
+

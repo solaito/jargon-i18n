@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/TOS.rst:5
+msgid "TOS"
+msgstr ""
+
+#: ../../T/TOS.rst:7
+msgid "vt\\."
+msgstr ""
+
+#: ../../T/TOS.rst:9
+msgid "[from the acronym for ‘Terms Of Service’ playing on the verb \"toss\"]"
+msgstr ""
+
+#: ../../T/TOS.rst:12
+msgid ""
+"The act of terminating an Internet access account because the owner "
+"breached the terms of service (e.g. by spamming)."
+msgstr ""
+
+#: ../../T/TOS.rst:16
+msgid ""
+"To successfully complain to the ISP for that reason so that they then "
+"close the account."
+msgstr ""
+

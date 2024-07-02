@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/field-circus.rst:5
+msgid "field circus"
+msgstr ""
+
+#: ../../F/field-circus.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/field-circus.rst:9
+msgid ""
+"[a derogatory pun on ‘field service’] The field service organization of "
+"any hardware manufacturer, but originally :ref:`DEC`\\. There is an "
+"entire genre of jokes about field circus engineers:"
+msgstr ""
+
+#: ../../F/field-circus.rst:26
+msgid "[See :ref:`Easter-egging` for additional insight on these jokes.]"
+msgstr ""
+
+#: ../../F/field-circus.rst:28
+msgid ""
+"There is also the ‘Field Circus Cheer’ (from the old :ref:`plan-file` for"
+" DEC on MIT-AI):"
+msgstr ""
+
+#: ../../F/field-circus.rst:39
+msgid ""
+"(DEC's service HQ, still extant under the HP regime, is located in "
+"Maynard, Massachusetts.)"
+msgstr ""
+

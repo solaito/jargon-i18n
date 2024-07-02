@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/boot.rst:5
+msgid "boot"
+msgstr ""
+
+#: ../../B/boot.rst:7
+msgid "v\\.,n\\."
+msgstr ""
+
+#: ../../B/boot.rst:9
+msgid ""
+"[techspeak; from ‘by one's bootstraps’] To load and initialize the "
+"operating system on a machine. This usage is no longer jargon (having "
+"passed into techspeak) but has given rise to some derivatives that are "
+"still jargon."
+msgstr ""
+
+#: ../../B/boot.rst:12
+msgid ""
+"The derivative reboot implies that the machine hasn't been down for long,"
+" or that the boot is a :ref:`bounce` (sense 4) intended to clear some "
+"state of :ref:`wedgitude`\\. This is sometimes used of human thought "
+"processes, as in the following exchange: \"You've lost me.\" \"OK, "
+"reboot. Here's the theory....\""
+msgstr ""
+
+#: ../../B/boot.rst:17
+msgid ""
+"This term is also found in the variants cold boot (from power-off "
+"condition) and warm boot (with the CPU and all devices already powered "
+"up, as after a hardware reset or software crash)."
+msgstr ""
+
+#: ../../B/boot.rst:19
+msgid ""
+"Another variant: soft boot, reinitialization of only part of a system, "
+"under control of other software still running: \"If you're running the "
+":ref:`mess-dos` emulator, control-alt-insert will cause a soft-boot of "
+"the emulator, while leaving the rest of the system running.\""
+msgstr ""
+
+#: ../../B/boot.rst:21
+msgid ""
+"Opposed to this there is hard boot, which connotes hostility towards or "
+"frustration with the machine being booted: \"I'll have to hard-boot this "
+"losing Sun.\" \"I recommend booting it hard.\" One often hard-boots by "
+"performing a :ref:`power-cycle`\\."
+msgstr ""
+
+#: ../../B/boot.rst:25
+msgid ""
+"Historical note: this term derives from bootstrap loader, a short program"
+" that was read in from cards or paper tape, or toggled in from the front "
+"panel switches. This program was always very short (great efforts were "
+"expended on making it short in order to minimize the labor and chance of "
+"error involved in toggling it in), but was just smart enough to read in a"
+" slightly more complex program (usually from a card or paper tape "
+"reader), to which it handed control; this program in turn was smart "
+"enough to read the application or operating system from a magnetic tape "
+"drive or disk drive. Thus, in successive steps, the computer ‘pulled "
+"itself up by its bootstraps’ to a useful operating state. Nowadays the "
+"bootstrap is usually found in ROM or EPROM, and reads the first stage in "
+"from a fixed location on the disk, called the ‘boot block’. When this "
+"program gains control, it is powerful enough to load the actual OS and "
+"hand control over to it."
+msgstr ""
+

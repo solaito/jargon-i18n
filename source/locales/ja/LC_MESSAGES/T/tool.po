@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/tool.rst:5
+msgid "tool"
+msgstr ""
+
+#: ../../T/tool.rst:7
+msgid ""
+"n.A program used primarily to create, manipulate, modify, or analyze "
+"other programs, such as a compiler or an editor or a cross-referencing "
+"program. Oppose :ref:`app`\\, :ref:`operating-system`\\; see also "
+":ref:`toolchain`\\."
+msgstr ""
+
+#: ../../T/tool.rst:11
+msgid ""
+"[Unix] An application program with a simple, ‘transparent’ (typically "
+"text-stream) interface designed specifically to be used in programmed "
+"combination with other tools (see :ref:`filter`\\, :ref:`plumbing`\\)."
+msgstr ""
+
+#: ../../T/tool.rst:14
+msgid ""
+"[MIT: general to students there] vi. To work; to study (connotes tedium)."
+" The TMRC Dictionary defined this as \"to set one's brain to the "
+"grindstone\". See :ref:`hack`\\."
+msgstr ""
+
+#: ../../T/tool.rst:19
+msgid ""
+"n\\. [MIT] A student who studies too much and hacks too little. (MIT's "
+"student humor magazine rejoices in the name *Tool and Die*\\.)"
+msgstr ""
+

@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/winged-comments.rst:5
+msgid "winged comments"
+msgstr ""
+
+#: ../../W/winged-comments.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../W/winged-comments.rst:9
+msgid ""
+"Comments set on the same line as code, as opposed to :ref:`boxed-"
+"comments`\\. In C, for example:"
+msgstr ""
+
+#: ../../W/winged-comments.rst:17
+msgid "Generally these refer only to the action(s) taken on that line."
+msgstr ""
+
+#: ../../W/winged-comments.rst:23
+msgid ""
+"(The next cartoon in the Crunchly saga is         "
+":ref:`75-10-04<crunchly75-10-04>`\\.  The previous  cartoon was  "
+":ref:`74-12-25<crunchly74-12-25>`\\.)"
+msgstr ""
+

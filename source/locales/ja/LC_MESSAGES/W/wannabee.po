@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/wannabee.rst:5
+msgid "wannabee"
+msgstr ""
+
+#: ../../W/wannabee.rst:7
+msgid "/won'\\@·bee/, n\\."
+msgstr ""
+
+#: ../../W/wannabee.rst:9
+msgid ""
+"(also, more plausibly, spelled wannabe) [from a term recently used to "
+"describe Madonna fans who dress, talk, and act like their idol; prob. : "
+"originally from biker slang] A would-be :ref:`hacker`\\. The connotations"
+" of this term differ sharply depending on the age and exposure of the "
+"subject. Used of a person who is in or might be entering :ref:`larval-"
+"stage`\\, it is semi-approving; such wannabees can be annoying but most "
+"hackers remember that they, too, were once such creatures. When used of "
+"any professional programmer, CS academic, writer, or :ref:`suit`\\, it is"
+" derogatory, implying that said person is trying to cuddle up to the "
+"hacker mystique but doesn't, fundamentally, have a prayer of "
+"understanding what it is all about. Overuse of terms from this lexicon is"
+" often an indication of the :ref:`wannabee` nature. Compare "
+":ref:`newbie`\\."
+msgstr ""
+
+#: ../../W/wannabee.rst:17
+msgid ""
+"Historical note: The wannabee phenomenon has a slightly different flavor "
+"now (1993) than it did ten or fifteen years ago. When the people who are "
+"now hackerdom's tribal elders were in :ref:`larval-stage`\\, the process "
+"of becoming a hacker was largely unconscious and unaffected by models "
+"known in popular culture — communities formed spontaneously around people"
+" who, *as individuals*\\, felt irresistibly drawn to do hackerly things, "
+"and what wannabees experienced was a fairly pure, skill-focused desire to"
+" become similarly wizardly. Those days of innocence are gone forever; "
+"society's adaptation to the advent of the microcomputer after 1980 "
+"included the elevation of the hacker as a new kind of folk hero, and the "
+"result is that some people semi-consciously set out to *be hackers* and "
+"borrow hackish prestige by fitting the popular image of hackers. "
+"Fortunately, to do this really well, one has to actually become a wizard."
+" Nevertheless, old-time hackers tend to share a poorly articulated "
+"disquiet about the change; among other things, it gives them mixed "
+"feelings about the effects of public compendia of lore like this one."
+msgstr ""
+

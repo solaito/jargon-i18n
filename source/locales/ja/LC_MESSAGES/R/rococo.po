@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/rococo.rst:5
+msgid "rococo"
+msgstr ""
+
+#: ../../R/rococo.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../R/rococo.rst:9
+msgid ""
+"Terminally :ref:`baroque`\\. Used to imply that a program has become so "
+"encrusted with the software equivalent of gold leaf and curlicues that "
+"they have completely swamped the underlying design. Called after the "
+"later and more extreme forms of Baroque architecture and decoration "
+"prevalent during the mid-1700s in Europe. Alan Perlis said: \"Every "
+"program eventually becomes rococo, and then rubble.\" Compare :ref"
+":`critical-mass`\\."
+msgstr ""
+

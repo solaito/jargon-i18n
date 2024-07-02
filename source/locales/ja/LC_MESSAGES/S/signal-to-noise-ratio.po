@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/signal-to-noise-ratio.rst:5
+msgid "signal-to-noise ratio"
+msgstr ""
+
+#: ../../S/signal-to-noise-ratio.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/signal-to-noise-ratio.rst:9
+msgid ""
+"[from analog electronics] Used by hackers in a generalization of its "
+"technical meaning. ‘Signal’ refers to useful information conveyed by some"
+" communications medium, and ‘noise’ to anything else on that medium. "
+"Hence a low ratio implies that it is not worth paying attention to the "
+"medium in question. Figures for such metaphorical ratios are never given."
+" The term is most often applied to :ref:`Usenet` newsgroups during :ref"
+":`flame-war`\\s. Compare :ref:`bandwidth`\\. See also :ref:`coefficient-"
+"of-X`\\, :ref:`lost-in-the-noise`\\."
+msgstr ""
+

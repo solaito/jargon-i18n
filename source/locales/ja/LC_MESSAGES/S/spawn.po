@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/spawn.rst:5
+msgid "spawn"
+msgstr ""
+
+#: ../../S/spawn.rst:7
+msgid "n\\.,vi\\."
+msgstr ""
+
+#: ../../S/spawn.rst:10
+msgid ""
+"[techspeak] In Unix parlance, to create a child process from within a "
+"process. Technically this is a ‘fork’; the term ‘spawn’ is a bit more "
+"general and is used for threads (lightweight processes) as well as "
+"traditional heavyweight processes."
+msgstr ""
+
+#: ../../S/spawn.rst:14
+msgid ""
+"In gaming, meant to indicate where (spawn-point) and when a player comes "
+"to life (or re-spawns) after being killed. Opposite of :ref:`frag`\\."
+msgstr ""
+

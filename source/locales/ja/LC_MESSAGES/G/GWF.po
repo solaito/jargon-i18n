@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/GWF.rst:5
+msgid "GWF"
+msgstr ""
+
+#: ../../G/GWF.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../G/GWF.rst:9
+msgid ""
+"\"Common abbreviation for Goober with Firewall\". A :ref:`luser` who has "
+"equipped his desktop computer with a hypersensitive \"software firewall\""
+" or host intrusion detection program, and who gives its alerts absolute "
+"credence. ISP tech support and abuse desks dread hearing from such "
+"persons, who insist that every packet of abnormal traffic the software "
+"detects is \"a hacker\" (sic) and, occasionally, threatening lawsuits or "
+"prosecution. GWFs have been known to assert that they are being attacked "
+"from 127.0.0.1, and that their ISP is criminally negligent for failing to"
+" block these attacks. \"GWF\" is used similarly to :ref:`idiot` and "
+":ref:`PEBKAC` to flag trouble tickets opened by such users."
+msgstr ""
+

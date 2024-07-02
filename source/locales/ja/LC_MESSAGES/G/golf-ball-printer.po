@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/golf-ball-printer.rst:5
+msgid "golf-ball printer"
+msgstr ""
+
+#: ../../G/golf-ball-printer.rst:7
+msgid "n\\. obs\\."
+msgstr ""
+
+#: ../../G/golf-ball-printer.rst:10
+msgid ""
+"The IBM 2741, a slow but letter-quality printing device and terminal "
+"based on the IBM Selectric typewriter. The golf ball was a little "
+"spherical frob bearing reversed embossed images of 88 different "
+"characters arranged on four parallels of latitude; one could change the "
+"font by swapping in a different golf ball. The print element spun and "
+"jerked alarmingly in action and when in motion was sometimes described as"
+" an infuriated golf ball. This was the technology that enabled APL to use"
+" a non-EBCDIC, non-ASCII, and in fact completely non-standard character "
+"set. This put it 10 years ahead of its time — where it stayed, firmly "
+"rooted, for the next 20, until character displays gave way to "
+"programmable bit-mapped devices with the flexibility to support other "
+"character sets."
+msgstr ""
+

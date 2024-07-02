@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/feature.rst:5
+msgid "feature"
+msgstr ""
+
+#: ../../F/feature.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/feature.rst:10
+msgid ""
+"[common] A good property or behavior (as of a program). Whether it was "
+"intended or not is immaterial."
+msgstr ""
+
+#: ../../F/feature.rst:14
+msgid ""
+"[common] An intended property or behavior (as of a program). Whether it "
+"is good or not is immaterial (but if bad, it is also a "
+":ref:`misfeature`\\)."
+msgstr ""
+
+#: ../../F/feature.rst:18
+msgid ""
+"A surprising property or behavior; in particular, one that is purposely "
+"inconsistent because it works better that way — such an inconsistency is "
+"therefore a :ref:`feature` and not a :ref:`bug`\\. This kind of feature "
+"is sometimes called a :ref:`miswart`\\; see that entry for a classic "
+"example."
+msgstr ""
+
+#: ../../F/feature.rst:22
+msgid ""
+"A property or behavior that is gratuitous or unnecessary, though perhaps "
+"also impressive or cute. For example, one feature of Common LISP's "
+":code:`format` function is the ability to print numbers in two different "
+"Roman-numeral formats (see :ref:`bells-whistles-and-gongs`\\)."
+msgstr ""
+
+#: ../../F/feature.rst:26
+msgid ""
+"A property or behavior that was put in to help someone else but that "
+"happens to be in your way."
+msgstr ""
+
+#: ../../F/feature.rst:29
+msgid ""
+"[common] A bug that has been documented. To call something a feature "
+"sometimes means the author of the program did not consider the particular"
+" case, and that the program responded in a way that was unexpected but "
+"not strictly incorrect. A standard joke is that a bug can be turned into "
+"a :ref:`feature` simply by documenting it (then theoretically no one can "
+"complain about it because it's in the manual), or even by simply "
+"declaring it to be good. \"That's not a bug, that's a feature!\" is a "
+"common catchphrase. See also :ref:`feetch-feetch`\\, :ref:`creeping-"
+"featurism`\\, :ref:`wart`\\, :ref:`green-lightning`\\."
+msgstr ""
+
+#: ../../F/feature.rst:36
+msgid ""
+"The relationship among bugs, features, misfeatures, warts, and miswarts "
+"might be clarified by the following hypothetical exchange between two "
+"hackers on an airliner:"
+msgstr ""
+
+#: ../../F/feature.rst:38
+msgid "A: \"This seat doesn't recline.\""
+msgstr ""
+
+#: ../../F/feature.rst:40
+msgid ""
+"B: \"That's not a bug, that's a feature. There is an emergency exit door "
+"built around the window behind you, and the route has to be kept clear.\""
+msgstr ""
+
+#: ../../F/feature.rst:43
+msgid ""
+"A: \"Oh. Then it's a misfeature; they should have increased the spacing "
+"between rows here.\""
+msgstr ""
+
+#: ../../F/feature.rst:46
+msgid ""
+"B: \"Yes. But if they'd increased spacing in only one section it would "
+"have been a wart — they would've had to make nonstandard-length ceiling "
+"panels to fit over the displaced seats.\""
+msgstr ""
+
+#: ../../F/feature.rst:49
+msgid ""
+"A: \"A miswart, actually. If they increased spacing throughout they'd "
+"lose several rows and a chunk out of the profit margin. So unequal "
+"spacing would actually be the Right Thing.\""
+msgstr ""
+
+#: ../../F/feature.rst:53
+msgid "B: \"Indeed.\""
+msgstr ""
+
+#: ../../F/feature.rst:55
+msgid ""
+"Undocumented feature is a common, allegedly humorous euphemism for a "
+":ref:`bug`\\. There's a related joke that is sometimes referred to as the"
+" \"one-question geek test\". You say to someone \"I saw a Volkswagen "
+"Beetle today with a vanity license plate that read FEATURE\". If he/she "
+"laughs, he/she is a :ref:`geek`\\."
+msgstr ""
+

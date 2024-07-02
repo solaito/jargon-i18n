@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/LART.rst:5
+msgid "LART"
+msgstr ""
+
+#: ../../L/LART.rst:7
+msgid "//"
+msgstr ""
+
+#: ../../L/LART.rst:9
+msgid "Luser Attitude Readjustment Tool."
+msgstr ""
+
+#: ../../L/LART.rst:11
+msgid ""
+"n\\. In the collective mythos of :ref:`scary-devil-monastery`\\, this is "
+"an essential item in the toolkit of every :ref:`BOFH`\\. The LART classic"
+" is a 2x4 or other large billet of wood usable as a club, to be applied "
+"upside the head of spammers and other people who cause sysadmins more "
+"grief than just naturally goes with the job. Perennial debates rage on "
+":samp:`alt.sysadmin.recovery` over what constitutes the truly effective "
+"LART; knobkerries, automatic weapons, flamethrowers, and tactical nukes "
+"all have their partisans. Compare :ref:`clue-by-four`\\."
+msgstr ""
+
+#: ../../L/LART.rst:17
+msgid ""
+"v\\. To use a LART. Some would add \"in malice\", but some sysadmins do "
+"prefer to gently lart their users as a first (and sometimes final) "
+"warning."
+msgstr ""
+
+#: ../../L/LART.rst:21
+msgid ""
+"interj. Calling for one's LART, much as a surgeon might call \"Scalpel! "
+"\"."
+msgstr ""
+
+#: ../../L/LART.rst:25
+msgid "interj. [rare] Used in :ref:`flame`\\s as a rebuke. \"LART! LART! LART!\""
+msgstr ""
+

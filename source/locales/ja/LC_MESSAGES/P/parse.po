@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/parse.rst:5
+msgid "parse"
+msgstr ""
+
+#: ../../P/parse.rst:7
+msgid "vt\\."
+msgstr ""
+
+#: ../../P/parse.rst:10
+msgid ""
+"To determine the syntactic structure of a sentence or other utterance "
+"(close to the standard English meaning). \"That was the one I saw you.\" "
+"\"I can't parse that.\""
+msgstr ""
+
+#: ../../P/parse.rst:15
+msgid ""
+"More generally, to understand or comprehend. \"It's very simple; you just"
+" kretch the glims and then aos the zotz.\" \"I can't parse that.\""
+msgstr ""
+
+#: ../../P/parse.rst:20
+msgid ""
+"Of fish, to have to remove the bones yourself. \"I object to parsing "
+"fish\", means \"I don't want to get a whole fish, but a sliced one is "
+"okay\". A parsed fish has been deboned. There is some controversy over "
+"whether unparsed should mean ‘bony’, or also mean ‘deboned’."
+msgstr ""
+

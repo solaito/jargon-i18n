@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/retrocomputing.rst:5
+msgid "retrocomputing"
+msgstr ""
+
+#: ../../R/retrocomputing.rst:7
+msgid "/ret'·roh·k\\@m·pyoo´ting/, n\\."
+msgstr ""
+
+#: ../../R/retrocomputing.rst:9
+msgid ""
+"Refers to emulations of way-behind-the-state-of-the-art hardware or "
+"software, or implementations of never-was-state-of-the-art; esp. if such "
+"implementations are elaborate practical jokes and/or parodies, written "
+"mostly for :ref:`hack-value`\\, of more ‘serious’ designs. Perhaps the "
+"most widely distributed retrocomputing utility was the :manpage:`pnch(6)`"
+" or :manpage:`bcd(6)` program on V7 and other early Unix versions, which "
+"would accept up to 80 characters of text argument and display the "
+"corresponding pattern in :ref:`punched-card` code. Other well-known "
+"retrocomputing hacks have included the programming language "
+":ref:`INTERCAL`\\, a :ref:`JCL`\\-emulating shell for Unix, the card-"
+"punch-emulating editor named 029, and various elaborate :ref:`PDP-11` "
+"hardware emulators and RT-11 OS emulators written just to keep an old, "
+"sourceless :ref:`Zork` binary running."
+msgstr ""
+
+#: ../../R/retrocomputing.rst:14
+msgid ""
+"A tasty selection of retrocomputing programs are made available at the "
+"Retrocomputing Museum, `http://www.catb.org/retro/ "
+"<http://www.catb.org/retro/>`_."
+msgstr ""
+

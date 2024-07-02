@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/nuke.rst:5
+msgid "nuke"
+msgstr ""
+
+#: ../../N/nuke.rst:7
+msgid "/n[y]ook/, vt\\."
+msgstr ""
+
+#: ../../N/nuke.rst:9
+msgid "[common]"
+msgstr ""
+
+#: ../../N/nuke.rst:12
+msgid ""
+"To intentionally delete the entire contents of a given directory or "
+"storage volume. \"On Unix, :code:`rm -r /usr` will nuke everything in the"
+" usr filesystem.\" Never used for accidental deletion; contrast :ref"
+":`blow-away`\\."
+msgstr ""
+
+#: ../../N/nuke.rst:17
+msgid ""
+"Syn. for :ref:`dike`\\, applied to smaller things such as files, "
+"features, or code sections. Often used to express a final verdict. \"What"
+" do you want me to do with that 80-meg session file?\" \"Nuke it.\""
+msgstr ""
+
+#: ../../N/nuke.rst:24
+msgid ""
+"Used of processes as well as files; nuke is a frequent verbal alias for "
+":code:`kill -9` on Unix."
+msgstr ""
+
+#: ../../N/nuke.rst:27
+msgid ""
+"On IBM PCs, a bug that results in :ref:`fandango-on-core` can trash the "
+"operating system, including the FAT (the in-core copy of the disk block "
+"chaining information). This can utterly scramble attached disks, which "
+"are then said to have been nuked. This term is also used of analogous "
+"lossages on Macintoshes and other micros without memory protection."
+msgstr ""
+

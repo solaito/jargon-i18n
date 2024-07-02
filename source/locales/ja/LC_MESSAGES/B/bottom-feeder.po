@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bottom-feeder.rst:5
+msgid "bottom feeder"
+msgstr ""
+
+#: ../../B/bottom-feeder.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/bottom-feeder.rst:10
+msgid ""
+"An Internet user that leeches off ISPs — the sort you can never provide "
+"good enough services for, always complains about the price, no matter how"
+" low it may be, and will bolt off to another service the moment there is "
+"even the slimmest price difference. While most bottom feeders infest free"
+" or almost free services such as AOL, MSN, and Hotmail, too many flock to"
+" whomever happens to be the cheapest regional ISP at the time. Bottom "
+"feeders are often the classic problem user, known for unleashing spam, "
+"flamage, and other breaches of :ref:`netiquette`\\."
+msgstr ""
+
+#: ../../B/bottom-feeder.rst:15
+msgid ""
+"Syn. for :ref:`slopsucker`\\, derived from the fishermen's and "
+"naturalists' term for finny creatures who subsist on the primordial ooze."
+" (This sense is older.)"
+msgstr ""
+

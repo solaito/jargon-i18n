@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/crawling-horror.rst:5
+msgid "crawling horror"
+msgstr ""
+
+#: ../../C/crawling-horror.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/crawling-horror.rst:9
+msgid ""
+"Ancient crufty hardware or software that is kept obstinately alive by "
+"forces beyond the control of the hackers at a site. Like :ref:`dusty-"
+"deck` or :ref:`gonkulator`\\, but connotes that the thing described is "
+"not just an irritation but an active menace to health and sanity. "
+"\"Mostly we code new stuff in C, but they pay us to maintain one big "
+"FORTRAN II application from nineteen-sixty-X that's a real crawling "
+"horror....\" Compare :ref:`WOMBAT`\\."
+msgstr ""
+
+#: ../../C/crawling-horror.rst:13
+msgid ""
+"This usage is almost certainly derived from the fiction of H.P. "
+"Lovecraft. Lovecraft may never have used the exact phrase \"crawling "
+"horror\" in his writings, but one of the fearsome Elder Gods that he "
+"wrote extensively about was Nyarlethotep, who had as an epithet \"The "
+"Crawling Chaos\". Certainly the extreme, even melodramatic horror of his "
+"characters at the weird monsters they encounter, even to the point of "
+"going insane with fear, is what hackers are referring to with this phrase"
+" when they use it for horribly bad code. Compare :ref:`cthulhic`\\."
+msgstr ""
+

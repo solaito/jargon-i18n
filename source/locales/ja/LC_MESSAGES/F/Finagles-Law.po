@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/Finagles-Law.rst:5
+msgid "Finagle's Law"
+msgstr ""
+
+#: ../../F/Finagles-Law.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/Finagles-Law.rst:9
+msgid ""
+"The generalized or ‘folk’ version of :ref:`Murphys-Law`\\, fully named "
+"\"Finagle's Law of Dynamic Negatives\" and usually rendered \"Anything "
+"that can go wrong, will\". May have been first published by Francis P. "
+"Chisholm in his 1963 essay *The Chisholm Effect*\\, later reprinted in "
+"the classic anthology *A Stress Analysis Of A Strapless Evening Gown: And"
+" Other Essays For A Scientific Eye* (Robert Baker ed, Prentice-Hall, ISBN"
+" 0-13-852608-7)."
+msgstr ""
+
+#: ../../F/Finagles-Law.rst:12
+msgid ""
+"The label ‘Finagle's Law’ was popularized by SF author Larry Niven in "
+"several stories depicting a frontier culture of asteroid miners; this "
+"‘Belter’ culture professed a religion and/or running joke involving the "
+"worship of the dread god Finagle and his mad prophet Murphy. Some "
+"technical and scientific cultures (e.g., paleontologists) know it under "
+"the name Sod's Law; this usage may be more common in Great Britain. One "
+"variant favored among hackers is \"The perversity of the Universe tends "
+"towards a maximum\"; Niven specifically referred to this as O'Toole's "
+"Corollary of Finagle's Law. See also :ref:`Hanlons-Razor`\\."
+msgstr ""
+

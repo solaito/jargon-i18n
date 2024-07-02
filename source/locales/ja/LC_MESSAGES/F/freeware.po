@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/freeware.rst:5
+msgid "freeware"
+msgstr ""
+
+#: ../../F/freeware.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/freeware.rst:9
+msgid ""
+"[common] Freely-redistributable software, often written by enthusiasts "
+"and distributed by users' groups, or via electronic mail, local bulletin "
+"boards, :ref:`Usenet`\\, or other electronic media. As the culture of the"
+" Internet has displaced the older BBS world, this term has lost ground to"
+" both :ref:`open-source` and :ref:`free-software`\\; it has increasingly "
+"tended to be restricted to software distributed in binary rather than "
+"source-code form. At one time, freeware was a trademark of Andrew "
+"Fluegelman, the author of the well-known MS-DOS comm program PC-TALK III."
+" It wasn't enforced after his mysterious disappearance and presumed death"
+" in 1984. See :ref:`shareware`\\, :ref:`FRS`\\."
+msgstr ""
+

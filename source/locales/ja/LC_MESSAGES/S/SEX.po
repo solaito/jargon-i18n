@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/SEX.rst:5
+msgid "SEX"
+msgstr ""
+
+#: ../../S/SEX.rst:7
+msgid "/seks/"
+msgstr ""
+
+#: ../../S/SEX.rst:9
+msgid "[Sun Users' Group & elsewhere] n."
+msgstr ""
+
+#: ../../S/SEX.rst:12
+msgid ""
+"Software EXchange. A technique invented by the blue-green algae hundreds "
+"of millions of years ago to speed up their evolution, which had been "
+"terribly slow up until then. Today, SEX parties are popular among hackers"
+" and others (of course, these are no longer limited to exchanges of "
+"genetic software). In general, SEX parties are a :ref:`Good-Thing`\\, but"
+" unprotected SEX can propagate a :ref:`virus`\\. See also :ref:`pubic-"
+"directory`\\."
+msgstr ""
+
+#: ../../S/SEX.rst:19
+msgid ""
+"The rather Freudian mnemonic often used for Sign EXtend, a machine "
+"instruction found in the :ref:`PDP-11` and many other architectures. The "
+"RCA 1802 chip used in the early Elf and SuperElf personal computers had a"
+" ‘SEt X register’ SEX instruction, but this seems to have had little "
+"folkloric impact. The Data General instruction set also had "
+":code:`SEX`\\."
+msgstr ""
+
+#: ../../S/SEX.rst:23
+msgid ""
+":ref:`DEC`\\'s engineers nearly got a :ref:`PDP-11` assembler that used "
+"the :code:`SEX` mnemonic out the door at one time, but (for once) "
+"marketing wasn't asleep and forced a change. That wasn't the last time "
+"this happened, either. The author of *The Intel 8086 Primer*\\, who was "
+"one of the original designers of the 8086, noted that there was "
+"originally a :code:`SEX` instruction on that processor, too. He says that"
+" Intel management got cold feet and decreed that it be changed, and thus "
+"the instruction was renamed :code:`CBW` and :code:`CWD` (depending on "
+"what was being extended). Amusingly, the Intel 8048 (the microcontroller "
+"used in IBM PC keyboards) is also missing straight :code:`SEX` but has "
+"logical-or and logical-and instructions :code:`ORL` and :code:`ANL`\\."
+msgstr ""
+
+#: ../../S/SEX.rst:29
+msgid ""
+"The Motorola 6809, used in the Radio Shack Color Computer and in U.K.'s "
+"‘Dragon 32’ personal computer, actually had an official :code:`SEX` "
+"instruction; the 6502 in the Apple II with which it competed did not. "
+"British hackers thought this made perfect mythic sense; after all, it was"
+" commonly observed, you could (on some theoretical level) have sex with a"
+" dragon, but you can't have sex with an apple."
+msgstr ""
+

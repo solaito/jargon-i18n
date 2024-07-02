@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../J/juggling-eggs.rst:5
+msgid "juggling eggs"
+msgstr ""
+
+#: ../../J/juggling-eggs.rst:7
+msgid "vi\\."
+msgstr ""
+
+#: ../../J/juggling-eggs.rst:9
+msgid ""
+"Keeping a lot of :ref:`state` in your head while modifying a program. "
+"\"Don't bother me now, I'm juggling eggs\", means that an interrupt is "
+"likely to result in the program's being scrambled. In the classic 1975 "
+"first-contact SF novel *The Mote in God's Eye*\\, by Larry Niven and "
+"Jerry Pournelle, an alien describes a very difficult task by saying \"We "
+"juggle priceless eggs in variable gravity.\" It is possible that this was"
+" intended as tribute to a less colorful use of the same image in Robert "
+"Heinlein's influential 1961 novel *Stranger in a Strange Land*\\. See "
+"also :ref:`hack-mode` and :ref:`on-the-gripping-hand`\\."
+msgstr ""
+

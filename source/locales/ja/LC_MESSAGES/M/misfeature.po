@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/misfeature.rst:5
+msgid "misfeature"
+msgstr ""
+
+#: ../../M/misfeature.rst:7
+msgid "/mis·fee´chr/, /mis´fee\\`chr/, n\\."
+msgstr ""
+
+#: ../../M/misfeature.rst:9
+msgid ""
+"[common] A feature that eventually causes lossage, possibly because it is"
+" not adequate for a new situation that has evolved. Since it results from"
+" a deliberate and properly implemented feature, a misfeature is not a "
+"bug. Nor is it a simple unforeseen side effect; the term implies that the"
+" feature in question was carefully planned, but its long-term "
+"consequences were not accurately or adequately predicted (which is quite "
+"different from not having thought ahead at all). A misfeature can be a "
+"particularly stubborn problem to resolve, because fixing it usually "
+"involves a substantial philosophical change to the structure of the "
+"system involved."
+msgstr ""
+
+#: ../../M/misfeature.rst:14
+msgid ""
+"Many misfeatures (especially in user-interface design) arise because the "
+"designers/implementors mistake their personal tastes for laws of nature. "
+"Often a former feature becomes a misfeature because trade-offs were made "
+"whose parameters subsequently change (possibly only in the judgment of "
+"the implementors). \"Well, yeah, it is kind of a misfeature that file "
+"names are limited to six characters, but the original implementors wanted"
+" to save directory space and we're stuck with it for now.\""
+msgstr ""
+

@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../O/ogg.rst:5
+msgid "ogg"
+msgstr ""
+
+#: ../../O/ogg.rst:7
+msgid "/og/, v\\."
+msgstr ""
+
+#: ../../O/ogg.rst:9
+msgid "[CMU]"
+msgstr ""
+
+#: ../../O/ogg.rst:12
+msgid ""
+"In the multi-player space combat game Netrek, to execute kamikaze attacks"
+" against enemy ships which are carrying armies or occupying strategic "
+"positions. Named during a game in which one of the players repeatedly "
+"used the tactic while playing Orion ship G, showing up in the player list"
+" as \"Og\". This trick has been roundly denounced by those who would "
+"return to the good old days when the tactic of dogfighting was dominant, "
+"but as Sun Tzu wrote, \"What is of supreme importance in war is to attack"
+" the enemy's strategy, not his tactics.\" However, the traditional answer"
+" to the newbie question \"What does ogg mean?\" is just \"Pick up some "
+"armies and I'll show you.\""
+msgstr ""
+
+#: ../../O/ogg.rst:19
+msgid ""
+"In other games, to forcefully attack an opponent with the expectation "
+"that the resources expended will be renewed faster than the opponent will"
+" be able to regain his previous advantage. Taken more seriously as a "
+"tactic since it has gained a simple name."
+msgstr ""
+
+#: ../../O/ogg.rst:23
+msgid ""
+"To do anything forcefully, possibly without consideration of the drain on"
+" future resources. \"I guess I'd better go ogg the problem set that's due"
+" tomorrow.\" \"Whoops! I looked down at the map for a sec and almost "
+"ogged that oncoming car.\""
+msgstr ""
+

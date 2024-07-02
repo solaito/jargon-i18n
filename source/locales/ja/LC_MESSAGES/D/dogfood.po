@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/dogfood.rst:5
+msgid "dogfood"
+msgstr ""
+
+#: ../../D/dogfood.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/dogfood.rst:9
+msgid ""
+"[Microsoft, Netscape] Interim software used internally for testing. \"To "
+"eat one's own dogfood\" (from which the slang noun derives) means to use "
+"the software one is developing, as part of one's everyday development "
+"environment (the phrase is used outside Microsoft and Netscape). The "
+"practice is normal in the Linux community and elsewhere, but the term "
+"‘dogfood’ is seldom used as open-source betas tend to be quite tasty and "
+"nourishing. The idea is that developers who are using their own software "
+"will quickly learn what's missing or broken. Dogfood is typically not "
+"even of :ref:`beta` quality."
+msgstr ""
+

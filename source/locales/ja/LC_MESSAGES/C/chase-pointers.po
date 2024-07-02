@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/chase-pointers.rst:5
+msgid "chase pointers"
+msgstr ""
+
+#: ../../C/chase-pointers.rst:7
+msgid ""
+"vi\\. To go through multiple levels of indirection, as in traversing a "
+"linked list or graph structure. Used esp. by programmers in C, where "
+"explicit pointers are a very common data type. This is techspeak, but it "
+"remains jargon when used of human networks. \"I'm chasing pointers. Bob "
+"said you could tell me who to talk to about....\" See :ref:`dangling-"
+"pointer` and :ref:`snap`\\."
+msgstr ""
+
+#: ../../C/chase-pointers.rst:16
+msgid ""
+"[Cambridge] pointer chase or pointer hunt: The process of going through a"
+" :ref:`core-dump` (sense 1), interactively or on a large piece of paper "
+"printed with hex :ref:`runes`\\, following dynamic data-structures. Used "
+"only in a debugging context."
+msgstr ""
+

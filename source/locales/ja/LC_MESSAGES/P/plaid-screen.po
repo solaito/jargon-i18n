@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/plaid-screen.rst:5
+msgid "plaid screen"
+msgstr ""
+
+#: ../../P/plaid-screen.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../P/plaid-screen.rst:9
+msgid ""
+"[XEROX PARC] A ‘special effect’ that occurs when certain kinds of :ref"
+":`memory-smash`\\es overwrite the control blocks or image memory of a "
+"bit-mapped display. The term \"salt and pepper\" may refer to a different"
+" pattern of similar origin. Though the term as coined at PARC refers to "
+"the result of an error, some of the :ref:`X` demos induce plaid-screen "
+"effects deliberately as a :ref:`display-hack`\\."
+msgstr ""
+

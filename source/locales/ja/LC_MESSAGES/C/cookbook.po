@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/cookbook.rst:5
+msgid "cookbook"
+msgstr ""
+
+#: ../../C/cookbook.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/cookbook.rst:9
+msgid ""
+"[from amateur electronics and radio] A book of small code segments that "
+"the reader can use to do various :ref:`magic` things in programs. "
+"Cookbooks, slavishly followed, can lead one into :ref:`voodoo-"
+"programming`\\, but are useful for hackers trying to :ref:`monkey-up` "
+"small programs in unknown languages. This function is analogous to the "
+"role of phrasebooks in human languages."
+msgstr ""
+

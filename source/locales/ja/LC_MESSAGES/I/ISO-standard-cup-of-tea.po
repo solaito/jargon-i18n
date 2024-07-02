@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../I/ISO-standard-cup-of-tea.rst:5
+msgid "ISO standard cup of tea"
+msgstr ""
+
+#: ../../I/ISO-standard-cup-of-tea.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../I/ISO-standard-cup-of-tea.rst:9
+msgid ""
+"[South Africa] A cup of tea with milk and one teaspoon of sugar, where "
+"the milk is poured into the cup before the tea. Variations are ISO 0, "
+"with no sugar; ISO 2, with two spoons of sugar; and so on."
+msgstr ""
+
+#: ../../I/ISO-standard-cup-of-tea.rst:12
+msgid ""
+"This may derive from the \"NATO standard\" cup of coffee and tea (milk "
+"and two sugars), military slang going back to the late 1950s and "
+"parodying NATO's relentless bureaucratic drive to standardize parts "
+"across European and U.S. militaries."
+msgstr ""
+
+#: ../../I/ISO-standard-cup-of-tea.rst:14
+msgid ""
+"Like many ISO standards, this one has a faintly alien ring in North "
+"America, where hackers generally shun the decadent British practice of "
+"adulterating perfectly good tea with dairy products and prefer instead to"
+" add a wedge of lemon, if anything. If one were feeling extremely silly, "
+"one might hypothesize an analogous ANSI standard cup of tea and wind up "
+"with a political situation distressingly similar to several that arise in"
+" much more serious technical contexts. (Milk and lemon don't mix very "
+"well.)"
+msgstr ""
+
+#: ../../I/ISO-standard-cup-of-tea.rst:18
+msgid ""
+"[2000 update: There is now, in fact, an ISO standard 3103: ‘Method for "
+"preparation of a liquor of tea for use in sensory tests.’, alleged to be "
+"equivalent to British Standard BS6008: *How to make a standard cup of "
+"tea.* —ESR]"
+msgstr ""
+

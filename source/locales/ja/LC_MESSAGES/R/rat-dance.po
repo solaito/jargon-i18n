@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/rat-dance.rst:5
+msgid "rat dance"
+msgstr ""
+
+#: ../../R/rat-dance.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../R/rat-dance.rst:9
+msgid ""
+"[From the :ref:`Dilbert` comic strip of November 14, 1995] A :ref"
+":`hacking-run` that produces results which, while superficially coherent,"
+" have little or nothing to do with its original objectives. There are "
+"strong connotations that the coding process and the objectives themselves"
+" were pretty :ref:`random`\\. (In the original comic strip, the Ratbert "
+"is invited to dance on Dilbert's keyboard in order to produce bugs for "
+"him to fix, and authors a Web browser instead.) Compare :ref:`Infinite-"
+"Monkey-Theorem`\\."
+msgstr ""
+
+#: ../../R/rat-dance.rst:14
+msgid ""
+"This term seems to have become widely recognized quite rapidly after the "
+"original strip, a fact which testifies to Dilbert's huge popularity among"
+" hackers. All too many find the perverse incentives and Kafkaesque "
+"atmosphere of Dilbert's mythical workplace reflective of their own "
+"experiences."
+msgstr ""
+

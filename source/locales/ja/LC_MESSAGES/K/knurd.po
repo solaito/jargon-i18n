@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../K/knurd.rst:5
+msgid "knurd"
+msgstr ""
+
+#: ../../K/knurd.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../K/knurd.rst:10
+msgid ""
+"[RPI] Renssaleer Polytechnic Institute local slang roughly equivalent to "
+"the positive sense of :ref:`geek`\\, referring to people who prefer "
+"technical hobbies to socializing."
+msgstr ""
+
+#: ../../K/knurd.rst:13
+msgid ""
+"In older usage at RPI, the term signified someone new to college life, "
+"fresh out of high school, and wet behind the ears."
+msgstr ""
+
+#: ../../K/knurd.rst:15
+msgid ""
+"An IEEE Spectrum article (4/95, page 16) once derived ‘nerd’ in its "
+"variant form ‘knurd’ from the word ‘drunk’ backwards; this etymology was "
+"common at RPI. Though it is commonly confused with :ref:`nerd`\\, it "
+"appears these words have separate origins (compare the :ref:`kluge`\\/ "
+":ref:`kludge` pair)."
+msgstr ""
+

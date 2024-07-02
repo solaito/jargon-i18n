@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/fool-file.rst:5
+msgid "fool file"
+msgstr ""
+
+#: ../../F/fool-file.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/fool-file.rst:9
+msgid ""
+"[Usenet] A notional repository of all the most dramatically and abysmally"
+" stupid utterances ever. An entire subgenre of :ref:`sig-block`\\s "
+"consists of the header \"From the fool file:\" followed by some quote the"
+" poster wishes to represent as an immortal gem of dimwittery; for this "
+"usage to be really effective, the quote has to be so obviously wrong as "
+"to be laughable. More than one Usenetter has achieved an unwanted "
+"notoriety by being quoted in this way."
+msgstr ""
+

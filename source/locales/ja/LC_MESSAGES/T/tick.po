@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/tick.rst:5
+msgid "tick"
+msgstr ""
+
+#: ../../T/tick.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/tick.rst:10
+msgid "A :ref:`jiffy` (sense 1)."
+msgstr ""
+
+#: ../../T/tick.rst:13
+msgid ""
+"In simulations, the discrete unit of time that passes between iterations "
+"of the simulation mechanism. In AI applications, this amount of time is "
+"often left unspecified, since the only constraint of interest is the "
+"ordering of events. This sort of AI simulation is often pejoratively "
+"referred to as tick-tick-tick simulation, especially when the issue of "
+"simultaneity of events with long, independent chains of causes is "
+":ref:`handwave`\\d."
+msgstr ""
+
+#: ../../T/tick.rst:18
+msgid "In the FORTH language, a single quote character."
+msgstr ""
+

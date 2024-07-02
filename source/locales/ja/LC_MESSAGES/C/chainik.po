@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/chainik.rst:5
+msgid "chainik"
+msgstr ""
+
+#: ../../C/chainik.rst:7
+msgid "/chi:´nik/"
+msgstr ""
+
+#: ../../C/chainik.rst:9
+msgid ""
+"[Russian, literally \"teapot\"] Almost synonymous with :ref:`muggle`\\. "
+"Implies both ignorance and a certain amount of willingness to learn, but "
+"does not necessarily imply as little experience or short exposure time as"
+" :ref:`newbie` and is not as derogatory as :ref:`luser`\\. Both a novice "
+"user and someone using a system for a long time without any understanding"
+" of the internals can be referred to as chainiks. Very widespread term in"
+" Russian hackish, often used in an English context by Russian-speaking "
+"hackers esp. in Israel (e.g. \"Our new colleague is a complete "
+"chainik\"). FidoNet discussion groups often had a \"chainik\" subsection "
+"for newbies and, well, old chainiks (eg. su.asm.chainik, "
+"ru.linux.chainik, ru.html.chainik). Public projects often have a chainik "
+"mailing list to keep the chainiks off the developers' and experienced "
+"users' discussions. Today, the word is slowly slipping into mainstream "
+"Russian due to the Russian translation of the popular yellow-black "
+"covered \"foobar for dummies\" series, which (correctly) uses \"chainik\""
+" for \"dummy\", but its frequent (though not excessive) use is still "
+"characteristic hacker-speak."
+msgstr ""
+

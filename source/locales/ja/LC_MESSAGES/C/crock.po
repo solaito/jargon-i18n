@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/crock.rst:5
+msgid "crock"
+msgstr ""
+
+#: ../../C/crock.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/crock.rst:9
+msgid "[from the American scatologism crock of shit]"
+msgstr ""
+
+#: ../../C/crock.rst:12
+msgid ""
+"An awkward feature or programming technique that ought to be made "
+"cleaner. For example, using small integers to represent error codes "
+"without the program interpreting them to the user (as in, for example, "
+"Unix :manpage:`make(1)`\\, which returns code 139 for a process that dies"
+" due to :ref:`segfault`\\)."
+msgstr ""
+
+#: ../../C/crock.rst:16
+msgid ""
+"A technique that works acceptably, but which is quite prone to failure if"
+" disturbed in the least. For example, a too-clever programmer might write"
+" an assembler which mapped instruction mnemonics to numeric opcodes "
+"algorithmically, a trick which depends far too intimately on the "
+"particular bit patterns of the opcodes. (For another example of "
+"programming with a dependence on actual opcode values, see :ref:`The "
+"Story of Mel'<story-of-mel>` in Appendix A.) Many crocks have a tightly "
+"woven, almost completely unmodifiable structure. See :ref:`kluge`\\, "
+":ref:`brittle`\\. The adjectives crockish and crocky, and the nouns "
+"crockishness and crockitude, are also used."
+msgstr ""
+

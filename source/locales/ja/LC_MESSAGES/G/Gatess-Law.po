@@ -1,0 +1,36 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/Gatess-Law.rst:5
+msgid "Gates's Law"
+msgstr ""
+
+#: ../../G/Gatess-Law.rst:7
+msgid ""
+"\"The speed of software halves every 18 months.\" This oft-cited law is "
+"an ironic comment on the tendency of software bloat to outpace the "
+"every-18-month doubling in hardware capacity per dollar predicted by :ref"
+":`Moores-Law`\\. The reference is to Bill Gates; Microsoft is widely "
+"considered among the worst if not the worst of the perpetrators of bloat."
+msgstr ""
+

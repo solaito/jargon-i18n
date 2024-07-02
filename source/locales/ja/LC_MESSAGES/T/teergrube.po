@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/teergrube.rst:5
+msgid "teergrube"
+msgstr ""
+
+#: ../../T/teergrube.rst:7
+msgid "/teer´groob·\\@/, n\\."
+msgstr ""
+
+#: ../../T/teergrube.rst:9
+msgid ""
+"[German for tar pit] A trap set to punish spammers who use an :ref"
+":`address-harvester`\\; a mail server deliberately set up to be really, "
+"really slow. To activate it, scatter addresses that look like users on "
+"the teergrube's host in places where the address harvester will be "
+"trolling (one popular way is to embed the fake address in a Usenet sig "
+"block next to a human-readable warning not to send mail to it). The "
+"address harvester will dutifully collect the address. When the spammer "
+"tries to mailbomb it, his mailer will get stuck."
+msgstr ""
+

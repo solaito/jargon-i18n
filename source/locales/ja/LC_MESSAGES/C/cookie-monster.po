@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/cookie-monster.rst:5
+msgid "cookie monster"
+msgstr ""
+
+#: ../../C/cookie-monster.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/cookie-monster.rst:9
+msgid ""
+"[from the children's TV program *Sesame Street*\\] Any of a family of "
+"early (1970s) hacks reported on :ref:`TOPS-10`\\, :ref:`ITS`\\, "
+":ref:`Multics`\\, and elsewhere that would lock up either the victim's "
+"terminal (on a timesharing machine) or the :ref:`console` (on a batch "
+":ref:`mainframe`\\), repeatedly demanding \"I WANT A COOKIE\". The "
+"required responses ranged in complexity from \"COOKIE\" through \"HAVE A "
+"COOKIE\" and upward. Folklorist Jan Brunvand (see :ref:`FOAF`\\) has "
+"described these programs as urban legends (implying they probably never "
+"existed) but they existed, all right, in several different versions. See "
+"also :ref:`wabbit`\\. Interestingly, the term cookie monster appears to "
+"be a :ref:`retcon`\\; the original term was :ref:`cookie-bear`\\."
+msgstr ""
+

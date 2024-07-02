@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/black-hat.rst:5
+msgid "black hat"
+msgstr ""
+
+#: ../../B/black-hat.rst:8
+msgid ""
+"[common among security specialists] A :ref:`cracker`\\, someone bent on "
+"breaking into the system you are protecting. Oppose the less comon white "
+"hat for an ally or friendly security specialist; the term gray hat is in "
+"occasional use for people with cracker skills operating within the law, "
+"e.g. in doing security evaluations. All three terms derive from the dress"
+" code of formulaic Westerns, in which bad guys wore black hats and good "
+"guys white ones."
+msgstr ""
+
+#: ../../B/black-hat.rst:14
+msgid ""
+"[spamfighters] ‘Black hat’, ‘white hat’, and ‘gray hat’ are also used to "
+"denote the spam-friendliness of ISPs: a black hat ISP harbors spammers "
+"and doesn't terminate them; a white hat ISP terminates upon the first "
+"LART; and gray hat ISPs terminate only reluctantly and/or slowly. This "
+"has led to the concept of a hat check: someone considering a potential "
+"business relationship with an ISP or other provider will post a query to "
+"a :ref:`NANA` group, asking about the provider's hat color. The term "
+"albedo has also been used to describe a provider's spam-friendliness."
+msgstr ""
+

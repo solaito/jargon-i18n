@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/Hanlons-Razor.rst:5
+msgid "Hanlon's Razor"
+msgstr ""
+
+#: ../../H/Hanlons-Razor.rst:7
+msgid "prov\\."
+msgstr ""
+
+#: ../../H/Hanlons-Razor.rst:9
+msgid ""
+"A corollary of :ref:`Finagles-Law`\\, similar to Occam's Razor, that "
+"reads \"Never attribute to malice that which can be adequately explained "
+"by stupidity.\" Quoted here because it seems to be a particular favorite "
+"of hackers, often showing up in :ref:`sig-block`\\s, :ref:`fortune-"
+"cookie` files and the login banners of BBS systems and commercial "
+"networks. This probably reflects the hacker's daily experience of "
+"environments created by well-intentioned but short-sighted people. "
+"Compare :ref:`Sturgeons-Law`\\, :ref:`Ninety-Ninety-Rule`\\."
+msgstr ""
+
+#: ../../H/Hanlons-Razor.rst:14
+msgid ""
+"At `http://www.statusq.org/2001/11/26.html "
+"<http://www.statusq.org/2001/11/26.html>`_\\  it is claimed that Hanlon's"
+" Razor was coined by one Robert J. Hanlon of Scranton, PA. However, a "
+"curiously similar remark (\"You have attributed conditions to villainy "
+"that simply result from stupidity.\") appears in *Logic of Empire*\\, a "
+"classic 1941 SF story by Robert A. Heinlein, who calls the error it "
+"indicates the ‘devil theory’ of sociology. Similar epigrams have been "
+"attributed to William James and (on dubious evidence) Napoleon Bonaparte."
+msgstr ""
+

@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/disclaimer.rst:5
+msgid "disclaimer"
+msgstr ""
+
+#: ../../D/disclaimer.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/disclaimer.rst:9
+msgid ""
+"[Usenet] Statement ritually appended to many Usenet postings (sometimes "
+"automatically, by the posting software) reiterating the fact (which "
+"should be obvious, but is easily forgotten) that the article reflects its"
+" author's opinions and not necessarily those of the organization running "
+"the machine through which the article entered the network."
+msgstr ""
+

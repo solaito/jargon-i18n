@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/C.rst:5
+msgid "C"
+msgstr ""
+
+#: ../../C/C.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/C.rst:10
+msgid "The third letter of the English alphabet."
+msgstr ""
+
+#: ../../C/C.rst:13
+msgid "ASCII 1000011."
+msgstr ""
+
+#: ../../C/C.rst:16
+msgid ""
+"The name of a programming language designed by Dennis Ritchie during the "
+"early 1970s and immediately used to reimplement :ref:`Unix`\\; so called "
+"because many features derived from an earlier compiler named ‘B’ in "
+"commemoration of *its* parent, BCPL. (BCPL was in turn descended from an "
+"earlier Algol-derived language, CPL.) Before Bjarne Stroustrup settled "
+"the question by designing :ref:`C-plus-plus`\\, there was a humorous "
+"debate over whether C's successor should be named ‘D’ or ‘P’. C became "
+"immensely popular outside Bell Labs after about 1980 and is now the "
+"dominant language in systems and microcomputer applications programming. "
+"C is often described, with a mixture of fondness and disdain varying "
+"according to the speaker, as \"a language that combines all the elegance "
+"and power of assembly language with all the readability and "
+"maintainability of assembly language\" See also :ref:`languages-of-"
+"choice`\\, :ref:`indent-style`\\."
+msgstr ""
+
+#: ../../C/C.rst:24
+msgid "The Crunchly on the left sounds a little ANSI."
+msgstr ""
+

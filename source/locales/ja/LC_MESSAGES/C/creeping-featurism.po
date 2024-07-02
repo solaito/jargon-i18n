@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/creeping-featurism.rst:5
+msgid "creeping featurism"
+msgstr ""
+
+#: ../../C/creeping-featurism.rst:7
+msgid "/kree´ping fee´chr·izm/, n\\."
+msgstr ""
+
+#: ../../C/creeping-featurism.rst:9
+msgid "[common]"
+msgstr ""
+
+#: ../../C/creeping-featurism.rst:12
+msgid ""
+"Describes a systematic tendency to load more :ref:`chrome` and "
+":ref:`feature`\\s onto systems at the expense of whatever elegance they "
+"may have possessed when originally designed. See also :ref:`feeping-"
+"creaturism`\\. \"You know, the main problem with :ref:`BSD` Unix has "
+"always been creeping featurism.\""
+msgstr ""
+
+#: ../../C/creeping-featurism.rst:17
+msgid ""
+"More generally, the tendency for anything complicated to become even more"
+" complicated because people keep saying \"Gee, it would be even better if"
+" it had this feature too\". (See :ref:`feature`\\.) The result is usually"
+" a patchwork because it grew one ad-hoc step at a time, rather than being"
+" planned. Planning is a lot of work, but it's easy to add just one extra "
+"little feature to help someone ... and then another ... and another.... "
+"When creeping featurism gets out of hand, it's like a cancer. The GNU "
+"hello program, intended to illustrate :ref:`GNU` command-line switch and "
+"coding conventions, is also a wonderful parody of creeping featurism; the"
+" distribution changelog is particularly funny. Usually this term is used "
+"to describe computer programs, but it could also be said of the federal "
+"government, the IRS 1040 form, and new cars. A similar phenomenon "
+"sometimes afflicts conscious redesigns; see :ref:`second-system-"
+"effect`\\. See also :ref:`creeping-elegance`\\."
+msgstr ""
+

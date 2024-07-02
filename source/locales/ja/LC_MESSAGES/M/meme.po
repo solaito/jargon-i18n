@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/meme.rst:5
+msgid "meme"
+msgstr ""
+
+#: ../../M/meme.rst:7
+msgid "/meem/, n\\."
+msgstr ""
+
+#: ../../M/meme.rst:9
+msgid ""
+"[coined by analogy with ‘gene’, by Richard Dawkins] An idea considered as"
+" a :ref:`replicator`\\, esp. with the connotation that memes parasitize "
+"people into propagating them much as viruses do. Used esp. in the phrase "
+"meme complex denoting a group of mutually supporting memes that form an "
+"organized belief system, such as a religion. This lexicon is an "
+"(epidemiological) vector of the ‘hacker subculture’ meme complex; each "
+"entry might be considered a meme. However, meme is often misused to mean "
+"meme complex. Use of the term connotes acceptance of the idea that in "
+"humans (and presumably other tool- and language-using sophonts) cultural "
+"evolution by selection of adaptive ideas has superseded biological "
+"evolution by selection of hereditary traits. Hackers find this idea "
+"congenial for tolerably obvious reasons."
+msgstr ""
+

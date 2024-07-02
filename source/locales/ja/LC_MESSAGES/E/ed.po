@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/ed.rst:5
+msgid "ed"
+msgstr ""
+
+#: ../../E/ed.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../E/ed.rst:9
+msgid ""
+"\"ed is the standard text editor.\" Line taken from the original "
+":ref:`Unix` manual page on ed, an ancient line-oriented editor that is by"
+" now used only by a few :ref:`Real-Programmer`\\s, and even then only for"
+" batch operations. The original line is sometimes uttered near the "
+"beginning of an emacs vs. vi holy war on :ref:`Usenet`\\, with the (vain)"
+" hope to quench the discussion before it really takes off. Often followed"
+" by a standard text describing the many virtues of ed (such as the small "
+"memory :ref:`footprint` on a Timex Sinclair, and the consistent (because "
+"nearly non-existent) user interface)."
+msgstr ""
+

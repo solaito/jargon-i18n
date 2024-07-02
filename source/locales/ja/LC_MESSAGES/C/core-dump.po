@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/core-dump.rst:5
+msgid "core dump"
+msgstr ""
+
+#: ../../C/core-dump.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/core-dump.rst:9
+msgid "[common :ref:`Iron-Age` jargon, preserved by Unix]"
+msgstr ""
+
+#: ../../C/core-dump.rst:12
+msgid ""
+"[techspeak] A copy of the contents of :ref:`core`\\, produced when a "
+"process is aborted by certain kinds of internal error."
+msgstr ""
+
+#: ../../C/core-dump.rst:15
+msgid ""
+"By extension, used for humans passing out, vomiting, or registering "
+"extreme shock. \"He dumped core. All over the floor. What a mess.\" \"He "
+"heard about X and dumped core.\""
+msgstr ""
+
+#: ../../C/core-dump.rst:22
+msgid ""
+"Occasionally used for a human rambling on pointlessly at great length; "
+"esp. in apology: \"Sorry, I dumped core on you\"."
+msgstr ""
+
+#: ../../C/core-dump.rst:26
+msgid ""
+"A recapitulation of knowledge (compare :ref:`bits`\\, sense 1). Hence, "
+"spewing all one knows about a topic (syn. :ref:`brain-dump`\\), esp. in a"
+" lecture or answer to an exam question. \"Short, concise answers are "
+"better than core dumps\" (from the instructions to an exam at Columbia). "
+"See :ref:`core`\\."
+msgstr ""
+
+#: ../../C/core-dump.rst:37
+msgid "A  :ref:`core-dump` lands our hero in hot       water."
+msgstr ""
+
+#: ../../C/core-dump.rst:39
+msgid ""
+"(This is the last cartoon in the Crunchly saga.   The previous       "
+"cartoon was  :ref:`76-05-01<crunchly76-05-01>`\\.)"
+msgstr ""
+

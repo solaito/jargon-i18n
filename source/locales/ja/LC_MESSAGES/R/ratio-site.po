@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/ratio-site.rst:5
+msgid "ratio site"
+msgstr ""
+
+#: ../../R/ratio-site.rst:7
+msgid ""
+"[warez d00dz] An FTP site storing pirated files where one must first "
+"upload something before being able to download. There is a ratio, based "
+"on bytes or files count, between the uploads and download. For instance, "
+"on a 2:1 site, to download a 4 Mb file, one must first upload at least 2 "
+"Mb of files. The hotter the contents of the server are, the smaller the "
+"ratio is. More often than not, the server refuses uploads because its "
+"disk is full, making it useless for downloading — or the connection "
+"magically breaks after one has uploaded a large amount of files, just "
+"before the downloading phase begins. See also :ref:`banner-site`\\, :ref"
+":`leech-mode`\\."
+msgstr ""
+

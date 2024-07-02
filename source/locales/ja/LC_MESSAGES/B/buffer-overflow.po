@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/buffer-overflow.rst:5
+msgid "buffer overflow"
+msgstr ""
+
+#: ../../B/buffer-overflow.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/buffer-overflow.rst:9
+msgid ""
+"What happens when you try to stuff more data into a buffer (holding area)"
+" than it can handle. This problem is commonly exploited by "
+":ref:`cracker`\\s to get arbitrary commands executed by a program running"
+" with root permissions. This may be due to a mismatch in the processing "
+"rates of the producing and consuming processes (see :ref:`overrun` and "
+":ref:`firehose-syndrome`\\), or because the buffer is simply too small to"
+" hold all the data that must accumulate before a piece of it can be "
+"processed. For example, in a text-processing tool that :ref:`crunch`\\es "
+"a line at a time, a short line buffer can result in :ref:`lossage` as "
+"input from a long line overflows the buffer and trashes data beyond it. "
+"Good defensive programming would check for overflow on each character and"
+" stop accepting data when the buffer is full up. The term is used of and "
+"by humans in a metaphorical sense. \"What time did I agree to meet you? "
+"My buffer must have overflowed.\" Or \"If I answer that phone my buffer "
+"is going to overflow.\" See also :ref:`spam`\\, :ref:`overrun-screw`\\."
+msgstr ""
+

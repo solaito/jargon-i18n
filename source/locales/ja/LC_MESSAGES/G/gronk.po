@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/gronk.rst:5
+msgid "gronk"
+msgstr ""
+
+#: ../../G/gronk.rst:7
+msgid "/gronk/, vt\\."
+msgstr ""
+
+#: ../../G/gronk.rst:9
+msgid ""
+"[popularized by Johnny Hart's comic strip *B.C. :* but the word "
+"apparently predates that]"
+msgstr ""
+
+#: ../../G/gronk.rst:13
+msgid ""
+"To clear the state of a wedged device and restart it. More severe than "
+"‘to :ref:`frob`\\’ (sense 2)."
+msgstr ""
+
+#: ../../G/gronk.rst:17
+msgid "[TMRC] To cut, sever, smash, or similarly disable."
+msgstr ""
+
+#: ../../G/gronk.rst:20
+msgid ""
+"The sound made by many 3.5-inch diskette drives. In particular, the "
+"microfloppies on a Commodore Amiga go \"grink, gronk\"."
+msgstr ""
+

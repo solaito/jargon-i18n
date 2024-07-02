@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/lurker.rst:5
+msgid "lurker"
+msgstr ""
+
+#: ../../L/lurker.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../L/lurker.rst:9
+msgid ""
+"One of the ‘silent majority’ in an electronic forum; one who posts "
+"occasionally or not at all but is known to read the group's postings "
+"regularly. This term is not pejorative and indeed is casually used "
+"reflexively: \"Oh, I'm just lurking.\" Often used in the lurkers, the "
+"hypothetical audience for the group's :ref:`flamage`\\-emitting regulars."
+" When a lurker speaks up for the first time, this is called delurking."
+msgstr ""
+
+#: ../../L/lurker.rst:14
+msgid ""
+"The creator of the popular science-fiction TV series *Babylon 5* has ties"
+" to SF fandom and the hacker culture. In that series, the use of the term"
+" ‘lurker’ for a homeless or displaced person is a conscious reference to "
+"the jargon term."
+msgstr ""
+

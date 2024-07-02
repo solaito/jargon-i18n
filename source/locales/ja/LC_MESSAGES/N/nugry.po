@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/nugry.rst:5
+msgid "nugry"
+msgstr ""
+
+#: ../../N/nugry.rst:7
+msgid "/n[y]oo´gree/"
+msgstr ""
+
+#: ../../N/nugry.rst:9
+msgid ""
+"[Usenet, ‘newbie’ + ‘-gry’] n. A :ref:`newbie` who posts a :ref:`FAQ` in "
+"the rec.puzzles newsgroup, especially if it is a variant of the notorious"
+" trick question: \"Think of words ending in ‘gry’. Angry and hungry are "
+"two of them. There are three words in the English language. What is the "
+"third word?\" In the newsgroup, the canonical answer is of course ‘nugry’"
+" itself. Plural is nusgry /n[y]oos´gree/."
+msgstr ""
+
+#: ../../N/nugry.rst:16
+msgid "adj. Having the qualities of a nugry."
+msgstr ""
+

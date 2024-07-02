@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/smart-terminal.rst:5
+msgid "smart terminal"
+msgstr ""
+
+#: ../../S/smart-terminal.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/smart-terminal.rst:10
+msgid ""
+"A terminal that has enough computing capability to render graphics or to "
+"offload some kind of front-end processing from the computer it talks to. "
+"The development of workstations and personal computers has made this term"
+" and the product it describes semi-obsolescent, but one may still hear "
+"variants of the phrase act like a smart terminal used to describe the "
+"behavior of workstations or PCs with respect to programs that execute "
+"almost entirely out of a remote :ref:`server`\\'s storage, using local "
+"devices as displays."
+msgstr ""
+
+#: ../../S/smart-terminal.rst:13
+msgid ""
+"obs. Any terminal with an addressable cursor; the opposite of a :ref"
+":`glass-tty`\\. Today, a terminal with merely an addressable cursor, but "
+"with none of the more-powerful features mentioned in sense 1, is called a"
+" :ref:`dumb-terminal`\\."
+msgstr ""
+
+#: ../../S/smart-terminal.rst:17
+msgid ""
+"There is a classic quote from Rob Pike (inventor of the :ref:`blit` "
+"terminal): \"A smart terminal is not a smartass terminal, but rather a "
+"terminal you can educate.\" This illustrates a common design problem: The"
+" attempt to make peripherals (or anything else) intelligent sometimes "
+"results in finicky, rigid ‘special features’ that become just so much "
+"dead weight if you try to use the device in any way the designer didn't "
+"anticipate. Flexibility and programmability, on the other hand, are "
+"*really* smart. Compare :ref:`hook`\\."
+msgstr ""
+

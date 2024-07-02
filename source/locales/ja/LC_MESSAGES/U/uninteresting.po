@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../U/uninteresting.rst:5
+msgid "uninteresting"
+msgstr ""
+
+#: ../../U/uninteresting.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../U/uninteresting.rst:10
+msgid ""
+"Said of a problem that, although :ref:`nontrivial`\\, can be solved "
+"simply by throwing sufficient resources at it."
+msgstr ""
+
+#: ../../U/uninteresting.rst:13
+msgid ""
+"Also said of problems for which a solution would neither advance the "
+"state of the art nor be fun to design and code."
+msgstr ""
+
+#: ../../U/uninteresting.rst:15
+msgid ""
+"Hackers regard uninteresting problems as intolerable wastes of time, to "
+"be solved (if at all) by lesser mortals.*Real* hackers (see "
+":ref:`toolsmith`\\) generalize uninteresting problems enough to make them"
+" interesting and solve them — thus solving the original problem as a "
+"special case (and, it must be admitted, occasionally turning a molehill "
+"into a mountain, or a mountain into a tectonic plate). See "
+":ref:`WOMBAT`\\, :ref:`SMOP`\\; compare :ref:`toy-problem`\\, oppose "
+":ref:`interesting`\\."
+msgstr ""
+

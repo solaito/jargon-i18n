@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/dinosaurs-mating.rst:5
+msgid "dinosaurs mating"
+msgstr ""
+
+#: ../../D/dinosaurs-mating.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/dinosaurs-mating.rst:9
+msgid ""
+"Said to occur when yet another :ref:`big-iron` merger or buyout occurs; "
+"originally reflected a perception by hackers that these signal another "
+"stage in the long, slow dying of the :ref:`mainframe` industry. In the "
+"mainframe industry's glory days of the 1960s, it was ‘IBM and the Seven "
+"Dwarfs’: Burroughs, Control Data, General Electric, Honeywell, NCR, RCA, "
+"and Univac. RCA and GE sold out early, and it was ‘IBM and the Bunch’ "
+"(Burroughs, Univac, NCR, Control Data, and Honeywell) for a while. "
+"Honeywell was bought out by Bull; Burroughs merged with Univac to form "
+"Unisys (in 1984 — this was when the phrase dinosaurs mating was coined); "
+"and in 1991 AT&T absorbed NCR (but spat it back out a few years later). "
+"Control Data still exists but is no longer in the mainframe business. In "
+"similar wave of dinosaur-matings as the PC business began to consolidate "
+"after 1995, Digital Equipment was bought by Compaq which was bought by "
+"Hewlett-Packard. More such earth-shaking unions of doomed giants seem "
+"inevitable."
+msgstr ""
+

@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/time-bomb.rst:5
+msgid "time bomb"
+msgstr ""
+
+#: ../../T/time-bomb.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/time-bomb.rst:9
+msgid ""
+"A subspecies of :ref:`logic-bomb` that is triggered by reaching some "
+"preset time, either once or periodically. There are numerous legends "
+"about time bombs set up by programmers in their employers' machines, to "
+"go off if the programmer is fired or laid off and is not present to "
+"perform the appropriate suppressing action periodically."
+msgstr ""
+
+#: ../../T/time-bomb.rst:12
+msgid ""
+"Interestingly, the only such incident for which we have been pointed to "
+"documentary evidence took place in the Soviet Union in 1986! A "
+"disgruntled programmer at the Volga Automobile Plant (where the Fiat "
+"clones called Ladas were manufactured) planted a time bomb which, a week "
+"after he'd left on vacation, stopped the entire main assembly line for a "
+"day. The case attracted lots of attention in the Soviet Union because it "
+"was the first cracking case to make it to court there. The perpetrator "
+"got a suspended sentence of 3 years in jail and was barred from future "
+"work as a programmer."
+msgstr ""
+

@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/Random-Number-God.rst:5
+msgid "Random Number God"
+msgstr ""
+
+#: ../../R/Random-Number-God.rst:7
+#, python-format
+msgid ""
+"[rec.games.roguelike.angband; often abbreviated ‘RNG’] The malign force "
+"which lurks behind the random number generator in :ref:`Angband` (and by "
+"extension elsewhere). A dark god that demands sacrifices and toys with "
+"its victims. \"I just found a really great item; I suppose the RNG is "
+"about to punish me...\" Apparently, Angband's random number generator "
+"occasionally gets locked in a repetition, so you get something with a 3% "
+"chance happening 8 times in a row. Improbable, but far too common to be "
+"pure chance. Compare :ref:`Shub-Internet`\\."
+msgstr ""
+

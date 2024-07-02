@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/Classic-C.rst:5
+msgid "Classic C"
+msgstr ""
+
+#: ../../C/Classic-C.rst:7
+msgid "/klas´ik C/, n\\."
+msgstr ""
+
+#: ../../C/Classic-C.rst:9
+msgid ""
+"[a play on ‘Coke Classic’] The C programming language as defined in the "
+"first edition of :ref:`K-ampersand-R`\\, with some small additions. It is"
+" also known as ‘K&R C’. The name came into use while C was being "
+"standardized by the ANSI X3J11 committee. Also ‘C Classic’."
+msgstr ""
+
+#: ../../C/Classic-C.rst:14
+msgid ""
+"An analogous construction is sometimes applied elsewhere: thus, ‘X "
+"Classic’, where X = Star Trek (referring to the original TV series) or X "
+"= PC (referring to IBM's ISA-bus machines as opposed to the PS/2 series)."
+" This construction is especially used of product series in which the "
+"newer versions are considered serious losers relative to the older ones."
+msgstr ""
+

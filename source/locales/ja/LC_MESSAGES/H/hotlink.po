@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hotlink.rst:5
+msgid "hotlink"
+msgstr ""
+
+#: ../../H/hotlink.rst:7
+msgid "/hot´link/, n\\."
+msgstr ""
+
+#: ../../H/hotlink.rst:9
+msgid ""
+"A :ref:`hot-spot` on a World Wide Web page; an area, which, when clicked "
+"or selected, chases a URL. Also spelled ‘hot link’. Use of this term "
+"focuses on the link's role as an immediate part of your display, as "
+"opposed to the timeless sense of logical connection suggested by :ref"
+":`web-pointer`\\. Your screen shows hotlinks but your document has web "
+"pointers, not (in normal usage) the other way around."
+msgstr ""
+

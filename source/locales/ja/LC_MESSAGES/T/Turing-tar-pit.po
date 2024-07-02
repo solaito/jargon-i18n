@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/Turing-tar-pit.rst:5
+msgid "Turing tar-pit"
+msgstr ""
+
+#: ../../T/Turing-tar-pit.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/Turing-tar-pit.rst:10
+msgid ""
+"A place where anything is possible but nothing of interest is practical. "
+"Alan Turing helped lay the foundations of computer science by showing "
+"that all machines and languages capable of expressing a certain very "
+"primitive set of operations are logically equivalent in the kinds of "
+"computations they can carry out, and in principle have capabilities that "
+"differ only in speed from those of the most powerful and elegantly "
+"designed computers. However, no machine or language exactly matching "
+"Turing's primitive set has ever been built (other than possibly as a "
+"classroom exercise), because it would be horribly slow and far too "
+"painful to use. A Turing tar-pit is any computer language or other tool "
+"that shares this property. That is, it's theoretically universal — but in"
+" practice, the harder you struggle to get any real work done, the deeper "
+"its inadequacies suck you in. Compare :ref:`bondage-and-discipline-"
+"language`\\."
+msgstr ""
+
+#: ../../T/Turing-tar-pit.rst:18
+msgid ""
+"The perennial :ref:`holy-wars` over whether language A or B is the \"most"
+" powerful\"."
+msgstr ""
+

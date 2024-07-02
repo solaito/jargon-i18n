@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/green-bytes.rst:5
+msgid "green bytes"
+msgstr ""
+
+#: ../../G/green-bytes.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../G/green-bytes.rst:9
+msgid "(also green words)"
+msgstr ""
+
+#: ../../G/green-bytes.rst:12
+msgid ""
+"Meta-information embedded in a file, such as the length of the file or "
+"its name; as opposed to keeping such information in a separate "
+"description file or record. The term comes from an IBM user's group "
+"meeting (ca. 1962) at which these two approaches were being debated and "
+"the diagram of the file on the blackboard had the green bytes drawn in "
+"green."
+msgstr ""
+
+#: ../../G/green-bytes.rst:17
+msgid ""
+"By extension, the non-data bits in any self-describing format. \"A GIF "
+"file contains, among other things, green bytes describing the packing "
+"method for the image.\" Compare :ref:`out-of-band`\\, :ref:`zigamorph`\\,"
+" :ref:`fence` (sense 1)."
+msgstr ""
+

@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/math-out.rst:5
+msgid "math-out"
+msgstr ""
+
+#: ../../M/math-out.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../M/math-out.rst:9
+msgid ""
+"[poss. from ‘white-out’ (the blizzard variety)] A paper or presentation "
+"so encrusted with mathematical or other formal notation as to be "
+"incomprehensible. This may be a device for concealing the fact that it is"
+" actually :ref:`content-free`\\. See also :ref:`numbers`\\, :ref:`social-"
+"science-number`\\."
+msgstr ""
+
+#: ../../M/math-out.rst:18
+msgid "A  :ref:`math-out` approach to history."
+msgstr ""
+
+#: ../../M/math-out.rst:20
+msgid ""
+"(The next cartoon in the Crunchly saga is         "
+":ref:`73-05-19<crunchly73-05-19>`\\.  The previous one is        the  "
+":ref:`frontispiece<crunchly-1>`\\.)"
+msgstr ""
+

@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../I/infinity.rst:5
+msgid "infinity"
+msgstr ""
+
+#: ../../I/infinity.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../I/infinity.rst:10
+msgid ""
+"The largest value that can be represented in a particular type of "
+"variable (register, memory location, data type, whatever)."
+msgstr ""
+
+#: ../../I/infinity.rst:12
+msgid ""
+"minus infinity: The smallest such value, not necessarily or even usually "
+"the simple negation of plus infinity. In ``N``\\-bit twos-complement "
+"arithmetic, infinity is :math:`2^{N-1}` but minus infinity is :math:`- "
+"(2^{N-1}`\\, not :math:`-(2^{N-1}`\\. Note also that this is different "
+"from time T equals minus infinity, which is closer to a mathematician's "
+"usage of infinity."
+msgstr ""
+

@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/burn-a-CD.rst:5
+msgid "burn a CD"
+msgstr ""
+
+#: ../../B/burn-a-CD.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../B/burn-a-CD.rst:9
+msgid ""
+"To write a software or document distribution on a CDR. Coined from the "
+"fact that a laser is used to inscribe the information by burning small "
+"pits in the medium, and from the fact that disk comes out of the drive "
+"warm to the touch. Writable CDs can be done on a normal desk-top machine "
+"with a suitable drive (so there is no protracted release cycle associated"
+" with making them) but each one takes a long time to make, so they are "
+"not appropriate for volume production. Writable CDs are suitable for "
+"software backups and for short-turnaround-time low-volume software "
+"distribution, such as sending a beta release version to a few selected "
+"field test sites. Compare :ref:`cut-a-tape`\\."
+msgstr ""
+

@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/frob.rst:5
+msgid "frob"
+msgstr ""
+
+#: ../../F/frob.rst:7
+msgid "/frob/"
+msgstr ""
+
+#: ../../F/frob.rst:9
+msgid ""
+"n\\. [MIT; very common] The :ref:`TMRC` definition was \"FROB = a "
+"protruding arm or trunnion\"; by metaphoric extension, a frob is any "
+"random small thing; an object that you can comfortably hold in one hand; "
+"something you can frob (sense 2). See :ref:`frobnitz`\\."
+msgstr ""
+
+#: ../../F/frob.rst:13
+msgid "vt\\. Abbreviated form of :ref:`frobnicate`\\."
+msgstr ""
+
+#: ../../F/frob.rst:17
+msgid ""
+"[from the :ref:`MUD` world] A command on some MUDs that changes a "
+"player's experience level (this can be used to make wizards); also, to "
+"request :ref:`wizard` privileges on the ‘professional courtesy’ grounds "
+"that one is a wizard elsewhere. The command is actually ‘frobnicate’ but "
+"is universally abbreviated to the shorter form."
+msgstr ""
+

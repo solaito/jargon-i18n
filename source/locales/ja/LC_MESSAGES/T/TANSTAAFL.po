@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/TANSTAAFL.rst:5
+msgid "TANSTAAFL"
+msgstr ""
+
+#: ../../T/TANSTAAFL.rst:7
+msgid "/tan´stah·fl/"
+msgstr ""
+
+#: ../../T/TANSTAAFL.rst:9
+msgid ""
+"[acronym, from Robert Heinlein's classic SF novel *The Moon is a Harsh "
+"Mistress*\\.] \"There Ain't No Such Thing As A Free Lunch\", often "
+"invoked when someone is balking at the prospect of using an unpleasantly "
+":ref:`heavyweight` technique, or at the poor quality of some piece of "
+"software, or at the :ref:`signal-to-noise-ratio` of unmoderated Usenet "
+"newsgroups. \"What? Don't tell me I have to implement a database back end"
+" to get my address book program to work!\" \"Well, TANSTAAFL you know.\" "
+"This phrase owes some of its popularity to the high concentration of "
+"science-fiction fans and political libertarians in hackerdom (see "
+":ref:`Appendix B<appendixb>` for discussion)."
+msgstr ""
+
+#: ../../T/TANSTAAFL.rst:16
+msgid ""
+"Outside hacker circles the variant TINSTAAFL (\"There is No Such "
+"Thing...\") is apparently more common, and can be traced back to 1952 in "
+"the writings of ethicist Alvin Hansen. TANSTAAFL may well have arisen "
+"from it by mutation."
+msgstr ""
+

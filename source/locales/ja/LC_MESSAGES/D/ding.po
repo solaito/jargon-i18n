@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/ding.rst:5
+msgid "ding"
+msgstr ""
+
+#: ../../D/ding.rst:7
+msgid "n\\.,vi\\."
+msgstr ""
+
+#: ../../D/ding.rst:10
+msgid ""
+"Synonym for :ref:`feep`\\. Usage: rare among hackers, but more common in "
+"the :ref:`Real-World`\\."
+msgstr ""
+
+#: ../../D/ding.rst:13
+msgid ""
+"dinged: What happens when someone in authority gives you a minor bitching"
+" about something, esp. something trivial. \"I was dinged for having a "
+"messy desk.\""
+msgstr ""
+

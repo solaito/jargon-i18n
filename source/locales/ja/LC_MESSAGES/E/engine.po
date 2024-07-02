@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/engine.rst:5
+msgid "engine"
+msgstr ""
+
+#: ../../E/engine.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../E/engine.rst:10
+msgid ""
+"A piece of hardware that encapsulates some function but can't be used "
+"without some kind of :ref:`front-end`\\. Today we have, especially, print"
+" engine: the guts of a laser printer."
+msgstr ""
+
+#: ../../E/engine.rst:14
+msgid ""
+"An analogous piece of software; notionally, one that does a lot of noisy "
+"crunching, such as a database engine."
+msgstr ""
+
+#: ../../E/engine.rst:16
+msgid ""
+"The hacker senses of engine are actually close to its original, pre-"
+"Industrial-Revolution sense of a skill, clever device, or instrument (the"
+" word is cognate to ‘ingenuity’). This sense had not been completely "
+"eclipsed by the modern connotation of power-transducing machinery in "
+"Charles Babbage's time, which explains why he named the stored-program "
+"computer that he designed in 1844 the Analytical Engine."
+msgstr ""
+

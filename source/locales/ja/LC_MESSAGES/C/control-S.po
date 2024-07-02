@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/control-S.rst:5
+msgid "control-S"
+msgstr ""
+
+#: ../../C/control-S.rst:7
+msgid "vi\\."
+msgstr ""
+
+#: ../../C/control-S.rst:9
+msgid ""
+"\"Stop talking for a second.\" From the ASCII DC3 or XOFF character (the "
+"pronunciation /X-of/ is therefore also used). Control-S differs from "
+":ref:`control-O` in that the person is asked to stop talking (perhaps "
+"because you are on the phone) but will be allowed to continue when you're"
+" ready to listen to him — as opposed to control-O, which has more of the "
+"meaning of \"Shut up.\" Considered silly."
+msgstr ""
+

@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/second-system-effect.rst:5
+msgid "second-system effect"
+msgstr ""
+
+#: ../../S/second-system-effect.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/second-system-effect.rst:9
+msgid ""
+"(sometimes, more euphoniously, second-system syndrome) When one is "
+"designing the successor to a relatively small, elegant, and successful "
+"system, there is a tendency to become grandiose in one's success and "
+"design an :ref:`elephantine` feature-laden monstrosity. The term was "
+"first used by Fred Brooks in his classic *The Mythical Man-Month: Essays "
+"on Software Engineering* (Addison-Wesley, 1975; ISBN 0-201-00650-2). It "
+"described the jump from a set of nice, simple operating systems on the "
+"IBM 70xx series to OS/360 on the 360 series. A similar effect can also "
+"happen in an evolving system; see :ref:`Brookss-Law`\\, :ref:`creeping-"
+"elegance`\\, :ref:`creeping-featurism`\\. See also :ref:`Multics`\\, "
+":ref:`OS-2`\\, :ref:`X`\\, :ref:`software-bloat`\\."
+msgstr ""
+
+#: ../../S/second-system-effect.rst:15
+msgid ""
+"This version of the jargon lexicon has been described (with altogether "
+"too much truth for comfort) as an example of second-system effect run "
+"amok on jargon-1...."
+msgstr ""
+

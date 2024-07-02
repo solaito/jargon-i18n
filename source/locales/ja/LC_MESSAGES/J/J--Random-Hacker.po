@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../J/J--Random-Hacker.rst:5
+msgid "J. Random Hacker"
+msgstr ""
+
+#: ../../J/J--Random-Hacker.rst:7
+msgid "/J rand´m hak´r/, n\\."
+msgstr ""
+
+#: ../../J/J--Random-Hacker.rst:9
+msgid ""
+"[very common] A mythical figure like the Unknown Soldier; the archetypal "
+"hacker nerd. This term is one of the oldest in the jargon, apparently "
+"going back to MIT in the 1960s. See :ref:`random`\\, :ref:`Suzie-"
+"COBOL`\\. This may originally have been inspired by ‘J. Fred Muggs’, a "
+"show-biz chimpanzee whose name was a household word back in the early "
+"days of :ref:`TMRC`\\, and was probably influenced by ‘J. Presper Eckert’"
+" (one of the co-inventors of the electronic computer). See also :ref"
+":`Fred-Foobar`\\."
+msgstr ""
+

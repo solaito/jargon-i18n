@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../I/infinite.rst:5
+msgid "infinite"
+msgstr ""
+
+#: ../../I/infinite.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../I/infinite.rst:9
+msgid ""
+"[common] Consisting of a large number of objects; extreme. Used very "
+"loosely as in: \"This program produces infinite garbage.\" \"He is an "
+"infinite loser.\" The word most likely to follow infinite, though, is "
+":ref:`hair`\\. (It has been pointed out that fractals are an excellent "
+"example of infinite hair.) These uses are abuses of the word's "
+"mathematical meaning. The term semi-infinite, denoting an immoderately "
+"large amount of some resource, is also heard. \"This compiler is taking a"
+" semi-infinite amount of time to optimize my program.\" See also "
+":ref:`semi`\\."
+msgstr ""
+

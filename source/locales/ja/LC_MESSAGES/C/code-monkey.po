@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/code-monkey.rst:5
+msgid "code monkey"
+msgstr ""
+
+#: ../../C/code-monkey.rst:7
+msgid "n"
+msgstr ""
+
+#: ../../C/code-monkey.rst:10
+msgid ""
+"A person only capable of grinding out code, but unable to perform the "
+"higher-primate tasks of software architecture, analysis, and design. "
+"Mildly insulting. Often applied to the most junior people on a "
+"programming team."
+msgstr ""
+
+#: ../../C/code-monkey.rst:15
+msgid "Anyone who writes code for a living; a programmer."
+msgstr ""
+
+#: ../../C/code-monkey.rst:18
+msgid ""
+"A self-deprecating way of denying responsibility for a :ref:`management` "
+"decision, or of complaining about having to live with such decisions. As "
+"in \"Don't ask me why we need to write a compiler in COBOL, I'm just a "
+"code monkey.\""
+msgstr ""
+

@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/path.rst:5
+msgid "path"
+msgstr ""
+
+#: ../../P/path.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../P/path.rst:10
+msgid ""
+"A :ref:`bang-path` or explicitly routed Internet address; a node-by-node "
+"specification of a link between two machines. Though these are now "
+"obsolete as a form of addressing, they still show up in diagnostics and "
+"trace headers occasionally (e.g. in NNTP headers)."
+msgstr ""
+
+#: ../../P/path.rst:15
+msgid ""
+"[Unix] A filename, fully specified relative to the root directory (as "
+"opposed to relative to the current directory; the latter is sometimes "
+"called a relative path). This is also called a pathname."
+msgstr ""
+
+#: ../../P/path.rst:19
+msgid ""
+"[Unix and MS-DOS/Windows] The search path, an environment variable "
+"specifying the directories in which the :ref:`shell` (COMMAND.COM, under "
+"MS-DOS) should look for commands. Other, similar constructs abound under "
+"Unix (for example, the C preprocessor has a search path it uses in "
+"looking for :code:`#include` files)."
+msgstr ""
+

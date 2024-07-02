@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bottom-post.rst:5
+msgid "bottom-post"
+msgstr ""
+
+#: ../../B/bottom-post.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../B/bottom-post.rst:9
+msgid ""
+"In a news or mail reply, to put the response to a news or email message "
+"after the quoted content from the parent message. This is correct form, "
+"and until around 2000 was so universal on the Internet that neither the "
+"term ‘bottom-post’ nor its antonym :ref:`top-post` existed. Hackers "
+"consider that the best practice is actually to excerpt only the relevent "
+"portions of the parent message, then intersperse the poster's response in"
+" such a way that each section of response appears directly after the "
+"excerpt it applies to. This reduces message bulk, keeps thread content in"
+" a logical order, and facilitates reading."
+msgstr ""
+

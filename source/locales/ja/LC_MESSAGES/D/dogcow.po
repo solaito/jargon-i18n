@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/dogcow.rst:5
+msgid "dogcow"
+msgstr ""
+
+#: ../../D/dogcow.rst:7
+msgid "/dog´kow/, n\\."
+msgstr ""
+
+#: ../../D/dogcow.rst:9
+msgid ""
+"See :ref:`Moof`\\. The dogcow is a semi-legendary creature that lurks in "
+"the depths of the Macintosh Technical Notes Hypercard stack V3.1. The "
+"full story of the dogcow is told in technical note #31 (the particular "
+"dogcow illustrated is properly named ‘Clarus’). Option-shift-click will "
+"cause it to emit a characteristic \"Moof!\" or \"!fooM\" sound.*Getting* "
+"to tech note 31 is the hard part; to discover how to do that, one must "
+"needs examine the stack script with a hackerly eye. Clue: :ref:`rot13` is"
+" involved. A dogcow also appears if you choose ‘Page Setup...’ with a "
+"LaserWriter selected and click on the ‘Options’ button. It also lurks in "
+"other Mac printer drivers, notably those for the now-discontinued Style "
+"Writers. See "
+"`http://developer.apple.com/products/techsupport/dogcow/tn31.html "
+"<http://developer.apple.com/products/techsupport/dogcow/tn31.html>`_."
+msgstr ""
+

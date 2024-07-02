@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/case-mod.rst:5
+msgid "case mod"
+msgstr ""
+
+#: ../../C/case-mod.rst:7
+msgid "[from ‘case modification’]"
+msgstr ""
+
+#: ../../C/case-mod.rst:10
+msgid ""
+"Originally a kind of hardware hack on a PC intended to support "
+":ref:`overclock` (e.g. with cutouts for oversized fans, or a freon-based "
+"or water-cooling system)."
+msgstr ""
+
+#: ../../C/case-mod.rst:14
+msgid ""
+"Nowadays, similar drastic surgery that's done just to make a machine look"
+" nifty. The commonest case mods combine acrylic case windows with LEDs to"
+" give the machine an eerie interior glow like a B-movie flying saucer. "
+"More advanced forms of case modding involve building machines into weird "
+"and unlikely shapes. The effect can be quite artistic, but one of the "
+"unwritten rules is that the machine must continue to function as a "
+"computer."
+msgstr ""
+

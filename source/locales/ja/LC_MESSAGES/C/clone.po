@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/clone.rst:5
+msgid "clone"
+msgstr ""
+
+#: ../../C/clone.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/clone.rst:10
+msgid ""
+"An exact duplicate: \"Our product is a clone of their product.\" Implies "
+"a legal reimplementation from documentation or by reverse-engineering. "
+"Also connotes lower price."
+msgstr ""
+
+#: ../../C/clone.rst:15
+msgid "A shoddy, spurious copy: \"Their product is a clone of our product.\""
+msgstr ""
+
+#: ../../C/clone.rst:18
+msgid ""
+"A blatant ripoff, most likely violating copyright, patent, or trade "
+"secret protections: \"Your product is a clone of my product.\" This use "
+"implies legal action is pending."
+msgstr ""
+
+#: ../../C/clone.rst:22
+msgid ""
+"[obs] PC clone: a PC-BUS/ISA/EISA/PCI-compatible 80x86-based "
+"microcomputer (this use is sometimes spelled klone or PClone). These "
+"invariably have much more bang for the buck than the IBM archetypes they "
+"resemble. This term fell out of use in the 1990s; the class of machines "
+"it describes are now simply PCs or Intel machines."
+msgstr ""
+
+#: ../../C/clone.rst:27
+msgid ""
+"[obs.] In the construction Unix clone: An OS designed to deliver a Unix-"
+"lookalike environment without Unix license fees, or with additional "
+"‘mission-critical’ features such as support for real-time programming. "
+":ref:`Linux` and the free BSDs killed off this product category and the "
+"term with it."
+msgstr ""
+
+#: ../../C/clone.rst:31
+msgid ""
+"v\\. To make an exact copy of something. \"Let me clone that\" might mean"
+" \"I want to borrow that paper so I can make a photocopy\" or \"Let me "
+"get a copy of that file before you :ref:`mung` it\"."
+msgstr ""
+

@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../O/overrun-screw.rst:5
+msgid "overrun screw"
+msgstr ""
+
+#: ../../O/overrun-screw.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../O/overrun-screw.rst:9
+msgid ""
+"[C programming] A variety of :ref:`fandango-on-core` produced by "
+"scribbling past the end of an array (C implementations typically have no "
+"checks for this error). This is relatively benign and easy to spot if the"
+" array is static; if it is auto, the result may be to :ref:`smash-the-"
+"stack` — often resulting in :ref:`heisenbug`\\s of the most diabolical "
+"subtlety. The term overrun screw is used esp. of scribbles beyond the end"
+" of arrays allocated with :manpage:`malloc(3)`\\; this typically trashes "
+"the allocation header for the next block in the :ref:`arena`\\, producing"
+" massive lossage within malloc and often a core dump on the next "
+"operation to use :manpage:`stdio(3)` or :manpage:`malloc(3)` itself. See "
+":ref:`spam`\\, :ref:`overrun`\\; see also :ref:`memory-leak`\\, :ref"
+":`memory-smash`\\, :ref:`aliasing-bug`\\, :ref:`precedence-lossage`\\, "
+":ref:`fandango-on-core`\\, :ref:`secondary-damage`\\."
+msgstr ""
+

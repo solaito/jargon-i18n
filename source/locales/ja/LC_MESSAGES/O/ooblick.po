@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../O/ooblick.rst:5
+msgid "ooblick"
+msgstr ""
+
+#: ../../O/ooblick.rst:7
+msgid "/oo´blik/, n\\."
+msgstr ""
+
+#: ../../O/ooblick.rst:9
+msgid ""
+"[from the Dr. Seuss title *Bartholomew and the Oobleck*\\; the spelling "
+"‘oobleck’ is still current in the mainstream] A bizarre semi-liquid "
+"sludge made from cornstarch and water. Enjoyed among hackers who make "
+"batches during playtime at parties for its amusing and extremely non-"
+"Newtonian behavior; it pours and splatters, but resists rapid motion like"
+" a solid and will even crack when hit by a hammer. Often found near "
+"lasers."
+msgstr ""
+
+#: ../../O/ooblick.rst:13
+msgid "Here is a field-tested ooblick recipe contributed by GLS:"
+msgstr ""
+
+#: ../../O/ooblick.rst:15
+msgid "1 cup cornstarch"
+msgstr ""
+
+#: ../../O/ooblick.rst:17
+msgid "1 cup baking soda"
+msgstr ""
+
+#: ../../O/ooblick.rst:19
+msgid "3/4 cup water"
+msgstr ""
+
+#: ../../O/ooblick.rst:21
+msgid "N drops of food coloring"
+msgstr ""
+
+#: ../../O/ooblick.rst:23
+msgid ""
+"This recipe isn't quite as non-Newtonian as a pure cornstarch ooblick, "
+"but has an appropriately slimy feel."
+msgstr ""
+
+#: ../../O/ooblick.rst:25
+msgid ""
+"Some, however, insist that the notion of an ooblick *recipe* is far too "
+"mechanical, and that it is best to add the water in small increments so "
+"that the various mixed states the cornstarch goes through as it *becomes*"
+" ooblick can be grokked in fullness by many hands. For optional "
+"ingredients of this experience, see the * Ceremonial Chemicals* section "
+"of Appendix B."
+msgstr ""
+

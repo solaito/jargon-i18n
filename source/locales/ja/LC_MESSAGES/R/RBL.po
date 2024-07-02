@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/RBL.rst:5
+msgid "RBL"
+msgstr ""
+
+#: ../../R/RBL.rst:7
+msgid "/R·B·L/"
+msgstr ""
+
+#: ../../R/RBL.rst:9
+msgid ""
+"Abbreviation: \"Realtime Blackhole List\". A service that allows people "
+"to blacklist sites for emitting :ref:`spam`\\, and makes the blacklist "
+"available in real time to electronic-mail transport programs that know "
+"how to use RBL so they can filter out mail from those sites. Drastic (and"
+" controversial) but effective. There is an `RBL home page <http://mail-"
+"abuse.org/rbl/usage.html>`_."
+msgstr ""
+

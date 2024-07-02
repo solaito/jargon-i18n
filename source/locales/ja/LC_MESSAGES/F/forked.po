@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/forked.rst:5
+msgid "forked"
+msgstr ""
+
+#: ../../F/forked.rst:7
+msgid "adj\\.,vi\\."
+msgstr ""
+
+#: ../../F/forked.rst:10
+msgid ""
+"[common after 1997, esp. in the Linux community] An open-source software "
+"project is said to have forked or be forked when the project group "
+"fissions into two or more parts pursuing separate lines of development "
+"(or, less commonly, when a third party unconnected to the project group "
+"begins its own line of development). Forking is considered a :ref:`Bad-"
+"Thing` — not merely because it implies a lot of wasted effort in the "
+"future, but because forks tend to be accompanied by a great deal of "
+"strife and acrimony between the successor groups over issues of "
+"legitimacy, succession, and design direction. There is serious social "
+"pressure against forking. As a result, major forks (such as the Gnu-"
+"Emacs/XEmacs split, the fissionings of the 386BSD group into three "
+"daughter projects, and the short-lived GCC/EGCS split) are rare enough "
+"that they are remembered individually in hacker folklore."
+msgstr ""
+
+#: ../../F/forked.rst:17
+msgid ""
+"[Unix; uncommon; prob. : influenced by a mainstream expletive] Terminally"
+" slow, or dead. Originated when one system was slowed to a snail's pace "
+"by an inadvertent :ref:`fork-bomb`\\."
+msgstr ""
+

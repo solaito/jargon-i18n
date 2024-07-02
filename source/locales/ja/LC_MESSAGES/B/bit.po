@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bit.rst:5
+msgid "bit"
+msgstr ""
+
+#: ../../B/bit.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/bit.rst:9
+msgid "[from the mainstream meaning and \"Binary digIT\"]"
+msgstr ""
+
+#: ../../B/bit.rst:12
+msgid ""
+"[techspeak] The unit of information; the amount of information obtained "
+"from knowing the answer to a yes-or-no question for which the two "
+"outcomes are equally probable."
+msgstr ""
+
+#: ../../B/bit.rst:15
+msgid ""
+"[techspeak] A computational quantity that can take on one of two values, "
+"such as true and false or 0 and 1."
+msgstr ""
+
+#: ../../B/bit.rst:18
+msgid ""
+"A mental flag: a reminder that something should be done eventually. \"I "
+"have a bit set for you.\" (I haven't seen you for a while, and I'm "
+"supposed to tell or ask you something.)"
+msgstr ""
+
+#: ../../B/bit.rst:23
+msgid ""
+"More generally, a (possibly incorrect) mental state of belief. \"I have a"
+" bit set that says that you were the last guy to hack on EMACS.\" "
+"(Meaning \"I think you were the last guy to hack on EMACS, and what I am "
+"about to say is predicated on this, so please stop me if this isn't "
+"true.\") \"I just need one bit from you\" is a polite way of indicating "
+"that you intend only a short interruption for a question that can "
+"presumably be answered yes or no."
+msgstr ""
+
+#: ../../B/bit.rst:28
+msgid ""
+"A bit is said to be set if its value is true or 1, and reset or clear if "
+"its value is false or 0. One speaks of setting and clearing bits. To "
+":ref:`toggle` or invert a bit is to change it, either from 0 to 1 or from"
+" 1 to 0. See also :ref:`flag`\\, :ref:`trit`\\, :ref:`mode-bit`\\."
+msgstr ""
+
+#: ../../B/bit.rst:33
+msgid ""
+"The term bit first appeared in print in the computer-science sense in a "
+"1948 paper by information theorist Claude Shannon, and was there credited"
+" to the early computer scientist John Tukey (who also seems to have "
+"coined the term software). Tukey records that bit evolved over a lunch "
+"table as a handier alternative to bigit or binit, at a conference in the "
+"winter of 1943-44."
+msgstr ""
+

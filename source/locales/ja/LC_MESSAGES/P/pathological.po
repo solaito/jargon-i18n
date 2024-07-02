@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/pathological.rst:5
+msgid "pathological"
+msgstr ""
+
+#: ../../P/pathological.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../P/pathological.rst:10
+msgid ""
+"[scientific computation] Used of a data set that is grossly atypical of "
+"normal expected input, esp. one that exposes a weakness or bug in "
+"whatever algorithm one is using. An algorithm that can be broken by "
+"pathological inputs may still be useful if such inputs are very unlikely "
+"to occur in practice."
+msgstr ""
+
+#: ../../P/pathological.rst:15
+msgid ""
+"When used of test input, implies that it was purposefully engineered as a"
+" worst case. The implication in both senses is that the data is "
+"spectacularly ill-conditioned or that someone had to explicitly set out "
+"to break the algorithm in order to come up with such a crazy example."
+msgstr ""
+
+#: ../../P/pathological.rst:19
+msgid ""
+"Also said of an unlikely collection of circumstances. \"If the network is"
+" down and comes up halfway through the execution of that command by root,"
+" the system may just crash.\" \"Yes, but that's a pathological case.\" "
+"Often used to dismiss the case from discussion, with the implication that"
+" the consequences are acceptable, since they will happen so infrequently "
+"(if at all) that it doesn't seem worth going to the extra trouble to "
+"handle that case (see sense 1)."
+msgstr ""
+

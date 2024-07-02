@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../K/killer-micro.rst:5
+msgid "killer micro"
+msgstr ""
+
+#: ../../K/killer-micro.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../K/killer-micro.rst:9
+msgid ""
+"[popularized by Eugene Brooks c.1990] A microprocessor-based machine that"
+" infringes on mini, mainframe, or supercomputer performance turf. Often "
+"heard in \"No one will survive the attack of the killer micros! \", the "
+"battle cry of the downsizers."
+msgstr ""
+
+#: ../../K/killer-micro.rst:13
+msgid ""
+"The popularity of the phrase ‘attack of the killer micros’ is doubtless "
+"reinforced by the title of the movie *Attack Of The Killer Tomatoes* (one"
+" of the :ref:`canonical` examples of so-bad-it's-wonderful among "
+"hackers). This has even more :ref:`flavor` now that killer micros have "
+"gone on the offensive not just individually (in workstations) but in "
+"hordes (within massively parallel computers)."
+msgstr ""
+
+#: ../../K/killer-micro.rst:16
+msgid ""
+"[2002 update: Eugene Brooks was right. Since this term first entered the "
+"Jargon File in 1990, the minicomputer has effectively vanished, the "
+":ref:`mainframe` sector is in deep and apparently terminal decline, and "
+"even the supercomputer business has contracted into a smaller niche. It's"
+" networked killer micros as far as the eye can see. —ESR]"
+msgstr ""
+

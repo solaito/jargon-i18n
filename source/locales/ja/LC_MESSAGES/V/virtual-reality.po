@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../V/virtual-reality.rst:5
+msgid "virtual reality"
+msgstr ""
+
+#: ../../V/virtual-reality.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../V/virtual-reality.rst:10
+msgid ""
+"Computer simulations that use 3-D graphics and devices such as the "
+"Dataglove to allow the user to interact with the simulation. See "
+":ref:`cyberspace`\\."
+msgstr ""
+
+#: ../../V/virtual-reality.rst:14
+msgid ""
+"A form of network interaction incorporating aspects of role-playing "
+"games, interactive theater, improvisational comedy, and ‘true "
+"confessions’ magazines. In a virtual reality forum (such as Usenet's "
+":samp:`alt.callahans` newsgroup or the :ref:`MUD` experiments on "
+"Internet), interaction between the participants is written like a shared "
+"novel complete with scenery, foreground characters that may be personae "
+"utterly unlike the people who write them, and common background "
+"characters manipulable by all parties. The one iron law is that you may "
+"not write irreversible changes to a character without the consent of the "
+"person who ‘owns’ it. Otherwise anything goes. See :ref:`bamf`\\, "
+":ref:`cyberspace`\\, :ref:`teledildonics`\\."
+msgstr ""
+

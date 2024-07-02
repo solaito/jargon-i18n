@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../O/Oracle--the.rst:5
+msgid "Oracle, the"
+msgstr ""
+
+#: ../../O/Oracle--the.rst:7
+msgid ""
+"The all-knowing, all-wise Internet Oracle :samp:`rec.humor.oracle`\\, or "
+"one of the foreign language derivatives of same. Newbies frequently "
+"confuse the Oracle with Oracle, a database vendor. As a result, the "
+"unmoderated :samp:`rec.humor.oracle.d` is frequently cross-posted to by "
+"the clueless, looking for advice on SQL. As more than one person has said"
+" in similar situations, \"Don't people bother to look at the newsgroup "
+"description line anymore?\" (To which the standard response is, \"Did "
+"people ever read it in the first place?\")"
+msgstr ""
+

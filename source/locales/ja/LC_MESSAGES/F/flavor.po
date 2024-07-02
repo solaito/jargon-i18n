@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/flavor.rst:5
+msgid "flavor"
+msgstr ""
+
+#: ../../F/flavor.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/flavor.rst:10
+msgid ""
+"[common] Variety, type, kind. \"DDT commands come in two flavors.\" "
+"\"These lights come in two flavors, big red ones and small green ones.\" "
+"\"Linux is a flavor of Unix\" See :ref:`vanilla`\\."
+msgstr ""
+
+#: ../../F/flavor.rst:16
+msgid ""
+"The attribute that causes something to be :ref:`flavorful`\\. Usually "
+"used in the phrase \"yields additional flavor\". \"This convention yields"
+" additional flavor by allowing one to print text either right-side-up or "
+"upside-down.\" See :ref:`vanilla`\\. This usage was certainly reinforced "
+"by the terminology of quantum chromodynamics, in which quarks (the "
+"constituents of, e.g., protons) come in six flavors (up, down, strange, "
+"charm, top, bottom) and three colors (red, blue, green) — however, "
+"hackish use of flavor at MIT predated QCD."
+msgstr ""
+
+#: ../../F/flavor.rst:23
+msgid ""
+"The term for class (in the object-oriented sense) in the LISP Machine "
+"Flavors system. Though the Flavors design has been superseded (notably by"
+" the Common LISP CLOS facility), the term flavor is still used as a "
+"general synonym for class by some LISP hackers."
+msgstr ""
+

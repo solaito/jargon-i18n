@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/Hacking-X-for-Y.rst:5
+msgid "Hacking X for Y"
+msgstr ""
+
+#: ../../H/Hacking-X-for-Y.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../H/Hacking-X-for-Y.rst:9
+msgid ""
+"[ITS] Ritual phrasing of part of the information which ITS made publicly "
+"available about each user. This information (the INQUIR record) was a "
+"sort of form in which the user could fill out various fields. On display,"
+" two of these fields were always combined into a project description of "
+"the form \"Hacking X for Y\" (e.g., \"Hacking perceptrons for Minsky\"). "
+"This form of description became traditional and has since been carried "
+"over to other systems with more general facilities for self-advertisement"
+" (such as Unix :ref:`plan-file`\\s)."
+msgstr ""
+

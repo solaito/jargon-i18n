@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/menuitis.rst:5
+msgid "menuitis"
+msgstr ""
+
+#: ../../M/menuitis.rst:7
+msgid "/men\\`yoo·i:´tis/, n\\."
+msgstr ""
+
+#: ../../M/menuitis.rst:9
+msgid ""
+"Notional disease suffered by software with an obsessively simple-minded "
+"menu interface and no escape. Hackers find this intensely irritating and "
+"much prefer the flexibility of command-line or language-style interfaces,"
+" especially those customizable via macros or a special-purpose language "
+"in which one can encode useful hacks. See :ref:`user-obsequious`\\, :ref"
+":`drool-proof-paper`\\, :ref:`WIMP-environment`\\, :ref:`for-the-rest-of-"
+"us`\\."
+msgstr ""
+

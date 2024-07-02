@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/Cancelmoose.rst:5
+msgid "Cancelmoose[tm]"
+msgstr ""
+
+#: ../../C/Cancelmoose.rst:7
+msgid "/kan´sel·moos/"
+msgstr ""
+
+#: ../../C/Cancelmoose.rst:9
+msgid ""
+"[Usenet] The archetype and model of all good :ref:`spam`\\-fighters. Once"
+" upon a time, the 'Moose would send out spam-cancels and then post notice"
+" anonymously to :samp:`news.admin.policy`\\, :samp:`news.admin.misc`\\, "
+"and :samp:`alt.current-events.net-abuse`\\. The 'Moose stepped to the "
+"fore on its own initiative, at a time (mid-1994) when spam-cancels were "
+"irregular and disorganized, and behaved altogether admirably — fair, "
+"even-handed, and quick to respond to comments and criticism, all without "
+"self-aggrandizement or martyrdom. Cancelmoose[tm] quickly gained near-"
+"unanimous support from the readership of all three above-mentioned "
+"groups."
+msgstr ""
+
+#: ../../C/Cancelmoose.rst:14
+msgid ""
+"Nobody knows who Cancelmoose[tm] really is, and there aren't even any "
+"good rumors. However, the 'Moose now has an e-mail address "
+"(<moose@cm.org>) and a web site (`http://www.cm.org/ "
+"<http://www.cm.org/>`_.) By early 1995, others had stepped into the spam-"
+"cancel business, and appeared to be comporting themselves well, after the"
+" 'Moose's manner. The 'Moose has now gotten out of the business, and is "
+"more interested in ending spam (and cancels) entirely."
+msgstr ""
+

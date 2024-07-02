@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/shim.rst:5
+msgid "shim"
+msgstr ""
+
+#: ../../S/shim.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/shim.rst:10
+msgid ""
+"A small piece of data inserted in order to achieve a desired memory "
+"alignment or other addressing property. For example, the :ref:`PDP-11` "
+"Unix linker, in split I&D (instructions and data) mode, inserts a two-"
+"byte shim at location 0 in data space so that no data object will have an"
+" address of 0 (and be confused with the C null pointer). See also :ref"
+":`loose-bytes`\\."
+msgstr ""
+
+#: ../../S/shim.rst:15
+msgid ""
+"A type of small transparent image inserted into HTML documents by certain"
+" WYSIWYG HTML editors, used to set the spacing of elements meant to have "
+"a fixed positioning within a TABLE or DIVision. Hackers who work on the "
+"HTML code of such pages afterwards invariably curse these for their "
+"crocky dependence on the particular spacing of original image file, the "
+"editor that generated them, and the version of the browser used to view "
+"them. Worse, they are a poorly designed :ref:`kludge` which the advent of"
+" Cascading Style Sheets makes wholly unnecessary; Any fool can plainly "
+"see that use of borders, layers and positioned elements is the Right "
+"Thing (or would be if adequate support for CSS were more common)."
+msgstr ""
+

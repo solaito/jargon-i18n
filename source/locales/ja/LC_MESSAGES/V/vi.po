@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../V/vi.rst:5
+msgid "vi"
+msgstr ""
+
+#: ../../V/vi.rst:7
+msgid "/V·I/, not, /vi:/, never, /siks/, n\\."
+msgstr ""
+
+#: ../../V/vi.rst:9
+#, python-format
+msgid ""
+"[from ‘Visual Interface’] A screen editor crufted together by Bill Joy "
+"for an early :ref:`BSD` release; an `interview "
+"<http://www.cs.pdx.edu/%7Ekirkenda/joy84.html>`_\\  describing how it "
+"came to be is available. Became the *de facto* standard Unix editor and a"
+" nearly undisputed hacker favorite outside of MIT until the rise of "
+":ref:`EMACS` after about 1984. Tends to frustrate new users no end, as it"
+" will neither take commands while expecting input text nor vice versa, "
+"and the default setup on older versions provides no indication of which "
+"mode the editor is in (years ago, a correspondent reported that he has "
+"often heard the editor's name pronounced /vi:l/; there is now a vi clone "
+"named vile). Nevertheless vi (and variants such as vim and elvis) is "
+"still widely used (about half the respondents in a 1991 Usenet poll "
+"preferred it), and even EMACS fans often resort to it as a mail editor "
+"and for small editing jobs (mainly because it starts up faster than the "
+"bulkier versions of EMACS). See :ref:`holy-wars`\\."
+msgstr ""
+

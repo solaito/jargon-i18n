@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/tree-killer.rst:5
+msgid "tree-killer"
+msgstr ""
+
+#: ../../T/tree-killer.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/tree-killer.rst:9
+msgid "[Sun]"
+msgstr ""
+
+#: ../../T/tree-killer.rst:12
+msgid "A printer."
+msgstr ""
+
+#: ../../T/tree-killer.rst:15
+msgid ""
+"A person who wastes paper. This epithet should be interpreted in a broad "
+"sense; ‘wasting paper’ includes the production of :ref:`spiffy` but :ref"
+":`content-free` documents. Thus, most :ref:`suit`\\s are tree-killers."
+msgstr ""
+
+#: ../../T/tree-killer.rst:19
+msgid ""
+"It is likely that both senses derive their flavor from the epithet ‘tree-"
+"killer’ applied by Treebeard the Ent to the Orcs in J.R.R. Tolkien's "
+"*Lord of the Rings*\\. See also :ref:`elvish`\\, :ref:`elder-days`\\, and"
+" especially :ref:`dead-tree-version`\\."
+msgstr ""
+

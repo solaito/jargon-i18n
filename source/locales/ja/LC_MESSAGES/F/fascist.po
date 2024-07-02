@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/fascist.rst:5
+msgid "fascist"
+msgstr ""
+
+#: ../../F/fascist.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../F/fascist.rst:10
+msgid ""
+"[common] Said of a computer system with excessive or annoying security "
+"barriers, usage limits, or access policies. The implication is that said "
+"policies are preventing hackers from getting interesting work done. The "
+"variant fascistic seems to have been preferred at MIT, poss. by analogy "
+"with touristic (see :ref:`tourist` or under the influence of "
+"German/Yiddish faschistisch)."
+msgstr ""
+
+#: ../../F/fascist.rst:16
+msgid ""
+"In the design of languages and other software tools, the fascist "
+"alternative is the most restrictive and structured way of capturing a "
+"particular function; the implication is that this may be desirable in "
+"order to simplify the implementation or provide tighter error checking. "
+"Compare :ref:`bondage-and-discipline-language`\\, although that term is "
+"global rather than local."
+msgstr ""
+
+#: ../../F/fascist.rst:23
+msgid "Fascist security strikes again."
+msgstr ""
+
+#: ../../F/fascist.rst:25
+msgid ""
+"(The next cartoon in the Crunchly saga is         "
+":ref:`73-05-28<crunchly73-05-28>`\\.  The previous one is         "
+":ref:`73-05-20<crunchly73-05-20>`\\.)"
+msgstr ""
+

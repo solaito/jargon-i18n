@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/Moof.rst:5
+msgid "Moof"
+msgstr ""
+
+#: ../../M/Moof.rst:7
+msgid "/moof/"
+msgstr ""
+
+#: ../../M/Moof.rst:9
+msgid "[Macintosh users]"
+msgstr ""
+
+#: ../../M/Moof.rst:11
+msgid ""
+"n\\. The call of a semi-legendary creature, properly called the "
+":ref:`dogcow`\\. (Some previous versions of this entry claimed, "
+"incorrectly, that Moof was the name of the *creature*\\.)"
+msgstr ""
+
+#: ../../M/Moof.rst:15
+msgid ""
+"adj. Used to flag software that's a hack, something untested and on the "
+"edge. On one Apple CD-ROM, certain folders such as \"Tools & Apps "
+"(Moof!)\" and \"Development Platforms (Moof! )\", are so marked to "
+"indicate that they contain software not fully tested or sanctioned by the"
+" powers that be. When you open these folders you cross the boundary into "
+"hackerland."
+msgstr ""
+
+#: ../../M/Moof.rst:22
+msgid ""
+"v\\. On the Microsoft Network, the term ‘moof’ has gained popularity as a"
+" verb meaning ‘to be suddenly disconnected by the system’. One might say "
+"\"I got moofed\"."
+msgstr ""
+

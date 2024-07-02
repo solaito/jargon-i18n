@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../Z/Zawinskis-Law.rst:5
+msgid "Zawinski's Law"
+msgstr ""
+
+#: ../../Z/Zawinskis-Law.rst:7
+msgid ""
+"\"Every program attempts to expand until it can read mail. Those programs"
+" which cannot so expand are replaced by ones which can.\" Coined by Jamie"
+" Zawinski (who called it the \"Law of Software Envelopment\") to express "
+"his belief that all truly useful programs experience pressure to evolve "
+"into toolkits and application platforms (the mailer thing, he says, is "
+"just a side effect of that). It is commonly cited, though with widely "
+"varying degrees of accuracy."
+msgstr ""
+

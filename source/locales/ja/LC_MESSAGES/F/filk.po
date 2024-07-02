@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/filk.rst:5
+msgid "filk"
+msgstr ""
+
+#: ../../F/filk.rst:7
+msgid "/filk/, n\\.,v\\."
+msgstr ""
+
+#: ../../F/filk.rst:9
+msgid ""
+"[from SF fandom, where a typo for ‘folk’ was adopted as a new word] "
+"Originally, a popular or folk song with lyrics revised or completely new "
+"lyrics and/or music, intended for humorous effect when read, and/or to be"
+" sung late at night at SF conventions. More recently (especially since "
+"the late 1980s), filk has come to include a great deal of originally-"
+"composed music on SFnal or fantasy themes and a range of moods wider than"
+" simple parody or humor. Worthy of mention here because there is a "
+"flourishing subgenre of filks called computer filks, written by hackers "
+"and often containing rather sophisticated technical humor. See :ref"
+":`double-bucky` for an example. Compare :ref:`grilf`\\, :ref:`hing`\\, "
+":ref:`pr0n`\\, and :ref:`newsfroup`\\."
+msgstr ""
+

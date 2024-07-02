@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/CLM.rst:5
+msgid "CLM"
+msgstr ""
+
+#: ../../C/CLM.rst:7
+msgid "/C·L·M/"
+msgstr ""
+
+#: ../../C/CLM.rst:9
+msgid "[Sun: ‘Career Limiting Move’]"
+msgstr ""
+
+#: ../../C/CLM.rst:11
+msgid ""
+"n\\. An action endangering one's future prospects of getting plum "
+"projects and raises, and possibly one's job: \"His Halloween costume was "
+"a parody of his manager. He won the prize for ‘best CLM’.\""
+msgstr ""
+
+#: ../../C/CLM.rst:15
+msgid ""
+"adj. Denotes extreme severity of a bug, discovered by a customer and "
+"obviously missed earlier because of poor testing: \"That's a CLM bug!\""
+msgstr ""
+

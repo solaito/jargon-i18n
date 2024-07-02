@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/newline.rst:5
+msgid "newline"
+msgstr ""
+
+#: ../../N/newline.rst:7
+msgid "/n[y]oo´li:n/, n\\."
+msgstr ""
+
+#: ../../N/newline.rst:10
+msgid ""
+"[techspeak, primarily Unix] The ASCII LF character (0001010), used under "
+":ref:`Unix` as a text line terminator. Though the term newline appears in"
+" ASCII standards, it never caught on in the general computing world "
+"before Unix."
+msgstr ""
+
+#: ../../N/newline.rst:14
+msgid ""
+"More generally, any magic character, character sequence, or operation "
+"(like Pascal's writeln procedure) required to terminate a text record or "
+"separate lines. See :ref:`crlf`\\."
+msgstr ""
+

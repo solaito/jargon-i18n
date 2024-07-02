@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hexadecimal.rst:5
+msgid "hexadecimal"
+msgstr ""
+
+#: ../../H/hexadecimal.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../H/hexadecimal.rst:9
+msgid ""
+"Base 16. Coined in the early 1950s to replace earlier sexadecimal, which "
+"was too racy and amusing for stuffy IBM, and later adopted by the rest of"
+" the industry."
+msgstr ""
+
+#: ../../H/hexadecimal.rst:12
+msgid ""
+"Actually, neither term is etymologically pure. If we take binary to be "
+"paradigmatic, the most etymologically correct term for base 10, for "
+"example, is ‘denary’, which comes from ‘deni’ (ten at a time, ten each), "
+"a Latin distributive number; the corresponding term for base-16 would be "
+"something like ‘sendenary’. \"Decimal\" comes from the combining root of "
+"decem, Latin for 10. If wish to create a truly analogous word for base "
+"16, we should start with sedecim, Latin for 16. Ergo, sedecimal is the "
+"word that would have been created by a Latin scholar. The ‘sexa-’ prefix "
+"is Latin but incorrect in this context, and ‘hexa-’ is Greek. The word "
+"octal is similarly incorrect; a correct form would be ‘octaval’ (to go "
+"with decimal), or ‘octonary’ (to go with binary). If anyone ever "
+"implements a base-3 computer, computer scientists will be faced with the "
+"unprecedented dilemma of a choice between two *correct* forms; both "
+"ternary and trinary have a claim to this throne."
+msgstr ""
+

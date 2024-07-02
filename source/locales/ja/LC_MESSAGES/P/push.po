@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/push.rst:5
+msgid "push"
+msgstr ""
+
+#: ../../P/push.rst:7
+msgid ""
+"[from the operation that puts the current information on a stack, and the"
+" fact that procedure return addresses are saved on a stack] (Also PUSH "
+"/push/ or PUSHJ /push´J/, the latter based on the PDP-10 procedure call "
+"instruction.)"
+msgstr ""
+
+#: ../../P/push.rst:10
+msgid ""
+"To put something onto a :ref:`stack`\\. If one says that something has "
+"been pushed onto one's stack, it means that the Damoclean list of things "
+"hanging over ones's head has grown longer and heavier yet. This may also "
+"imply that one will deal with it *before* other pending items; otherwise "
+"one might say that the thing was ‘added to my queue’."
+msgstr ""
+
+#: ../../P/push.rst:14
+msgid ""
+"vi\\. To enter upon a digression, to save the current discussion for "
+"later. Antonym of :ref:`pop`\\; see also :ref:`stack`\\."
+msgstr ""
+

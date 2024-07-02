@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/recompile-the-world.rst:5
+msgid "recompile the world"
+msgstr ""
+
+#: ../../R/recompile-the-world.rst:7
+msgid ""
+"The surprisingly large amount of work that needs to be done as the result"
+" of any small but globally visible program change. \"The world\" may mean"
+" the entirety of some huge program, or may in theory refer to every "
+"program of a certain class in the entire known universe. For instance, "
+"\"Add one #define to stdio.h, and you have to recompile the world.\" This"
+" means that any minor change to the standard-I/O header file "
+"theoretically mandates recompiling every C program in existence, even if "
+"only to verify that the change didn't screw something else up. In "
+"practice, you may not actually have to recompile the world, but the "
+"implication is that some human cleverness is required to figure out what "
+"parts can be safely left out."
+msgstr ""
+

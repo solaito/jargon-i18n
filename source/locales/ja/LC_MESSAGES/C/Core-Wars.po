@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/Core-Wars.rst:5
+msgid "Core Wars"
+msgstr ""
+
+#: ../../C/Core-Wars.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/Core-Wars.rst:9
+msgid ""
+"A game between assembler programs in a machine or machine simulator, "
+"where the objective is to kill your opponent's program by overwriting it."
+" Popularized in the 1980s by A. K. Dewdney's column in *Scientific "
+"American* magazine, but described in *Software Practice And Experience* a"
+" decade earlier. The game was actually devised and played by Victor "
+"Vyssotsky, Robert Morris Sr., and Doug McIlroy in the early 1960s (Dennis"
+" Ritchie is sometimes incorrectly cited as a co-author, but was not "
+"involved). Their original game was called ‘Darwin’ and ran on a IBM 7090 "
+"at Bell Labs. See :ref:`core`\\. For information on the modern game, do a"
+" web search for the ‘rec.games.corewar FAQ’ or surf to the `King Of The "
+"Hill <http://www.koth.org/>`_\\  site."
+msgstr ""
+

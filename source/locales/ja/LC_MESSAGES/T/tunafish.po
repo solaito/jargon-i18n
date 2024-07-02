@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/tunafish.rst:5
+msgid "tunafish"
+msgstr ""
+
+#: ../../T/tunafish.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/tunafish.rst:9
+msgid ""
+"In hackish lore, refers to the mutated punchline of an age-old joke to be"
+" found at the bottom of the manual pages of :manpage:`tunefs(8)` in the "
+"original :ref:`BSD` 4.2 distribution. The joke was removed in later "
+"releases once commercial sites started using 4.2, but apparently restored"
+" on the 4.4BSD tape and in {Net,Free,Open}BSD. Tunefs relates to the "
+"tuning of file-system parameters for optimum performance, and at the "
+"bottom of a few pages of wizardly inscriptions was a ‘BUGS’ section "
+"consisting of the line \"You can tune a file system, but you can't "
+"tunafish\". Variants of this can be seen in other BSD versions, though it"
+" has been excised from some versions by humorless management "
+":ref:`droid`\\s. The [nt]roff source for SunOS 4.1.1 contains a comment "
+"apparently designed to prevent this: \"Take this out and a Unix Demon "
+"will dog your steps from now until the :code:`time_t`\\'s wrap around.\""
+msgstr ""
+
+#: ../../T/tunafish.rst:15
+msgid ""
+"[It has since been pointed out that indeed you can tunafish. Usually at a"
+" canning factory... —ESR]"
+msgstr ""
+

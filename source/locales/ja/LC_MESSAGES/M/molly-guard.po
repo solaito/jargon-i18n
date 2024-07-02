@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/molly-guard.rst:5
+msgid "molly-guard"
+msgstr ""
+
+#: ../../M/molly-guard.rst:7
+msgid "/mol´ee·gard/, n\\."
+msgstr ""
+
+#: ../../M/molly-guard.rst:9
+msgid ""
+"[University of Illinois] A shield to prevent tripping of some :ref:`Big-"
+"Red-Switch` by clumsy or ignorant hands. Originally used of the "
+"plexiglass covers improvised for the BRS on an IBM 4341 after a "
+"programmer's toddler daughter (named Molly) frobbed it twice in one day. "
+"Later generalized to covers over stop/reset switches on disk drives and "
+"networking equipment. In hardware catalogues, you'll see the much less "
+"interesting description \"guarded button\"."
+msgstr ""
+

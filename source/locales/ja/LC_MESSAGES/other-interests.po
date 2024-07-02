@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../other-interests.rst:5
+msgid "Other Interests"
+msgstr ""
+
+#: ../../other-interests.rst:7
+msgid ""
+"Some hobbies are widely shared and recognized as going with the culture: "
+"science fiction, music, medievalism (in the active form practiced by the "
+"Society for Creative Anachronism and similar organizations), chess, go, "
+"backgammon, wargames, and intellectual games of all kinds. (Role-playing "
+"games such as Dungeons and Dragons used to be extremely popular among "
+"hackers but they lost a bit of their luster as they moved into the "
+"mainstream and became heavily commercialized. More recently, *Magic: "
+"TheGathering* has been widely popular among hackers.) Logic puzzles. Ham "
+"radio. Other interests that seem to correlate less strongly but "
+"positively with hackerdom include linguistics and theater teching."
+msgstr ""
+

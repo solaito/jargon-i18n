@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/mouse-ahead.rst:5
+msgid "mouse ahead"
+msgstr ""
+
+#: ../../M/mouse-ahead.rst:7
+msgid "vi\\."
+msgstr ""
+
+#: ../../M/mouse-ahead.rst:9
+msgid ""
+"Point-and-click analog of type ahead. To manipulate a computer's pointing"
+" device (almost always a mouse in this usage, but not necessarily) and "
+"its selection or command buttons before a computer program is ready to "
+"accept such input, in anticipation of the program accepting the input. "
+"Handling this properly is rare, but it can help make a :ref:`WIMP-"
+"environment` much more usable, assuming the users are familiar with the "
+"behavior of the user interface."
+msgstr ""
+

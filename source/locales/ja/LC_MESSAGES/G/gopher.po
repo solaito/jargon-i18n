@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/gopher.rst:5
+msgid "gopher"
+msgstr ""
+
+#: ../../G/gopher.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../G/gopher.rst:9
+msgid ""
+"[obs.] A type of Internet service first floated around 1991 and "
+"obsolesced around 1995 by the World Wide Web. Gopher presents a menuing "
+"interface to a tree or graph of links; the links can be to documents, "
+"runnable programs, or other gopher menus arbitrarily far across the net."
+msgstr ""
+
+#: ../../G/gopher.rst:13
+msgid ""
+"Some claim that the gopher software, which was originally developed at "
+"the University of Minnesota, was named after the Minnesota Gophers (a "
+"sports team). Others claim the word derives from American slang gofer "
+"(from \"go for\", dialectal \"go fer\"), one whose job is to run and "
+"fetch things. Finally, observe that gophers dig long tunnels, and the "
+"idea of tunneling through the net to find information was a defining "
+"metaphor for the developers. Probably all three things were true, but "
+"with the first two coming first and the gopher-tunnel metaphor "
+"serendipitously adding flavor and impetus to the project as it developed "
+"out of its concept stage."
+msgstr ""
+

@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/punched-card.rst:5
+msgid "punched card"
+msgstr ""
+
+#: ../../P/punched-card.rst:9
+msgid ""
+"[techspeak] (alt. : punch card) The signature medium of computing's :ref"
+":`Stone-Age`\\, now obsolescent. The punched card actually predated "
+"computers considerably, originating in 1801 as a control device for "
+"mechanical looms. The version patented by Hollerith and used with "
+"mechanical tabulating machines in the 1890 U.S. Census was a piece of "
+"cardboard about 90 mm by 215 mm. There is a widespread myth that it was "
+"designed to fit in the currency trays used for that era's larger dollar "
+"bills, but recent investigations have falsified this."
+msgstr ""
+
+#: ../../P/punched-card.rst:15
+msgid ""
+"IBM (which originated as a tabulating-machine manufacturer) married the "
+"punched card to computers, encoding binary information as patterns of "
+"small rectangular holes; one character per column, 80 columns per card. "
+"Other coding schemes, sizes of card, and hole shapes were tried at "
+"various times."
+msgstr ""
+
+#: ../../P/punched-card.rst:18
+msgid ""
+"The 80-column width of most character terminals is a legacy of the IBM "
+"punched card; so is the size of the quick-reference cards distributed "
+"with many varieties of computers even today. See :ref:`chad`\\, :ref"
+":`chad-box`\\, :ref:`eighty-column-mind`\\, :ref:`green-card`\\, :ref"
+":`dusty-deck`\\, :ref:`code-grinder`\\."
+msgstr ""
+

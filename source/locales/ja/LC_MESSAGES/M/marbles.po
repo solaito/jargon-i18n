@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/marbles.rst:5
+msgid "marbles"
+msgstr ""
+
+#: ../../M/marbles.rst:7
+msgid "pl\\.n\\."
+msgstr ""
+
+#: ../../M/marbles.rst:9
+msgid ""
+"[from mainstream \"lost all his/her marbles\"] The minimum needed to "
+"build your way further up some hierarchy of tools or abstractions. After "
+"a bad system crash, you need to determine if the machine has enough "
+"marbles to come up on its own, or enough marbles to allow a rebuild from "
+"backups, or if you need to rebuild from scratch. \"This compiler doesn't "
+"even have enough marbles to compile :ref:`hello-world`\\.\""
+msgstr ""
+

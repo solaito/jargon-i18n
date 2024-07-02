@@ -1,0 +1,36 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../I/Internet-Death-Penalty.rst:5
+msgid "Internet Death Penalty"
+msgstr ""
+
+#: ../../I/Internet-Death-Penalty.rst:7
+msgid ""
+"[Usenet] (often abbreviated IDP) The ultimate sanction against "
+":ref:`spam`\\-emitting sites — complete shunning at the router level of "
+"all mail and packets, as well as Usenet messages, from the offending "
+"domain(s). Compare :ref:`Usenet-Death-Penalty`\\, with which it is "
+"sometimes confused."
+msgstr ""
+

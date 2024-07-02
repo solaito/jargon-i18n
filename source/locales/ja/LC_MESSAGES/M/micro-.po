@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/micro-.rst:5
+msgid "micro-"
+msgstr ""
+
+#: ../../M/micro-.rst:7
+msgid "pref\\."
+msgstr ""
+
+#: ../../M/micro-.rst:10
+msgid "Very small; this is the root of its use as a quantifier prefix."
+msgstr ""
+
+#: ../../M/micro-.rst:13
+msgid ""
+"A quantifier prefix, calling for multiplication by :math:`10^{-6}` (see "
+":ref:`quantifiers`\\). Neither of these uses is peculiar to hackers, but "
+"hackers tend to fling them both around rather more freely than is "
+"countenanced in standard English. It is recorded, for example, that one "
+"CS professor used to characterize the standard length of his lectures as "
+"a microcentury — that is, about 52.6 minutes (see also "
+":ref:`attoparsec`\\, :ref:`nanoacre`\\, and especially "
+":ref:`microfortnight`\\)."
+msgstr ""
+
+#: ../../M/micro-.rst:18
+msgid ""
+"Personal or human-scale — that is, capable of being maintained or "
+"comprehended or manipulated by one human being. This sense is generalized"
+" from microcomputer, and is esp. used in contrast with macro- (the "
+"corresponding Greek prefix meaning ‘large’)."
+msgstr ""
+
+#: ../../M/micro-.rst:23
+msgid ""
+"Local as opposed to global (or :ref:`macro-`\\). Thus a hacker might say "
+"that buying a smaller car to reduce pollution only solves a microproblem;"
+" the macroproblem of getting to work might be better solved by using mass"
+" transit, moving to within walking distance, or (best of all) "
+"telecommuting."
+msgstr ""
+

@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/batch.rst:5
+msgid "batch"
+msgstr ""
+
+#: ../../B/batch.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../B/batch.rst:10
+msgid ""
+"Non-interactive. Hackers use this somewhat more loosely than the "
+"traditional technical definitions justify; in particular, switches on a "
+"normally interactive program that prepare it to receive non-interactive "
+"command input are often referred to as batch mode switches. A batch file "
+"is a series of instructions written to be handed to an interactive "
+"program running in batch mode."
+msgstr ""
+
+#: ../../B/batch.rst:15
+msgid ""
+"Performance of dreary tasks all at one sitting. \"I finally sat down in "
+"batch mode and wrote out checks for all those bills; I guess they'll turn"
+" the electricity back on next week...\""
+msgstr ""
+
+#: ../../B/batch.rst:18
+msgid ""
+"batching up: Accumulation of a number of small tasks that can be lumped "
+"together for greater efficiency. \"I'm batching up those letters to send "
+"sometime\" \"I'm batching up bottles to take to the recycling center.\""
+msgstr ""
+
+#: ../../B/batch.rst:26
+msgid ""
+"(The next cartoon in the Crunchly saga is         "
+":ref:`76-03-17:5-8<crunchly-5678>`\\. The previous one is         "
+":ref:`76-02-14<crunchly76-02-14>`\\.)"
+msgstr ""
+

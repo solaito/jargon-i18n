@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../U/user.rst:5
+msgid "user"
+msgstr ""
+
+#: ../../U/user.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../U/user.rst:10
+msgid ""
+"Someone doing ‘real work’ with the computer, using it as a means rather "
+"than an end. Someone who pays to use a computer. See :ref:`real-user`\\."
+msgstr ""
+
+#: ../../U/user.rst:15
+msgid ""
+"A programmer who will believe anything you tell him. One who asks silly "
+"questions. [GLS observes: This is slightly unfair. It is true that users "
+"ask questions (of necessity). Sometimes they are thoughtful or deep. Very"
+" often they are annoying or downright stupid, apparently because the user"
+" failed to think for two seconds or look in the documentation before "
+"bothering the maintainer.] See :ref:`luser`\\."
+msgstr ""
+
+#: ../../U/user.rst:24
+msgid ""
+"Someone who uses a program from the outside, however skillfully, without "
+"getting into the internals of the program. One who reports bugs instead "
+"of just going ahead and fixing them."
+msgstr ""
+
+#: ../../U/user.rst:27
+msgid ""
+"The general theory behind this term is that there are two classes of "
+"people who work with a program: there are implementors (hackers) and "
+":ref:`luser`\\s. The users are looked down on by hackers to some extent "
+"because they don't understand the full ramifications of the system in all"
+" its glory. (The few users who do are known as real winners.) The term is"
+" a relative one: a skilled hacker may be a user with respect to some "
+"program he himself does not hack. A LISP hacker might be one who "
+"maintains LISP or one who uses LISP (but with the skill of a hacker). A "
+"LISP user is one who uses LISP, whether skillfully or not. Thus there is "
+"some overlap between the two terms; the subtle distinctions must be "
+"resolved by context."
+msgstr ""
+

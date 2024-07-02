@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/muggle.rst:5
+msgid "muggle"
+msgstr ""
+
+#: ../../M/muggle.rst:7
+msgid ""
+"[from J.K. Rowling's *Harry Potter* books, 1998] A non- :ref:`wizard`\\. "
+"Not as disparaging as :ref:`luser`\\; implies vague pity rather than "
+"contempt. In the universe of Rowling's enormously (and deservedly) "
+"popular children's series, muggles and wizards inhabit the same modern "
+"world, but each group is ignorant of the commonplaces of the others' "
+"existence — most muggles are unaware that wizards exist, and wizards "
+"(used to magical ways of doing everything) are perplexed and fascinated "
+"by muggle artifacts."
+msgstr ""
+
+#: ../../M/muggle.rst:11
+msgid ""
+"In retrospect it seems completely inevitable that hackers would adopt "
+"this metaphor, and in hacker usage it readily forms compounds such as "
+"muggle-friendly. Compare :ref:`luser`\\, :ref:`mundane`\\, "
+":ref:`chainik`\\, :ref:`newbie`\\."
+msgstr ""
+

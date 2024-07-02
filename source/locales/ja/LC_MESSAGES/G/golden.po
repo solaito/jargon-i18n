@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/golden.rst:5
+msgid "golden"
+msgstr ""
+
+#: ../../G/golden.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../G/golden.rst:9
+msgid ""
+"[prob. : from folklore's ‘golden egg’] When used to describe a magnetic "
+"medium (e.g., golden disk, golden tape), describes one containing a "
+"tested, up-to-spec, ready-to-ship software version. Compare :ref"
+":`platinum-iridium`\\. One may also \"go gold\", which is the act of "
+"releasing a golden version. The gold color of many CDROMs is a "
+"coincidence; this term was well established a decade before CDROM "
+"distribution become common in the mid-1990s."
+msgstr ""
+

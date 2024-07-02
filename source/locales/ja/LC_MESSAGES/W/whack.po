@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/whack.rst:5
+msgid "whack"
+msgstr ""
+
+#: ../../W/whack.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../W/whack.rst:9
+msgid ""
+"According to arch-hacker James Gosling (designer of :ref:`NeWS`\\, "
+":ref:`GOSMACS` and Java), to \"...modify a program with no idea "
+"whatsoever how it works.\" (See :ref:`whacker`\\.) It is actually "
+"possible to do this in nontrivial circumstances if the change is small "
+"and well-defined and you are very good at :ref:`glark`\\ing things from "
+"context. As a trivial example, it is relatively easy to change all "
+":code:`stderr` writes to :code:`stdout` writes in a piece of C filter "
+"code which remains otherwise mysterious."
+msgstr ""
+

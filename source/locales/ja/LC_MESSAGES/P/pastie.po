@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/pastie.rst:5
+msgid "pastie"
+msgstr ""
+
+#: ../../P/pastie.rst:7
+msgid "/pay´stee/, n\\."
+msgstr ""
+
+#: ../../P/pastie.rst:9
+msgid ""
+"An adhesive-backed label designed to be attached to a key on a keyboard "
+"to indicate some non-standard character which can be accessed through "
+"that key. Pasties are likely to be used in APL environments, where almost"
+" every key is associated with a special character. A pastie on the R key,"
+" for example, might remind the user that it is used to generate the ρ "
+"character. The term properly refers to nipple-concealing devices formerly"
+" worn by strippers in concession to indecent-exposure laws; compare :ref"
+":`tits-on-a-keyboard`\\."
+msgstr ""
+

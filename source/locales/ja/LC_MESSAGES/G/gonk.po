@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/gonk.rst:5
+msgid "gonk"
+msgstr ""
+
+#: ../../G/gonk.rst:7
+msgid "/gonk/, vi\\.,n\\."
+msgstr ""
+
+#: ../../G/gonk.rst:10
+msgid ""
+"[prob. back-formed from :ref:`gonkulator`\\.] To prevaricate or to "
+"embellish the truth beyond any reasonable recognition. In German the term"
+" is (mythically) gonken; in Spanish the verb becomes gonkar. \"You're "
+"gonking me. That story you just told me is a bunch of gonk.\" In German, "
+"for example, \"Du gonkst mich\" (You're pulling my leg). See also "
+":ref:`gonkulator`\\."
+msgstr ""
+
+#: ../../G/gonk.rst:20
+msgid "[British] To grab some sleep at an odd time; compare :ref:`gronk-out`\\."
+msgstr ""
+

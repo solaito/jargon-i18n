@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../0/at-party.rst:5
+msgid "@-party"
+msgstr ""
+
+#: ../../0/at-party.rst:7
+msgid "/at´par\\`tee/, n\\."
+msgstr ""
+
+#: ../../0/at-party.rst:9
+msgid ""
+"[from the \\@-sign in an Internet address] (alt. : ‘\\@-sign party’ "
+"/at´si:n par\\`tee/) A semi-closed party thrown for hackers at a science-"
+"fiction convention (esp. the annual World Science Fiction Convention or "
+"\"Worldcon\"); one must have a :ref:`network-address` to get in, or at "
+"least be in company with someone who does. One of the most reliable "
+"opportunities for hackers to meet face to face with people who might "
+"otherwise be represented by mere phosphor dots on their screens. Compare "
+":ref:`boink`\\."
+msgstr ""
+
+#: ../../0/at-party.rst:15
+msgid ""
+"The first recorded \\@-party was held at the Westercon (a U.S. western "
+"regional SF convention) over the July 4th weekend in 1980. It is not "
+"clear exactly when the canonical \\@-party venue shifted to the Worldcon "
+"but it had certainly become established by Constellation in 1983. Sadly, "
+"the \\@-party tradition has been in decline since about 1996, mainly "
+"because having an \\@-address no longer functions as an effective lodge "
+"pin."
+msgstr ""
+
+#: ../../0/at-party.rst:19
+msgid ""
+"We are informed, however, that :samp:`rec.skydiving` members have "
+"maintained a tradition of formation jumps in the shape of an \\@."
+msgstr ""
+

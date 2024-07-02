@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/mouse-droppings.rst:5
+msgid "mouse droppings"
+msgstr ""
+
+#: ../../M/mouse-droppings.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../M/mouse-droppings.rst:9
+msgid ""
+"[MS-DOS] Pixels (usually single) that are not properly restored when the "
+"mouse pointer moves away from a particular location on the screen, "
+"producing the appearance that the mouse pointer has left droppings "
+"behind. The major causes for this problem are programs that write to the "
+"screen memory corresponding to the mouse pointer's current location "
+"without hiding the mouse pointer first, and mouse drivers that do not "
+"quite support the graphics mode in use."
+msgstr ""
+

@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/P-O-D-.rst:5
+msgid "P.O.D."
+msgstr ""
+
+#: ../../P/P-O-D-.rst:7
+msgid "/P·O·D/"
+msgstr ""
+
+#: ../../P/P-O-D-.rst:9
+msgid ""
+"[rare; sometimes ‘POD’ without the periods] Acronym for ‘Piece Of Data’ "
+"or ‘Plain Old Data’ (as opposed to a code section, or a section "
+"containing mixed code and data). The latter expansion was in use by the "
+"C++ standards committee, for which it indicated a struct or class which "
+"only contains data (as in C), distinguished from one which has a "
+"constructor and member functions. There are things which you can do with "
+"a P.O.D. which you can't with a more general class."
+msgstr ""
+

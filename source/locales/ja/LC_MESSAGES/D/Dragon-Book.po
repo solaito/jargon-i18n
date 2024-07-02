@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/Dragon-Book.rst:5
+msgid "Dragon Book"
+msgstr ""
+
+#: ../../D/Dragon-Book.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/Dragon-Book.rst:9
+msgid ""
+"The classic text *Compilers: Principles, Techniques and Tools*\\, by "
+"Alfred V. Aho, Ravi Sethi, and Jeffrey D. Ullman (Addison-Wesley 1986; "
+"ISBN 0-201-10088-6), so called because of the cover design featuring a "
+"dragon labeled ‘complexity of compiler design’ and a knight bearing the "
+"lance ‘LALR parser generator’ among his other trappings. This one is more"
+" specifically known as the ‘Red Dragon Book’ (1986); an earlier edition, "
+"sans Sethi and titled *Principles Of Compiler Design* (Alfred V. Aho and "
+"Jeffrey D. Ullman; Addison-Wesley, 1977; ISBN 0-201-00022-9), was the "
+"\\`‘reen Dragon Book’ (1977). (Also New Dragon Book, Old Dragon Book.) "
+"The horsed knight and the Green Dragon were warily eying each other at a "
+"distance; now the knight is typing (wearing gauntlets!) at a terminal "
+"showing a video-game representation of the Red Dragon's head while the "
+"rest of the beast extends back in normal space. See also :ref:`book-"
+"titles`\\."
+msgstr ""
+

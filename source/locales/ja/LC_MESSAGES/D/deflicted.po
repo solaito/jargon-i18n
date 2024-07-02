@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/deflicted.rst:5
+msgid "deflicted"
+msgstr ""
+
+#: ../../D/deflicted.rst:7
+msgid ""
+"[portmanteau of \"defective\" and \"afflicted\"; common among PC repair "
+"technicians, and probably originated among hardware techs outside the "
+"hacker community proper] Term used of hardware that is broken due to poor"
+" design or shoddy manufacturing or (especially) both; less frequently "
+"used of software and rarely of people. This term is normally employed in "
+"a tone of weary contempt by technicians who have seen the specific "
+"failure in the trouble report before and are cynically confident they'll "
+"see it again. Ultimately this may derive from Frank Zappa's 1974 album "
+"*Apostrophe*\\, on which the Fur Trapper infamously rubs his deflicted "
+"eyes..."
+msgstr ""
+

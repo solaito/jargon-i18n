@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/rave.rst:5
+msgid "rave"
+msgstr ""
+
+#: ../../R/rave.rst:7
+msgid "vi\\."
+msgstr ""
+
+#: ../../R/rave.rst:9
+msgid "[WPI]"
+msgstr ""
+
+#: ../../R/rave.rst:12
+msgid "To persist in discussing a specific subject."
+msgstr ""
+
+#: ../../R/rave.rst:15
+msgid "To speak authoritatively on a subject about which one knows very little."
+msgstr ""
+
+#: ../../R/rave.rst:18
+msgid ""
+"To complain to a person who is not in a position to correct the "
+"difficulty."
+msgstr ""
+
+#: ../../R/rave.rst:21
+msgid "To purposely annoy another person verbally."
+msgstr ""
+
+#: ../../R/rave.rst:24
+msgid "To evangelize. See :ref:`flame`\\."
+msgstr ""
+
+#: ../../R/rave.rst:28
+msgid ""
+"Also used to describe a less negative form of blather, such as friendly "
+"bullshitting. ‘Rave’ differs slightly from :ref:`flame` in that rave "
+"implies that it is the persistence or obliviousness of the person "
+"speaking that is annoying, while :ref:`flame` implies somewhat more "
+"strongly that the tone or content is offensive as well."
+msgstr ""
+

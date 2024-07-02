@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/test.rst:5
+msgid "test"
+msgstr ""
+
+#: ../../T/test.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/test.rst:10
+msgid ""
+"Real users bashing on a prototype long enough to get thoroughly "
+"acquainted with it, with careful monitoring and followup of the results."
+msgstr ""
+
+#: ../../T/test.rst:13
+msgid ""
+"Some bored random user trying a couple of the simpler features with a "
+"developer looking over his or her shoulder, ready to pounce on mistakes."
+msgstr ""
+
+#: ../../T/test.rst:15
+msgid ""
+"Judging by the quality of most software, the second definition is far "
+"more prevalent. See also :ref:`demo`\\."
+msgstr ""
+

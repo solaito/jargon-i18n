@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/gang-bang.rst:5
+msgid "gang bang"
+msgstr ""
+
+#: ../../G/gang-bang.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../G/gang-bang.rst:9
+msgid ""
+"The use of large numbers of loosely coupled programmers in an attempt to "
+"wedge a great many features into a product in a short time. Though there "
+"have been memorable gang bangs (e.g., that over-the-weekend assembler "
+"port mentioned in Steven Levy's *Hackers*\\), and large numbers of "
+"loosely-coupled programmers operating in :ref:`bazaar` mode can do very "
+"useful work when they're not on a deadline, most are perpetrated by large"
+" companies trying to meet unrealistic deadlines; the inevitable result is"
+" enormous buggy masses of code entirely lacking in "
+":ref:`orthogonal`\\ity. When market-driven managers make a list of all "
+"the features the competition has and assign one programmer to implement "
+"each, the probability of maintaining a coherent (or even functional) "
+"design goes to :ref:`epsilon`\\. See also :ref:`firefighting`\\, :ref"
+":`Mongolian-Hordes-technique`\\, :ref:`Conways-Law`\\."
+msgstr ""
+

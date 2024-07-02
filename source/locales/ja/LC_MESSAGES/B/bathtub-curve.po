@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bathtub-curve.rst:5
+msgid "bathtub curve"
+msgstr ""
+
+#: ../../B/bathtub-curve.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/bathtub-curve.rst:9
+msgid ""
+"Common term for the curve (resembling an end-to-end section of one of "
+"those claw-footed antique bathtubs) that describes the expected failure "
+"rate of electronics with time: initially high, dropping to near 0 for "
+"most of the system's lifetime, then rising again as it ‘tires out’. See "
+"also :ref:`burn-in-period`\\, :ref:`infant-mortality`\\."
+msgstr ""
+

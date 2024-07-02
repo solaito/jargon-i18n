@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/fat-electrons.rst:5
+msgid "fat electrons"
+msgstr ""
+
+#: ../../F/fat-electrons.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/fat-electrons.rst:9
+msgid ""
+"Old-time hacker David Cargill's theory on the causation of computer "
+"glitches. Your typical electric utility draws its line current out of the"
+" big generators with a pair of coil taps located near the top of the "
+"dynamo. When the normal tap brushes get dirty, they take them off line to"
+" clean them up, and use special auxiliary taps on the *bottom* of the "
+"coil. Now, this is a problem, because when they do that they get not "
+"ordinary or ‘thin’ electrons, but the fat'n'sloppy electrons that are "
+"heavier and so settle to the bottom of the generator. These flow down "
+"ordinary wires just fine, but when they have to turn a sharp corner (as "
+"in an integrated-circuit via), they're apt to get stuck. This is what "
+"causes computer glitches. [Fascinating. Obviously, fat electrons must "
+"gain mass by :ref:`bogon` absorption —ESR] Compare :ref:`bogon`\\, :ref"
+":`magic-smoke`\\."
+msgstr ""
+

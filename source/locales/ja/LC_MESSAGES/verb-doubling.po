@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../verb-doubling.rst:5
+msgid "Verb Doubling"
+msgstr ""
+
+#: ../../verb-doubling.rst:7
+msgid ""
+"A standard construction in English is to double a verb and use it as an "
+"exclamation, such as \"Bang, bang!\" or \"Quack, quack!\". Most of these "
+"are names for noises. Hackers also double verbs as a concise, sometimes "
+"sarcastic comment on what the implied subject does. Also, a doubled verb "
+"is often used to terminate a conversation, in the process remarking on "
+"the current state of affairs or what the speaker intends to do next. "
+"Typical examples involve :ref:`win`\\, :ref:`lose`\\, :ref:`hack`\\, "
+":ref:`flame`\\, :ref:`barf`\\, :ref:`chomp`\\:"
+msgstr ""
+
+#: ../../verb-doubling.rst:23
+msgid ""
+"Some verb-doubled constructions have special meanings not immediately "
+"obvious from the verb. These have their own listings in the lexicon."
+msgstr ""
+
+#: ../../verb-doubling.rst:26
+msgid ""
+"The :ref:`Usenet` culture has one *tripling* convention unrelated to "
+"this; the names of ‘joke’ topic groups often have a tripled last element."
+" The first and paradigmatic example was "
+":samp:`alt.swedish.chef.bork.bork.bork` (a *Muppet Show* reference); "
+"other infamous examples have included:"
+msgstr ""
+
+#: ../../verb-doubling.rst:29
+msgid ":samp:`alt.french.captain.borg.borg.borg`"
+msgstr ""
+
+#: ../../verb-doubling.rst:31
+msgid ":samp:`alt.wesley.crusher.die.die.die`"
+msgstr ""
+
+#: ../../verb-doubling.rst:33
+msgid ":samp:`comp.unix.internals.system.calls.brk.brk.brk`"
+msgstr ""
+
+#: ../../verb-doubling.rst:35
+msgid ":samp:`sci.physics.edward.teller.boom.boom.boom`"
+msgstr ""
+
+#: ../../verb-doubling.rst:37
+msgid ":samp:`alt.sadistic.dentists.drill.drill.drill`"
+msgstr ""
+
+#: ../../verb-doubling.rst:39
+msgid ""
+"These two traditions fuse in the newsgroup "
+":samp:`alt.adjective.noun.verb.verb.verb`\\, devoted to humor based on "
+"deliberately confounding parts of speech. Several observers have noted "
+"that the contents of this group is excellently representative of the "
+"peculiarities of hacker humor."
+msgstr ""
+

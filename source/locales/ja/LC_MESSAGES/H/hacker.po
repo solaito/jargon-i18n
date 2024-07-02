@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hacker.rst:5
+msgid "hacker"
+msgstr ""
+
+#: ../../H/hacker.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../H/hacker.rst:9
+msgid "[originally, someone who makes furniture with an axe]"
+msgstr ""
+
+#: ../../H/hacker.rst:12
+msgid ""
+"A person who enjoys exploring the details of programmable systems and how"
+" to stretch their capabilities, as opposed to most users, who prefer to "
+"learn only the minimum necessary. RFC1392, the *Internet Users' "
+"Glossary*\\, usefully amplifies this as: A person who delights in having "
+"an intimate understanding of the internal workings of a system, computers"
+" and computer networks in particular."
+msgstr ""
+
+#: ../../H/hacker.rst:16
+msgid ""
+"One who programs enthusiastically (even obsessively) or who enjoys "
+"programming rather than just theorizing about programming."
+msgstr ""
+
+#: ../../H/hacker.rst:19
+msgid "A person capable of appreciating :ref:`hack-value`\\."
+msgstr ""
+
+#: ../../H/hacker.rst:22
+msgid "A person who is good at programming quickly."
+msgstr ""
+
+#: ../../H/hacker.rst:25
+msgid ""
+"An expert at a particular program, or one who frequently does work using "
+"it or on it; as in ‘a Unix hacker’. (Definitions 1 through 5 are "
+"correlated, and people who fit them congregate.)"
+msgstr ""
+
+#: ../../H/hacker.rst:29
+msgid ""
+"An expert or enthusiast of any kind. One might be an astronomy hacker, "
+"for example."
+msgstr ""
+
+#: ../../H/hacker.rst:33
+msgid ""
+"One who enjoys the intellectual challenge of creatively overcoming or "
+"circumventing limitations."
+msgstr ""
+
+#: ../../H/hacker.rst:36
+msgid ""
+"[deprecated] A malicious meddler who tries to discover sensitive "
+"information by poking around. Hence password hacker, network hacker. The "
+"correct term for this sense is :ref:`cracker`\\."
+msgstr ""
+
+#: ../../H/hacker.rst:40
+msgid ""
+"The term ‘hacker’ also tends to connote membership in the global "
+"community defined by the net (see :ref:`the-network`\\. For discussion of"
+" some of the basics of this culture, see the `How To Become A Hacker "
+"<http://www.catb.org/~esr/faqs/hacker-howto.html>`_\\  FAQ. It also "
+"implies that the person described is seen to subscribe to some version of"
+" the hacker ethic (see :ref:`hacker-ethic`\\)."
+msgstr ""
+
+#: ../../H/hacker.rst:44
+msgid ""
+"It is better to be described as a hacker by others than to describe "
+"oneself that way. Hackers consider themselves something of an elite (a "
+"meritocracy based on ability), though one to which new members are gladly"
+" welcome. There is thus a certain ego satisfaction to be had in "
+"identifying yourself as a hacker (but if you claim to be one and are not,"
+" you'll quickly be labeled :ref:`bogus`\\). See also :ref:`geek`\\, "
+":ref:`wannabee`\\."
+msgstr ""
+
+#: ../../H/hacker.rst:49
+msgid ""
+"This term seems to have been first adopted as a badge in the 1960s by the"
+" hacker culture surrounding TMRC and the MIT AI Lab. We have a report "
+"that it was used in a sense close to this entry's by teenage radio hams "
+"and electronics tinkerers in the mid-1950s."
+msgstr ""
+

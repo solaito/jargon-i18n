@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../U/upstream.rst:5
+msgid "upstream"
+msgstr ""
+
+#: ../../U/upstream.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../U/upstream.rst:9
+msgid ""
+"[common] Towards the original author(s) or maintainer(s) of a project. "
+"Used in connection with software that is distributed both in its original"
+" source form and in derived, adapted versions through a distribution "
+"(like the Debian version of Linux or one of the BSD ports) that has "
+"component maintainers for each of their parts. When a component "
+"maintainer receives a bug report or patch, he may choose to retain the "
+"patch as a porting tweak to the distribution's derivative of the project,"
+" or to pass it upstream to the project's maintainer. The antonym "
+"downstream is rare."
+msgstr ""
+

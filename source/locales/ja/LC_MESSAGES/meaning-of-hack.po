@@ -1,0 +1,153 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../meaning-of-hack.rst:5
+msgid "The Meaning of ‘Hack’"
+msgstr ""
+
+#: ../../meaning-of-hack.rst:7
+msgid ""
+"\"The word :ref:`hack` doesn't really have 69 different meanings\", "
+"according to MIT hacker Phil Agre. \"In fact, :ref:`hack` has only one "
+"meaning, an extremely subtle and profound one which defies articulation. "
+"Which connotation is implied by a given use of the word depends in "
+"similarly profound ways on the context. Similar remarks apply to a couple"
+" of other hacker words, most notably :ref:`random`\\.\""
+msgstr ""
+
+#: ../../meaning-of-hack.rst:12
+msgid ""
+"Hacking might be characterized as ‘an appropriate application of "
+"ingenuity’. Whether the result is a quick-and-dirty patchwork job or a "
+"carefully crafted work of art, you have to admire the cleverness that "
+"went into it."
+msgstr ""
+
+#: ../../meaning-of-hack.rst:15
+msgid ""
+"An important secondary meaning of :ref:`hack` is ‘a creative practical "
+"joke’. This kind of hack is easier to explain to non-hackers than the "
+"programming kind. Of course, some hacks have both natures; see the "
+"lexicon entries for :ref:`pseudo` and :ref:`kgbvax`\\. But here are some "
+"examples of pure practical jokes that illustrate the hacking spirit:"
+msgstr ""
+
+#: ../../meaning-of-hack.rst:52
+msgid ""
+"This is now considered a classic hack, particularly because revising the "
+"direction sheets constituted a form of programming."
+msgstr ""
+
+#: ../../meaning-of-hack.rst:54
+msgid "Here is another classic hack:"
+msgstr ""
+
+#: ../../meaning-of-hack.rst:93
+msgid ""
+"The hacks above are verifiable history; they can be proved to have "
+"happened. Many other classic-hack stories from MIT and elsewhere, though "
+"retold as history, have the characteristics of what Jan Brunvand has "
+"called ‘urban folklore’ (see :ref:`FOAF`\\). Perhaps the best known of "
+"these is the legend of the infamous trolley-car hack, an alleged incident"
+" in which engineering students are said to have welded a trolley car to "
+"its tracks with thermite. Numerous versions of this have been recorded "
+"from the 1940s to the present, most set at MIT but at least one very "
+"detailed version set at CMU."
+msgstr ""
+
+#: ../../meaning-of-hack.rst:98
+msgid ""
+"Brian Leibowitz has researched MIT hacks both real and mythical "
+"extensively; the interested reader is referred to his delightful "
+"pictorial compendium *The Journal of the Institute for Hacks, Tomfoolery,"
+" andPranks* (MIT Museum, 1990; ISBN 0-917027-03-5). The Institute has a "
+"World Wide Web page at `http://hacks.mit.edu/Hacks/Gallery.html "
+"<http://hacks.mit.edu/Hacks/Gallery.html>`_. There is a sequel entitled "
+"*Is This The Way To Baker House?*\\. The Caltech Alumni Association has "
+"published two similar books titled *Legends of Caltech* and *More Legends"
+" ofCaltech*\\."
+msgstr ""
+
+#: ../../meaning-of-hack.rst:103
+msgid "Here is a story about one of the classic computer hacks:"
+msgstr ""
+
+#: ../../meaning-of-hack.rst:208
+msgid "Finally, here is a wonderful hack story for the new millennium:"
+msgstr ""
+
+#: ../../meaning-of-hack.rst:210
+msgid ""
+"1990's addition to the hallowed tradition of April Fool RFCs was RFC "
+"1149, *A Standard for the Transmission of IP Datagrams on "
+"AvianCarriers*\\. This sketched a method for transmitting IP packets via "
+"carrier pigeons."
+msgstr ""
+
+#: ../../meaning-of-hack.rst:213
+msgid ""
+"Eleven years later, on 28 April 2001, the Bergen Linux User's Group "
+"successfully demonstrated CPIP (Carrier Pigeon IP) between two Linux "
+"machines running on opposite sides of a small mountain in Bergen, Norway."
+" Their network stack used printers to hex-dump packets onto paper, "
+"pigeons to transport the paper, and OCR software to read the dumps at the"
+" other end and feed them to the receiving machine's network layer."
+msgstr ""
+
+#: ../../meaning-of-hack.rst:216
+msgid ""
+"Here is the actual log of the ping command they successfully executed. "
+"Note the exceptional packet times."
+msgstr ""
+
+#: ../../meaning-of-hack.rst:246
+msgid ""
+"A web page documenting the event, with pictures, is at "
+"`http://www.blug.linux.no/rfc1149/ <http://www.blug.linux.no/rfc1149/>`_."
+" In the finest Internet tradition, all software involved was open-source;"
+" the custom parts are available for download from the site."
+msgstr ""
+
+#: ../../meaning-of-hack.rst:249
+msgid ""
+"While all acknowledged the magnitude of this achievement, some debate "
+"ensued over whether BLUG's implementation was properly conformant to the "
+"RFC. It seems they had not used the duct tape specified in 1149 to attach"
+" messages to pigeon legs, but instead employed other methods less "
+"objectionable to the pigeons. The debate was properly resolved when it "
+"was pointed out that the duct-tape specification was not prefixed by a "
+"MUST, and was thus a recommendation rather than a requirement."
+msgstr ""
+
+#: ../../meaning-of-hack.rst:253
+msgid ""
+"The perpetrators finished their preliminary writeup in this wise: \"Now, "
+"we're waiting for someone to write other implementations, so that we can "
+"do interoperability tests, and maybe we finally can get the RFC into the "
+"standards track... \"."
+msgstr ""
+
+#: ../../meaning-of-hack.rst:255
+msgid "The logical next step should be an implementation of RFC2549."
+msgstr ""
+

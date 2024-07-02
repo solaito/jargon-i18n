@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/Real-World.rst:5
+msgid "Real World"
+msgstr ""
+
+#: ../../R/Real-World.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../R/Real-World.rst:10
+msgid ""
+"Those institutions at which ‘programming’ may be used in the same "
+"sentence as ‘FORTRAN’, ‘ :ref:`COBOL`\\’, ‘RPG’, ‘ :ref:`IBM`\\’, "
+"‘DBASE’, etc. Places where programs do such commercially necessary but "
+"intellectually uninspiring things as generating payroll checks and "
+"invoices."
+msgstr ""
+
+#: ../../R/Real-World.rst:14
+msgid "The location of non-programmers and activities not related to programming."
+msgstr ""
+
+#: ../../R/Real-World.rst:17
+msgid ""
+"A bizarre dimension in which the standard dress is shirt and tie and in "
+"which a person's working hours are defined as 9 to 5 (see :ref:`code-"
+"grinder`\\)."
+msgstr ""
+
+#: ../../R/Real-World.rst:20
+msgid ""
+"Anywhere outside a university. \"Poor fellow, he's left MIT and gone into"
+" the Real World.\" Used pejoratively by those not in residence there. In "
+"conversation, talking of someone who has entered the Real World is not "
+"unlike speaking of a deceased person. It is also noteworthy that on the "
+"campus of Cambridge University in England, there is a gaily-painted lamp-"
+"post which bears the label ‘REALITY CHECKPOINT’. It marks the boundary "
+"between university and the Real World; check your notions of reality "
+"before passing. This joke is funnier because the Cambridge ‘campus’ is "
+"actually coextensive with the center of Cambridge town. See also :ref"
+":`fear-and-loathing`\\, :ref:`mundane`\\, and :ref:`uninteresting`\\."
+msgstr ""
+
+#: ../../R/Real-World.rst:31
+msgid "()"
+msgstr ""
+

@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/network-meltdown.rst:5
+msgid "network meltdown"
+msgstr ""
+
+#: ../../N/network-meltdown.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../N/network-meltdown.rst:9
+msgid ""
+"A state of complete network overload; the network equivalent of "
+":ref:`thrash`\\ing. This may be induced by a :ref:`Chernobyl-packet`\\. "
+"See also :ref:`broadcast-storm`\\, :ref:`kamikaze-packet`\\."
+msgstr ""
+
+#: ../../N/network-meltdown.rst:13
+msgid ""
+"Network meltdown is often a result of network designs that are optimized "
+"for a steady state of moderate load and don't cope well with the very "
+"jagged, bursty usage patterns of the real world. One amusing instance of "
+"this is triggered by the popular and very bloody shoot-'em-up game *Doom*"
+" on the PC. When used in multiplayer mode over a network, the game uses "
+"broadcast packets to inform other machines when bullets are fired. This "
+"causes problems with weapons like the chain gun which fire rapidly — it "
+"can blast the network into a meltdown state just as easily as it shreds "
+"opposing monsters."
+msgstr ""
+

@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/gonzo.rst:5
+msgid "gonzo"
+msgstr ""
+
+#: ../../G/gonzo.rst:7
+msgid "/gon´zoh/, adj\\."
+msgstr ""
+
+#: ../../G/gonzo.rst:9
+msgid "[from Hunter S. Thompson]"
+msgstr ""
+
+#: ../../G/gonzo.rst:12
+msgid ""
+"With total commitment, total concentration, and a mad sort of panache. "
+"(Thompson's original sense.)"
+msgstr ""
+
+#: ../../G/gonzo.rst:16
+msgid ""
+"More loosely: Overwhelming; outrageous; over the top; very large, esp. "
+"used of collections of source code, source files, or individual "
+"functions. Has some of the connotations of :ref:`moby` and "
+":ref:`hairy`\\, but without the implication of obscurity or complexity."
+msgstr ""
+

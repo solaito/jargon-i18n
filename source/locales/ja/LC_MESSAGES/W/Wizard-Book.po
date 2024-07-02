@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/Wizard-Book.rst:5
+msgid "Wizard Book"
+msgstr ""
+
+#: ../../W/Wizard-Book.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../W/Wizard-Book.rst:9
+msgid ""
+"*Structure and Interpretation of Computer Programs* (Hal Abelson, Jerry "
+"Sussman and Julie Sussman; MIT Press, 1984, 1996; ISBN 0-262-01153-0), an"
+" excellent computer science text used in introductory courses at MIT. So "
+"called because of the wizard on the jacket. One of the :ref:`bible`\\s of"
+" the LISP/Scheme world. Also, less commonly, known as the :ref:`Purple-"
+"Book`\\. Now available on the `http://mitpress.mit.edu/sicp/ "
+"<http://mitpress.mit.edu/sicp/>`_"
+msgstr ""
+

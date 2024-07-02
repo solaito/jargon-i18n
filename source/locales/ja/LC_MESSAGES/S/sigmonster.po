@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/sigmonster.rst:5
+msgid "sigmonster"
+msgstr ""
+
+#: ../../S/sigmonster.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/sigmonster.rst:9
+msgid ""
+"[common] A beast that randomly chooses one of a selection of signatures "
+"for appending to mail and news messages. The creature is most often "
+"mentioned directly when it has been in particularly good form and "
+"selected a signature appropriate to the topic being discussed; the "
+"construction \"P.S. : good sigmonster, have a cookie\" is not uncommon. "
+"While the are sigmonster programs floating around on the net, most "
+"hackers who keep one use a silly little Perl or Python script that they "
+"threw together in the middle of the night under the influence of far too "
+"much caffeine."
+msgstr ""
+
