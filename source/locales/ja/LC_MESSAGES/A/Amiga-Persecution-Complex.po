@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/Amiga-Persecution-Complex.rst:5
+msgid "Amiga Persecution Complex"
+msgstr ""
+
+#: ../../A/Amiga-Persecution-Complex.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../A/Amiga-Persecution-Complex.rst:9
+msgid ""
+"The disorder suffered by a particularly egregious variety of "
+":ref:`bigot`\\, those who believe that the marginality of their preferred"
+" machine is the result of some kind of industry-wide conspiracy (for "
+"without a conspiracy of some kind, the eminent superiority of their "
+"beloved shining jewel of a platform would obviously win over all, market "
+"pressures be damned!) Those afflicted are prone to engaging in :ref"
+":`flame-war`\\s and calling for boycotts and mailbombings. Amiga "
+"Persecution Complex is by no means limited to Amiga users; NeXT, "
+":ref:`NeWS`\\, :ref:`OS-2`\\, Macintosh, :ref:`LISP`\\, and :ref:`GNU` "
+"users are also common victims. :ref:`Linux` users used to display "
+"symptoms very frequently before Linux started winning; some still do. See"
+" also :ref:`newbie`\\, :ref:`troll`\\, :ref:`holy-wars`\\, "
+":ref:`weenie`\\, :ref:`Get-a-life-`\\."
+msgstr ""
+

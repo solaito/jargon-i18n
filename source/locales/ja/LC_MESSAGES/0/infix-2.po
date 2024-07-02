@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../0/infix-2.rst:5
+msgid "2"
+msgstr ""
+
+#: ../../0/infix-2.rst:7
+msgid "infix\\."
+msgstr ""
+
+#: ../../0/infix-2.rst:9
+msgid ""
+"In translation software written by hackers, infix 2 often represents the "
+"syllable *to* with the connotation ‘translate to’: as in dvi2ps (DVI to "
+"PostScript), int2string (integer to string), and texi2roff (Texinfo to "
+"[nt]roff). Several versions of a joke have floated around the internet in"
+" which some idiot programmer fixes the Y2K bug by changing all the Y's in"
+" something to K's, as in Januark, Februark, etc."
+msgstr ""
+

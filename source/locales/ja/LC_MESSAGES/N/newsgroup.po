@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/newsgroup.rst:5
+msgid "newsgroup"
+msgstr ""
+
+#: ../../N/newsgroup.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../N/newsgroup.rst:9
+msgid ""
+"[Usenet] One of :ref:`Usenet`\\'s huge collection of topic groups or "
+":ref:`fora`\\. Usenet groups can be unmoderated (anyone can post) or "
+"moderated (submissions are automatically directed to a moderator, who "
+"edits or filters and then posts the results). Some newsgroups have "
+"parallel :ref:`mailing-list`\\s for Internet people with no netnews "
+"access, with postings to the group automatically propagated to the list "
+"and vice versa. Some moderated groups (especially those which are "
+"actually gatewayed Internet mailing lists) are distributed as digests, "
+"with groups of postings periodically collected into a single large "
+"posting with an index."
+msgstr ""
+
+#: ../../N/newsgroup.rst:14
+msgid ""
+"Among the best-known are :samp:`comp.lang.c` (the C-language forum), "
+":samp:`comp.arch` (on computer architectures), :samp:`comp.unix.wizards` "
+"(for Unix wizards), :samp:`rec.arts.sf.written` and siblings (for "
+"science-fiction fans), and :samp:`talk.politics.misc` (miscellaneous "
+"political discussions and :ref:`flamage`\\)."
+msgstr ""
+

@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/fudge-factor.rst:5
+msgid "fudge factor"
+msgstr ""
+
+#: ../../F/fudge-factor.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/fudge-factor.rst:9
+msgid ""
+"[common] A value or parameter that is varied in an ad hoc way to produce "
+"the desired result. The terms tolerance and :ref:`slop` are also used, "
+"though these usually indicate a one-sided leeway, such as a buffer that "
+"is made larger than necessary because one isn't sure exactly how large it"
+" needs to be, and it is better to waste a little space than to lose "
+"completely for not having enough. A fudge factor, on the other hand, can "
+"often be tweaked in more than one direction. A good example is the fuzz "
+"typically allowed in floating-point calculations: two numbers being "
+"compared for equality must be allowed to differ by a small amount; if "
+"that amount is too small, a computation may never terminate, while if it "
+"is too large, results will be needlessly inaccurate. Fudge factors are "
+"frequently adjusted incorrectly by programmers who don't fully understand"
+" their import. See also :ref:`coefficient-of-X`\\."
+msgstr ""
+

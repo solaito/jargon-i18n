@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hello-sailor-.rst:5
+msgid "hello sailor!"
+msgstr ""
+
+#: ../../H/hello-sailor-.rst:7
+msgid "interj\\."
+msgstr ""
+
+#: ../../H/hello-sailor-.rst:9
+msgid ""
+"Occasional West Coast equivalent of :ref:`hello-world`\\; seems to have "
+"originated at SAIL, later associated with the game :ref:`Zork` (which "
+"also included \"hello, aviator\" and \"hello, implementor\"). Originally "
+"from the traditional hooker's greeting to a swabbie fresh off the boat, "
+"of course. The standard response is \"Nothing happens here. \"; of all "
+"the Zork/Dungeon games, only in Infocom's Zork 3 is \"Hello, Sailor\" "
+"actually useful (excluding the unique situation where _knowing_ this fact"
+" is important in Dungeon...)."
+msgstr ""
+

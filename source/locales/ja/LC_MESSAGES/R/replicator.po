@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/replicator.rst:5
+msgid "replicator"
+msgstr ""
+
+#: ../../R/replicator.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../R/replicator.rst:9
+msgid ""
+"Any construct that acts to produce copies of itself; this could be a "
+"living organism, an idea (see :ref:`meme`\\), a program (see "
+":ref:`quine`\\, :ref:`worm`\\, :ref:`wabbit`\\, :ref:`fork-bomb`\\, and "
+":ref:`virus`\\), a pattern in a cellular automaton (see :ref:`life`\\, "
+"sense 1), or (speculatively) a robot or :ref:`nanobot`\\. It is even "
+"claimed by some that :ref:`Unix` and :ref:`C` are the symbiotic halves of"
+" an extremely successful replicator; see :ref:`Unix-conspiracy`\\."
+msgstr ""
+

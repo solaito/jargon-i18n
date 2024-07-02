@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/Frankenputer.rst:5
+msgid "Frankenputer"
+msgstr ""
+
+#: ../../F/Frankenputer.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/Frankenputer.rst:10
+msgid ""
+"A mostly-working computer thrown together from the spare parts of several"
+" machines out of which the :ref:`magic-smoke` had been let. Most shops "
+"have a closet full of nonworking machines. When a new machine is needed "
+"immediately (for testing, for example) and there is no time (or budget) "
+"to requisition a new box, someone (often an intern) is tasked with "
+"building a Frankenputer."
+msgstr ""
+
+#: ../../F/Frankenputer.rst:15
+msgid ""
+"Also used in referring to a machine that once was a name-brand computer, "
+"but has been upgraded long beyond its useful life, to the point at which "
+"the nameplate violates truth-in-advertising laws (e.g., a Pentium III-"
+"class machine inexplicably living in a case marked \"Gateway 486/66\")."
+msgstr ""
+

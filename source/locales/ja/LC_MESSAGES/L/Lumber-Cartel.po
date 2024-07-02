@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/Lumber-Cartel.rst:5
+msgid "Lumber Cartel"
+msgstr ""
+
+#: ../../L/Lumber-Cartel.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../L/Lumber-Cartel.rst:9
+msgid ""
+"A mythical conspiracy accused by :ref:`spam`\\-spewers of funding anti-"
+"spam activism in order to force the direct-mail promotions industry back "
+"onto paper. Hackers, predictably, responded by forming a \"Lumber "
+"Cartel\" spoofing this paranoid theory; the web page is "
+"`http://come.to/the.lumber.cartel/ <http://come.to/the.lumber.cartel/>`_."
+" Members often include the tag TINLC (\"There Is No Lumber Cartel\") in "
+"their postings; see :ref:`TINC`\\, :ref:`backbone-cabal` and :ref:`NANA` "
+"for explanation."
+msgstr ""
+

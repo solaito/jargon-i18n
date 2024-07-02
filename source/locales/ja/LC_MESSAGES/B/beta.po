@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/beta.rst:5
+msgid "beta"
+msgstr ""
+
+#: ../../B/beta.rst:7
+msgid "/bay´t\\@/, /be´t\\@/, /bee´t\\@/, n\\."
+msgstr ""
+
+#: ../../B/beta.rst:10
+msgid ""
+"Mostly working, but still under test; usu. used with \"in\": in beta. In "
+"the :ref:`Real-World`\\, hardware or software systems often go through "
+"two stages of release testing: Alpha (in-house) and Beta (out-house?). "
+"Beta releases are generally made to a group of lucky (or unlucky) trusted"
+" customers."
+msgstr ""
+
+#: ../../B/beta.rst:16
+msgid ""
+"Anything that is new and experimental. \"His girlfriend is in beta\" "
+"means that he is still testing for compatibility and reserving judgment."
+msgstr ""
+
+#: ../../B/beta.rst:20
+msgid "Flaky; dubious; suspect (since beta software is notoriously buggy)."
+msgstr ""
+
+#: ../../B/beta.rst:22
+msgid ""
+"Historical note: More formally, to beta-test is to test a pre-release "
+"(potentially unreliable) version of a piece of software by making it "
+"available to selected (or self-selected) customers and users. This term "
+"derives from early 1960s terminology for product cycle checkpoints, first"
+" used at IBM but later standard throughout the industry. Alpha Test was "
+"the unit, module, or component test phase; Beta Test was initial system "
+"test. These themselves came from earlier A- and B-tests for hardware. The"
+" A-test was a feasibility and manufacturability evaluation done before "
+"any commitment to design and development. The B-test was a demonstration "
+"that the engineering model functioned as specified. The C-test "
+"(corresponding to today's beta) was the B-test performed on early samples"
+" of the production design, and the D test was the C test repeated after "
+"the model had been in production a while."
+msgstr ""
+

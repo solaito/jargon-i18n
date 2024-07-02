@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/barf.rst:5
+msgid "barf"
+msgstr ""
+
+#: ../../B/barf.rst:7
+msgid "/barf/, n\\.,v\\."
+msgstr ""
+
+#: ../../B/barf.rst:9
+msgid "[common; from mainstream slang meaning ‘vomit’]"
+msgstr ""
+
+#: ../../B/barf.rst:11
+msgid ""
+"interj. Term of disgust. This is the closest hackish equivalent of the "
+"Valspeak \"gag me with a spoon\". (Like, euwww!) See :ref:`bletch`\\."
+msgstr ""
+
+#: ../../B/barf.rst:17
+msgid ""
+"vi\\. To say \"Barf!\" or emit some similar expression of disgust. \"I "
+"showed him my latest hack and he barfed\" means only that he complained "
+"about it, not that he literally vomited."
+msgstr ""
+
+#: ../../B/barf.rst:22
+msgid ""
+"vi\\. To fail to work because of unacceptable input, perhaps with a "
+"suitable error message, perhaps not. Examples: \"The division operation "
+"barfs if you try to divide by 0.\" (That is, the division operation "
+"checks for an attempt to divide by zero, and if one is encountered it "
+"causes the operation to fail in some unspecified, but generally obvious, "
+"manner.) \"The text editor barfs if you try to read in a new file before "
+"writing out the old one.\""
+msgstr ""
+
+#: ../../B/barf.rst:28
+msgid ""
+"See :ref:`choke`\\. In Commonwealth Hackish, barf is generally replaced "
+"by ‘puke’ or ‘vom’. :ref:`barf` is sometimes also used as a :ref"
+":`metasyntactic-variable`\\, like :ref:`foo` or :ref:`bar`\\."
+msgstr ""
+

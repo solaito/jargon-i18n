@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/phreaking.rst:5
+msgid "phreaking"
+msgstr ""
+
+#: ../../P/phreaking.rst:7
+msgid "/freek´ing/, n\\."
+msgstr ""
+
+#: ../../P/phreaking.rst:9
+msgid "[from ‘phone phreak’]"
+msgstr ""
+
+#: ../../P/phreaking.rst:12
+msgid ""
+"The art and science of :ref:`cracking` the phone network (so as, for "
+"example, to make free long-distance calls)."
+msgstr ""
+
+#: ../../P/phreaking.rst:15
+msgid ""
+"By extension, security-cracking in any other context (especially, but not"
+" exclusively, on communications networks) (see :ref:`cracking`\\)."
+msgstr ""
+
+#: ../../P/phreaking.rst:17
+msgid ""
+"At one time phreaking was a semi-respectable activity among hackers; "
+"there was a gentleman's agreement that phreaking as an intellectual game "
+"and a form of exploration was OK, but serious theft of services was "
+"taboo. There was significant crossover between the hacker community and "
+"the hard-core phone phreaks who ran semi-underground networks of their "
+"own through such media as the legendary *TAP Newsletter*\\. This ethos "
+"began to break down in the mid-1980s as wider dissemination of the "
+"techniques put them in the hands of less responsible phreaks. Around the "
+"same time, changes in the phone network made old-style technical "
+"ingenuity less effective as a way of hacking it, so phreaking came to "
+"depend more on overtly criminal acts such as stealing phone-card numbers."
+" The crimes and punishments of gangs like the ‘414 group’ turned that "
+"game very ugly. A few old-time hackers still phreak casually just to keep"
+" their hand in, but most these days have hardly even heard of ‘blue "
+"boxes’ or any of the other paraphernalia of the great phreaks of yore."
+msgstr ""
+

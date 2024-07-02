@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/patch-pumpkin.rst:5
+msgid "patch pumpkin"
+msgstr ""
+
+#: ../../P/patch-pumpkin.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../P/patch-pumpkin.rst:9
+msgid ""
+"[Perl hackers] A notional token passed around among the members of a "
+"project. Possession of the patch pumpkin means one has the exclusive "
+"authority to make changes on the project's master source tree. The "
+"implicit assumption is that pumpkin holder status is temporary and "
+"rotates periodically among senior project members."
+msgstr ""
+
+#: ../../P/patch-pumpkin.rst:13
+msgid ""
+"This term comes from the Perl development community, but has been sighted"
+" elsewhere. It derives from a stuffed-toy pumpkin that was passed around "
+"at a development shop years ago as the access control for a shared "
+"backup-tape drive."
+msgstr ""
+

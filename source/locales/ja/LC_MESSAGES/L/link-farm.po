@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/link-farm.rst:5
+msgid "link farm"
+msgstr ""
+
+#: ../../L/link-farm.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../L/link-farm.rst:9
+msgid ""
+"[Unix] A directory tree that contains many links to files in a master "
+"directory tree of files. Link farms save space when one is maintaining "
+"several nearly identical copies of the same source tree — for example, "
+"when the only difference is architecture-dependent object files. \"Let's "
+"freeze the source and then rebuild the FROBOZZ-3 and FROBOZZ-4 link "
+"farms.\" Link farms may also be used to get around restrictions on the "
+"number of :code:`-I` (include-file directory) arguments on older C "
+"preprocessors. However, they can also get completely out of hand, "
+"becoming the filesystem equivalent of :ref:`spaghetti-code`\\. See also "
+":ref:`farm`\\."
+msgstr ""
+

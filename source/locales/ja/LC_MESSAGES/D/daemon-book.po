@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/daemon-book.rst:5
+msgid "daemon book"
+msgstr ""
+
+#: ../../D/daemon-book.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/daemon-book.rst:9
+msgid ""
+"*The Design and Implementation of the 4.3BSD UNIX Operating System*\\, by"
+" Samuel J. Leffler, Marshall Kirk McKusick, Michael J. Karels, and John "
+"S. Quarterman (Addison-Wesley Publishers, 1989, ISBN 0-201-06196-1); or "
+"*The Design and Implementation of the 4.4 BSD Operating System* by "
+"Marshall Kirk McKusick, Keith Bostic, Michael J. Karels and John S. "
+"Quarterman (Addison-Wesley Longman, 1996, ISBN 0-201-54979-4) Either of "
+"the standard reference books on the internals of :ref:`BSD` Unix. So "
+"called because the covers have a picture depicting a little demon (a "
+"visual play on :ref:`daemon`\\) in sneakers, holding a pitchfork "
+"(referring to one of the characteristic features of Unix, the "
+":manpage:`fork(2)` system call)."
+msgstr ""
+

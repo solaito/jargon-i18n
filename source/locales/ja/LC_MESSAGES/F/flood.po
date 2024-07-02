@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/flood.rst:5
+msgid "flood"
+msgstr ""
+
+#: ../../F/flood.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../F/flood.rst:9
+msgid "[common]"
+msgstr ""
+
+#: ../../F/flood.rst:12
+msgid ""
+"To overwhelm a network channel with mechanically-generated traffic; "
+"especially used of IP, TCP/IP, UDP, or ICMP denial-of-service attacks."
+msgstr ""
+
+#: ../../F/flood.rst:15
+msgid ""
+"To dump large amounts of text onto an :ref:`IRC` channel. This is "
+"especially rude when the text is uninteresting and the other users are "
+"trying to carry on a serious conversation. Also used in a similar sense "
+"on Usenet."
+msgstr ""
+
+#: ../../F/flood.rst:20
+msgid ""
+"[Usenet] To post an unusually large number or volume of files on a "
+"related topic."
+msgstr ""
+

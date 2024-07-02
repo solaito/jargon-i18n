@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/magic.rst:5
+msgid "magic"
+msgstr ""
+
+#: ../../M/magic.rst:7
+msgid ""
+"adj. As yet unexplained, or too complicated to explain; compare "
+":ref:`automagically` and (Arthur C.) Clarke's Third Law: \"Any "
+"sufficiently advanced technology is indistinguishable from magic.\" \"TTY"
+" echoing is controlled by a large number of magic bits.\" \"This routine "
+"magically computes the parity of an 8-bit byte in three instructions.\""
+msgstr ""
+
+#: ../../M/magic.rst:12
+msgid ""
+"adj. Characteristic of something that works although no one really "
+"understands why (this is especially called :ref:`black-magic`\\)."
+msgstr ""
+
+#: ../../M/magic.rst:15
+msgid ""
+"n\\. [Stanford] A feature not generally publicized that allows something "
+"otherwise impossible, or a feature formerly in that category but now "
+"unveiled."
+msgstr ""
+
+#: ../../M/magic.rst:18
+msgid ""
+"n\\. The ultimate goal of all engineering & development, elegance in the "
+"extreme; from the first corollary to Clarke's Third Law: \"Any technology"
+" distinguishable from magic is insufficiently advanced\"."
+msgstr ""
+
+#: ../../M/magic.rst:21
+msgid ""
+"Parodies playing on these senses of the term abound; some have made their"
+" way into serious documentation, as when a MAGIC directive was described "
+"in the Control Card Reference for GCOS c.1978. For more about hackish "
+"‘magic’, see :ref:`Appendix A<appendixa>`\\. Compare :ref:`black-"
+"magic`\\, :ref:`wizardly`\\, :ref:`deep-magic`\\, :ref:`heavy-"
+"wizardry`\\."
+msgstr ""
+

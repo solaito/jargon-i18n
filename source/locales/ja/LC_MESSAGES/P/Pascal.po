@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/Pascal.rst:5
+msgid "Pascal"
+msgstr ""
+
+#: ../../P/Pascal.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../P/Pascal.rst:9
+msgid ""
+"An Algol-descended language designed by Niklaus Wirth on the CDC 6600 "
+"around 1967--68 as an instructional tool for elementary programming. This"
+" language, designed primarily to keep students from shooting themselves "
+"in the foot and thus extremely restrictive from a general-purpose-"
+"programming point of view, was later promoted as a general-purpose tool "
+"and, in fact, became the ancestor of a large family of languages "
+"including Modula-2 and Ada (see also :ref:`bondage-and-discipline-"
+"language`\\). The hackish point of view on Pascal was probably best "
+"summed up by a devastating (and, in its deadpan way, screamingly funny) "
+"1981 paper by Brian Kernighan (of :ref:`K-ampersand-R` fame) entitled "
+"*Why Pascal is Not My Favorite Programming Language*\\, which was turned "
+"down by the technical journals but circulated widely via photocopies. It "
+"was eventually published in *Comparing and Assessing Programming "
+"Languages*\\, edited by Alan Feuer and Narain Gehani (Prentice-Hall, "
+"1984). Part of his discussion is worth repeating here, because its "
+"criticisms are still apposite to Pascal itself after many years of "
+"improvement and could also stand as an indictment of many other bondage-"
+"and-discipline languages. (The entire essay is available at "
+"`http://www.lysator.liu.se/c/bwk-on-pascal.html "
+"<http://www.lysator.liu.se/c/bwk-on-pascal.html>`_.) At the end of a "
+"summary of the case against Pascal, Kernighan wrote:"
+msgstr ""
+
+#: ../../P/Pascal.rst:41
+msgid ""
+"Pascal has since been entirely displaced (mainly by :ref:`C`\\) from the "
+"niches it had acquired in serious applications and systems programming, "
+"and from its role as a teaching language by Java."
+msgstr ""
+

@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/wart.rst:5
+msgid "wart"
+msgstr ""
+
+#: ../../W/wart.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../W/wart.rst:9
+msgid ""
+"A small, :ref:`crock`\\y :ref:`feature` that sticks out of an otherwise "
+":ref:`clean` design. Something conspicuous for localized ugliness, "
+"especially a special-case exception to a general rule. For example, in "
+"some versions of :manpage:`csh(1)`\\, single quotes literalize every "
+"character inside them except ``!``\\. In ANSI C, the ``? ?`` syntax used "
+"for obtaining ASCII characters in a foreign environment is a wart. See "
+"also :ref:`miswart`\\."
+msgstr ""
+

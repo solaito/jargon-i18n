@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/tense.rst:5
+msgid "tense"
+msgstr ""
+
+#: ../../T/tense.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../T/tense.rst:9
+msgid ""
+"Of programs, very clever and efficient. A tense piece of code often got "
+"that way because it was highly tuned, but sometimes it was just based on "
+"a great idea. A comment in a clever routine by Mike Kazar, once a grad-"
+"student hacker at CMU: \"This routine is so tense it will bring tears to "
+"your eyes.\" A tense programmer is one who produces tense code."
+msgstr ""
+

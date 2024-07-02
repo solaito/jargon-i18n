@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hairy.rst:5
+msgid "hairy"
+msgstr ""
+
+#: ../../H/hairy.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../H/hairy.rst:10
+msgid "Annoyingly complicated. \" :ref:`DWIM` is incredibly hairy.\""
+msgstr ""
+
+#: ../../H/hairy.rst:14
+msgid "Incomprehensible. \" :ref:`DWIM` is incredibly hairy.\""
+msgstr ""
+
+#: ../../H/hairy.rst:18
+msgid ""
+"Of people, high-powered, authoritative, rare, expert, and/or "
+"incomprehensible. Hard to explain except in context: \"He knows this "
+"hairy lawyer who says there's nothing to worry about.\" See also "
+":ref:`hirsute`\\."
+msgstr ""
+
+#: ../../H/hairy.rst:22
+msgid ""
+"There is a theorem in simplicial homology theory which states that any "
+"continuous tangent field on a 2-sphere is null at least in a point. "
+"Mathematically literate hackers tend to associate the term ‘hairy’ with "
+"the informal version of this theorem; \"You can't comb a hairy ball "
+"smooth.\" (Previous versions of this entry associating the above informal"
+" statement with the Brouwer fixed-point theorem were incorrect.)"
+msgstr ""
+
+#: ../../H/hairy.rst:26
+msgid ""
+"The adjective ‘long-haired’ is well-attested to have been in slang use "
+"among scientists and engineers during the early 1950s; it was equivalent "
+"to modern hairy senses 1 and 2, and was very likely ancestral to the "
+"hackish use. In fact the noun ‘long-hair’ was at the time used to "
+"describe a person satisfying sense 3. Both senses probably passed out of "
+"use when long hair was adopted as a signature trait by the 1960s "
+"counterculture, leaving hackish hairy as a sort of stunted mutant relic."
+msgstr ""
+
+#: ../../H/hairy.rst:30
+msgid ""
+"In British mainstream use, \"hairy\" means \"dangerous\", and "
+"consequently, in British programming terms, \"hairy\" may be used to "
+"denote complicated and/or incomprehensible code, but only if that "
+"complexity or incomprehesiveness is also considered dangerous."
+msgstr ""
+

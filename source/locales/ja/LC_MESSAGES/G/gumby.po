@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/gumby.rst:5
+msgid "gumby"
+msgstr ""
+
+#: ../../G/gumby.rst:7
+msgid "/guhm´bee/, n\\."
+msgstr ""
+
+#: ../../G/gumby.rst:9
+msgid ""
+"[from a class of Monty Python characters, poss. with some influence from "
+"the 1960s claymation character]"
+msgstr ""
+
+#: ../../G/gumby.rst:13
+msgid ""
+"An act of minor but conspicuous stupidity, often in gumby maneuver or "
+"pull a gumby."
+msgstr ""
+
+#: ../../G/gumby.rst:16
+msgid ""
+"[NRL] n. A bureaucrat, or other technical incompetent who impedes the "
+"progress of real work."
+msgstr ""
+
+#: ../../G/gumby.rst:18
+msgid ""
+"adj. Relating to things typically associated with people in sense 2. "
+"(e.g. \"Ran would be writing code, but Richard gave him gumby work that's"
+" due on Friday\", or, \"Dammit! Travel screwed up my plane tickets. I "
+"have to go out on gumby patrol.\")"
+msgstr ""
+

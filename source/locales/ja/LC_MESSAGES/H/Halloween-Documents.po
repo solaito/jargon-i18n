@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/Halloween-Documents.rst:5
+msgid "Halloween Documents"
+msgstr ""
+
+#: ../../H/Halloween-Documents.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../H/Halloween-Documents.rst:9
+msgid ""
+"A pair of Microsoft internal strategy memoranda leaked to ESR in late "
+"1998 that confirmed everybody's paranoia about the current :ref:`Evil-"
+"Empire`\\. `These documents <http://www.opensource.org/halloween/>`_\\  "
+"praised the technical excellence of :ref:`Linux` and outlined a "
+"counterstrategy of attempting to lock in customers by \"de-"
+"commoditizing\" Internet protocols and services. They were extensively "
+"cited on the Internet and in the press and proved so embarrassing that "
+"Microsoft PR barely said a word in public for six months afterwards."
+msgstr ""
+

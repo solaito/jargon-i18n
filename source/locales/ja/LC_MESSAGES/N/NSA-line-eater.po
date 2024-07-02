@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/NSA-line-eater.rst:5
+msgid "NSA line eater"
+msgstr ""
+
+#: ../../N/NSA-line-eater.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../N/NSA-line-eater.rst:9
+msgid ""
+"The National Security Agency trawling program sometimes assumed to be "
+"reading the net for the U.S. Government's spooks. Most hackers used to "
+"think it was mythical but believed in acting as though existed just in "
+"case. Since the mid-1990s it has gradually become known that the NSA "
+"actually does this, quite illegally, through its Echelon program."
+msgstr ""
+
+#: ../../N/NSA-line-eater.rst:13
+msgid ""
+"The standard countermeasure is to put loaded phrases like ‘KGB’, ‘Uzi’, "
+"‘nuclear materials’, ‘Palestine’, ‘cocaine’, and ‘assassination’ in their"
+" :ref:`sig-block`\\s in a (probably futile) attempt to confuse and "
+"overload the creature. The :ref:`GNU` version of :ref:`EMACS` actually "
+"has a command that randomly inserts a bunch of insidious anarcho-verbiage"
+" into your edited text."
+msgstr ""
+
+#: ../../N/NSA-line-eater.rst:16
+msgid ""
+"As far back as the 1970s there was a mainstream variant of this myth "
+"involving a ‘Trunk Line Monitor’, which supposedly used speech "
+"recognition to extract words from telephone trunks. This is much harder "
+"than noticing keywords in email, and most of the people who originally "
+"propagated it had no idea of then-current technology or the storage, "
+"signal-processing, or speech recognition needs of such a project. On the "
+"basis of mass-storage costs alone it would have been cheaper to hire 50 "
+"high-school students and just let them listen in."
+msgstr ""
+
+#: ../../N/NSA-line-eater.rst:20
+msgid ""
+"Twenty years and several orders of technological magnitude later, "
+"however, there are clear indications that the NSA has actually deployed "
+"such filtering (again, very much against U.S. law). In 2000, the FBI "
+"wants to get into this act with its ‘Carnivore’ surveillance system."
+msgstr ""
+

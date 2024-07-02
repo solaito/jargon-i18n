@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../K/ken.rst:5
+msgid "ken"
+msgstr ""
+
+#: ../../K/ken.rst:7
+msgid "/ken/, n\\."
+msgstr ""
+
+#: ../../K/ken.rst:10
+msgid ""
+"[Unix] Ken Thompson, principal inventor of Unix. In the early days he "
+"used to hand-cut distribution tapes, often with a note that read \"Love, "
+"ken\". Old-timers still use his first name (sometimes uncapitalized, "
+"because it's a login name and mail address) in third-person reference; it"
+" is widely understood (on Usenet, in particular) that without a last name"
+" ‘Ken’ refers only to Ken Thompson. Similarly, ‘Dennis’ without last name"
+" means Dennis Ritchie (and he is often known as :samp:`dmr`\\). See also "
+":ref:`demigod`\\, :ref:`Unix`\\."
+msgstr ""
+
+#: ../../K/ken.rst:17
+msgid ""
+"A flaming user. This was originated by the Software Support group at "
+"Symbolics because the two greatest flamers in the user community were "
+"both named Ken."
+msgstr ""
+

@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/reinvent-the-wheel.rst:5
+msgid "reinvent the wheel"
+msgstr ""
+
+#: ../../R/reinvent-the-wheel.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../R/reinvent-the-wheel.rst:9
+msgid ""
+"To design or implement a tool equivalent to an existing one or part of "
+"one, with the implication that doing so is silly or a waste of time. This"
+" is often a valid criticism. On the other hand, automobiles don't use "
+"wooden rollers, and some kinds of wheel have to be reinvented many times "
+"before you get them right. On the third hand, people reinventing the "
+"wheel do tend to come up with the moral equivalent of a trapezoid with an"
+" offset axle."
+msgstr ""
+

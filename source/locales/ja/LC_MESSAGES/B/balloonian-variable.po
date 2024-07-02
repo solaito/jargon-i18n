@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/balloonian-variable.rst:5
+msgid "balloonian variable"
+msgstr ""
+
+#: ../../B/balloonian-variable.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/balloonian-variable.rst:9
+msgid ""
+"[Commodore users; perh. a deliberate phonetic mangling of boolean "
+"variable?] Any variable that doesn't actually hold or control state, but "
+"must nevertheless be declared, checked, or set. A typical balloonian "
+"variable started out as a flag attached to some environment feature that "
+"either became obsolete or was planned but never implemented. "
+"Compatibility concerns (or politics attached to same) may require that "
+"such a flag be treated as though it were :ref:`live`\\."
+msgstr ""
+

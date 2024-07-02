@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/Pentium.rst:5
+msgid "Pentium"
+msgstr ""
+
+#: ../../P/Pentium.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../P/Pentium.rst:9
+msgid ""
+"The name given to Intel's P5 chip, the successor to the 80486. The name "
+"was chosen because of difficulties Intel had in trademarking a number. It"
+" suggests the number five (implying 586) while (according to Intel) "
+"conveying a meaning of strength \"like titanium\". Among hackers, the "
+"plural is frequently ‘pentia’. See also :ref:`Pentagram-Pro`\\."
+msgstr ""
+
+#: ../../P/Pentium.rst:15
+msgid ""
+"Intel did not stick to this convention when naming its P6 processor the "
+"Pentium Pro; many believe this is due to difficulties in selling a chip "
+"with \"hex\" or \"sex\" in its name. Successor chips have been called "
+"Pentium II, Pentium III, and Pentium IV."
+msgstr ""
+

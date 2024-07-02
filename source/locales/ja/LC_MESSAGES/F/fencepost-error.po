@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/fencepost-error.rst:5
+msgid "fencepost error"
+msgstr ""
+
+#: ../../F/fencepost-error.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/fencepost-error.rst:10
+msgid ""
+"[common] A problem with the discrete equivalent of a boundary condition, "
+"often exhibited in programs by iterative loops. From the following "
+"problem: \"If you build a fence 100 feet long with posts 10 feet apart, "
+"how many posts do you need?\" (Either 9 or 11 is a better answer than the"
+" obvious 10.) For example, suppose you have a long list or array of "
+"items, and want to process items ``m`` through ``n``\\; how many items "
+"are there? The obvious answer is ``n - m``\\, but that is off by one; the"
+" right answer is ``n - m + 1``\\. A program that used the ‘obvious’ "
+"formula would have a fencepost error in it. See also :ref:`zeroth` and "
+":ref:`off-by-one-error`\\, and note that not all off-by-one errors are "
+"fencepost errors. The game of Musical Chairs involves a catastrophic off-"
+"by-one error where ``N`` people try to sit in ``N - 1`` chairs, but it's "
+"not a fencepost error. Fencepost errors come from counting things rather "
+"than the spaces between them, or vice versa, or by neglecting to consider"
+" whether one should count one or both ends of a row."
+msgstr ""
+
+#: ../../F/fencepost-error.rst:21
+msgid ""
+"[rare] An error induced by unexpected regularities in input values, which"
+" can (for instance) completely thwart a theoretically efficient binary "
+"tree or hash table implementation. (The error here involves the "
+"difference between expected and worst case behaviors of an algorithm.)"
+msgstr ""
+

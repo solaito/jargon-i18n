@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hash-bucket.rst:5
+msgid "hash bucket"
+msgstr ""
+
+#: ../../H/hash-bucket.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../H/hash-bucket.rst:9
+msgid ""
+"A notional receptacle, a set of which might be used to apportion data "
+"items for sorting or lookup purposes. When you look up a name in the "
+"phone book (for example), you typically hash it by extracting its first "
+"letter; the hash buckets are the alphabetically ordered letter sections. "
+"This term is used as techspeak with respect to code that uses actual hash"
+" functions; in jargon, it is used for human associative memory as well. "
+"Thus, two things ‘in the same hash bucket’ are more difficult to "
+"discriminate, and may be confused. \"If you hash English words only by "
+"length, you get too many common grammar words in the first couple of hash"
+" buckets.\" Compare :ref:`hash-collision`\\."
+msgstr ""
+

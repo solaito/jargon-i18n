@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/line-noise.rst:5
+msgid "line noise"
+msgstr ""
+
+#: ../../L/line-noise.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../L/line-noise.rst:10
+msgid ""
+"[techspeak] Spurious characters due to electrical noise in a "
+"communications link, especially an RS-232 serial connection. Line noise "
+"may be induced by poor connections, interference or crosstalk from other "
+"circuits, electrical storms, :ref:`cosmic-rays`\\, or (notionally) birds "
+"crapping on the phone wires."
+msgstr ""
+
+#: ../../L/line-noise.rst:14
+msgid ""
+"Any chunk of data in a file or elsewhere that looks like the results of "
+"line noise in sense 1."
+msgstr ""
+
+#: ../../L/line-noise.rst:17
+msgid ""
+"Text that is theoretically a readable text or program source but employs "
+"syntax so bizarre that it looks like line noise in senses 1 or 2. Yes, "
+"there are languages this ugly. The canonical example is :ref:`TECO`\\; it"
+" is often claimed that \"TECO's input syntax is indistinguishable from "
+"line noise.\" Other non- :ref:`WYSIWYG` editors, such as Multics "
+":code:`qed` and Unix :code:`ed`\\, in the hands of a real hacker, also "
+"qualify easily, as do deliberately obfuscated languages such as "
+":ref:`INTERCAL`\\."
+msgstr ""
+

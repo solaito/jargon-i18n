@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../I/initgame.rst:5
+msgid "initgame"
+msgstr ""
+
+#: ../../I/initgame.rst:7
+msgid "/in·it´gaym/, n\\."
+msgstr ""
+
+#: ../../I/initgame.rst:9
+msgid ""
+"[IRC] An :ref:`IRC` version of the trivia game \"Botticelli\", in which "
+"one user changes his :ref:`nick` to the initials of a famous person or "
+"other named entity, and the others on the channel ask yes or no "
+"questions, with the one to guess the person getting to be \"it\" next. As"
+" a courtesy, the one picking the initials starts by providing a 4-letter "
+"hint of the form sex, nationality, life-status, reality-status. For "
+"example, MAAR means \"Male, American, Alive, Real\" (as opposed to "
+"\"fictional\"). Initgame can be surprisingly addictive. See also "
+":ref:`hing`\\."
+msgstr ""
+
+#: ../../I/initgame.rst:15
+msgid ""
+"[1996 update: a recognizable version of the initgame has become a staple "
+"of some radio talk shows in the U.S. We had it first! -- ESR]"
+msgstr ""
+

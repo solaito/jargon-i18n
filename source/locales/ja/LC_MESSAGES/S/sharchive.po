@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/sharchive.rst:5
+msgid "sharchive"
+msgstr ""
+
+#: ../../S/sharchive.rst:7
+msgid "/shar´ki:v/, n\\."
+msgstr ""
+
+#: ../../S/sharchive.rst:9
+msgid ""
+"[Unix and Usenet; from /bin/sh archive] A :ref:`flatten`\\ed "
+"representation of a set of one or more files, with the unique property "
+"that it can be unflattened (the original files restored) by feeding it "
+"through a standard Unix shell; thus, a sharchive can be distributed to "
+"anyone running Unix, and no special unpacking software is required. "
+"Sharchives are also intriguing in that they are typically created by "
+"shell scripts; the script that produces sharchives is thus a script which"
+" produces self-unpacking scripts, which may themselves contain scripts. "
+"Sharchives are also commonly referred to as ‘shar files’ after the name "
+"of the most common program for generating them."
+msgstr ""
+
+#: ../../S/sharchive.rst:13
+msgid ""
+"The downsides of sharchives are that they are an ideal venue for :ref"
+":`Trojan-horse` attacks and that, for recipients not running Unix, no "
+"simple un-sharchiving program is possible; sharchives can and do make use"
+" of arbitrarily-powerful shell features. For these reasons, this "
+"technique has largely fallen out of use since the mid-1990s."
+msgstr ""
+

@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/chrome.rst:5
+msgid "chrome"
+msgstr ""
+
+#: ../../C/chrome.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/chrome.rst:9
+msgid ""
+"[from automotive slang via wargaming] Showy features added to attract "
+"users but contributing little or nothing to the power of a system. \"The "
+"3D icons in Motif are just chrome, but they certainly are pretty "
+"chrome!\" Distinguished from :ref:`bells-and-whistles` by the fact that "
+"the latter are usually added to gratify developers' own desires for "
+"featurefulness. Often used as a term of contempt."
+msgstr ""
+

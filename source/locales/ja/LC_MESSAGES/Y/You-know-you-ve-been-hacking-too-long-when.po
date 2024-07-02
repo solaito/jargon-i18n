@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:5
+msgid "You know you've been hacking too long when"
+msgstr ""
+
+#: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:7
+msgid ""
+"The set-up line for a genre of one-liners told by hackers about "
+"themselves. These include the following:"
+msgstr ""
+
+#: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:10
+msgid ""
+"not only do you check your email more often than your paper mail, but you"
+" remember your :ref:`network-address` faster than your postal one."
+msgstr ""
+
+#: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:12
+msgid ""
+"your :ref:`SO` kisses you on the neck and the first thing you think is "
+"\"Uh, oh, :ref:`priority-interrupt`\\.\""
+msgstr ""
+
+#: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:14
+msgid ""
+"you go to balance your checkbook and discover that you're doing it in "
+"octal."
+msgstr ""
+
+#: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:16
+msgid "your computers have a higher street value than your car."
+msgstr ""
+
+#: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:18
+msgid "in your universe, ‘round numbers’ are powers of 2, not 10."
+msgstr ""
+
+#: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:20
+msgid ""
+"more than once, you have woken up recalling a dream in some programming "
+"language."
+msgstr ""
+
+#: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:22
+msgid ""
+"you see the word \"Oxford\" and mentally trip over the fact that ‘r’ is "
+"not a hex digit."
+msgstr ""
+
+#: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:24
+msgid "you realize you have never seen half of your best friends."
+msgstr ""
+
+#: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:26
+msgid ""
+"A `list <http://albrecht.ecn.purdue.edu/~taylor/humor/hack.html>`_\\  of "
+"these can be found by searching for this phrase on the web."
+msgstr ""
+
+#: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:28
+msgid ""
+"[An early version of this entry said \"All but one of these have been "
+"reliably reported as hacker traits (some of them quite often). Even "
+"hackers may have trouble spotting the ringer.\" The ringer was balancing "
+"one's checkbook in octal, which I made up out of whole cloth. Although "
+"more respondents picked that one out as fiction than any of the others, I"
+" also received multiple independent reports of its actually happening, "
+"most famously to Grace Hopper while she was working with BINAC in 1949. "
+"—ESR]"
+msgstr ""
+

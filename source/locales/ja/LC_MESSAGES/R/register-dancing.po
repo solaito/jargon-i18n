@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/register-dancing.rst:5
+msgid "register dancing"
+msgstr ""
+
+#: ../../R/register-dancing.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../R/register-dancing.rst:9
+msgid ""
+"Many older processor architectures suffer from a serious shortage of "
+"general-purpose registers. This is especially a problem for compiler-"
+"writers, because their generated code needs places to store temporaries "
+"for things like intermediate values in expression evaluation. Some "
+"designs with this problem, like the Intel 80x86, do have a handful of "
+"special-purpose registers that can be pressed into service, providing "
+"suitable care is taken to avoid unpleasant side effects on the state of "
+"the processor: while the special-purpose register is being used to hold "
+"an intermediate value, a delicate minuet is required in which the "
+"previous value of the register is saved and then restored just before the"
+" official function (and value) of the special-purpose register is again "
+"needed."
+msgstr ""
+

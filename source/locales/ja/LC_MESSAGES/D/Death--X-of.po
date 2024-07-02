@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/Death--X-of.rst:5
+msgid "Death, X of"
+msgstr ""
+
+#: ../../D/Death--X-of.rst:7
+msgid ""
+"[common] A construction used to imbue the subject with campy menace, "
+"usually with intent to ridicule. The ancestor of this term is a famous "
+"*Far Side* cartoon from the 1980s in which a balloon with a fierce face "
+"painted on it is passed off as the \"Floating Head of Death\". Hackers "
+"and SF fans have been using the suffix \"of Death\" ever since to label "
+"things which appear to be vastly threatening but will actually pop like a"
+" balloon if you prick them. Such constructions are properly spoken in a "
+"tone of over-exagerrated portentiousness: \"Behold! The Spinning - Pizza "
+"- of - Death!\" See :ref:`Blue-Screen-of-Death`\\, :ref:`Ping-O--"
+"Death`\\, :ref:`Spinning-Pizza-of-Death`\\, :ref:`click-of-death`\\. "
+"Compare :ref:`Doom--X-of`\\."
+msgstr ""
+

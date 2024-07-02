@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../J/joe-code.rst:5
+msgid "joe code"
+msgstr ""
+
+#: ../../J/joe-code.rst:7
+msgid "/joh´ kohd\\`/, n\\."
+msgstr ""
+
+#: ../../J/joe-code.rst:10
+msgid ""
+"Code that is overly :ref:`tense` and unmaintainable. \" :ref:`Perl` may "
+"be a handy program, but if you look at the source, it's complete joe "
+"code.\""
+msgstr ""
+
+#: ../../J/joe-code.rst:14
+msgid "Badly written, possibly buggy code."
+msgstr ""
+
+#: ../../J/joe-code.rst:16
+msgid ""
+"Correspondents wishing to remain anonymous have fingered a particular Joe"
+" at the Lawrence Berkeley Laboratory and observed that usage has drifted "
+"slightly; the original sobriquet ‘Joe code’ was intended in sense 1."
+msgstr ""
+
+#: ../../J/joe-code.rst:18
+msgid ""
+"1994 update: This term has now generalized to ‘<name> code’, used to "
+"designate code with distinct characteristics traceable to its author. "
+"\"This section doesn't check for a NULL return from malloc()! Oh. No "
+"wonder! It's Ed code!\". Used most often with a programmer who has left "
+"the shop and thus is a convenient scapegoat for anything that is wrong "
+"with the project."
+msgstr ""
+

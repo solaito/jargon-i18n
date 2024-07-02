@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/Shub-Internet.rst:5
+msgid "Shub-Internet"
+msgstr ""
+
+#: ../../S/Shub-Internet.rst:7
+msgid "/shuhb´ in´t\\@r·net/, n\\."
+msgstr ""
+
+#: ../../S/Shub-Internet.rst:9
+msgid ""
+"[MUD: from H. P. Lovecraft's evil fictional deity Shub-Niggurath, the "
+"Black Goat with a Thousand Young] The harsh personification of the "
+"Internet: Beast of a Thousand Processes, Eater of Characters, Avatar of "
+"Line Noise, and Imp of Call Waiting; the hideous multi-tendriled entity "
+"formed of all the manifold connections of the net. A sect of MUDders "
+"worships Shub-Internet, sacrificing objects and praying for good "
+"connections. To no avail — its purpose is malign and evil, and it is the "
+"cause of all network slowdown. Often heard as in \"Freela casts a tac "
+"nuke at Shub-Internet for slowing her down.\" (A forged response often "
+"follows along the lines of: \"Shub-Internet gulps down the tac nuke and "
+"burps happily.\") Also cursed by users of the Web, FTP and telnet when "
+"the network lags. The dread name of Shub-Internet is seldom spoken aloud,"
+" as it is said that repeating it three times will cause the being to "
+"wake, deep within its lair beneath the Pentagon. Compare :ref:`Random-"
+"Number-God`\\."
+msgstr ""
+
+#: ../../S/Shub-Internet.rst:18
+msgid ""
+"[January 1996: It develops that one of the computer administrators in the"
+" basement of the Pentagon read this entry and fell over laughing. As a "
+"result, you too can now poke Shub-Internet by :ref:`ping`\\ing :samp"
+":`shub-internet.ims.disa.mil`\\. Compare :ref:`kremvax`\\. —ESR]"
+msgstr ""
+
+#: ../../S/Shub-Internet.rst:23
+msgid ""
+"[April 1999: shub-internet.ims.disa.mil is no more, alas. But Shub-"
+"Internet lives, and even has a `home page <http://www.shub-"
+"internet.org/>`_. —ESR]"
+msgstr ""
+

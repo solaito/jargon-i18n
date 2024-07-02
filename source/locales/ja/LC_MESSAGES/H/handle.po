@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/handle.rst:5
+msgid "handle"
+msgstr ""
+
+#: ../../H/handle.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../H/handle.rst:10
+msgid ""
+"[from CB slang] An electronic pseudonym; a *nom de guerre* intended to "
+"conceal the user's true identity. Network and BBS handles function as the"
+" same sort of simultaneous concealment and display one finds on Citizen's"
+" Band radio, from which the term was adopted. Use of grandiose handles is"
+" characteristic of :ref:`warez-d00dz`\\, :ref:`cracker`\\s, "
+":ref:`weenie`\\s, :ref:`spod`\\s, and other lower forms of network life; "
+"true hackers travel on their own reputations rather than invented "
+"legendry. Compare :ref:`nick`\\, :ref:`screen-name`\\."
+msgstr ""
+
+#: ../../H/handle.rst:16
+msgid ""
+"A :ref:`magic-cookie`\\, often in the form of a numeric index into some "
+"array somewhere, through which you can manipulate an object like a file "
+"or window. The form file handle is especially common."
+msgstr ""
+
+#: ../../H/handle.rst:20
+msgid ""
+"[Mac] A pointer to a pointer to dynamically-allocated memory; the extra "
+"level of indirection allows on-the-fly memory compaction (to cut down on "
+"fragmentation) or aging out of unused resources, with minimal impact on "
+"the (possibly multiple) parts of the larger program containing references"
+" to the allocated memory. Compare :ref:`snap` (to snap a handle would "
+"defeat its purpose); see also :ref:`aliasing-bug`\\, :ref:`dangling-"
+"pointer`\\."
+msgstr ""
+

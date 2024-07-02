@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bubble-sort.rst:5
+msgid "bubble sort"
+msgstr ""
+
+#: ../../B/bubble-sort.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/bubble-sort.rst:9
+msgid ""
+"Techspeak for a particular sorting technique in which pairs of adjacent "
+"values in the list to be sorted are compared and interchanged if they are"
+" out of order; thus, list entries ‘bubble upward’ in the list until they "
+"bump into one with a lower sort value. Because it is not very good "
+"relative to other methods and is the one typically stumbled on by "
+":ref:`naive` and untutored programmers, hackers consider it the "
+":ref:`canonical` example of a naive algorithm. (However, it's been shown "
+"by repeated experiment that below about 5000 records bubble-sort is OK "
+"anyway.) The canonical example of a really *bad* algorithm is :ref:`bogo-"
+"sort`\\. A bubble sort might be used out of ignorance, but any use of "
+"bogo-sort could issue only from brain damage or willful perversity."
+msgstr ""
+

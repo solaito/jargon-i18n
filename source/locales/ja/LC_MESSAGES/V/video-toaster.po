@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../V/video-toaster.rst:5
+msgid "video toaster"
+msgstr ""
+
+#: ../../V/video-toaster.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../V/video-toaster.rst:9
+msgid ""
+"Historically, an Amiga fitted with a particular line of special video "
+"effects hardware from NewTek — long a popular platform at special-effects"
+" and video production houses. More generally, any computer system "
+"designed specifically for video production and manipulation. Compare :ref"
+":`web-toaster` and see :ref:`toaster`\\."
+msgstr ""
+

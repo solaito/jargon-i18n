@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/autoconfiscate.rst:5
+msgid "autoconfiscate"
+msgstr ""
+
+#: ../../A/autoconfiscate.rst:7
+msgid ""
+"To set up or modify a source-code :ref:`distribution` so that it "
+"configures and builds using the GNU project's autoconf/automake/libtools "
+"suite. Among open-source hackers, a mere running binary of a program is "
+"not considered a full release; what's interesting is a source tree that "
+"can be built into binaries using standard tools. Since the mid-1990s, "
+"autoconf and friends been the standard way to adapt a distribution for "
+"portability so that it can be built on multiple operating systems without"
+" change."
+msgstr ""
+

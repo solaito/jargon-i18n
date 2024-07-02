@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../U/under-the-hood.rst:5
+msgid "under the hood"
+msgstr ""
+
+#: ../../U/under-the-hood.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../U/under-the-hood.rst:9
+msgid "[hot-rodder talk]"
+msgstr ""
+
+#: ../../U/under-the-hood.rst:12
+msgid ""
+"Used to introduce the underlying implementation of a product (hardware, "
+"software, or idea). Implies that the implementation is not intuitively "
+"obvious from the appearance, but the speaker is about to enable the "
+"listener to :ref:`grok` it. \"Let's now look under the hood to see how "
+"....\""
+msgstr ""
+
+#: ../../U/under-the-hood.rst:17
+msgid ""
+"Can also imply that the implementation is much simpler than the "
+"appearance would indicate: \"Under the hood, we are just fork/execing the"
+" shell.\""
+msgstr ""
+
+#: ../../U/under-the-hood.rst:20
+msgid "Inside a chassis, as in \"Under the hood, this baby has a 40MHz 68030!\""
+msgstr ""
+

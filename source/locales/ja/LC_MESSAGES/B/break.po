@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/break.rst:5
+msgid "break"
+msgstr ""
+
+#: ../../B/break.rst:7
+msgid ""
+"vt\\. To cause to be :ref:`broken` (in any sense). \"Your latest patch to"
+" the editor broke the paragraph commands.\""
+msgstr ""
+
+#: ../../B/break.rst:11
+msgid ""
+"v\\. (of a program) To stop temporarily, so that it may debugged. The "
+"place where it stops is a breakpoint."
+msgstr ""
+
+#: ../../B/break.rst:16
+msgid ""
+"[techspeak] vi. To send an RS-232 break (two character widths of line "
+"high) over a serial comm line."
+msgstr ""
+
+#: ../../B/break.rst:20
+msgid ""
+"[Unix] vi. To strike whatever key currently causes the tty driver to send"
+" SIGINT to the current process. Normally, break (sense 3), delete or "
+":ref:`control-C` does this."
+msgstr ""
+
+#: ../../B/break.rst:24
+msgid ""
+"break break may be said to interrupt a conversation (this is an example "
+"of verb doubling). This usage comes from radio communications, which in "
+"turn probably came from landline telegraph/teleprinter usage, as badly "
+"abused in the Citizen's Band craze of the early 1980s."
+msgstr ""
+

@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/pixel-sort.rst:5
+msgid "pixel sort"
+msgstr ""
+
+#: ../../P/pixel-sort.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../P/pixel-sort.rst:9
+msgid ""
+"[Commodore users] Any compression routine which irretrievably loses "
+"valuable data in the process of :ref:`crunch`\\ing it. Disparagingly used"
+" for ‘lossy’ methods such as JPEG. The theory, of course, is that these "
+"methods are only used on photographic images in which minor loss-of-data "
+"is not visible to the human eye. The term pixel sort implies distrust of "
+"this theory. Compare :ref:`bogo-sort`\\."
+msgstr ""
+

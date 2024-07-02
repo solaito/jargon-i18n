@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/neats-vs--scruffies.rst:5
+msgid "neats vs. scruffies"
+msgstr ""
+
+#: ../../N/neats-vs--scruffies.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../N/neats-vs--scruffies.rst:9
+msgid ""
+"The label used to refer to one of the continuing :ref:`holy-wars` in AI "
+"research. This conflict tangles together two separate issues. One is the "
+"relationship between human reasoning and AI; ‘neats’ tend to try to build"
+" systems that ‘reason’ in some way identifiably similar to the way humans"
+" report themselves as doing, while ‘scruffies’ profess not to care "
+"whether an algorithm resembles human reasoning in the least as long as it"
+" works. More importantly, neats tend to believe that logic is king, while"
+" scruffies favor looser, more ad-hoc methods driven by empirical "
+"knowledge. To a neat, scruffy methods appear promiscuous, successful only"
+" by accident, and not productive of insights about how intelligence "
+"actually works; to a scruffy, neat methods appear to be hung up on "
+"formalism and irrelevant to the hard-to-capture ‘common sense’ of living "
+"intelligences."
+msgstr ""
+

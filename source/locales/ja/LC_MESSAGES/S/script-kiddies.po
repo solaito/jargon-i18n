@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/script-kiddies.rst:5
+msgid "script kiddies"
+msgstr ""
+
+#: ../../S/script-kiddies.rst:7
+msgid "pl\\.n\\."
+msgstr ""
+
+#: ../../S/script-kiddies.rst:10
+msgid ""
+"[very common] The lowest form of :ref:`cracker`\\; script kiddies do "
+"mischief with scripts and :ref:`rootkit`\\s written by others, often "
+"without understanding the :ref:`exploit` they are using. Used of people "
+"with limited technical expertise using easy-to-operate, pre-configured, "
+"and/or automated tools to conduct disruptive activities against networked"
+" systems. Since most of these tools are fairly well-known by the security"
+" community, the adverse impact of such actions is usually minimal."
+msgstr ""
+
+#: ../../S/script-kiddies.rst:15
+msgid ""
+"People who cannot program, but who create tacky HTML pages by copying "
+"JavaScript routines from other tacky HTML pages. More generally, a script"
+" kiddie writes (or more likely cuts and pastes) code without either "
+"having or desiring to have a mental model of what the code does; someone "
+"who thinks of code as magical incantations and asks only \"what do I need"
+" to type to make this happen?\""
+msgstr ""
+

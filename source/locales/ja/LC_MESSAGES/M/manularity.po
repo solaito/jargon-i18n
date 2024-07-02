@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/manularity.rst:5
+msgid "manularity"
+msgstr ""
+
+#: ../../M/manularity.rst:7
+msgid "/man\\`yoo·la´ri·tee/, n\\."
+msgstr ""
+
+#: ../../M/manularity.rst:9
+msgid ""
+"[prob. fr. techspeak manual + granularity] A notional measure of the "
+"manual labor required for some task, particularly one of the sort that "
+"automation is supposed to eliminate. \"Composing English on paper has "
+"much higher manularity than using a text editor, especially in the "
+"revising stage.\" Hackers tend to consider manularity a symptom of "
+"primitive methods; in fact, a true hacker confronted with an apparent "
+"requirement to do a computing task :ref:`by-hand` will inevitably seize "
+"the opportunity to build another tool (see :ref:`toolsmith`\\)."
+msgstr ""
+

@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/baud.rst:5
+msgid "baud"
+msgstr ""
+
+#: ../../B/baud.rst:7
+msgid "/bawd/, n\\."
+msgstr ""
+
+#: ../../B/baud.rst:9
+msgid ""
+"[simplified from its technical meaning] n. Bits per second. Hence "
+"kilobaud or Kbaud, thousands of bits per second. The technical meaning is"
+" level transitions per second; this coincides with bps only for two-level"
+" modulation with no framing or stop bits. Most hackers are aware of these"
+" nuances but blithely ignore them."
+msgstr ""
+
+#: ../../B/baud.rst:14
+msgid ""
+"Historical note: baud was originally a unit of telegraph signalling "
+"speed, set at one pulse per second. It was proposed at the November, 1926"
+" conference of the Comité Consultatif International Des Communications "
+"Télégraphiques as an improvement on the then standard practice of "
+"referring to line speeds in terms of words per minute, and named for Jean"
+" Maurice Emile Baudot (1845-1903), a French engineer who did a lot of "
+"pioneering work in early teleprinters."
+msgstr ""
+

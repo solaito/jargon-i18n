@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/leaf-site.rst:5
+msgid "leaf site"
+msgstr ""
+
+#: ../../L/leaf-site.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../L/leaf-site.rst:9
+msgid ""
+"[obs.] Before pervasive TCP/IP, this term was used of a machine that "
+"merely originated and read Usenet news or mail, and did not relay any "
+"third-party traffic. It was often uttered in a critical tone; when the "
+"ratio of leaf sites to backbone, rib, and other relay sites got too high,"
+" the network tended to develop bottlenecks. Compare :ref:`backbone-"
+"site`\\. Now that traffic patterns depend more on the distribution of "
+"routers than of host machines this term has largely fallen out of use."
+msgstr ""
+

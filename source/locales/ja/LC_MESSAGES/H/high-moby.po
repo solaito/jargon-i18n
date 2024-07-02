@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/high-moby.rst:5
+msgid "high moby"
+msgstr ""
+
+#: ../../H/high-moby.rst:7
+msgid "/hi:´ mohb´ee/, n\\."
+msgstr ""
+
+#: ../../H/high-moby.rst:9
+msgid ""
+"The high half of a 512K :ref:`PDP-10`\\'s physical address space; the "
+"other half was of course the low moby. This usage has been generalized in"
+" a way that has outlasted the :ref:`PDP-10`\\; for example, at the 1990 "
+"Washington D.C. Area Science Fiction Conclave (Disclave), when a "
+"miscommunication resulted in two separate wakes being held in "
+"commemoration of the shutdown of MIT's last :ref:`ITS` machines, the one "
+"on the upper floor was dubbed the ‘high moby’ and the other the ‘low "
+"moby’. All parties involved :ref:`grok`\\ked this instantly. See "
+":ref:`moby`\\."
+msgstr ""
+

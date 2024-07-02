@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/scram-switch.rst:5
+msgid "scram switch"
+msgstr ""
+
+#: ../../S/scram-switch.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/scram-switch.rst:9
+msgid ""
+"[from the nuclear power industry] An emergency-power-off switch (see :ref"
+":`Big-Red-Switch`\\), esp. one positioned to be easily hit by evacuating "
+"personnel. In general, this is *not* something you :ref:`frob` lightly; "
+"these often initiate expensive events (such as Halon dumps) and are "
+"installed in a :ref:`dinosaur-pen` for use in case of electrical fire or "
+"in case some luckless :ref:`field-servoid` should put 120 volts across "
+"himself while :ref:`Easter-egging`\\. (See also :ref:`molly-guard`\\, "
+":ref:`TMRC`\\.)"
+msgstr ""
+
+#: ../../S/scram-switch.rst:14
+msgid ""
+"\"Scram\" was in origin a backronym for \"Safety Cut Rope Axe Man\" "
+"coined by Enrico Fermi himself. The story goes that in the earliest "
+"nuclear power experiments the engineers recognized the possibility that "
+"the reactor wouldn't behave exactly as predicted by their mathematical "
+"models. Accordingly, they made sure that they had mechanisms in place "
+"that would rapidly drop the control rods back into the reactor. One "
+"mechanism took the form of ‘scram technicians’. These individuals stood "
+"next to the ropes or cables that raised and lowered the control rods. "
+"Equipped with axes or cable-cutters, these technicians stood ready for "
+"the (literal) ‘scram’ command. If necessary, they would cut the cables, "
+"and gravity would expeditiously return the control rods to the reactor, "
+"thereby averting yet another kind of :ref:`core-dump`\\."
+msgstr ""
+
+#: ../../S/scram-switch.rst:22
+msgid ""
+"Modern reactor control rods are held in place with claw-like devices, "
+"held closed by current. SCRAM switches are circuit breakers that "
+"immediately open the circuit to the rod arms, resulting in the rapid "
+"insertion and subsequent bottoming of the control rods."
+msgstr ""
+

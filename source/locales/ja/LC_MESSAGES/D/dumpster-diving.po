@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/dumpster-diving.rst:5
+msgid "dumpster diving"
+msgstr ""
+
+#: ../../D/dumpster-diving.rst:7
+msgid "/dump'·ster di:´·ving/, n\\."
+msgstr ""
+
+#: ../../D/dumpster-diving.rst:10
+msgid ""
+"The practice of sifting refuse from an office or technical installation "
+"to extract confidential data, especially security-compromising "
+"information (‘dumpster’ is an Americanism for what is elsewhere called a "
+"skip). Back in AT&T's monopoly days, before paper shredders became common"
+" office equipment, phone phreaks (see :ref:`phreaking`\\) used to "
+"organize regular dumpster runs against phone company plants and offices. "
+"Discarded and damaged copies of AT&T internal manuals taught them much. "
+"The technique is still rumored to be a favorite of crackers operating "
+"against careless targets."
+msgstr ""
+
+#: ../../D/dumpster-diving.rst:16
+msgid ""
+"The practice of raiding the dumpsters behind buildings where producers "
+"and/or consumers of high-tech equipment are located, with the expectation"
+" (usually justified) of finding discarded but still-valuable equipment to"
+" be nursed back to health in some hacker's den. Experienced dumpster-"
+"divers not infrequently accumulate basements full of moldering (but still"
+" potentially useful) :ref:`cruft`\\."
+msgstr ""
+

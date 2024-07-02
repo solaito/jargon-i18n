@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/elephantine.rst:5
+msgid "elephantine"
+msgstr ""
+
+#: ../../E/elephantine.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../E/elephantine.rst:9
+msgid ""
+"Used of programs or systems that are both conspicuous :ref:`hog`\\s "
+"(owing perhaps to poor design founded on :ref:`brute-force-and-"
+"ignorance`\\) and exceedingly :ref:`hairy` in source form. An elephantine"
+" program may be functional and even friendly, but (as in the old joke "
+"about being in bed with an elephant) it's tough to have around all the "
+"same (and, like a pachyderm, difficult to maintain). In extreme cases, "
+"hackers have been known to make trumpeting sounds or perform expressive "
+"proboscatory mime at the mention of the offending program. Usage: semi-"
+"humorous. Compare ‘has the elephant nature’ and the somewhat more "
+"pejorative :ref:`monstrosity`\\. See also :ref:`second-system-effect` and"
+" :ref:`baroque`\\."
+msgstr ""
+

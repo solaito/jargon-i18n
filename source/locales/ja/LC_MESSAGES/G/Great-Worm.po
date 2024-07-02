@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/Great-Worm.rst:5
+msgid "Great Worm"
+msgstr ""
+
+#: ../../G/Great-Worm.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../G/Great-Worm.rst:9
+msgid ""
+"The 1988 Internet :ref:`worm` perpetrated by :ref:`RTM`\\. This is a play"
+" on Tolkien (compare :ref:`elvish`\\, :ref:`elder-days`\\). In the "
+"fantasy history of his Middle Earth books, there were dragons powerful "
+"enough to lay waste to entire regions; two of these (Scatha and Glaurung)"
+" were known as \"the Great Worms\". This usage expresses the connotation "
+"that the RTM crack was a sort of devastating watershed event in hacker "
+"history; certainly it did more to make non-hackers nervous about the "
+"Internet than anything before or since."
+msgstr ""
+

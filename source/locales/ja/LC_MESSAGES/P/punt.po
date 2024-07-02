@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/punt.rst:5
+msgid "punt"
+msgstr ""
+
+#: ../../P/punt.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../P/punt.rst:9
+msgid ""
+"[from the punch line of an old joke referring to American football: "
+"\"Drop back 15 yards and punt!\"]"
+msgstr ""
+
+#: ../../P/punt.rst:12
+msgid ""
+"To give up, typically without any intention of retrying. \"Let's punt the"
+" movie tonight.\" \"I was going to hack all night to get this feature in,"
+" but I decided to punt\" may mean that you've decided not to stay up all "
+"night, and may also mean you're not ever even going to put in the "
+"feature."
+msgstr ""
+
+#: ../../P/punt.rst:17
+msgid ""
+"More specifically, to give up on figuring out what the :ref:`Right-Thing`"
+" is and resort to an inefficient hack."
+msgstr ""
+
+#: ../../P/punt.rst:20
+msgid ""
+"A design decision to defer solving a problem, typically because one "
+"cannot define what is desirable sufficiently well to frame an algorithmic"
+" solution. \"No way to know what the right form to dump the graph in is —"
+" we'll punt that for now.\""
+msgstr ""
+
+#: ../../P/punt.rst:24
+msgid ""
+"To hand a tricky implementation problem off to some other section of the "
+"design. \"It's too hard to get the compiler to do that; let's punt to the"
+" runtime system.\""
+msgstr ""
+
+#: ../../P/punt.rst:28
+msgid ""
+"To knock someone off an Internet or chat connection; a punter thus, is a "
+"person or program that does this."
+msgstr ""
+

@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/prettyprint.rst:5
+msgid "prettyprint"
+msgstr ""
+
+#: ../../P/prettyprint.rst:7
+msgid "/prit´ee·print/, v\\."
+msgstr ""
+
+#: ../../P/prettyprint.rst:9
+msgid "(alt. : pretty-print)"
+msgstr ""
+
+#: ../../P/prettyprint.rst:13
+msgid ""
+"To generate ‘pretty’ human-readable output from a :ref:`hairy` internal "
+"representation; esp. used for the process of :ref:`grind`\\ing (sense 1) "
+"program code, and most esp. for LISP code."
+msgstr ""
+
+#: ../../P/prettyprint.rst:18
+msgid "To format in some particularly slick and nontrivial way."
+msgstr ""
+

@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/WYSIAYG.rst:5
+msgid "WYSIAYG"
+msgstr ""
+
+#: ../../W/WYSIAYG.rst:7
+msgid "/wiz´ee·ayg/, adj\\."
+msgstr ""
+
+#: ../../W/WYSIAYG.rst:9
+msgid ""
+"Describes a user interface under which \"What You See Is All You Get\"; "
+"an unhappy variant of :ref:`WYSIWYG`\\. Visual, ‘point-and-shoot’-style "
+"interfaces tend to have easy initial learning curves, but also to lack "
+"depth; they often frustrate advanced users who would be better served by "
+"a command-style interface. When this happens, the frustrated user has a "
+"WYSIAYG problem. This term is most often used of editors, word "
+"processors, and document formatting programs. WYSIWYG ‘desktop "
+"publishing’ programs, for example, are a clear win for creating small "
+"documents with lots of fonts and graphics in them, especially things like"
+" newsletters and presentation slides. When typesetting book-length "
+"manuscripts, on the other hand, scale changes the nature of the task; one"
+" quickly runs into WYSIAYG limitations, and the increased power and "
+"flexibility of a command-driven formatter like :ref:`TeX` or Unix's "
+":ref:`troff` becomes not just desirable but a necessity. Compare "
+":ref:`YAFIYGI`\\."
+msgstr ""
+

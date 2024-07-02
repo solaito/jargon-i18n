@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/wedged.rst:5
+msgid "wedged"
+msgstr ""
+
+#: ../../W/wedged.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../W/wedged.rst:10
+msgid ""
+"To be stuck, incapable of proceeding without help. This is different from"
+" having crashed. If the system has crashed, it has become totally non-"
+"functioning. If the system is wedged, it is trying to do something but "
+"cannot make progress; it may be capable of doing a few things, but not be"
+" fully operational. For example, a process may become wedged if it "
+":ref:`deadlock`\\s with another (but not all instances of wedging are "
+"deadlocks). See also :ref:`gronk`\\, :ref:`locked-up`\\, :ref:`hosed`\\, "
+":ref:`hung` (wedged is more severe than :ref:`hung`\\)."
+msgstr ""
+
+#: ../../W/wedged.rst:18
+msgid ""
+"Often refers to humans suffering misconceptions. \"He's totally wedged — "
+"he's convinced that he can levitate through meditation.\""
+msgstr ""
+
+#: ../../W/wedged.rst:22
+msgid ""
+"[Unix] Specifically used to describe the state of a TTY left in a losing "
+"state by abort of a screen-oriented program or one that has messed with "
+"the line discipline in some obscure way."
+msgstr ""
+
+#: ../../W/wedged.rst:24
+msgid ""
+"There is some dispute over the origin of this term. It is usually thought"
+" to derive from a common description of recto-cranial inversion; however,"
+" it may actually have originated with older ‘hot-press’ printing "
+"technology in which physical type elements were locked into type frames "
+"with wedges driven in by mallets. Once this had been done, no changes in "
+"the typesetting for that page could be made."
+msgstr ""
+

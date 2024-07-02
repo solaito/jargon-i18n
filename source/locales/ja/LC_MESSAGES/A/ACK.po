@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/ACK.rst:5
+msgid "ACK"
+msgstr ""
+
+#: ../../A/ACK.rst:7
+msgid "/ak/, interj\\."
+msgstr ""
+
+#: ../../A/ACK.rst:10
+msgid ""
+"[common; from the ASCII mnemonic for 0000110] Acknowledge. Used to "
+"register one's presence (compare mainstream *Yo!*\\). An appropriate "
+"response to :ref:`ping` or :ref:`ENQ`\\."
+msgstr ""
+
+#: ../../A/ACK.rst:15
+msgid ""
+"[from the comic strip *Bloom County*\\] An exclamation of surprised "
+"disgust, esp. in \"Ack pffft!\" Semi-humorous. Generally this sense is "
+"not spelled in caps (ACK) and is distinguished by a following exclamation"
+" point."
+msgstr ""
+
+#: ../../A/ACK.rst:21
+msgid ""
+"Used to politely interrupt someone to tell them you understand their "
+"point (see :ref:`NAK`\\). Thus, for example, you might cut off an overly "
+"long explanation with \"Ack. Ack. Ack. I get it now\"."
+msgstr ""
+
+#: ../../A/ACK.rst:28
+msgid ""
+"An affirmative. \"Think we ought to ditch that damn NT server for a Linux"
+" box?\" \"ACK!\""
+msgstr ""
+
+#: ../../A/ACK.rst:32
+msgid ""
+"There is also a usage \"ACK?\" (from sense 1) meaning \"Are you there? "
+"\", often used in email when earlier mail has produced no reply, or "
+"during a lull in :ref:`talk-mode` to see if the person has gone away (the"
+" standard humorous response is of course :ref:`NAK`\\, i.e., \"I'm not "
+"here\")."
+msgstr ""
+

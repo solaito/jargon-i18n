@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hole.rst:5
+msgid "hole"
+msgstr ""
+
+#: ../../H/hole.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../H/hole.rst:9
+msgid ""
+"A region in an otherwise :ref:`flat` entity which is not actually "
+"present. For example, some Unix filesystems can store large files with "
+"holes so that unused regions of the file are never actually stored on "
+"disk. (In techspeak, these are referred to as ‘sparse’ files.) As another"
+" example, the region of memory in IBM PCs reserved for memory-mapped I/O "
+"devices which may not actually be present is called ‘the I/O hole’, since"
+" memory-management systems must skip over this area when filling user "
+"requests for memory."
+msgstr ""
+

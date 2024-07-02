@@ -1,0 +1,139 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/space-cadet-keyboard.rst:5
+msgid "space-cadet keyboard"
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:9
+msgid ""
+"A now-legendary device used on MIT LISP machines, which inspired several "
+"still-current jargon terms and influenced the design of :ref:`EMACS`\\. "
+"It was equipped with no fewer than *seven* shift keys: four keys for :ref"
+":`bucky-bits` (‘control’, ‘meta’, ‘hyper’, and ‘super’) and three regular"
+" shift keys, called ‘shift’, ‘top’, and ‘front’. Many keys had three "
+"symbols on them: a letter and a symbol on the top, and a Greek letter on "
+"the front. For example, the ‘L’ key had an ‘L’ and a two-way arrow on the"
+" top, and the Greek letter lambda on the front. By pressing this key with"
+" the right hand while playing an appropriate ‘chord’ with the left hand "
+"on the shift keys, you could get the following results:"
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:17
+msgid "L"
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:18
+msgid "lowercase l"
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:19
+msgid "shift-L"
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:20
+msgid "uppercase L"
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:21
+msgid "front-L"
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:22
+msgid "λ"
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:23
+msgid "front-shift-L"
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:24
+msgid "Λ"
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:25
+msgid "top-L"
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:26
+msgid "⇔ (front and shift are ignored)"
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:28
+msgid ""
+"And of course each of these might also be typed with any combination of "
+"the control, meta, hyper, and super keys. On this keyboard, you could "
+"type over 8000 different characters! This allowed the user to type very "
+"complicated mathematical text, and also to have thousands of single-"
+"character commands at his disposal. The keyboard of the Symbolics Lisp "
+"machine was a simplified version, lacking Top and Front keys, that could "
+"only send about 2000 characters."
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:33
+msgid ""
+"Many hackers were actually willing to memorize the command meanings of "
+"that many characters if it reduced typing time (this attitude obviously "
+"shaped the interface of EMACS). Other hackers, however, thought having "
+"that many bucky bits was overkill, and objected that such a keyboard can "
+"require three or four hands to operate. See :ref:`bucky-bits`\\, "
+":ref:`cokebottle`\\, :ref:`double-bucky`\\, :ref:`meta-bit`\\, :ref"
+":`quadruple-bucky`\\."
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:39
+msgid "Simplified Symbolics version of the space-cadet keyboard"
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:42
+msgid ""
+"(Some relatively bad photographs of the earlier, more elaborate version "
+"are `available on the Web.) "
+"<http://screenshots.sourceforge.net/misc/SpaceCadet.html>`_."
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:45
+msgid ""
+"Note: early versions of this entry incorrectly identified the space-cadet"
+" keyboard with the Knight keyboard. Though both were designed by Tom "
+"Knight, the latter term was properly applied only to a keyboard used for "
+"ITS on the PDP-10 and modeled on the Stanford keyboard (as described "
+"under :ref:`bucky-bits`\\). The true space-cadet keyboard evolved from "
+"the first Knight keyboard."
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:53
+msgid "An early  :ref:`space-cadet-keyboard`"
+msgstr ""
+
+#: ../../S/space-cadet-keyboard.rst:55
+msgid ""
+"(The next cartoon in the Crunchly saga is         "
+":ref:`73-05-20<crunchly73-05-20>`\\. The previous one is         "
+":ref:`73-05-18<crunchly73-05-18>`\\.)"
+msgstr ""
+

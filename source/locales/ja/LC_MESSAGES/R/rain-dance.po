@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/rain-dance.rst:5
+msgid "rain dance"
+msgstr ""
+
+#: ../../R/rain-dance.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../R/rain-dance.rst:10
+msgid ""
+"Any ceremonial action taken to correct a hardware problem, with the "
+"expectation that nothing will be accomplished. This especially applies to"
+" reseating printed circuit boards, reconnecting cables, etc. \"I can't "
+"boot up the machine. We'll have to wait for Greg to do his rain dance.\""
+msgstr ""
+
+#: ../../R/rain-dance.rst:16
+msgid ""
+"Any arcane sequence of actions performed with computers or software in "
+"order to achieve some goal; the term is usually restricted to rituals "
+"that include both an :ref:`incantation` or two and physical activity or "
+"motion. Compare :ref:`magic`\\, :ref:`voodoo-programming`\\, :ref:`black-"
+"art`\\, :ref:`cargo-cult-programming`\\, :ref:`wave-a-dead-chicken`\\; "
+"see also :ref:`casting-the-runes`\\."
+msgstr ""
+

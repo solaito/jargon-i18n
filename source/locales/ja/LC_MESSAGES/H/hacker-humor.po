@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hacker-humor.rst:5
+msgid "hacker humor"
+msgstr ""
+
+#: ../../H/hacker-humor.rst:7
+msgid ""
+"A distinctive style of shared intellectual humor found among hackers, "
+"having the following marked characteristics:"
+msgstr ""
+
+#: ../../H/hacker-humor.rst:10
+msgid ""
+"Fascination with form-vs.-content jokes, paradoxes, and humor having to "
+"do with confusion of metalevels (see :ref:`meta`\\). One way to make a "
+"hacker laugh: hold a red index card in front of him/her with \"GREEN\" "
+"written on it, or vice-versa (note, however, that this is funny only the "
+"first time)."
+msgstr ""
+
+#: ../../H/hacker-humor.rst:14
+msgid ""
+"Elaborate deadpan parodies of large intellectual constructs, such as "
+"specifications (see :ref:`write-only-memory`\\), standards documents, "
+"language descriptions (see :ref:`INTERCAL`\\), and even entire scientific"
+" theories (see :ref:`quantum-bogodynamics`\\, :ref:`computron`\\)."
+msgstr ""
+
+#: ../../H/hacker-humor.rst:17
+msgid ""
+"Jokes that involve screwily precise reasoning from bizarre, ludicrous, or"
+" just grossly counter-intuitive premises."
+msgstr ""
+
+#: ../../H/hacker-humor.rst:20
+msgid "Fascination with puns and wordplay."
+msgstr ""
+
+#: ../../H/hacker-humor.rst:23
+msgid ""
+"A fondness for apparently mindless humor with subversive currents of "
+"intelligence in it — for example, old Warner Brothers and Rocky & "
+"Bullwinkle cartoons, the Marx brothers, the early B-52s, and Monty "
+"Python's Flying Circus. Humor that combines this trait with elements of "
+"high camp and slapstick is especially favored."
+msgstr ""
+
+#: ../../H/hacker-humor.rst:27
+msgid ""
+"References to the symbol-object antinomies and associated ideas in Zen "
+"Buddhism and (less often) Taoism. See :ref:`has-the-X-nature`\\, "
+":ref:`Discordianism`\\, :ref:`zen`\\, :ref:`ha-ha-only-serious`\\, "
+":ref:`koan`\\."
+msgstr ""
+
+#: ../../H/hacker-humor.rst:30
+msgid ""
+"See also :ref:`filk`\\, :ref:`retrocomputing`\\, and the Portrait of J. "
+"Random Hacker in :ref:`Appendix B<appendixb>`\\. If you have an itchy "
+"feeling that all six of these traits are really aspects of one thing that"
+" is incredibly difficult to talk about exactly, you are (a) correct and "
+"(b) responding like a hacker. These traits are also recognizable (though "
+"in a less marked form) throughout :ref:`science-fiction-fandom`\\."
+msgstr ""
+

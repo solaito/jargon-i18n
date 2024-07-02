@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/English.rst:5
+msgid "English"
+msgstr ""
+
+#: ../../E/English.rst:7
+msgid ""
+"n\\. obs. The source code for a program, which may be in any language, as"
+" opposed to the linkable or executable binary produced from it by a "
+"compiler. The idea behind the term is that to a real hacker, a program "
+"written in his favorite programming language is at least as readable as "
+"English. Usage: mostly by old-time hackers, though recognizable in "
+"context. Today the preferred shorthand is simply :ref:`source`\\."
+msgstr ""
+
+#: ../../E/English.rst:15
+msgid ""
+"The official name of the database language used by the old Pick Operating"
+" System, actually a sort of crufty, brain-damaged SQL with delusions of "
+"grandeur. The name permitted :ref:`marketroid`\\s to say \"Yes, and you "
+"can program our computers in English!\" to ignorant :ref:`suit`\\s "
+"without quite running afoul of the truth-in-advertising laws."
+msgstr ""
+

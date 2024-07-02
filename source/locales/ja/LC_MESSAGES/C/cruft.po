@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/cruft.rst:5
+msgid "cruft"
+msgstr ""
+
+#: ../../C/cruft.rst:7
+msgid "/kruhft/"
+msgstr ""
+
+#: ../../C/cruft.rst:9
+msgid "[very common; back-formation from :ref:`crufty`\\]"
+msgstr ""
+
+#: ../../C/cruft.rst:11
+msgid ""
+"n\\. An unpleasant substance. The dust that gathers under your bed is "
+"cruft; the TMRC Dictionary correctly noted that attacking it with a broom"
+" only produces more."
+msgstr ""
+
+#: ../../C/cruft.rst:15
+msgid "n\\. The results of shoddy construction."
+msgstr ""
+
+#: ../../C/cruft.rst:18
+msgid ""
+"vt\\. [from hand cruft, pun on ‘hand craft’] To write assembler code for "
+"something normally (and better) done by a compiler (see :ref:`hand-"
+"hacking`\\)."
+msgstr ""
+
+#: ../../C/cruft.rst:21
+msgid "n\\. Excess; superfluous junk; used esp. of redundant or superseded code."
+msgstr ""
+
+#: ../../C/cruft.rst:26
+msgid ""
+"[University of Wisconsin] n. Cruft is to hackers as gaggle is to geese; "
+"that is, at UW one properly says \"a cruft of hackers\"."
+msgstr ""
+

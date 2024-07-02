@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/great-wall.rst:5
+msgid "great-wall"
+msgstr ""
+
+#: ../../G/great-wall.rst:7
+msgid "vi\\.,n\\."
+msgstr ""
+
+#: ../../G/great-wall.rst:9
+msgid ""
+"[from SF fandom] A mass expedition to an oriental restaurant, esp. one "
+"where food is served family-style and shared. There is a common heuristic"
+" about the amount of food to order, expressed as \"Get ``N - 1`` "
+"entrees\"; the value of ``N``\\, which is the number of people in the "
+"group, can be inferred from context (see :ref:`N`\\). See :ref:`oriental-"
+"food`\\, :ref:`ravs`\\, :ref:`stir-fried-random`\\."
+msgstr ""
+

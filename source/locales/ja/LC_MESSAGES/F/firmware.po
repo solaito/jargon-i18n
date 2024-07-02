@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/firmware.rst:5
+msgid "firmware"
+msgstr ""
+
+#: ../../F/firmware.rst:7
+msgid "/ferm´weir/, n\\."
+msgstr ""
+
+#: ../../F/firmware.rst:9
+msgid ""
+"Embedded software contained in EPROM or flash memory. It isn't quite "
+"hardware, but at least doesn't have to be loaded from a disk like regular"
+" software. Hacker usage differs from straight techspeak in that hackers "
+"don't normally apply it to stuff that you can't possibly get at, such as "
+"the program that runs a pocket calculator. Instead, it implies that the "
+"firmware could be changed, even if doing so would mean opening a box and "
+"plugging in a new chip. A computer's BIOS is the classic example, "
+"although nowadays there is firmware in disk controllers, modems, video "
+"cards and even CD-ROM drives."
+msgstr ""
+

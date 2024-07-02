@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/snail-mail.rst:5
+msgid "snail-mail"
+msgstr ""
+
+#: ../../S/snail-mail.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/snail-mail.rst:9
+msgid ""
+"Paper mail, as opposed to electronic. Sometimes written as the single "
+"word ‘SnailMail’. One's postal address is, correspondingly, a snail "
+"address. Derives from earlier coinage ‘USnail’ (from ‘U.S. Mail’), for "
+"which there have even been parody posters and stamps made. Also (less "
+"commonly) called P-mail, from ‘paper mail’ or ‘physical mail’. Oppose "
+":ref:`email`\\."
+msgstr ""
+
+#: ../../S/snail-mail.rst:17
+msgid ""
+"(Note: Actual garden snails progress at about 10 meters per hour, which "
+"is about 25-50 times slower than the U.K.'s Royal Mail; comparable "
+"measurements for other countries have not yet been made. More "
+"biologically apt terms might be \"sloth-mail\" at 250 m/hr or \"tortoise-"
+"mail\" at 270 m/hr. See "
+"`http://www.newscientist.com/lastword/answers/789communication.jsp?tp=communication"
+" "
+"<http://www.newscientist.com/lastword/answers/789communication.jsp?tp=communication>`_\\"
+"  for details.)"
+msgstr ""
+

@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/frobnitz.rst:5
+msgid "frobnitz"
+msgstr ""
+
+#: ../../F/frobnitz.rst:7
+msgid "/frob´nits/, pl\\., frobnitzem, /frob´nit·zm/, frob­ni, /frob'­ni:/, n\\."
+msgstr ""
+
+#: ../../F/frobnitz.rst:9
+#, python-format
+msgid ""
+"[TMRC] An unspecified physical object, a widget. Also refers to "
+"electronic black boxes. This rare form is usually abbreviated to frotz, "
+"or more commonly to :ref:`frob`\\. Also used are frobnule "
+"(/frob´n[y]ool/) and frobule (/frob´yool/). Starting perhaps in 1979, "
+"frobozz /fr\\@-boz´/ (plural: frobbotzim /fr\\@-bot´zm/) has also become "
+"very popular, largely through its exposure as a name via :ref:`Zork`\\. "
+"These variants can also be applied to nonphysical objects, such as data "
+"structures. For related amusement, see the `Encyclopedia Frobozzica "
+"<http://www.everything2.com/index.pl?node=Encyclopedia%20Frobozzica"
+"&lastnode-id=585787>`_."
+msgstr ""
+
+#: ../../F/frobnitz.rst:17
+msgid ""
+"Pete Samson, compiler of the original :ref:`TMRC` lexicon, adds, \"Under "
+"the TMRC [railroad] layout were many storage boxes, managed (in 1958) by "
+"David R. Sawyer. Several had fanciful designations written on them, such "
+"as ‘Frobnitz Coil Oil’. Perhaps DRS intended Frobnitz to be a proper "
+"name, but the name was quickly taken for the thing\". This was almost "
+"certainly the origin of the term."
+msgstr ""
+

@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/speedometer.rst:5
+msgid "speedometer"
+msgstr ""
+
+#: ../../S/speedometer.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/speedometer.rst:9
+msgid ""
+"A pattern of lights displayed on a linear set of LEDs (today) or nixie "
+"tubes (yesterday, on ancient mainframes). The pattern is shifted left "
+"every ``N`` times the operating system goes through its :ref:`main-"
+"loop`\\. A swiftly moving pattern indicates that the system is mostly "
+"idle; the speedometer slows down as the system becomes overloaded. The "
+"speedometer on Sun Microsystems hardware bounces back and forth like the "
+"eyes on one of the Cylons from the wretched *Battlestar Galactica* TV "
+"series."
+msgstr ""
+
+#: ../../S/speedometer.rst:14
+msgid ""
+"Historical note: One computer, the GE 600 (later Honeywell 6000) actually"
+" had an *analog* speedometer on the front panel, calibrated in "
+"instructions executed per second."
+msgstr ""
+

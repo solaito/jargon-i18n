@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/drop-outs.rst:5
+msgid "drop-outs"
+msgstr ""
+
+#: ../../D/drop-outs.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/drop-outs.rst:10
+msgid ""
+"A variety of power glitch (see :ref:`glitch`\\); momentary 0 voltage on "
+"the electrical mains."
+msgstr ""
+
+#: ../../D/drop-outs.rst:13
+msgid ""
+"Missing characters in typed input due to software malfunction or system "
+"saturation (one cause of such behavior under Unix when a bad connection "
+"to a modem swamps the processor with spurious character interrupts; see "
+":ref:`screaming-tty`\\)."
+msgstr ""
+
+#: ../../D/drop-outs.rst:16
+msgid ""
+"Mental glitches; used as a way of describing those occasions when the "
+"mind just seems to shut down for a couple of beats. See :ref:`glitch`\\, "
+":ref:`fried`\\."
+msgstr ""
+
+#: ../../D/drop-outs.rst:23
+msgid "A really serious case of  :ref:`drop-outs`\\."
+msgstr ""
+
+#: ../../D/drop-outs.rst:25
+msgid ""
+"(The next cartoon in the Crunchly saga is  "
+":ref:`73-05-21<crunchly73-05-21>`\\.  The previous one is  "
+":ref:`73-05-19<crunchly73-05-19>`\\.)"
+msgstr ""
+

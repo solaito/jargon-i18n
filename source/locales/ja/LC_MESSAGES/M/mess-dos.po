@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/mess-dos.rst:5
+msgid "mess-dos"
+msgstr ""
+
+#: ../../M/mess-dos.rst:7
+msgid "/mes·dos/, n\\."
+msgstr ""
+
+#: ../../M/mess-dos.rst:9
+msgid ""
+"[semi-obsolescent now that DOS is] Derisory term for MS-DOS. Often "
+"followed by the ritual banishing \"Just say No!\" See :ref:`MS-DOS`\\. "
+"Most hackers (even many MS-DOS hackers) loathed MS-DOS for its single-"
+"tasking nature, its limits on application size, its nasty primitive "
+"interface, and its ties to IBMness and Microsoftness (see :ref:`fear-and-"
+"loathing`\\). Also mess-loss, messy-dos, mess-dog, mess-dross, mush-dos, "
+"and various combinations thereof. In Ireland and the U.K. it is even "
+"sometimes called ‘Domestos’ after a brand of toilet cleanser."
+msgstr ""
+

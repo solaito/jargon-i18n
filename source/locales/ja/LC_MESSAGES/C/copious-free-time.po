@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/copious-free-time.rst:5
+msgid "copious free time"
+msgstr ""
+
+#: ../../C/copious-free-time.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/copious-free-time.rst:9
+msgid ""
+"[Apple; orig. fr. the intro to Tom Lehrer's song *It Makes A Fellow Proud"
+" To Be A Soldier*\\]"
+msgstr ""
+
+#: ../../C/copious-free-time.rst:14
+msgid ""
+"[used ironically to indicate the speaker's lack of the quantity in "
+"question] A mythical schedule slot for accomplishing tasks held to be "
+"unlikely or impossible. Sometimes used to indicate that the speaker is "
+"interested in accomplishing the task, but believes that the opportunity "
+"will not arise. \"I'll implement the automatic layout stuff in my copious"
+" free time.\""
+msgstr ""
+
+#: ../../C/copious-free-time.rst:19
+msgid ""
+"[Archly] Time reserved for bogus or otherwise idiotic tasks, such as "
+"implementation of :ref:`chrome`\\, or the stroking of :ref:`suit`\\s. "
+"\"I'll get back to him on that feature in my copious free time.\""
+msgstr ""
+

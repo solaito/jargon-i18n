@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/can-t-happen.rst:5
+msgid "can't happen"
+msgstr ""
+
+#: ../../C/can-t-happen.rst:7
+msgid ""
+"The traditional program comment for code executed under a condition that "
+"should never be true, for example a file size computed as negative. "
+"Often, such a condition being true indicates data corruption or a faulty "
+"algorithm; it is almost always handled by emitting a fatal error message "
+"and terminating or crashing, since there is little else that can be done."
+" Some case variant of \"can't happen\" is also often the text emitted if "
+"the ‘impossible’ error actually happens! Although \"can't happen\" events"
+" are genuinely infrequent in production code, programmers wise enough to "
+"check for them habitually are often surprised at how frequently they are "
+"triggered during development and how many headaches checking for them "
+"turns out to head off. See also :ref:`firewall-code` (sense 2)."
+msgstr ""
+

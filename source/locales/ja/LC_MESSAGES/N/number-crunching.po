@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/number-crunching.rst:5
+msgid "number-crunching"
+msgstr ""
+
+#: ../../N/number-crunching.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../N/number-crunching.rst:9
+msgid ""
+"[common] Computations of a numerical nature, esp. those that make "
+"extensive use of floating-point numbers. The only thing :ref:`Fortrash` "
+"is good for. This term is in widespread informal use outside hackerdom "
+"and even in mainstream slang, but has additional hackish connotations: "
+"namely, that the computations are mindless and involve massive use of "
+":ref:`brute-force`\\. This is not always :ref:`evil`\\, esp. if it "
+"involves ray tracing or fractals or some other use that makes :ref"
+":`pretty-pictures`\\, esp. if such pictures can be used as screen "
+"backgrounds. See also :ref:`crunch`\\."
+msgstr ""
+
+#: ../../N/number-crunching.rst:22
+msgid "Hydrodynamic  :ref:`number-crunching`\\."
+msgstr ""
+
+#: ../../N/number-crunching.rst:24
+msgid ""
+"(The next cartoon in the Crunchly saga is         "
+":ref:`74-12-29<crunchly74-12-29>`\\.  The previous        cartoon was  "
+":ref:`74-08-18<crunchly74-08-18>`\\.)"
+msgstr ""
+

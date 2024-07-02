@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/ABEND.rst:5
+msgid "ABEND"
+msgstr ""
+
+#: ../../A/ABEND.rst:7
+msgid "/a´bend/, /\\@·bend´/, n\\."
+msgstr ""
+
+#: ../../A/ABEND.rst:9
+msgid "[ABnormal END]"
+msgstr ""
+
+#: ../../A/ABEND.rst:12
+msgid ""
+"Abnormal termination (of software); :ref:`crash`\\; :ref:`lossage`\\. "
+"Derives from an error message on the IBM 360; used jokingly by hackers "
+"but seriously mainly by :ref:`code-grinder`\\s. Usually capitalized, but "
+"may appear as ‘abend’. Hackers will try to persuade you that ABEND is "
+"called abend because it is what system operators do to the machine late "
+"on Friday when they want to call it a day, and hence is from the German "
+"*Abend* = ‘Evening’."
+msgstr ""
+
+#: ../../A/ABEND.rst:18
+msgid ""
+"[ :samp:`alt.callahans`\\] Absent By Enforced Net Deprivation — used in "
+"the subject lines of postings warning friends of an imminent loss of "
+"Internet access. (This can be because of computer downtime, loss of "
+"provider, moving or illness.) Variants of this also appear: ABVND = "
+"‘Absent By Voluntary Net Deprivation’ and ABSEND = ‘Absent By Self-"
+"Enforced Net Deprivation’ have been sighted."
+msgstr ""
+

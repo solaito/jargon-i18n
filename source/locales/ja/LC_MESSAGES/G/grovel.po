@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/grovel.rst:5
+msgid "grovel"
+msgstr ""
+
+#: ../../G/grovel.rst:7
+msgid "vi\\."
+msgstr ""
+
+#: ../../G/grovel.rst:10
+msgid ""
+"To work interminably and without apparent progress. Often used "
+"transitively with ‘over’ or ‘through’. \"The file scavenger has been "
+"groveling through the /usr directories for 10 minutes now.\" Compare "
+":ref:`grind` and :ref:`crunch`\\. Emphatic form: grovel obscenely."
+msgstr ""
+
+#: ../../G/grovel.rst:17
+msgid ""
+"To examine minutely or in complete detail. \"The compiler grovels over "
+"the entire source program before beginning to translate it.\" \"I "
+"grovelled through all the documentation, but I still couldn't find the "
+"command I wanted.\""
+msgstr ""
+

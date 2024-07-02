@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/cyberpunk.rst:5
+msgid "cyberpunk"
+msgstr ""
+
+#: ../../C/cyberpunk.rst:7
+msgid "/si:´ber·puhnk/, n\\.,adj\\."
+msgstr ""
+
+#: ../../C/cyberpunk.rst:9
+msgid ""
+"[orig. by SF writer Bruce Bethke and/or editor Gardner Dozois] A subgenre"
+" of SF launched in 1982 by William Gibson's epoch-making novel "
+"*Neuromancer* (though its roots go back through Vernor Vinge's *True "
+"Names* (see the :ref:`Bibliography<bibliography>` in Appendix C) to John "
+"Brunner's 1975 novel *The Shockwave Rider*\\). Gibson's near-total "
+"ignorance of computers and the present-day hacker culture enabled him to "
+"speculate about the role of computers and hackers in the future in ways "
+"hackers have since found both irritatingly naïve and tremendously "
+"stimulating. Gibson's work was widely imitated, in particular by the "
+"short-lived but innovative *Max Headroom* TV series. See "
+":ref:`cyberspace`\\, :ref:`ice`\\, :ref:`jack-in`\\, :ref:`go-"
+"flatline`\\."
+msgstr ""
+
+#: ../../C/cyberpunk.rst:15
+msgid ""
+"Since 1990 or so, popular culture has included a movement or fashion "
+"trend that calls itself ‘cyberpunk’, associated especially with the "
+"rave/techno subculture. Hackers have mixed feelings about this. On the "
+"one hand, self-described cyberpunks too often seem to be shallow "
+"trendoids in black leather who have substituted enthusiastic blathering "
+"about technology for actually learning and *doing* it. Attitude is no "
+"substitute for competence. On the other hand, at least cyberpunks are "
+"excited about the right things and properly respectful of hacking talent "
+"in those who have it. The general consensus is to tolerate them politely "
+"in hopes that they'll attract people who grow into being true hackers."
+msgstr ""
+

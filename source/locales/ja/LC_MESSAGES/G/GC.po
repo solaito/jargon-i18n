@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/GC.rst:5
+msgid "GC"
+msgstr ""
+
+#: ../../G/GC.rst:7
+msgid "/G·C/"
+msgstr ""
+
+#: ../../G/GC.rst:9
+msgid "[from LISP terminology; Garbage Collect]"
+msgstr ""
+
+#: ../../G/GC.rst:11
+msgid ""
+"vt\\. To clean up and throw away useless things. \"I think I'll GC the "
+"top of my desk today.\""
+msgstr ""
+
+#: ../../G/GC.rst:15
+msgid "vt\\. To recycle, reclaim, or put to another use."
+msgstr ""
+
+#: ../../G/GC.rst:18
+msgid "n\\. An instantiation of the garbage collector process."
+msgstr ""
+
+#: ../../G/GC.rst:21
+msgid ""
+"Garbage collection is computer-science techspeak for a particular class "
+"of strategies for dynamically but transparently reallocating computer "
+"memory (i.e., without requiring explicit allocation and deallocation by "
+"higher-level software). One such strategy involves periodically scanning "
+"all the data in memory and determining what is no longer accessible; "
+"useless data items are then discarded so that the memory they occupy can "
+"be recycled and used for another purpose. Implementations of the LISP "
+"language usually use garbage collection."
+msgstr ""
+
+#: ../../G/GC.rst:25
+msgid ""
+"In jargon, the full phrase is sometimes heard but the :ref:`abbrev` GC is"
+" more frequently used because it is shorter. Note that there is an "
+"ambiguity in usage that has to be resolved by context: \"I'm going to "
+"garbage-collect my desk\" usually means to clean out the drawers, but it "
+"could also mean to throw away or recycle the desk itself."
+msgstr ""
+

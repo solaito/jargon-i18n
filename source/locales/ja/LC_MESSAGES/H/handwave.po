@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/handwave.rst:5
+msgid "handwave"
+msgstr ""
+
+#: ../../H/handwave.rst:7
+msgid "/hand´wayv/"
+msgstr ""
+
+#: ../../H/handwave.rst:9
+msgid "[poss. from gestures characteristic of stage magicians]"
+msgstr ""
+
+#: ../../H/handwave.rst:12
+msgid ""
+"v\\. To gloss over a complex point; to distract a listener; to support a "
+"(possibly actually valid) point with blatantly faulty logic."
+msgstr ""
+
+#: ../../H/handwave.rst:15
+msgid "n\\. The act of handwaving. \"Boy, what a handwave!\""
+msgstr ""
+
+#: ../../H/handwave.rst:19
+msgid ""
+"If someone starts a sentence with \"Clearly...\" or \"Obviously...\" or "
+"\"It is self-evident that...\", it is a good bet he is about to handwave "
+"(alternatively, use of these constructions in a sarcastic tone before a "
+"paraphrase of someone else's argument suggests that it is a handwave). "
+"The theory behind this term is that if you wave your hands at the right "
+"moment, the listener may be sufficiently distracted to not notice that "
+"what you have said is :ref:`bogus`\\. Failing that, if a listener does "
+"object, you might try to dismiss the objection with a wave of your hand."
+msgstr ""
+
+#: ../../H/handwave.rst:23
+msgid ""
+"The use of this word is often accompanied by gestures: both hands up, "
+"palms forward, swinging the hands in a vertical plane pivoting at the "
+"elbows and/or shoulders (depending on the magnitude of the handwave); "
+"alternatively, holding the forearms in one position while rotating the "
+"hands at the wrist to make them flutter. In context, the gestures alone "
+"can suffice as a remark; if a speaker makes an outrageously unsupported "
+"assumption, you might simply wave your hands in this way, as an "
+"accusation, far more eloquent than words could express, that his logic is"
+" faulty."
+msgstr ""
+

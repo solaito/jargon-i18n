@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/toaster.rst:5
+msgid "toaster"
+msgstr ""
+
+#: ../../T/toaster.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/toaster.rst:10
+msgid ""
+"The archetypal really stupid application for an embedded microprocessor "
+"controller; often used in comments that imply that a scheme is "
+"inappropriate technology (but see :ref:`elevator-controller`\\). \" "
+":ref:`DWIM` for an assembler? That'd be as silly as running Unix on your "
+"toaster!\""
+msgstr ""
+
+#: ../../T/toaster.rst:15
+msgid ""
+"A very, very dumb computer. \"You could run this program on any dumb "
+"toaster.\" See :ref:`bitty-box`\\, :ref:`Get-a-real-computer-`\\, "
+":ref:`toy`\\, :ref:`beige-toaster`\\."
+msgstr ""
+
+#: ../../T/toaster.rst:20
+msgid ""
+"A Macintosh, esp. a Mac in the original unitary case. Some hold that this"
+" is implied by sense 2."
+msgstr ""
+
+#: ../../T/toaster.rst:25
+msgid ""
+"A peripheral device. \"I bought my box without toasters, but since then "
+"I've added two boards and a second disk drive.\""
+msgstr ""
+
+#: ../../T/toaster.rst:29
+msgid ""
+"A specialized computer used as an appliance. See :ref:`web-toaster`\\, "
+":ref:`video-toaster`\\."
+msgstr ""
+

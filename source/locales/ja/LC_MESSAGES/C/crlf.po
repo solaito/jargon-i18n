@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/crlf.rst:5
+msgid "crlf"
+msgstr ""
+
+#: ../../C/crlf.rst:7
+msgid "/ker´l\\@f/, /kru´l\\@f/, /C·R·L·F/, n\\."
+msgstr ""
+
+#: ../../C/crlf.rst:9
+msgid ""
+"(often capitalized as ‘CRLF’) A carriage return (CR, ASCII 0001101) "
+"followed by a line feed (LF, ASCII 0001010). More loosely, whatever it "
+"takes to get you from the end of one line of text to the beginning of the"
+" next line. See :ref:`newline`\\. Under :ref:`Unix` influence this usage "
+"has become less common (Unix uses a bare line feed as its ‘CRLF’)."
+msgstr ""
+

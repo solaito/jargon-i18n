@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/wall-time.rst:5
+msgid "wall time"
+msgstr ""
+
+#: ../../W/wall-time.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../W/wall-time.rst:9
+msgid "(also wall clock time)"
+msgstr ""
+
+#: ../../W/wall-time.rst:12
+msgid ""
+"‘Real world’ time (what the clock on the wall shows), as opposed to the "
+"system clock's idea of time."
+msgstr ""
+
+#: ../../W/wall-time.rst:15
+msgid ""
+"The real running time of a program, as opposed to the number of "
+":ref:`tick`\\s required to execute it (on a timesharing system these "
+"always differ, as no one program gets all the ticks, and on "
+"multiprocessor systems with good thread support one may get more "
+"processor time than real time)."
+msgstr ""
+

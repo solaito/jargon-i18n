@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/DWIM.rst:5
+msgid "DWIM"
+msgstr ""
+
+#: ../../D/DWIM.rst:7
+msgid "/dwim/"
+msgstr ""
+
+#: ../../D/DWIM.rst:9
+msgid "[acronym, ‘Do What I Mean’]"
+msgstr ""
+
+#: ../../D/DWIM.rst:11
+msgid ""
+"adj. Able to guess, sometimes even correctly, the result intended when "
+"bogus input was provided."
+msgstr ""
+
+#: ../../D/DWIM.rst:14
+msgid ""
+"n\\. obs. The BBNLISP/INTERLISP function that attempted to accomplish "
+"this feat by correcting many of the more common errors. See "
+":ref:`hairy`\\."
+msgstr ""
+
+#: ../../D/DWIM.rst:20
+msgid ""
+"Occasionally, an interjection hurled at a balky computer, esp. when one "
+"senses one might be tripping over legalisms (see :ref:`legalese`\\)."
+msgstr ""
+
+#: ../../D/DWIM.rst:24
+msgid ""
+"Of a person, someone whose directions are incomprehensible and vague, but"
+" who nevertheless has the expectation that you will solve the problem "
+"using the specific method he/she has in mind."
+msgstr ""
+
+#: ../../D/DWIM.rst:26
+msgid ""
+"Warren Teitelman originally wrote DWIM to fix his typos and spelling "
+"errors, so it was somewhat idiosyncratic to his style, and would often "
+"make hash of anyone else's typos if they were stylistically different. "
+"Some victims of DWIM thus claimed that the acronym stood for ‘Damn "
+"Warren’s Infernal Machine! '."
+msgstr ""
+
+#: ../../D/DWIM.rst:30
+msgid ""
+"In one notorious incident, Warren added a DWIM feature to the command "
+"interpreter used at Xerox PARC. One day another hacker there typed "
+":code:`delete \\*$` to free up some disk space. (The editor there named "
+"backup files by appending :code:`$` to the original file name, so he was "
+"trying to delete any backup files left over from old editing sessions.) "
+"It happened that there weren't any editor backup files, so DWIM helpfully"
+" reported :code:`\\*$ not found, assuming you meant 'delete \\*'.` It "
+"then started to delete all the files on the disk! The hacker managed to "
+"stop it with a :ref:`Vulcan-nerve-pinch` after only a half dozen or so "
+"files were lost."
+msgstr ""
+
+#: ../../D/DWIM.rst:36
+msgid ""
+"The disgruntled victim later said he had been sorely tempted to go to "
+"Warren's office, tie Warren down in his chair in front of his "
+"workstation, and then type :code:`delete \\*$` twice."
+msgstr ""
+
+#: ../../D/DWIM.rst:38
+msgid ""
+"DWIM is often suggested in jest as a desired feature for a complex "
+"program; it is also occasionally described as the single instruction the "
+"ideal computer would have. Back when proofs of program correctness were "
+"in vogue, there were also jokes about DWIMC (Do What I Mean, Correctly). "
+"A related term, more often seen as a verb, is DTRT (Do The Right Thing); "
+"see :ref:`Right-Thing`\\."
+msgstr ""
+

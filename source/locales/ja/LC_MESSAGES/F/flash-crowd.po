@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/flash-crowd.rst:5
+msgid "flash crowd"
+msgstr ""
+
+#: ../../F/flash-crowd.rst:7
+msgid ""
+"Larry Niven's 1973 SF short story *Flash Crowd* predicted that one "
+"consequence of cheap teleportation would be huge crowds materializing "
+"almost instantly at the sites of interesting news stories. Twenty years "
+"later the term passed into common use on the Internet to describe "
+"exponential spikes in website or server usage when one passes a certain "
+"threshold of popular interest (what this does to the server may also be "
+"called :ref:`slashdot-effect`\\). It has been pointed out that the effect"
+" was anticipated years earlier in Alfred Bester's 1956 *The Stars My "
+"Destination*\\."
+msgstr ""
+

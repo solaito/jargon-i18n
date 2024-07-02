@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/retcon.rst:5
+msgid "retcon"
+msgstr ""
+
+#: ../../R/retcon.rst:7
+msgid "/ret´kon/"
+msgstr ""
+
+#: ../../R/retcon.rst:9
+msgid ""
+"[short for ‘retroactive continuity’, from the Usenet newsgroup "
+":samp:`rec.arts.comics`\\]"
+msgstr ""
+
+#: ../../R/retcon.rst:11
+msgid ""
+"n\\. The common situation in pulp fiction (esp. comics or soap operas) "
+"where a new story ‘reveals’ things about events in previous stories, "
+"usually leaving the ‘facts’ the same (thus preserving continuity) while "
+"completely changing their interpretation. For example, revealing that a "
+"whole season of *Dallas* was a dream was a retcon."
+msgstr ""
+
+#: ../../R/retcon.rst:16
+msgid ""
+"vt\\. To write such a story about a character or fictitious object. "
+"\"Byrne has retconned Superman's cape so that it is no longer "
+"unbreakable.\" \"Marvelman's old adventures were retconned into synthetic"
+" dreams.\" \"Swamp Thing was retconned from a transformed person into a "
+"sentient vegetable.\""
+msgstr ""
+
+#: ../../R/retcon.rst:22
+msgid ""
+"[This term is included because it is a good example of hackish linguistic"
+" innovation in a field completely unrelated to computers. The word retcon"
+" will probably spread through comics fandom and lose its association with"
+" hackerdom within a couple of years; for the record, it started here. "
+"—ESR]"
+msgstr ""
+
+#: ../../R/retcon.rst:26
+msgid ""
+"[1993 update: some comics fans on the net now claim that retcon was "
+"independently in use in comics fandom before :samp:`rec.arts.comics`\\, "
+"and have citations from around 1981. In lexicography, nothing is ever "
+"simple. —ESR]"
+msgstr ""
+

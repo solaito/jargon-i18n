@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../O/operating-system.rst:5
+msgid "operating system"
+msgstr ""
+
+#: ../../O/operating-system.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../O/operating-system.rst:9
+msgid ""
+"[techspeak] (Often abbreviated ‘OS’) The foundation software of a "
+"machine; that which schedules tasks, allocates storage, and presents a "
+"default interface to the user between applications. The facilities an "
+"operating system provides and its general design philosophy exert an "
+"extremely strong influence on programming style and on the technical "
+"cultures that grow up around its host machines. Hacker folklore has been "
+"shaped primarily by the :ref:`Unix`\\, :ref:`ITS`\\, :ref:`TOPS-10`\\, "
+":ref:`TOPS-20`\\/ :ref:`TWENEX`\\, :ref:`WAITS`\\, :ref:`CP-M`\\, :ref"
+":`MS-DOS`\\, and :ref:`Multics` operating systems (most importantly by "
+"ITS and Unix). See also :ref:`timesharing`\\."
+msgstr ""
+

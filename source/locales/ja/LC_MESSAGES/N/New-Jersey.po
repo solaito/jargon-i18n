@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/New-Jersey.rst:5
+msgid "New Jersey"
+msgstr ""
+
+#: ../../N/New-Jersey.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../N/New-Jersey.rst:9
+msgid ""
+"[primarily Stanford/Silicon Valley] Brain-dam­aged or of poor design. "
+"This refers to the allegedly wretched quality of such software as C, C++,"
+" and Unix (which originated at Bell Labs in Murray Hill, New Jersey). "
+"\"This compiler bites the bag, but what can you expect from a compiler "
+"designed in New Jersey?\" Compare :ref:`Berkeley-Quality-Software`\\. See"
+" also :ref:`Unix-conspiracy`\\."
+msgstr ""
+

@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/AFAIK.rst:5
+msgid "AFAIK"
+msgstr ""
+
+#: ../../A/AFAIK.rst:7
+msgid "//, n\\."
+msgstr ""
+
+#: ../../A/AFAIK.rst:9
+msgid ""
+"[Usenet; common] Abbrev. for \"As Far As I Know\". There is a variant "
+"AFAICT \"As Far As I Can Tell\"; where AFAIK suggests that the writer "
+"knows his knowledge is limited, AFAICT suggests that he feels his "
+"knowledge is as complete as anybody else's but that the best available "
+"knowledge does not support firm conclusions."
+msgstr ""
+

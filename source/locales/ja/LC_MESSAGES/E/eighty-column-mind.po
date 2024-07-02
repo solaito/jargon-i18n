@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/eighty-column-mind.rst:5
+msgid "eighty-column mind"
+msgstr ""
+
+#: ../../E/eighty-column-mind.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../E/eighty-column-mind.rst:9
+msgid ""
+"[IBM] The sort said to be possessed by persons for whom the transition "
+"from :ref:`punched-card` to tape was traumatic (nobody has dared tell "
+"them about disks yet). It is said that these people, including (according"
+" to an old joke) the founder of IBM, will be buried ‘face down, 9-edge "
+"first’ (the 9-edge being the bottom of the card). This directive is "
+"inscribed on IBM's 1402 and 1622 card readers and is referenced in a "
+"famous bit of doggerel called *The Last Bug*\\, the climactic lines of "
+"which are as follows:"
+msgstr ""
+
+#: ../../E/eighty-column-mind.rst:21
+msgid ""
+"The eighty-column mind was thought by most hackers to dominate IBM's "
+"customer base and its thinking. This only began to change in the mid-"
+"1990s when IBM began to reinvent itself after the triumph of the :ref"
+":`killer-micro`\\. See :ref:`IBM`\\, :ref:`fear-and-loathing`\\, :ref"
+":`code-grinder`\\. A copy of *The Last Bug* lives on the the GNU site at "
+"`http://www.gnu.org/fun/jokes/last.bug.html "
+"<http://www.gnu.org/fun/jokes/last.bug.html>`_."
+msgstr ""
+

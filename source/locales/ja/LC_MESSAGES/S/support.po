@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/support.rst:5
+msgid "support"
+msgstr ""
+
+#: ../../S/support.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/support.rst:9
+msgid ""
+"After-sale handholding; something many software vendors promise but few "
+"deliver. To hackers, most support people are useless — because by the "
+"time a hacker calls support he or she will usually know the software and "
+"the relevant manuals better than the support people (sadly, this is *not*"
+" a joke or exaggeration). A hacker's idea of ‘support’ is a "
+"*têete-à-têete* with the software's designer."
+msgstr ""
+

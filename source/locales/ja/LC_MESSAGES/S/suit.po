@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/suit.rst:5
+msgid "suit"
+msgstr ""
+
+#: ../../S/suit.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/suit.rst:10
+msgid ""
+"Ugly and uncomfortable ‘business clothing’ often worn by non-hackers. "
+"Invariably worn with a ‘tie’, a strangulation device that partially cuts "
+"off the blood supply to the brain. It is thought that this explains much "
+"about the behavior of suit-wearers. Compare :ref:`droid`\\."
+msgstr ""
+
+#: ../../S/suit.rst:16
+msgid ""
+"A person who habitually wears suits, as distinct from a techie or hacker."
+" See :ref:`pointy-haired`\\, :ref:`burble`\\, :ref:`management`\\, "
+":ref:`Stupids`\\, :ref:`SNAFU-principle`\\, :ref:`PHB`\\, and :ref"
+":`brain-damaged`\\."
+msgstr ""
+

@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../V/vadding.rst:5
+msgid "vadding"
+msgstr ""
+
+#: ../../V/vadding.rst:7
+msgid "/vad´ing/, n\\."
+msgstr ""
+
+#: ../../V/vadding.rst:9
+msgid ""
+"[from VAD, a permutation of ADV (i.e., :ref:`ADVENT`\\), used to avoid a "
+"particular :ref:`admin`\\'s continual search-and-destroy sweeps for the "
+"game] A leisure-time activity of certain hackers involving the covert "
+"exploration of the ‘secret’ parts of large buildings — basements, roofs, "
+"freight elevators, maintenance crawlways, steam tunnels, and the like. A "
+"few go so far as to learn locksmithing in order to synthesize vadding "
+"keys. The verb is to vad (compare :ref:`phreaking`\\; see also "
+":ref:`hack`\\, sense 9). This term dates from the late 1970s, before "
+"which such activity was simply called ‘hacking’; the older usage is still"
+" prevalent at MIT."
+msgstr ""
+
+#: ../../V/vadding.rst:14
+msgid ""
+"The most extreme and dangerous form of vadding is elevator rodeo, a.k.a. "
+"elevator surfing, a sport played by wrasslin' down a thousand-pound "
+"elevator car with a 3-foot piece of string, and then exploiting this "
+"mastery in various stimulating ways (such as elevator hopping, shaft "
+"exploration, rat-racing, and the ever-popular drop experiments). Kids, "
+"don't try this at home!"
+msgstr ""
+

@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/brain-damaged.rst:5
+msgid "brain-damaged"
+msgstr ""
+
+#: ../../B/brain-damaged.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../B/brain-damaged.rst:10
+msgid ""
+"[common; generalization of \"Honeywell Brain Damage\" (HBD), a "
+"theoretical disease invented to explain certain utter cretinisms in "
+"Honeywell :ref:`Multics`\\] adj. Obviously wrong; :ref:`cretinous`\\; "
+":ref:`demented`\\. There is an implication that the person responsible "
+"must have suffered brain damage, because he should have known better. "
+"Calling something brain-damaged is really bad; it also implies it is "
+"unusable, and that its failure to work is due to poor design rather than "
+"some accident. \"Only six monocase characters per file name? Now that's "
+"brain-damaged!\""
+msgstr ""
+
+#: ../../B/brain-damaged.rst:18
+msgid ""
+"[esp. in the Mac world] May refer to free demonstration software that has"
+" been deliberately crippled in some way so as not to compete with the "
+"product it is intended to sell. Syn. :ref:`crippleware`\\."
+msgstr ""
+

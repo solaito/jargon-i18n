@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../U/UN-asterisk-X.rst:5
+msgid "UN\\*X"
+msgstr ""
+
+#: ../../U/UN-asterisk-X.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../U/UN-asterisk-X.rst:9
+msgid ""
+"Used to refer to the Unix operating system (a trademark of AT&T, then of "
+"Novell, then of Unix Systems Laboratories, then of the Open Group; the "
+"source code parted company with it after Novell and was owned by SCO, "
+"which was acquired by Caldera) in writing, but avoiding the need for the "
+"ugly ™ typography (see also :ref:`TM`\\). Also used to refer to any or "
+"all varieties of Unixoid operating systems. Ironically, lawyers now say "
+"that the requirement for the trademark postfix has no legal force, but "
+"the asterisk usage is entrenched anyhow. It has been suggested that there"
+" may be a psychological connection to practice in certain religions "
+"(especially Judaism) in which the name of the deity is never written out "
+"in full, e.g., ‘YHWH’ or ‘G--d’ is used. See also :ref:`glob` and :ref"
+":`splat-out`\\."
+msgstr ""
+

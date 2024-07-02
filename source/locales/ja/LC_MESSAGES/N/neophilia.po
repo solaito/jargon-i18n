@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/neophilia.rst:5
+msgid "neophilia"
+msgstr ""
+
+#: ../../N/neophilia.rst:7
+msgid "/nee\\`oh·fil'·ee·\\@/, n\\."
+msgstr ""
+
+#: ../../N/neophilia.rst:9
+msgid ""
+"The trait of being excited and pleased by novelty. Common among most "
+"hackers, SF fans, and members of several other connected leading-edge "
+"subcultures, including the pro-technology ‘Whole Earth’ wing of the "
+"ecology movement, space activists, many members of Mensa, and the "
+"Discordian/neo-pagan underground (see :ref:`geek`\\). All these groups "
+"overlap heavily and (where evidence is available) seem to share "
+"characteristic hacker tropisms for science fiction, :ref:`music`\\, and "
+":ref:`oriental-food`\\. The opposite tendency is neophobia."
+msgstr ""
+

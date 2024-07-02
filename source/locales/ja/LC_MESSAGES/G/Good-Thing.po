@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/Good-Thing.rst:5
+msgid "Good Thing"
+msgstr ""
+
+#: ../../G/Good-Thing.rst:7
+msgid "n\\.,adj\\."
+msgstr ""
+
+#: ../../G/Good-Thing.rst:9
+msgid ""
+"[very common; always pronounced as if capitalized. Orig. fr. the 1930 "
+"Sellar & Yeatman parody of British history *1066 And All That*\\, but "
+"well-established among hackers in the U.S. as well.]"
+msgstr ""
+
+#: ../../G/Good-Thing.rst:15
+msgid ""
+"Self-evidently wonderful to anyone in a position to notice: \"A language "
+"that manages dynamic memory automatically for you is a Good Thing.\""
+msgstr ""
+
+#: ../../G/Good-Thing.rst:18
+msgid ""
+"Something that can't possibly have any ill side-effects and may save "
+"considerable grief later: \"Removing the self-modifying code from that "
+"shared library would be a Good Thing.\""
+msgstr ""
+
+#: ../../G/Good-Thing.rst:21
+msgid ""
+"When said of software tools or libraries, as in \"YACC is a Good Thing\","
+" specifically connotes that the thing has drastically reduced a "
+"programmer's work load. Oppose :ref:`Bad-Thing`\\."
+msgstr ""
+

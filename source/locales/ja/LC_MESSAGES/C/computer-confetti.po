@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/computer-confetti.rst:5
+msgid "computer confetti"
+msgstr ""
+
+#: ../../C/computer-confetti.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/computer-confetti.rst:9
+msgid ""
+"Syn. :ref:`chad`\\. [obs.] Though this term was common at one time, this "
+"use of punched-card chad is not a good idea, as the pieces are stiff and "
+"have sharp corners that could injure the eyes. GLS reports that he once "
+"attended a wedding at MIT during which he and a few other guests "
+"enthusiastically threw chad instead of rice. The groom later grumbled "
+"that he and his bride had spent most of the evening trying to get the "
+"stuff out of their hair."
+msgstr ""
+
+#: ../../C/computer-confetti.rst:16
+msgid ""
+"[2001 update: this term has passed out of use for two reasons; (1) the "
+"stuff it describes is now quite rare, and (2) the term :ref:`chad`\\, "
+"which was half-forgotten in 1990, has enjoyed a revival. —ESR]"
+msgstr ""
+

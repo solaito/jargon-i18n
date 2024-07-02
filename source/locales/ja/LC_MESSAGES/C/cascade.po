@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/cascade.rst:5
+msgid "cascade"
+msgstr ""
+
+#: ../../C/cascade.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/cascade.rst:10
+msgid ""
+"A huge volume of spurious error-message output produced by a compiler "
+"with poor error recovery. Too frequently, one trivial syntax error (such "
+"as a missing ‘)’ or ‘}’) throws the parser out of synch so that much of "
+"the remaining program text is interpreted as garbaged or ill-formed."
+msgstr ""
+
+#: ../../C/cascade.rst:14
+msgid ""
+"A chain of Usenet followups, each adding some trivial variation or "
+"riposte to the text of the previous one, all of which is reproduced in "
+"the new message; an :ref:`include-war` in which the object is to create a"
+" sort of communal graffito."
+msgstr ""
+

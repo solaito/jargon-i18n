@@ -1,0 +1,280 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../pronunciation.rst:5
+msgid "Pronunciation Guide"
+msgstr ""
+
+#: ../../pronunciation.rst:7
+msgid ""
+"Pronunciation keys are provided in the jargon listings for all entries "
+"that are neither dictionary words pronounced as in standard English nor "
+"obvious compounds thereof. Slashes bracket phonetic pronunciations, which"
+" are to be interpreted using the following conventions:"
+msgstr ""
+
+#: ../../pronunciation.rst:10
+msgid ""
+"Syllables are hyphen-separated, except that an accent or back-accent "
+"follows each accented syllable (the back-accent marks a secondary accent "
+"in some words of four or more syllables). If no accent is given, the word"
+" is pronounced with equal accentuation on all syllables (this is common "
+"for abbreviations)."
+msgstr ""
+
+#: ../../pronunciation.rst:13
+msgid ""
+"Consonants are pronounced as in American English. The letter ‘g’ is "
+"always hard (as in \"got\" rather than \"giant\"); ‘ch’ is soft "
+"(\"church\" rather than \"chemist\"). The letter ‘j’ is the sound that "
+"occurs twice in \"judge\". The letter ‘s’ is always as in \"pass\", never"
+" a z sound. The digraph ‘kh’ is the guttural of \"loch\" or \"l'chaim\". "
+"The digraph ‘gh’ is the aspirated g+h of \"bughouse\" or \"ragheap\" "
+"(rare in English)."
+msgstr ""
+
+#: ../../pronunciation.rst:20
+msgid ""
+"Uppercase letters are pronounced as their English letter names; thus (for"
+" example) /H-L-L/ is equivalent to /aych el el/. /Z/ may be pronounced "
+"/zee/ or /zed/ depending on your local dialect."
+msgstr ""
+
+#: ../../pronunciation.rst:23
+msgid "Vowels are represented as follows:"
+msgstr ""
+
+#: ../../pronunciation.rst:25
+msgid "Vowels"
+msgstr ""
+
+#: ../../pronunciation.rst:27
+msgid "a"
+msgstr ""
+
+#: ../../pronunciation.rst:28
+msgid "back, that"
+msgstr ""
+
+#: ../../pronunciation.rst:29
+msgid "ah"
+msgstr ""
+
+#: ../../pronunciation.rst:30
+msgid "father, palm (see note)"
+msgstr ""
+
+#: ../../pronunciation.rst:31
+msgid "ar"
+msgstr ""
+
+#: ../../pronunciation.rst:32
+msgid "far, mark"
+msgstr ""
+
+#: ../../pronunciation.rst:33
+msgid "aw"
+msgstr ""
+
+#: ../../pronunciation.rst:34
+msgid "flaw, caught"
+msgstr ""
+
+#: ../../pronunciation.rst:35
+msgid "ay"
+msgstr ""
+
+#: ../../pronunciation.rst:36
+msgid "bake, rain"
+msgstr ""
+
+#: ../../pronunciation.rst:37
+msgid "e"
+msgstr ""
+
+#: ../../pronunciation.rst:38
+msgid "less, men"
+msgstr ""
+
+#: ../../pronunciation.rst:39
+msgid "ee"
+msgstr ""
+
+#: ../../pronunciation.rst:40
+msgid "easy, ski"
+msgstr ""
+
+#: ../../pronunciation.rst:41
+msgid "eir"
+msgstr ""
+
+#: ../../pronunciation.rst:42
+msgid "their, software"
+msgstr ""
+
+#: ../../pronunciation.rst:43
+msgid "i"
+msgstr ""
+
+#: ../../pronunciation.rst:44
+msgid "trip, hit"
+msgstr ""
+
+#: ../../pronunciation.rst:45
+msgid "i:"
+msgstr ""
+
+#: ../../pronunciation.rst:46
+msgid "life, sky"
+msgstr ""
+
+#: ../../pronunciation.rst:47
+msgid "o"
+msgstr ""
+
+#: ../../pronunciation.rst:48
+msgid "block, stock (see note)"
+msgstr ""
+
+#: ../../pronunciation.rst:49
+msgid "oh"
+msgstr ""
+
+#: ../../pronunciation.rst:50
+msgid "flow, sew"
+msgstr ""
+
+#: ../../pronunciation.rst:51
+msgid "oo"
+msgstr ""
+
+#: ../../pronunciation.rst:52
+msgid "loot, through"
+msgstr ""
+
+#: ../../pronunciation.rst:53
+msgid "or"
+msgstr ""
+
+#: ../../pronunciation.rst:54
+msgid "more, door"
+msgstr ""
+
+#: ../../pronunciation.rst:55
+msgid "ow"
+msgstr ""
+
+#: ../../pronunciation.rst:56
+msgid "out, how"
+msgstr ""
+
+#: ../../pronunciation.rst:57
+msgid "oy"
+msgstr ""
+
+#: ../../pronunciation.rst:58
+msgid "boy, coin"
+msgstr ""
+
+#: ../../pronunciation.rst:59
+msgid "uh"
+msgstr ""
+
+#: ../../pronunciation.rst:60
+msgid "but, some"
+msgstr ""
+
+#: ../../pronunciation.rst:61
+msgid "u"
+msgstr ""
+
+#: ../../pronunciation.rst:62
+msgid "put, foot"
+msgstr ""
+
+#: ../../pronunciation.rst:63
+msgid "y"
+msgstr ""
+
+#: ../../pronunciation.rst:64
+msgid "yet, young"
+msgstr ""
+
+#: ../../pronunciation.rst:65
+msgid "yoo"
+msgstr ""
+
+#: ../../pronunciation.rst:66
+msgid "few, chew"
+msgstr ""
+
+#: ../../pronunciation.rst:67
+msgid "[y]oo"
+msgstr ""
+
+#: ../../pronunciation.rst:68
+msgid "*/oo/* with optional fronting as in ‘news’ (*/nooz/* or */nyooz/*\\)"
+msgstr ""
+
+#: ../../pronunciation.rst:70
+msgid ""
+"The glyph /\\@/ is used for the ‘schwa’ sound of unstressed or occluded "
+"vowels."
+msgstr ""
+
+#: ../../pronunciation.rst:72
+msgid ""
+"The schwa vowel is omitted in syllables containing vocalic r, l, m or n; "
+"that is, ‘kitten’ and ‘color’ would be rendered /kit'n/ and /kuhl'r/, not"
+" /kit'\\@n/ and /kuhl'\\@r/."
+msgstr ""
+
+#: ../../pronunciation.rst:74
+msgid ""
+"Note that the above table reflects mainly distinctions found in standard "
+"American English (that is, the neutral dialect spoken by TV network "
+"announcers and typical of educated speech in the Upper Midwest, Chicago, "
+"Minneapolis/St. Paul and Philadelphia). However, we separate /o/ from "
+"/ah/, which tend to merge in standard American. This may help readers "
+"accustomed to accents resembling British Received Pronunciation."
+msgstr ""
+
+#: ../../pronunciation.rst:79
+msgid ""
+"The intent of this scheme is to permit as many readers as possible to map"
+" the pronunciations into their local dialect by ignoring some subset of "
+"the distinctions we make. Speakers of British RP, for example, can smash "
+"terminal /r/ and all unstressed vowels. Speakers of many varieties of "
+"southern American will automatically map /o/ to /aw/; and so forth. "
+"(Standard American makes a good reference dialect for this purpose "
+"because it has crisp consonants and more vowel distinctions than other "
+"major dialects, and tends to retain distinctions between unstressed "
+"vowels. It also happens to be what your editor speaks.)"
+msgstr ""
+
+#: ../../pronunciation.rst:85
+msgid ""
+"Entries with a pronunciation of ‘//’ are written-only usages. (No, Unix "
+"weenies, this does *not* mean ‘pronounce like previous pronunciation’!)"
+msgstr ""
+

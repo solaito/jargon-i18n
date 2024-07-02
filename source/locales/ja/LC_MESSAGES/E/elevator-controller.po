@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/elevator-controller.rst:5
+msgid "elevator controller"
+msgstr ""
+
+#: ../../E/elevator-controller.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../E/elevator-controller.rst:9
+msgid ""
+"An archetypal dumb embedded-systems application, like :ref:`toaster` "
+"(which superseded it). During one period (1983--84) in the deliberations "
+"of ANSI X3J11 (the C standardization committee) this was the canonical "
+"example of a really stupid, memory-limited computation environment. \"You"
+" can't require :manpage:`printf(3)` to be part of the default runtime "
+"library — what if you're targeting an elevator controller?\" Elevator "
+"controllers became important rhetorical weapons on both sides of several "
+":ref:`holy-wars`\\."
+msgstr ""
+

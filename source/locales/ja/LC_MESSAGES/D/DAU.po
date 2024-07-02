@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/DAU.rst:5
+msgid "DAU"
+msgstr ""
+
+#: ../../D/DAU.rst:7
+msgid "/dow/, n\\."
+msgstr ""
+
+#: ../../D/DAU.rst:9
+msgid ""
+"[German FidoNet] German acronym for Dümmster Anzunehmender User "
+"(stupidest imaginable user). From the engineering-slang GAU for Grösster "
+"Anzunehmender Unfall, worst assumable accident, esp. of a LNG tank farm "
+"plant or something with similarly disastrous consequences. In popular "
+"German, GAU is used only to refer to worst-case nuclear accidents such as"
+" a core meltdown. See :ref:`cretin`\\, :ref:`fool`\\, :ref:`loser` and "
+":ref:`weasel`\\."
+msgstr ""
+

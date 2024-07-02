@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/dike.rst:5
+msgid "dike"
+msgstr ""
+
+#: ../../D/dike.rst:7
+msgid "vt\\."
+msgstr ""
+
+#: ../../D/dike.rst:9
+msgid ""
+"To remove or disable a portion of something, as a wire from a computer or"
+" a subroutine from a program. A standard slogan is \"When in doubt, dike "
+"it out\". (The implication is that it is usually more effective to attack"
+" software problems by reducing complexity than by increasing it.) The "
+"word ‘dikes’ is widely used to mean ‘diagonal cutters’, a kind of wire "
+"cutter. To ‘dike something out’ means to use such cutters to remove "
+"something. Indeed, the TMRC Dictionary defined dike as \"to attack with "
+"dikes\". Among hackers this term has been metaphorically extended to "
+"informational objects such as sections of code."
+msgstr ""
+

@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/airplane-rule.rst:5
+msgid "airplane rule"
+msgstr ""
+
+#: ../../A/airplane-rule.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../A/airplane-rule.rst:9
+msgid ""
+"\"Complexity increases the possibility of failure; a twin-engine airplane"
+" has twice as many engine problems as a single-engine airplane.\" By "
+"analogy, in both software and electronics, the rule that simplicity "
+"increases robustness. It is correspondingly argued that the right way to "
+"build reliable systems is to put all your eggs in one basket, after "
+"making sure that you've built a really *good* basket. See also :ref"
+":`KISS-Principle`\\, :ref:`elegant`\\."
+msgstr ""
+

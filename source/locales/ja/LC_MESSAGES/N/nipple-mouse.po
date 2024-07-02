@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/nipple-mouse.rst:5
+msgid "nipple mouse"
+msgstr ""
+
+#: ../../N/nipple-mouse.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../N/nipple-mouse.rst:9
+msgid ""
+"Var. clit mouse, clitoris Common term for the pointing device used on IBM"
+" ThinkPads and a few other laptop computers. The device, which sits "
+"between the ‘g’ and ‘h’ keys on the keyboard, indeed resembles a rubber "
+"nipple intended to be tweaked by a forefinger. Many hackers consider "
+"these superior to the glide pads found on most laptops, which are harder "
+"to control precisely."
+msgstr ""
+

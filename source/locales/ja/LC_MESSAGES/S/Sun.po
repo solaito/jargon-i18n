@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/Sun.rst:5
+msgid "Sun"
+msgstr ""
+
+#: ../../S/Sun.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/Sun.rst:9
+msgid ""
+"Sun Microsystems. Hackers remember that the name was originally an "
+"acronym, Stanford University Network. Sun started out around 1980 with "
+"some hardware hackers (mainly) from Stanford talking to some software "
+"hackers (mainly) from UC Berkeley; Sun's original technology concept "
+"married a clever board design based on the Motorola 68000 to :ref:`BSD` "
+"Unix. Sun went on to lead the workstation industry through the 1980s, and"
+" for years afterwards remained an engineering-driven company and a good "
+"place for hackers to work. Though Sun drifted away from its techie "
+"origins after 1990 and has since made some strategic moves that "
+"disappointed and annoyed many hackers (especially by maintaining "
+"proprietary control of Java and rejecting Linux), it's still considered "
+"within the family in much the same way :ref:`DEC` was in the 1970s and "
+"early 1980s."
+msgstr ""
+

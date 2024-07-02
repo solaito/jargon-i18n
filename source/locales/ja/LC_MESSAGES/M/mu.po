@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/mu.rst:5
+msgid "mu"
+msgstr ""
+
+#: ../../M/mu.rst:7
+msgid "/moo/"
+msgstr ""
+
+#: ../../M/mu.rst:9
+msgid ""
+"The correct answer to the classic trick question \"Have you stopped "
+"beating your wife yet?\". Assuming that you have no wife or you have "
+"never beaten your wife, the answer \"yes\" is wrong because it implies "
+"that you used to beat your wife and then stopped, but \"no\" is worse "
+"because it suggests that you have one and are still beating her. "
+"According to various Discordians and Douglas Hofstadter the correct "
+"answer is usually \"mu\", a Japanese word alleged to mean \"Your question"
+" cannot be answered because it depends on incorrect assumptions\". "
+"Hackers tend to be sensitive to logical inadequacies in language, and "
+"many have adopted this suggestion with enthusiasm. The word ‘mu’ is "
+"actually from Chinese, meaning ‘nothing’; it is used in mainstream "
+"Japanese in that sense. In Chinese it can also mean \"have not\" (as in "
+"\"I have not done it\"), or \"lack of\", which may or may not be a "
+"definite, complete 'nothing'). Native speakers of Japanese do not "
+"recognize the Discordian question-denying use, which almost certainly "
+"derives from overgeneralization of the answer in the following well-known"
+" Rinzai Zen :ref:`koan`\\:"
+msgstr ""
+
+#: ../../M/mu.rst:22
+msgid ""
+"See also :ref:`has-the-X-nature`\\, :ref:`Some AI Koans<koans>`\\, and "
+"Douglas Hofstadter's *Gödel, Escher, Bach: An Eternal Golden Braid* "
+"(pointer in the :ref:`Bibliography<bibliography>` in Appendix C."
+msgstr ""
+

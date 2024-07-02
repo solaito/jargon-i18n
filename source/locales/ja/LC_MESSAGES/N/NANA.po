@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/NANA.rst:5
+msgid "NANA"
+msgstr ""
+
+#: ../../N/NANA.rst:7
+msgid "//"
+msgstr ""
+
+#: ../../N/NANA.rst:9
+msgid ""
+"[Usenet] The newsgroups news.admin.net-abuse.\\*, devoted to fighting "
+":ref:`spam` and network abuse. Each individual newsgroup is often "
+"referred to by adding a letter to NANA. For example, NANAU would refer to"
+" :samp:`news.admin.net-abuse.usenet`\\."
+msgstr ""
+
+#: ../../N/NANA.rst:13
+msgid ""
+"When spam began to be a serious problem around 1995, and a loose network "
+"of anti-spammers formed to combat it, spammers immediately accused them "
+"of being the :ref:`backbone-cabal`\\, or the Cabal reborn. Though this "
+"was not true, spam-fighters ironically accepted the label and the tag "
+"line \"There is No Cabal\" reappeared (later, and now commonly, "
+"abbreviated to \"TINC\"). Nowadays \"the Cabal\" is generally understood "
+"to refer to the NANA regulars."
+msgstr ""
+

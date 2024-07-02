@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/Troll-O-Meter.rst:5
+msgid "Troll-O-Meter"
+msgstr ""
+
+#: ../../T/Troll-O-Meter.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/Troll-O-Meter.rst:9
+msgid ""
+"Common Usenet jargon for a notional instrument used to measure the "
+"provocation level of a Usenet :ref:`troll`\\. \"Come on, everyone! If the"
+" above doesn't set off the Troll-O-Meter, we're going to have to get him "
+"to run around with a big blinking sign saying ‘I am a troll, I’m only in "
+"it for the controversy and flames', and shooting random gobs of "
+"Jell-O(tm) at us before the point is proven.\" Mentions of the "
+"Troll-O-Meter are often accompanied by an ASCII picture of an arrow "
+"pointing at a numeric scale. Compare :ref:`bogometer`\\, "
+":ref:`Indent-o-Meter`\\."
+msgstr ""
+

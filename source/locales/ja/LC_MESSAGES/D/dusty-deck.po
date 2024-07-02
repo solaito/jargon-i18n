@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/dusty-deck.rst:5
+msgid "dusty deck"
+msgstr ""
+
+#: ../../D/dusty-deck.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/dusty-deck.rst:9
+msgid ""
+"Old software (especially applications) which one is obliged to remain "
+"compatible with, or to maintain ( :ref:`DP` types call this legacy code, "
+"a term hackers consider smarmy and excessively reverent). The term "
+"implies that the software in question is a holdover from card-punch days."
+" Used esp. when referring to old scientific and :ref:`number-crunching` "
+"software, much of which was written in FORTRAN and very poorly documented"
+" but is believed to be too expensive to replace. See :ref:`fossil`\\; "
+"compare :ref:`crawling-horror`\\."
+msgstr ""
+

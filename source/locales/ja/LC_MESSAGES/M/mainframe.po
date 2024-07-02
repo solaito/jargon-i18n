@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/mainframe.rst:5
+msgid "mainframe"
+msgstr ""
+
+#: ../../M/mainframe.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../M/mainframe.rst:9
+msgid ""
+"Term originally referring to the cabinet containing the central processor"
+" unit or ‘main frame’ of a room-filling :ref:`Stone-Age` batch machine. "
+"After the emergence of smaller minicomputer designs in the early 1970s, "
+"the traditional :ref:`big-iron` machines were described as ‘mainframe "
+"computers’ and eventually just as mainframes. The term carries the "
+"connotation of a machine designed for batch rather than interactive use, "
+"though possibly with an interactive timesharing operating system "
+"retrofitted onto it; it is especially used of machines built by IBM, "
+"Unisys, and the other great :ref:`dinosaur`\\s surviving from computing's"
+" :ref:`Stone-Age`\\."
+msgstr ""
+
+#: ../../M/mainframe.rst:13
+msgid ""
+"It has been common wisdom among hackers since the late 1980s that the "
+"mainframe architectural tradition is essentially dead (outside of the "
+"tiny market for :ref:`number-crunching` supercomputers having been "
+"swamped by the recent huge advances in IC technology and low-cost "
+"personal computing. The wave of failures, takeovers, and mergers among "
+"traditional mainframe makers in the early 1990s bore this out. The "
+"biggest mainframer of all, IBM, was compelled to re-invent itself as a "
+"huge systems-consulting house. (See :ref:`dinosaurs-mating` and :ref"
+":`killer-micro`\\)."
+msgstr ""
+
+#: ../../M/mainframe.rst:18
+msgid ""
+"However, in yet another instance of the :ref:`cycle-of-reincarnation`\\, "
+"the port of Linux to the IBM S/390 architecture in 1999 — assisted by IBM"
+" — produced a resurgence of interest in mainframe computing as a way of "
+"providing huge quantities of easily maintainable, reliable virtual Linux "
+"servers, saving IBM's mainframe division from almost certain extinction."
+msgstr ""
+

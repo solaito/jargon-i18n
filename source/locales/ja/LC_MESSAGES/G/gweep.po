@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/gweep.rst:5
+msgid "gweep"
+msgstr ""
+
+#: ../../G/gweep.rst:7
+msgid "/gweep/"
+msgstr ""
+
+#: ../../G/gweep.rst:9
+msgid "[WPI]"
+msgstr ""
+
+#: ../../G/gweep.rst:11
+msgid ""
+"v\\. To :ref:`hack`\\, usually at night. At WPI, from 1975 onwards, one "
+"who gweeped could often be found at the College Computing Center punching"
+" cards or crashing the :ref:`PDP-10` or, later, the DEC-20. A "
+"correspondent who was there at the time opines that the term was "
+"originally onomatopoetic, describing the keyclick sound of the Datapoint "
+"terminals long connected to the PDP-10; others allege that ‘gweep’ was "
+"the sound of the Datapoint's bell (compare :ref:`feep`\\). The term has "
+"survived the demise of those technologies, however, and was still alive "
+"in early 1999. \"I'm going to go gweep for a while. See you in the "
+"morning.\" \"I gweep from 8 PM till 3 AM during the week.\""
+msgstr ""
+
+#: ../../G/gweep.rst:20
+msgid ""
+"n\\. One who habitually gweeps in sense 1; a :ref:`hacker`\\. \"He's a "
+"hard-core gweep, mumbles code in his sleep.\" Around 1979 this was "
+"considered derogatory and not used in self-reference; it has since been "
+"proudly claimed in much the same way as :ref:`geek`\\."
+msgstr ""
+

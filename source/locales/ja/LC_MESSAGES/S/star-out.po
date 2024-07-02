@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/star-out.rst:5
+msgid "star out"
+msgstr ""
+
+#: ../../S/star-out.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../S/star-out.rst:9
+msgid ""
+"[University of York, England] To replace a user's encrypted password in "
+"/etc/passwd with a single asterisk. Under Unix this is not a legal "
+"encryption of any password; hence the user is not permitted to log in. In"
+" general, accounts like adm, news, and daemon are permanently \"starred "
+"out\"; occasionally a real user might have this inflicted upon him/her as"
+" a punishment, e.g. \"Graham was starred out for playing Omega in working"
+" hours\". Also occasionally known as The Order Of The Gold Star in this "
+"context. \"Don't do that, or you'll be awarded the Order of the Gold "
+"Star...\" Compare :ref:`disusered`\\."
+msgstr ""
+

@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/fscking.rst:5
+msgid "fscking"
+msgstr ""
+
+#: ../../F/fscking.rst:7
+msgid "/fus'·king/, /eff'·seek·ing/, adj\\."
+msgstr ""
+
+#: ../../F/fscking.rst:9
+msgid ""
+"[Usenet; very common] Fucking, in the expletive sense (it refers to the "
+"Unix filesystem-repair command :manpage:`fsck(8)`\\, of which it can be "
+"said that if you have to use it at all you are having a bad day). "
+"Originated on :ref:`scary-devil-monastery` and the :samp:`bofh.net` "
+"newsgroups, but became much more widespread following the passage of "
+":ref:`CDA`\\. Also occasionally seen in the variant \"What the fsck?\""
+msgstr ""
+

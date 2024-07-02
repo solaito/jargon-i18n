@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/flush.rst:5
+msgid "flush"
+msgstr ""
+
+#: ../../F/flush.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../F/flush.rst:10
+msgid ""
+"[common] To delete something, usually superfluous, or to abort an "
+"operation. \"All that nonsense has been flushed.\""
+msgstr ""
+
+#: ../../F/flush.rst:14
+msgid ""
+"[Unix/C] To force buffered I/O to disk, as with an :manpage:`fflush(3)` "
+"call. This is *not* an abort or deletion as in sense 1, but a demand for "
+"early completion!"
+msgstr ""
+
+#: ../../F/flush.rst:18
+msgid ""
+"To leave at the end of a day's work (as opposed to leaving for a meal). "
+"\"I'm going to flush now.\" \"Time to flush.\""
+msgstr ""
+
+#: ../../F/flush.rst:23
+msgid "To exclude someone from an activity, or to ignore a person."
+msgstr ""
+
+#: ../../F/flush.rst:25
+msgid ""
+"‘Flush’ was standard ITS terminology for aborting an output operation; "
+"one spoke of the text that would have been printed, but was not, as "
+"having been flushed. It is speculated that this term arose from a vivid "
+"image of flushing unwanted characters by hosing down the internal output "
+"buffer, washing the characters away before they could be printed. The "
+"Unix/C usage, on the other hand, was propagated by the "
+":manpage:`fflush(3)` call in C's standard I/O library (though it is "
+"reported to have been in use among BLISS programmers at :ref:`DEC` and on"
+" Honeywell and IBM machines as far back as 1965). Unix/C hackers found "
+"the ITS usage confusing, and vice versa."
+msgstr ""
+
+#: ../../F/flush.rst:34
+msgid "Crunchly gets  :ref:`flush`\\ed."
+msgstr ""
+
+#: ../../F/flush.rst:36
+msgid ""
+"(The next cartoon in the Crunchly saga is        "
+":ref:`76-05-01<crunchly76-05-01>`\\.  The previous       cartoon was  "
+":ref:`76-02-20:2<crunchly-2>`\\.)"
+msgstr ""
+

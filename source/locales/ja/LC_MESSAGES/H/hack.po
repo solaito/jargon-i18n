@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hack.rst:5
+msgid "hack"
+msgstr ""
+
+#: ../../H/hack.rst:7
+msgid "[very common]"
+msgstr ""
+
+#: ../../H/hack.rst:9
+msgid "n\\. Originally, a quick job that produces what is needed, but not well."
+msgstr ""
+
+#: ../../H/hack.rst:12
+msgid ""
+"n\\. An incredibly good, and perhaps very time-consuming, piece of work "
+"that produces exactly what is needed."
+msgstr ""
+
+#: ../../H/hack.rst:15
+msgid "vt\\. To bear emotionally or physically. \"I can't hack this heat!\""
+msgstr ""
+
+#: ../../H/hack.rst:19
+msgid ""
+"vt\\. To work on something (typically a program). In an immediate sense: "
+"\"What are you doing?\" \"I'm hacking TECO.\" In a general (time-"
+"extended) sense: \"What do you do around here?\" \"I hack TECO.\" More "
+"generally, \"I hack foo\" is roughly equivalent to \"foo is my major "
+"interest (or project)\". \"I hack solid-state physics.\" See "
+":ref:`Hacking-X-for-Y`\\."
+msgstr ""
+
+#: ../../H/hack.rst:29
+msgid "vt\\. To pull a prank on. See sense 2 and :ref:`hacker` (sense 5)."
+msgstr ""
+
+#: ../../H/hack.rst:33
+msgid ""
+"vi\\. To interact with a computer in a playful and exploratory rather "
+"than goal-directed way. \"Whatcha up to?\" \"Oh, just hacking.\""
+msgstr ""
+
+#: ../../H/hack.rst:38
+msgid "n\\. Short for :ref:`hacker`\\."
+msgstr ""
+
+#: ../../H/hack.rst:42
+msgid "See :ref:`nethack`\\."
+msgstr ""
+
+#: ../../H/hack.rst:45
+msgid ""
+"[MIT] v. To explore the basements, roof ledges, and steam tunnels of a "
+"large, institutional building, to the dismay of Physical Plant workers "
+"and (since this is usually performed at educational institutions) the "
+"Campus Police. This activity has been found to be eerily similar to "
+"playing adventure games such as Dungeons and Dragons and :ref:`Zork`\\. "
+"See also :ref:`vadding`\\."
+msgstr ""
+
+#: ../../H/hack.rst:49
+msgid ""
+"Constructions on this term abound. They include happy hacking (a "
+"farewell), how's hacking? (a friendly greeting among hackers) and hack, "
+"hack (a fairly content-free but friendly comment, often used as a "
+"temporary farewell). For more on this totipotent term see * The Meaning "
+"of Hack*\\. See also :ref:`neat-hack`\\, :ref:`real-hack`\\."
+msgstr ""
+

@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/net-god.rst:5
+msgid "net.god"
+msgstr ""
+
+#: ../../N/net-god.rst:7
+msgid "/net god/, n\\."
+msgstr ""
+
+#: ../../N/net-god.rst:9
+msgid ""
+"Accolade referring to anyone who satisfies some combination of the "
+"following conditions: has been visible on Usenet for more than 5 years, "
+"ran one of the original backbone sites, moderated an important newsgroup,"
+" wrote news software, or knows Gene, Mark, Rick, Mel, Henry, Chuq, and "
+"Greg personally. See :ref:`demigod`\\. Net.goddesses such as Rissa or the"
+" Slime Sisters have (so far) been distinguished more by personality than "
+"by authority."
+msgstr ""
+

@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/gotcha.rst:5
+msgid "gotcha"
+msgstr ""
+
+#: ../../G/gotcha.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../G/gotcha.rst:9
+msgid ""
+"A :ref:`misfeature` of a system, especially a programming language or "
+"environment, that tends to breed bugs or mistakes because it is both "
+"enticingly easy to invoke and completely unexpected and/or unreasonable "
+"in its outcome. For example, a classic gotcha in :ref:`C` is the fact "
+"that :code:`if (a=b) {code;`\\} is syntactically valid and sometimes even"
+" correct. It puts the value of :code:`b` into :code:`a` and then executes"
+" :code:`code` if :code:`a` is non-zero. What the programmer probably "
+"meant was :code:`if (a==b) {code;`\\}, which executes :code:`code` if "
+":code:`a` and :code:`b` are equal."
+msgstr ""
+

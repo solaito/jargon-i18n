@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../I/INTERCAL.rst:5
+msgid "INTERCAL"
+msgstr ""
+
+#: ../../I/INTERCAL.rst:7
+msgid "/in´t\\@r·kal/, n\\."
+msgstr ""
+
+#: ../../I/INTERCAL.rst:9
+msgid ""
+"[said by the authors to stand for Compiler Language With No Pronounceable"
+" Acronym] A computer language designed by Don Woods and James Lyons in "
+"1972. INTERCAL is purposely different from all other computer languages "
+"in all ways but one; it is purely a written language, being totally "
+"unspeakable. An excerpt from the INTERCAL Reference Manual will make the "
+"style of the language clear:"
+msgstr ""
+
+#: ../../I/INTERCAL.rst:29
+msgid ""
+"INTERCAL has many other peculiar features designed to make it even more "
+"unspeakable. The Woods-Lyons implementation was actually used by many "
+"(well, at least several) people at Princeton. The language has been "
+"recently reimplemented as C-INTERCAL and is consequently enjoying an "
+"unprecedented level of unpopularity; there is even an "
+":samp:`alt.lang.intercal` newsgroup devoted to the study and ... "
+"appreciation of the language on Usenet."
+msgstr ""
+
+#: ../../I/INTERCAL.rst:33
+msgid ""
+"Inevitably, INTERCAL has a home page on the Web: "
+"`http://www.catb.org/~esr/intercal/ "
+"<http://www.catb.org/~esr/intercal/>`_. An extended version, implemented "
+"in (what else?) :ref:`Perl` and adding object-oriented features, is "
+"rumored to exist. See also :ref:`Befunge`\\."
+msgstr ""
+

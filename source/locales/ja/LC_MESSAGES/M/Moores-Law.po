@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/Moores-Law.rst:5
+msgid "Moore's Law"
+msgstr ""
+
+#: ../../M/Moores-Law.rst:7
+msgid "/morz law/, prov\\."
+msgstr ""
+
+#: ../../M/Moores-Law.rst:9
+msgid ""
+"Any one of several similar folk theorems that fit computing capacity or "
+"cost to a 2t exponential curve, with doubling time close to a year. The "
+"most common fits component density to such a curve (previous versions of "
+"this entry gave that form). Another variant asserts that the dollar cost "
+"of constant computing power decreases on the same curve. The original "
+"Moore's Law, first uttered in 1965 by semiconductor engineer Gordon Moore"
+" (who co-founded Intel four years later), spoke of the number of "
+"components on the lowest-cost silicon integrated circuits — but Moore's "
+"own formulation varied somewhat over the years, and reconstructing the "
+"meaning of the terminology he used in the original turns out to be "
+"fraught with difficulties. Further variants were spawned by Intel's PR "
+"department and various journalists."
+msgstr ""
+
+#: ../../M/Moores-Law.rst:15
+msgid ""
+"It has been `shown "
+"<http://firstmonday.org/issues/issue7_11/tuomi/index.html>`_\\  that none"
+" of the variants of Moore's Law actually fit the data very well (the "
+"price curves within DRAM generations perhaps come closest). Nevertheless,"
+" Moore's Law is constantly invoked to set up expectations about the next "
+"generation of computing technology. See also :ref:`Parkinsons-Law-of-"
+"Data` and :ref:`Gatess-Law`\\."
+msgstr ""
+

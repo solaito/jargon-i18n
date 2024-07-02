@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/cthulhic.rst:5
+msgid "cthulhic"
+msgstr ""
+
+#: ../../C/cthulhic.rst:7
+msgid "/kthool´hik/, adj\\."
+msgstr ""
+
+#: ../../C/cthulhic.rst:9
+msgid ""
+"Having the nature of a Cthulhu, the horrific tentacled green monstrosity "
+"from H.P. Lovecraft's seminal horror fiction. Cthulhu sends dreams that "
+"drive men mad, feeds on the flesh of screaming victims rent limb from "
+"limb, and is served by a cult of degenerates. Hackers think this "
+"describes large :ref:`proprietary` systems such as traditional "
+":ref:`mainframe`\\s, installations of SAP and Oracle, or rooms full of "
+"Windows servers remarkably well, and the adjective is used casually. "
+"Compare :ref:`Shub-Internet` and :ref:`crawling-horror`\\."
+msgstr ""
+

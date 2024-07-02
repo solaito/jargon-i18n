@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/languages-of-choice.rst:5
+msgid "languages of choice"
+msgstr ""
+
+#: ../../L/languages-of-choice.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../L/languages-of-choice.rst:9
+msgid ""
+":ref:`C`\\, :ref:`Perl`\\, :ref:`Python`\\, :ref:`Java` and :ref:`LISP` —"
+" the dominant languages in open-source development. This list has changed"
+" over time, but slowly. Java bumped C++ off of it, and Python appears to "
+"be recruiting people who would otherwise gravitate to LISP (which used to"
+" be much more important than it is now). Smalltalk and Prolog are also "
+"popular in small but influential communities."
+msgstr ""
+
+#: ../../L/languages-of-choice.rst:14
+msgid ""
+"The :ref:`Real-Programmer`\\s who loved FORTRAN and assembler have pretty"
+" much all retired or died since 1990. Assembler is generally no longer "
+"considered interesting or appropriate for anything but :ref:`HLL` "
+"implementation, :ref:`glue`\\, and a few time-critical and hardware-"
+"specific uses in systems programs. FORTRAN occupies a shrinking niche in "
+"scientific programming."
+msgstr ""
+
+#: ../../L/languages-of-choice.rst:18
+msgid ""
+"Most hackers tend to frown on languages like :ref:`Pascal` and Ada, which"
+" don't give them the near-total freedom considered necessary for hacking "
+"(see :ref:`bondage-and-discipline-language`\\), and to regard everything "
+"even remotely connected with :ref:`COBOL` or other traditional :ref:`DP` "
+"languages as a total and unmitigated :ref:`loss`\\."
+msgstr ""
+

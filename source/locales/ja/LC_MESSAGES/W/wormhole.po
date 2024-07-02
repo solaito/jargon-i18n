@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/wormhole.rst:5
+msgid "wormhole"
+msgstr ""
+
+#: ../../W/wormhole.rst:7
+msgid "/werm´hohl/, n\\."
+msgstr ""
+
+#: ../../W/wormhole.rst:9
+msgid ""
+"[from the wormhole singularities hypothesized in some versions of General"
+" Relativity theory]"
+msgstr ""
+
+#: ../../W/wormhole.rst:12
+msgid ""
+"[n.,obs.] A location in a monitor which contains the address of a "
+"routine, with the specific intent of making it easy to substitute a "
+"different routine. This term is now obsolescent; modern operating systems"
+" use clusters of wormholes extensively (for modularization of I/O "
+"handling in particular, as in the Unix device-driver organization) but "
+"the preferred techspeak for these clusters is ‘device tables’, ‘jump "
+"tables’ or ‘capability tables’."
+msgstr ""
+
+#: ../../W/wormhole.rst:17
+msgid ""
+"[Amateur Packet Radio] A network path using a commercial satellite link "
+"to join two or more amateur VHF networks. So called because traffic "
+"routed through a wormhole leaves and re-enters the amateur network over "
+"great distances with usually little clue in the message routing header as"
+" to how it got from one relay to the other. Compare :ref:`gopher-hole` "
+"(sense 2)."
+msgstr ""
+

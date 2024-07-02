@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/busy-wait.rst:5
+msgid "busy-wait"
+msgstr ""
+
+#: ../../B/busy-wait.rst:7
+msgid "vi\\."
+msgstr ""
+
+#: ../../B/busy-wait.rst:9
+msgid ""
+"Used of human behavior, conveys that the subject is busy waiting for "
+"someone or something, intends to move instantly as soon as it shows up, "
+"and thus cannot do anything else at the moment. \"Can't talk now, I'm "
+"busy-waiting till Bill gets off the phone.\""
+msgstr ""
+
+#: ../../B/busy-wait.rst:12
+msgid ""
+"Technically, busy-wait means to wait on an event by :ref:`spin`\\ning "
+"through a tight or timed-delay loop that polls for the event on each "
+"pass, as opposed to setting up an interrupt handler and continuing "
+"execution on another part of the task. In applications this is a wasteful"
+" technique, and best avoided on timesharing systems where a busy-waiting "
+"program may :ref:`hog` the processor. However, it is often unavoidable in"
+" kernel programming. In the Linux world, kernel busy-waits are usually "
+"referred to as spinlocks."
+msgstr ""
+

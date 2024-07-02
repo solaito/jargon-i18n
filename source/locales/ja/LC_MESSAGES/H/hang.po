@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hang.rst:5
+msgid "hang"
+msgstr ""
+
+#: ../../H/hang.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../H/hang.rst:10
+msgid ""
+"[very common] To wait for an event that will never occur. \"The system is"
+" hanging because it can't read from the crashed drive\". See "
+":ref:`wedged`\\, :ref:`hung`\\."
+msgstr ""
+
+#: ../../H/hang.rst:15
+msgid ""
+"To wait for some event to occur; to hang around until something happens. "
+"\"The program displays a menu and then hangs until you type a "
+"character.\" Compare :ref:`block`\\."
+msgstr ""
+
+#: ../../H/hang.rst:20
+msgid ""
+"To attach a peripheral device, esp. in the construction ‘hang off’: "
+"\"We're going to hang another tape drive off the file server.\" Implies a"
+" device attached with cables, rather than something that is strictly "
+"inside the machine's chassis."
+msgstr ""
+

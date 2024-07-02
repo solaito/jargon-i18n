@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/DoS-attack.rst:5
+msgid "DoS attack"
+msgstr ""
+
+#: ../../D/DoS-attack.rst:7
+msgid "//"
+msgstr ""
+
+#: ../../D/DoS-attack.rst:9
+msgid ""
+"[Usenet,common; note that it's unrelated to DOS as name of an operating "
+"system] Abbreviation for Denial-Of-Service attack. This abbreviation is "
+"most often used of attempts to shut down newsgroups with floods of "
+":ref:`spam`\\, or to flood network links with large amounts of traffic, "
+"or to flood network links with large amounts of traffic, often by abusing"
+" network broadcast addresses. Compare :ref:`slashdot-effect`\\."
+msgstr ""
+

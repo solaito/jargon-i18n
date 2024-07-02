@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/demo.rst:5
+msgid "demo"
+msgstr ""
+
+#: ../../D/demo.rst:7
+msgid "/de´moh/"
+msgstr ""
+
+#: ../../D/demo.rst:9
+msgid "[short for ‘demonstration’]"
+msgstr ""
+
+#: ../../D/demo.rst:11
+msgid ""
+"v\\. To demonstrate a product or prototype. A far more effective way of "
+"inducing bugs to manifest than any number of :ref:`test` runs, especially"
+" when important people are watching."
+msgstr ""
+
+#: ../../D/demo.rst:15
+msgid ""
+"n\\. The act of demoing. \"I've gotta give a demo of the drool-proof "
+"interface; how does it work again?\""
+msgstr ""
+
+#: ../../D/demo.rst:19
+msgid ""
+"n\\. Esp. as demo version, can refer either to an early, barely-"
+"functional version of a program which can be used for demonstration "
+"purposes as long as the operator uses *exactly* the right commands and "
+"skirts its numerous bugs, deficiencies, and unimplemented portions, or to"
+" a special version of a program (frequently with some features crippled) "
+"which is distributed at little or no cost to the user for enticement "
+"purposes."
+msgstr ""
+
+#: ../../D/demo.rst:24
+msgid ""
+"[ :ref:`demoscene`\\] A sequence of :ref:`demoeffect`\\s (usually) "
+"combined with self-composed music and hand-drawn (\"pixelated\") "
+"graphics. These days (1997) usually built to attend a :ref:`compo`\\. "
+"Often called eurodemos outside Europe, as most of the :ref:`demoscene` "
+"activity seems to have gathered in northern Europe and especially "
+"Scandinavia. See also :ref:`intro`\\, :ref:`dentro`\\."
+msgstr ""
+

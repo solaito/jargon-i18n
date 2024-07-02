@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/BOFH.rst:5
+msgid "BOFH"
+msgstr ""
+
+#: ../../B/BOFH.rst:7
+msgid "//, n\\."
+msgstr ""
+
+#: ../../B/BOFH.rst:9
+msgid ""
+"[common] Acronym, Bastard Operator From Hell. A system administrator with"
+" absolutely no tolerance for :ref:`luser`\\s. \"You say you need more "
+"filespace? <massive-global-delete> Seems to me you have plenty left...\" "
+"Many BOFHs (and others who would be BOFHs if they could get away with it)"
+" hang out in the newsgroup :samp:`alt.sysadmin.recovery`\\, although "
+"there has also been created a top-level newsgroup hierarchy ( "
+":samp:`bofh.\\*`\\) of their own."
+msgstr ""
+
+#: ../../B/BOFH.rst:14
+msgid ""
+"Several people have written stories about BOFHs. The set usually "
+"considered canonical is by Simon Travaglia and may be found at the "
+"`Bastard Home Page <http://bofh.ntk.net/Bastard.html>`_. BOFHs and BOFH "
+"wannabes hang out on :ref:`scary-devil-monastery` and wield "
+":ref:`LART`\\s."
+msgstr ""
+

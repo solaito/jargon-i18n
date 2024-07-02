@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/code-grinder.rst:5
+msgid "code grinder"
+msgstr ""
+
+#: ../../C/code-grinder.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/code-grinder.rst:10
+msgid ""
+"A :ref:`suit`\\-wearing minion of the sort hired in legion strength by "
+"banks and insurance companies to implement payroll packages in RPG and "
+"other such unspeakable horrors. In its native habitat, the code grinder "
+"often removes the suit jacket to reveal an underplumage consisting of "
+"button-down shirt (starch optional) and a tie. In times of dire stress, "
+"the sleeves (if long) may be rolled up and the tie loosened about half an"
+" inch. It seldom helps. The :ref:`code-grinder`\\'s milieu is about as "
+"far from hackerdom as one can get and still touch a computer; the term "
+"connotes pity. See :ref:`Real-World`\\, :ref:`suit`\\."
+msgstr ""
+
+#: ../../C/code-grinder.rst:18
+msgid ""
+"Used of or to a hacker, a really serious slur on the person's creative "
+"ability; connotes a design style characterized by primitive technique, "
+"rule-boundedness, :ref:`brute-force`\\, and utter lack of imagination."
+msgstr ""
+
+#: ../../C/code-grinder.rst:20
+msgid "Contrast :ref:`hacker`\\, :ref:`Real-Programmer`\\."
+msgstr ""
+

@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/time-T.rst:5
+msgid "time T"
+msgstr ""
+
+#: ../../T/time-T.rst:7
+msgid "/ti:m T/, n\\."
+msgstr ""
+
+#: ../../T/time-T.rst:10
+msgid ""
+"An unspecified but usually well-understood time, often used in "
+"conjunction with a later time ``T+1``\\. \"We'll meet on campus at time "
+"``T`` or at Louie's at time ``T+1``\\\" means, in the context of going "
+"out for dinner: \"We can meet on campus and go to Louie's, or we can meet"
+" at Louie's itself a bit later.\" (Louie's was a Chinese restaurant in "
+"Palo Alto that was a favorite with hackers.) Had the number 30 been used "
+"instead of the number 1, it would have implied that the travel time from "
+"campus to Louie's is 30 minutes; whatever time ``T`` is (and that hasn't "
+"been decided on yet), you can meet half an hour later at Louie's than you"
+" could on campus and end up eating at the same time. See also :ref"
+":`since-time-T-equals-minus-infinity`\\."
+msgstr ""
+

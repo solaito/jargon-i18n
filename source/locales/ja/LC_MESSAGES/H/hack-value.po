@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hack-value.rst:5
+msgid "hack value"
+msgstr ""
+
+#: ../../H/hack-value.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../H/hack-value.rst:9
+msgid ""
+"Often adduced as the reason or motivation for expending effort toward a "
+"seemingly useless goal, the point being that the accomplished goal is a "
+"hack. For example, MacLISP had features for reading and printing Roman "
+"numerals, which were installed purely for hack value. See :ref:`display-"
+"hack` for one method of computing hack value, but this cannot really be "
+"explained, only experienced. As Louis Armstrong once said when asked to "
+"explain jazz: \"Man, if you gotta ask you'll never know.\" (Feminists "
+"please note Fats Waller's explanation of rhythm: \"Lady, if you got to "
+"ask, you ain't got it.\")"
+msgstr ""
+

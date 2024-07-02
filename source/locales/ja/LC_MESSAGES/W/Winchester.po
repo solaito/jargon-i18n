@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/Winchester.rst:5
+msgid "Winchester"
+msgstr ""
+
+#: ../../W/Winchester.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../W/Winchester.rst:9
+msgid ""
+"Informal generic term for sealed-enclosure magnetic-disk drives in which "
+"the read-write head planes over the disk surface on an air cushion. There"
+" is a legend that the name arose because the original 1973 engineering "
+"prototype for what later became the IBM 3340 featured two 30-megabyte "
+"volumes; 30--30 became ‘Winchester’ when somebody noticed the similarity "
+"to the common term for a famous Winchester rifle (in the latter, the "
+"first 30 referred to caliber and the second to the grain weight of the "
+"charge). (It is sometimes incorrectly claimed that Winchester was the "
+"laboratory in which the technology was developed.)"
+msgstr ""
+

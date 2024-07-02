@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/smoot.rst:5
+msgid "smoot"
+msgstr ""
+
+#: ../../S/smoot.rst:7
+msgid "/smoot/, n\\."
+msgstr ""
+
+#: ../../S/smoot.rst:9
+msgid ""
+"[MIT] A unit of length equal five feet seven inches. The length of the "
+"Harvard Bridge in Boston is famously 364.4 smoots plus an ear (the ear is"
+" allegedly the width of the earhole in the side of the football helmet "
+"the victim was wearing when he was rolled over the bridge). This legend "
+"began with a fraternity prank in 1958 during which the body length of "
+"Oliver Smoot (class of '62) was actually used to measure out that "
+"distance. It is commemorated by smoot marks that MIT students repaint "
+"every few years; the tradition even survived the demolition and "
+"rebuilding of the bridge in the late 1980s. The Boston police have been "
+"known to use smoot markers to indicate accident locations on the bridge. "
+"Apparently Smoot's experience as a unit of measurement led to a life-long"
+" career; he eventually became Chairman of the Board of the American "
+"National Standards Institute, and later President of the International "
+"Organization for Standardization."
+msgstr ""
+

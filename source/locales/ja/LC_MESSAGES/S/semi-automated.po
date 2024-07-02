@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/semi-automated.rst:5
+msgid "semi-automated"
+msgstr ""
+
+#: ../../S/semi-automated.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../S/semi-automated.rst:9
+msgid ""
+"[US Geological Survey] A procedure that has yet to be completely "
+"automated; it still requires a smidge of clueful human interaction. Semi-"
+"automated programs usually come with written-out operator instructions "
+"that are worth their weight in gold — without them, very nasty things can"
+" happen. At USGS semi-automated programs are often referred to as \"semi-"
+"automated weapons\"."
+msgstr ""
+

@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/dead-beef-attack.rst:5
+msgid "dead beef attack"
+msgstr ""
+
+#: ../../D/dead-beef-attack.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/dead-beef-attack.rst:9
+msgid ""
+"[cypherpunks list, 1996] An attack on a public-key cryptosystem "
+"consisting of publishing a key having the same ID as another key (thus "
+"making it possible to spoof a user's identity if recipients aren't "
+"careful about verifying keys). In PGP and GPG the key ID is the last "
+"eight hex digits of (for RSA keys) the product of two primes. The attack "
+"was demonstrated by creating a key whose ID was 0xdeadbeef (see "
+":ref:`DEADBEEF`\\)."
+msgstr ""
+

@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/ADVENT.rst:5
+msgid "ADVENT"
+msgstr ""
+
+#: ../../A/ADVENT.rst:7
+msgid "/ad´vent/, n\\."
+msgstr ""
+
+#: ../../A/ADVENT.rst:9
+msgid ""
+"The prototypical computer adventure game, first designed by Will Crowther"
+" on the :ref:`PDP-10` in the mid-1970s as an attempt at computer-refereed"
+" fantasy gaming, and expanded into a puzzle-oriented game by Don Woods at"
+" Stanford in 1976. (Woods had been one of the authors of "
+":ref:`INTERCAL`\\.) Now better known as Adventure or Colossal Cave "
+"Adventure, but the :ref:`TOPS-10` operating system permitted only six-"
+"letter filenames in uppercase. See also :ref:`vadding`\\, :ref:`Zork`\\, "
+"and :ref:`Infocom`\\."
+msgstr ""
+
+#: ../../A/ADVENT.rst:16
+msgid "Screen shot of the original ADVENT game"
+msgstr ""
+
+#: ../../A/ADVENT.rst:55
+msgid ""
+"This game defined the terse, dryly humorous style since expected in text "
+"adventure games, and popularized several tag lines that have become "
+"fixtures of hacker-speak: \"A huge green fierce snake bars the way!\" \"I"
+" see no X here\" (for some noun X). \"You are in a maze of twisty little "
+"passages, all alike.\" \"You are in a little maze of twisty passages, all"
+" different.\" The ‘magic words’ :ref:`xyzzy` and :ref:`plugh` also derive"
+" from this game."
+msgstr ""
+
+#: ../../A/ADVENT.rst:61
+msgid ""
+"Crowther, by the way, participated in the exploration of the Mammoth & "
+"Flint Ridge cave system; it actually *has* a Colossal Cave and a Bedquilt"
+" as in the game, and the Y2 that also turns up is cavers' jargon for a "
+"map reference to a secondary entrance."
+msgstr ""
+
+#: ../../A/ADVENT.rst:63
+msgid ""
+"ADVENT sources are available for FTP at `ftp://ftp.wustl.edu/doc/misc/if-"
+"archive/games/source/advent.tar.Z <ftp://ftp.wustl.edu/doc/misc/if-"
+"archive/games/source/advent.tar.Z>`_. You can also play it as a `Java "
+"applet <http://www.forkexec.com/html/play-advent.html>`_. There is a good"
+" page of resources at the `Colossal Cave Adventure Page "
+"<http://www.rickadams.org/adventure/>`_."
+msgstr ""
+

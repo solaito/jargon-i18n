@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/spam-bait.rst:5
+msgid "spam bait"
+msgstr ""
+
+#: ../../S/spam-bait.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/spam-bait.rst:9
+msgid ""
+"Email addresses included in, or comprising the entirety of, a Usenet "
+"message so that spammers mining a newsgroup with an :ref:`address-"
+"harvester` will collect them. These addresses can be people who have "
+"offended or annoyed the poster, or who are included so that a spammer "
+"will spam an official, thereby causing himself trouble. One particularly "
+"effective form of spam bait is the address of a :ref:`teergrube`\\."
+msgstr ""
+

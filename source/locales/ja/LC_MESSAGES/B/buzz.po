@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/buzz.rst:5
+msgid "buzz"
+msgstr ""
+
+#: ../../B/buzz.rst:7
+msgid "vi\\."
+msgstr ""
+
+#: ../../B/buzz.rst:10
+msgid ""
+"Of a program, to run with no indication of progress and perhaps without "
+"guarantee of ever finishing; esp. said of programs thought to be "
+"executing tight loops of code. A program that is buzzing appears to be "
+":ref:`catatonic`\\, but never gets out of catatonia, while a buzzing loop"
+" may eventually end of its own accord. \"The program buzzes for about 10 "
+"seconds trying to sort all the names into order.\" See :ref:`spin`\\; see"
+" also :ref:`grovel`\\."
+msgstr ""
+
+#: ../../B/buzz.rst:17
+msgid ""
+"[ETA Systems] To test a wire or printed circuit trace for continuity, "
+"esp. by applying an AC rather than DC signal. Some wire faults will pass "
+"DC tests but fail an AC buzz test."
+msgstr ""
+
+#: ../../B/buzz.rst:22
+msgid ""
+"To process an array or list in sequence, doing the same thing to each "
+"element. \"This loop buzzes through the tz array looking for a terminator"
+" type.\""
+msgstr ""
+

@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../O/one-liner-wars.rst:5
+msgid "one-liner wars"
+msgstr ""
+
+#: ../../O/one-liner-wars.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../O/one-liner-wars.rst:9
+msgid ""
+"A game popular among hackers who code in the language APL (see :ref"
+":`write-only-language` and :ref:`line-noise`\\). The objective is to see "
+"who can code the most interesting and/or useful routine in one line of "
+"operators chosen from APL's exceedingly :ref:`hairy` primitive set. A "
+"similar amusement was practiced among :ref:`TECO` hackers and is now "
+"popular among :ref:`Perl` aficionados."
+msgstr ""
+
+#: ../../O/one-liner-wars.rst:13
+msgid ""
+"Ken Iverson, the inventor of APL, has been credited with a one-liner "
+"that, given a number ``N``\\, produces a list of the prime numbers from 1"
+" to ``N`` inclusive. It looks like this:"
+msgstr ""
+
+#: ../../O/one-liner-wars.rst:21
+msgid "Here's a :ref:`Perl` program that prints primes:"
+msgstr ""
+
+#: ../../O/one-liner-wars.rst:28
+msgid ""
+"In the Perl world this game is sometimes called Perl Golf because the "
+"player with the fewest (key)strokes wins."
+msgstr ""
+

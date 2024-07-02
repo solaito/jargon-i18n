@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bogus.rst:5
+msgid "bogus"
+msgstr ""
+
+#: ../../B/bogus.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../B/bogus.rst:10
+msgid "Non-functional. \"Your patches are bogus.\""
+msgstr ""
+
+#: ../../B/bogus.rst:14
+msgid "Useless. \"OPCON is a bogus program.\""
+msgstr ""
+
+#: ../../B/bogus.rst:18
+msgid "False. \"Your arguments are bogus.\""
+msgstr ""
+
+#: ../../B/bogus.rst:22
+msgid "Incorrect. \"That algorithm is bogus.\""
+msgstr ""
+
+#: ../../B/bogus.rst:26
+msgid ""
+"Unbelievable. \"You claim to have solved the halting problem for Turing "
+"Machines? That's totally bogus.\""
+msgstr ""
+
+#: ../../B/bogus.rst:31
+msgid "Silly. \"Stop writing those bogus sagas.\""
+msgstr ""
+
+#: ../../B/bogus.rst:34
+msgid ""
+"Astrology is bogus. So is a bolt that is obviously about to break. So is "
+"someone who makes blatantly false claims to have solved a scientific "
+"problem. (This word seems to have some, but not all, of the connotations "
+"of :ref:`random` — mostly the negative ones.)"
+msgstr ""
+
+#: ../../B/bogus.rst:39
+msgid ""
+"It is claimed that bogus was originally used in the hackish sense at "
+"Princeton in the late 1960s. It was spread to CMU and Yale by Michael "
+"Shamos, a migratory Princeton alumnus. A glossary of bogus words was "
+"compiled at Yale when the word was first popularized there about 1975-76."
+" These coinages spread into hackerdom from CMU and MIT. Most of them "
+"remained wordplay objects rather than actual vocabulary items or live "
+"metaphors. Examples: amboguous (having multiple bogus interpretations); "
+"bogotissimo (in a gloriously bogus manner); bogotophile (one who is "
+"pathologically fascinated by the bogus); paleobogology (the study of "
+"primeval bogosity)."
+msgstr ""
+
+#: ../../B/bogus.rst:46
+msgid ""
+"Some bogowords, however, obtained sufficient live currency to be listed "
+"elsewhere in this lexicon; see :ref:`bogometer`\\, :ref:`bogon`\\, "
+":ref:`bogotify`\\, and :ref:`quantum-bogodynamics` and the related but "
+"unlisted :ref:`Dr--Fred-Mbogo`\\."
+msgstr ""
+
+#: ../../B/bogus.rst:48
+msgid ""
+"By the early 1980s ‘bogus’ was also current in something like hacker "
+"usage sense in West Coast teen slang, and it had gone mainstream by 1985."
+" A correspondent from Cambridge reports, by contrast, that these uses of "
+"bogus grate on British nerves; in Britain the word means, rather "
+"specifically, ‘counterfeit’, as in \"a bogus 10-pound note\". According "
+"to Merriam-Webster, the word dates back to 1825 and originally referred "
+"to a counterfeiting machine."
+msgstr ""
+

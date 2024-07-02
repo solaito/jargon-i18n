@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/random.rst:5
+msgid "random"
+msgstr ""
+
+#: ../../R/random.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../R/random.rst:10
+msgid ""
+"Unpredictable (closest to mathematical definition); weird. \"The system's"
+" been behaving pretty randomly.\""
+msgstr ""
+
+#: ../../R/random.rst:14
+msgid ""
+"Assorted; undistinguished. \"Who was at the conference?\" \"Just a bunch "
+"of random business types.\""
+msgstr ""
+
+#: ../../R/random.rst:19
+msgid ""
+"(pejorative) Frivolous; unproductive; undirected. \"He's just a random "
+"loser.\""
+msgstr ""
+
+#: ../../R/random.rst:23
+msgid ""
+"Incoherent or inelegant; poorly chosen; not well organized. \"The program"
+" has a random set of misfeatures.\" \"That's a random name for that "
+"function.\" \"Well, all the names were chosen pretty randomly.\""
+msgstr ""
+
+#: ../../R/random.rst:29
+msgid ""
+"In no particular order, though deterministic. \"The I/O channels are in a"
+" pool, and when a file is opened one is chosen randomly.\""
+msgstr ""
+
+#: ../../R/random.rst:33
+msgid "Arbitrary. \"It generates a random name for the scratch file.\""
+msgstr ""
+
+#: ../../R/random.rst:37
+msgid ""
+"Gratuitously wrong, i.e., poorly done and for no good apparent reason. "
+"For example, a program that handles file name defaulting in a "
+"particularly useless way, or an assembler routine that could easily have "
+"been coded using only three registers, but redundantly uses seven for "
+"values with non-overlapping lifetimes, so that no one else can invoke it "
+"without first saving four extra registers. What :ref:`randomness`\\!"
+msgstr ""
+
+#: ../../R/random.rst:41
+msgid ""
+"n\\. A random hacker; used particularly of high-school students who soak "
+"up computer time and generally get in the way."
+msgstr ""
+
+#: ../../R/random.rst:44
+msgid ""
+"n\\. Anyone who is not a hacker (or, sometimes, anyone not known to the "
+"hacker speaking); the noun form of sense 2. \"I went to the talk, but the"
+" audience was full of randoms asking bogus questions\"."
+msgstr ""
+
+#: ../../R/random.rst:48
+msgid ""
+"10. n. (occasional MIT usage) One who lives at Random Hall. See also "
+":ref:`J--Random`\\, :ref:`some-random-X`\\."
+msgstr ""
+
+#: ../../R/random.rst:51
+msgid ""
+"11. [UK] Conversationally, a non sequitur or something similarly out-of-"
+"the-blue. As in: \"Stop being so random!\" This sense equates to "
+"‘hatstand’, taken from the Viz comic character \"Roger Irrelevant - He's "
+"completely Hatstand.\""
+msgstr ""
+

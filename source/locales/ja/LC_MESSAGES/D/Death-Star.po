@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/Death-Star.rst:5
+msgid "Death Star"
+msgstr ""
+
+#: ../../D/Death-Star.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/Death-Star.rst:9
+msgid "[from the movie *Star Wars*\\]"
+msgstr ""
+
+#: ../../D/Death-Star.rst:12
+msgid ""
+"The AT&T corporate logo, which bears an uncanny resemblance to the Death "
+"Star in the Star Wars movies. This usage was particularly common among "
+"partisans of :ref:`BSD` Unix in the 1980s, who tended to regard the AT&T "
+"versions as inferior and AT&T as a bad guy. Copies still circulate of a "
+"poster printed by Mt. Xinu showing a starscape with a space fighter "
+"labeled 4.2 BSD streaking away from a broken AT&T logo wreathed in "
+"flames."
+msgstr ""
+
+#: ../../D/Death-Star.rst:18
+msgid ""
+"AT&T's internal magazine, *Focus*\\, uses death star to describe an "
+"incorrectly done AT&T logo in which the inner circle in the top left is "
+"dark instead of light — a frequent result of dark-on-light logo images."
+msgstr ""
+
+#: ../../D/Death-Star.rst:21
+msgid ""
+"The IBM DeskStar 75GXP drive series, which suffered manufacturing "
+"problems and had an uncanny ability to die after a few months in the "
+"field. This drive series single-handedly destroyed IBM's previously very "
+"good reputation in the hard disk market, and ended up with IBM selling "
+"their hard disk business to Hitachi."
+msgstr ""
+

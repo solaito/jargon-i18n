@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/heisenbug.rst:5
+msgid "heisenbug"
+msgstr ""
+
+#: ../../H/heisenbug.rst:7
+msgid "/hi:´zen·buhg/, n\\."
+msgstr ""
+
+#: ../../H/heisenbug.rst:9
+msgid ""
+"[from Heisenberg's Uncertainty Principle in quantum physics] A bug that "
+"disappears or alters its behavior when one attempts to probe or isolate "
+"it. (This usage is not even particularly fanciful; the use of a debugger "
+"sometimes alters a program's operating environment significantly enough "
+"that buggy code, such as that which relies on the values of uninitialized"
+" memory, behaves quite differently.) Antonym of :ref:`Bohr-bug`\\; see "
+"also :ref:`mandelbug`\\, :ref:`schroedinbug`\\. In C, nine out of ten "
+"heisenbugs result from uninitialized auto variables, :ref:`fandango-on-"
+"core` phenomena (esp. lossage related to corruption of the malloc "
+":ref:`arena`\\) or errors that :ref:`smash-the-stack`\\."
+msgstr ""
+

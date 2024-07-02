@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/smoking-clover.rst:5
+msgid "smoking clover"
+msgstr ""
+
+#: ../../S/smoking-clover.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/smoking-clover.rst:9
+msgid ""
+"[ITS] A :ref:`display-hack` originally due to Bill Gosper. Many "
+"convergent lines are drawn on a color monitor in such a way that every "
+"pixel struck has its color incremented. The lines all have one endpoint "
+"in the middle of the screen; the other endpoints are spaced one pixel "
+"apart around the perimeter of a large square. The color map is then "
+"repeatedly rotated. This results in a striking, rainbow-hued, shimmering "
+"four-leaf clover. Gosper joked about keeping it hidden from the FDA (the "
+"U.S.'s Food and Drug Administration) lest its hallucinogenic properties "
+"cause it to be banned."
+msgstr ""
+

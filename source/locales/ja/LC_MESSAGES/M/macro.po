@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/macro.rst:5
+msgid "macro"
+msgstr ""
+
+#: ../../M/macro.rst:7
+msgid "/mak´roh/, n\\."
+msgstr ""
+
+#: ../../M/macro.rst:9
+msgid ""
+"[techspeak] A name (possibly followed by a formal :ref:`arg` list) that "
+"is equated to a text or symbolic expression to which it is to be expanded"
+" (possibly with the substitution of actual arguments) by a macro "
+"expander. This definition can be found in any technical dictionary; what "
+"those won't tell you is how the hackish connotations of the term have "
+"changed over time."
+msgstr ""
+
+#: ../../M/macro.rst:12
+msgid ""
+"The term macro originated in early assemblers, which encouraged the use "
+"of macros as a structuring and information-hiding device. During the "
+"early 1970s, macro assemblers became ubiquitous, and sometimes quite as "
+"powerful and expensive as :ref:`HLL`\\s, only to fall from favor as "
+"improving compiler technology marginalized assembler programming (see "
+":ref:`languages-of-choice`\\). Nowadays the term is most often used in "
+"connection with the C preprocessor, LISP, or one of several special-"
+"purpose languages built around a macro-expansion facility (such as TeX or"
+" Unix's [nt]roff suite)."
+msgstr ""
+
+#: ../../M/macro.rst:16
+msgid ""
+"Indeed, the meaning has drifted enough that the collective macros is now "
+"sometimes used for code in any special-purpose application control "
+"language (whether or not the language is actually translated by text "
+"expansion), and for macro-like entities such as the keyboard macros "
+"supported in some text editors (and PC TSR or Macintosh INIT/CDEV "
+"keyboard enhancers)."
+msgstr ""
+

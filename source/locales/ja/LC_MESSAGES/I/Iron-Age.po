@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../I/Iron-Age.rst:5
+msgid "Iron Age"
+msgstr ""
+
+#: ../../I/Iron-Age.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../I/Iron-Age.rst:9
+msgid ""
+"In the history of computing, 1961-1971 — the formative era of commercial "
+":ref:`mainframe` technology, when ferrite-core :ref:`dinosaur`\\s ruled "
+"the earth. The Iron Age began, ironically enough, with the delivery of "
+"the first minicomputer (the PDP-1) and ended with the introduction of the"
+" first commercial microprocessor (the Intel 4004) in 1971. See also :ref"
+":`Stone-Age`\\; compare :ref:`elder-days`\\."
+msgstr ""
+

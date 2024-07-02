@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/lost-in-the-underflow.rst:5
+msgid "lost in the underflow"
+msgstr ""
+
+#: ../../L/lost-in-the-underflow.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../L/lost-in-the-underflow.rst:9
+msgid ""
+"Too small to be worth considering; more specifically, small beyond the "
+"limits of accuracy or measurement. This is a reference to floating "
+"underflow, a condition that can occur when a floating-point arithmetic "
+"processor tries to handle quantities smaller than its limit of magnitude."
+" It is also a pun on ‘undertow’ (a kind of fast, cold current that "
+"sometimes runs just offshore and can be dangerous to swimmers). \"Well, "
+"sure, photon pressure from the stadium lights alters the path of a thrown"
+" baseball, but that effect gets lost in the underflow.\" Compare "
+":ref:`epsilon`\\, :ref:`epsilon-squared`\\; see also :ref:`overflow-"
+"bit`\\."
+msgstr ""
+

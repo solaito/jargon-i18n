@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/flame.rst:5
+msgid "flame"
+msgstr ""
+
+#: ../../F/flame.rst:7
+msgid "[at MIT, orig. from the phrase flaming asshole]"
+msgstr ""
+
+#: ../../F/flame.rst:10
+msgid "vi\\. To post an email message intended to insult and provoke."
+msgstr ""
+
+#: ../../F/flame.rst:13
+msgid ""
+"vi\\. To speak incessantly and/or rabidly on some relatively "
+"uninteresting subject or with a patently ridiculous attitude."
+msgstr ""
+
+#: ../../F/flame.rst:16
+msgid ""
+"vt\\. Either of senses 1 or 2, directed with hostility at a particular "
+"person or people."
+msgstr ""
+
+#: ../../F/flame.rst:19
+msgid ""
+"n\\. An instance of flaming. When a discussion degenerates into useless "
+"controversy, one might tell the participants \"Now you're just flaming\" "
+"or \"Stop all that flamage!\" to try to get them to cool down (so to "
+"speak)."
+msgstr ""
+
+#: ../../F/flame.rst:24
+msgid ""
+"The term may have been independently invented at several different "
+"places. It has been reported from MIT, Carleton College and RPI (among "
+"many other places) from as far back as 1969, and from the University of "
+"Virginia in the early 1960s."
+msgstr ""
+
+#: ../../F/flame.rst:27
+msgid ""
+"It is possible that the hackish sense of ‘flame’ is much older than that."
+" The poet Chaucer was also what passed for a wizard hacker in his time; "
+"he wrote a treatise on the astrolabe, the most advanced computing device "
+"of the day. In Chaucer's *Troilus and Cressida*\\, Cressida laments her "
+"inability to grasp the proof of a particular mathematical theorem; her "
+"uncle Pandarus then observes that it's called \"the fleminge of "
+"wrecches.\" This phrase seems to have been intended in context as \"that "
+"which puts the wretches to flight\" but was probably just as ambiguous in"
+" Middle English as \"the flaming of wretches\" would be today. One "
+"suspects that Chaucer would feel right at home on Usenet."
+msgstr ""
+

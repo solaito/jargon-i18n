@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hello-world.rst:5
+msgid "hello world"
+msgstr ""
+
+#: ../../H/hello-world.rst:7
+msgid "interj\\."
+msgstr ""
+
+#: ../../H/hello-world.rst:10
+msgid "The canonical minimal test message in the C/Unix universe."
+msgstr ""
+
+#: ../../H/hello-world.rst:13
+msgid ""
+"Any of the minimal programs that emit this message (a representative "
+"sample in various languages can be found at "
+"`http://www.latech.edu/~acm/helloworld/ "
+"<http://www.latech.edu/~acm/helloworld/>`_). Traditionally, the first "
+"program a C coder is supposed to write in a new environment is one that "
+"just prints \"hello, world\" to standard output (and indeed it is the "
+"first example program in :ref:`K-ampersand-R`\\). Environments that "
+"generate an unreasonably large executable for this trivial test or which "
+"require a :ref:`hairy` compiler-linker invocation to generate it are "
+"considered to :ref:`lose` (see :ref:`X`\\)."
+msgstr ""
+
+#: ../../H/hello-world.rst:18
+msgid ""
+"Greeting uttered by a hacker making an entrance or requesting information"
+" from anyone present. \"Hello, world! Is the LAN back up yet?\""
+msgstr ""
+

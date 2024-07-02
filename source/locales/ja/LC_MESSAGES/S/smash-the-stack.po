@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/smash-the-stack.rst:5
+msgid "smash the stack"
+msgstr ""
+
+#: ../../S/smash-the-stack.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/smash-the-stack.rst:9
+msgid ""
+"[C programming] To corrupt the execution stack by writing past the end of"
+" a local array or other data structure. Code that smashes the stack can "
+"cause a return from the routine to jump to a random address, resulting in"
+" some of the most insidious data-dependent bugs known to mankind. "
+"Variants include trash the stack, :ref:`scribble` the stack, "
+":ref:`mangle` the stack; the term \\*\\* :ref:`mung` the stack is not "
+"used, as this is never done intentionally. See :ref:`spam`\\; see also "
+":ref:`aliasing-bug`\\, :ref:`fandango-on-core`\\, :ref:`memory-leak`\\, "
+":ref:`memory-smash`\\, :ref:`precedence-lossage`\\, :ref:`overrun-"
+"screw`\\."
+msgstr ""
+

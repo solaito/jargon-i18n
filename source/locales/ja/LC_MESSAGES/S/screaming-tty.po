@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/screaming-tty.rst:5
+msgid "screaming tty"
+msgstr ""
+
+#: ../../S/screaming-tty.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/screaming-tty.rst:9
+msgid ""
+"[Unix] A terminal line which spews an infinite number of random "
+"characters at the operating system. This can happen if the terminal is "
+"either disconnected or connected to a powered-off terminal but still "
+"enabled for login; misconfiguration, misimplementation, or simple bad "
+"luck can start such a terminal screaming. A screaming tty or two can "
+"seriously degrade the performance of a vanilla Unix system; the arriving "
+"\"characters\" are treated as userid/password pairs and tested as such. "
+"The Unix password encryption algorithm is designed to be computationally "
+"intensive in order to foil brute-force crack attacks, so although none of"
+" the logins succeeds; the overhead of rejecting them all can be "
+"substantial."
+msgstr ""
+

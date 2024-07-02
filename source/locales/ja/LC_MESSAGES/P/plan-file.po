@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/plan-file.rst:5
+msgid "plan file"
+msgstr ""
+
+#: ../../P/plan-file.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../P/plan-file.rst:9
+msgid ""
+"[Unix] On systems that support :ref:`finger`\\, the .plan file in a "
+"user's home directory is displayed when the user is fingered. This "
+"feature was originally intended to be used to keep potential fingerers "
+"apprised of one's location and near-future plans, but has been turned "
+"almost universally to humorous and self-expressive purposes (like a :ref"
+":`sig-block`\\). See also :ref:`Hacking-X-for-Y`\\."
+msgstr ""
+
+#: ../../P/plan-file.rst:13
+msgid ""
+"A recent innovation in plan files has been the introduction of "
+"\"scrolling plan files\" which are one-dimensional animations made using "
+"only the printable ASCII character set, carriage return and line feed, "
+"avoiding terminal specific escape sequences, since the :ref:`finger` "
+"command will (for security reasons; see :ref:`letterbomb`\\) not pass the"
+" escape character."
+msgstr ""
+
+#: ../../P/plan-file.rst:15
+msgid ""
+"Scrolling .plan files have become art forms in miniature, and some sites "
+"have started competitions to find who can create the longest running, "
+"funniest, and most original animations. Various animation characters "
+"include: .. list-table::"
+msgstr ""
+
+#: ../../P/plan-file.rst:25
+msgid ""
+"and a compiler (ASP) is available on Usenet for producing them. See also "
+":ref:`twirling-baton`\\."
+msgstr ""
+

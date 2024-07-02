@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/banner.rst:5
+msgid "banner"
+msgstr ""
+
+#: ../../B/banner.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/banner.rst:10
+msgid "A top-centered graphic on a web page. Esp. used in :ref:`banner-ad`\\."
+msgstr ""
+
+#: ../../B/banner.rst:15
+msgid ""
+"On interactive software, a first screen containing a logo and/or author "
+"credits and/or a copyright notice. Similar to :ref:`splash-screen`\\."
+msgstr ""
+
+#: ../../B/banner.rst:19
+msgid ""
+"The title page added to printouts by most print spoolers (see "
+":ref:`spool`\\). Typically includes user or account ID information in "
+"very large character-graphics capitals. Also called a burst page, because"
+" it indicates where to burst (tear apart) fanfold paper to separate one "
+"user's printout from the next."
+msgstr ""
+
+#: ../../B/banner.rst:24
+msgid ""
+"A similar printout generated (typically on multiple pages of fan-fold "
+"paper) from user-specified text, e.g., by a program such as Unix's "
+":code:`banner({1,6`\\)}."
+msgstr ""
+

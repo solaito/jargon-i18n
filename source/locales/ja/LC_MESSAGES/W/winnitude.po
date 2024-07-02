@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/winnitude.rst:5
+msgid "winnitude"
+msgstr ""
+
+#: ../../W/winnitude.rst:7
+msgid "/win'\\@·t[y]ood/, n\\."
+msgstr ""
+
+#: ../../W/winnitude.rst:9
+msgid ""
+"The quality of winning (as opposed to :ref:`winnage`\\, which is the "
+"result of winning). \"Guess what? They tweaked the microcode and now the "
+"LISP interpreter runs twice as fast as it used to.\" \"That's really "
+"great! Boy, what winnitude!\" \"Yup. I'll probably get a half-hour's "
+"winnage on the next run of my program.\" Perhaps curiously, the obvious "
+"antonym ‘lossitude’ is rare."
+msgstr ""
+

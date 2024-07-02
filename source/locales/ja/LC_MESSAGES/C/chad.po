@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/chad.rst:5
+msgid "chad"
+msgstr ""
+
+#: ../../C/chad.rst:7
+msgid "/chad/, n\\."
+msgstr ""
+
+#: ../../C/chad.rst:10
+msgid ""
+"[common] The perforated edge strips on printer paper, after they have "
+"been separated from the printed portion. Also called :ref:`selvage`\\, "
+":ref:`perf`\\, and :ref:`ripoff`\\."
+msgstr ""
+
+#: ../../C/chad.rst:14
+msgid ""
+"The confetti-like paper bits punched out of cards or paper tape; this has"
+" also been called chaff, computer confetti, and keypunch droppings. It's "
+"reported that this was very old Army slang (associated with "
+"teletypewriters before the computer era), and has been occasionally "
+"sighted in directions for punched-card vote tabulators long after it "
+"passed out of live use among computer programmers in the late 1970s. This"
+" sense of ‘chad’ returned to the mainstream during the finale of the "
+"hotly disputed U.S. presidential election in 2000 via stories about the "
+"Florida vote recounts. Note however that in the revived mainstream usage "
+"chad is not a mass noun and ‘a chad’ is a single piece of the stuff."
+msgstr ""
+
+#: ../../C/chad.rst:19
+msgid ""
+"There is an urban legend that chad (sense 2) derives from the Chadless "
+"keypunch (named for its inventor), which cut little u-shaped tabs in the "
+"card to make a hole when the tab folded back, rather than punching out a "
+"circle/rectangle; it was clear that if the Chadless keypunch didn't make "
+"them, then the stuff that other keypunches made had to be ‘chad’. "
+"However, serious attempts to track down \"Chadless\" as a personal name "
+"or U.S. trademark have failed, casting doubt on this etymology — and the "
+"U.S. Patent Classification System uses \"chadless\" (small c) as an "
+"adjective, suggesting that \"chadless\" derives from \"chad\" and not the"
+" other way around. There is another legend that the word was originally "
+"acronymic, standing for \"Card Hole Aggregate Debris\", but this has all "
+"the earmarks of a :ref:`backronym`\\. It has also been noted that the "
+"word \"chad\" is Scots dialect for gravel, but nobody has proposed any "
+"plausible reason that card chaff should be thought of as gravel. None of "
+"these etymologies is really plausible."
+msgstr ""
+
+#: ../../C/chad.rst:29
+msgid "This is *one* way to be         :ref:`chad`\\less."
+msgstr ""
+
+#: ../../C/chad.rst:31
+msgid ""
+"(The next cartoon in the Crunchly saga is         "
+":ref:`75-10-04<crunchly75-10-04>`\\.  The previous  cartoon was  "
+":ref:`74-12-29<crunchly74-12-29>`\\.)"
+msgstr ""
+

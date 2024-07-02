@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/GNU.rst:5
+msgid "GNU"
+msgstr ""
+
+#: ../../G/GNU.rst:7
+msgid "/gnoo/, not, /noo/"
+msgstr ""
+
+#: ../../G/GNU.rst:10
+msgid ""
+"[acronym: ‘GNU’s Not Unix! ', see :ref:`recursive-acronym`\\] A Unix-"
+"workalike development effort of the Free Software Foundation headed by "
+"Richard Stallman. GNU EMACS and the GNU C compiler, two tools designed "
+"for this project, have become very popular in hackerdom and elsewhere. "
+"The GNU project was designed partly to proselytize for RMS's position "
+"that information is community property and all software source should be "
+"shared. One of its slogans is \"Help stamp out software hoarding!\" "
+"Though this remains controversial (because it implicitly denies any right"
+" of designers to own, assign, and sell the results of their labors), many"
+" hackers who disagree with RMS have nevertheless cooperated to produce "
+"large amounts of high-quality software for free redistribution under the "
+"Free Software Foundation's imprimatur. The GNU project has a web page at "
+"`http://www.gnu.org/ <http://www.gnu.org/>`_. See :ref:`EMACS`\\, "
+":ref:`copyleft`\\, :ref:`General-Public-Virus`\\, :ref:`Linux`\\."
+msgstr ""
+
+#: ../../G/GNU.rst:20
+msgid ""
+"Noted Unix hacker John Gilmore <gnu@toad.com>}, founder of Usenet's "
+"anarchic alt.\\* hierarchy."
+msgstr ""
+

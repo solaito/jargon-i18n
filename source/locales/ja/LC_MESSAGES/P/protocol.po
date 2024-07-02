@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/protocol.rst:5
+msgid "protocol"
+msgstr ""
+
+#: ../../P/protocol.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../P/protocol.rst:9
+msgid ""
+"As used by hackers, this never refers to niceties about the proper form "
+"for addressing letters to the Papal Nuncio or the order in which one "
+"should use the forks in a Russian-style place setting; hackers don't care"
+" about such things. It is used instead to describe any set of rules that "
+"allow different machines or pieces of software to coordinate with each "
+"other without ambiguity. So, for example, it does include niceties about "
+"the proper form for addressing packets on a network or the order in which"
+" one should use the forks in the Dining Philosophers Problem. It implies "
+"that there is some common message format and an accepted set of "
+"primitives or commands that all parties involved understand, and that "
+"transactions among them follow predictable logical sequences. See also "
+":ref:`handshaking`\\, :ref:`do-protocol`\\."
+msgstr ""
+

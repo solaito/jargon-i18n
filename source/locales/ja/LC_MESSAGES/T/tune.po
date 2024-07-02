@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/tune.rst:5
+msgid "tune"
+msgstr ""
+
+#: ../../T/tune.rst:7
+msgid "vt\\."
+msgstr ""
+
+#: ../../T/tune.rst:9
+msgid ""
+"[from automotive or musical usage] To optimize a program or system for a "
+"particular environment, esp. by adjusting numerical parameters designed "
+"as :ref:`hook`\\s for tuning, e.g., by changing :code:`#define` lines in "
+"C. One may tune for time (fastest execution), tune for space (least "
+"memory use), or tune for configuration (most efficient use of hardware). "
+"See :ref:`hot-spot`\\, :ref:`hand-hacking`\\."
+msgstr ""
+

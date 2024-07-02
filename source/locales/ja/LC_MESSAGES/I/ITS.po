@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../I/ITS.rst:5
+msgid "ITS"
+msgstr ""
+
+#: ../../I/ITS.rst:7
+msgid "/I·T·S/, n\\."
+msgstr ""
+
+#: ../../I/ITS.rst:10
+msgid ""
+"Incompatible Time-sharing System, an influential though highly "
+"idiosyncratic operating system written for PDP-6s and PDP-10s at MIT and "
+"long used at the MIT AI Lab. Much AI-hacker jargon derives from ITS "
+"folklore, and to have been ‘an ITS hacker’ qualifies one instantly as an "
+"old-timer of the most venerable sort. ITS pioneered many important "
+"innovations, including transparent file sharing between machines and "
+"terminal-independent I/O. After about 1982, most actual work was shifted "
+"to newer machines, with the remaining ITS boxes run essentially as a "
+"hobby and service to the hacker community. The shutdown of the lab's last"
+" ITS machine in May 1990 marked the end of an era and sent old-time "
+"hackers into mourning nationwide (see :ref:`high-moby`\\). There is an "
+"`ITS home page <http://www.its.os.org/>`_."
+msgstr ""
+
+#: ../../I/ITS.rst:18
+msgid ""
+"A mythical image of operating-system perfection worshiped by a bizarre, "
+"fervent retro-cult of old-time hackers and ex-users (see "
+":ref:`troglodyte`\\, sense 2). ITS worshipers manage somehow to continue "
+"believing that an OS maintained by assembly-language hand-hacking that "
+"supported only monocase 6-character filenames in one directory per "
+"account remains superior to today's state of commercial art (their venom "
+"against :ref:`Unix` is particularly intense). See also :ref:`holy-"
+"wars`\\, :ref:`Weenix`\\."
+msgstr ""
+

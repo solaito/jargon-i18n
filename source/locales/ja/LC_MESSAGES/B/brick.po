@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/brick.rst:5
+msgid "brick"
+msgstr ""
+
+#: ../../B/brick.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/brick.rst:10
+msgid ""
+"A piece of equipment that has been programmed or configured into a "
+":ref:`hung`\\, :ref:`wedged`\\,unusable state. Especially used to "
+"describe what happens to devices like routers or PDAs that run from "
+"firmware when the firmware image is damaged or its settings are somehow "
+"patched to impossible values. This term usually implies irreversibility, "
+"but equipment can sometimes be unbricked by performing a hard reset or "
+"some other drastic operation. Sometimes verbed: \"Yeah, I bricked the "
+"router because I forgot about adding in the new access-list. \"."
+msgstr ""
+
+#: ../../B/brick.rst:17
+msgid ""
+"An outboard power transformer of the kind associated with laptops, "
+"modems, routers and other small computing appliances, especially one of "
+"the modern type with cords on both ends, as opposed to the older and "
+"obnoxious type that plug directly into wall or barrier strip."
+msgstr ""
+

@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../O/off-the-trolley.rst:5
+msgid "off the trolley"
+msgstr ""
+
+#: ../../O/off-the-trolley.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../O/off-the-trolley.rst:9
+msgid ""
+"Describes the behavior of a program that malfunctions and goes catatonic,"
+" but doesn't actually :ref:`crash` or abort. See :ref:`glitch`\\, "
+":ref:`bug`\\, :ref:`deep-space`\\, :ref:`wedged`\\."
+msgstr ""
+
+#: ../../O/off-the-trolley.rst:12
+msgid ""
+"This term is much older than computing, and is (uncommon) slang "
+"elsewhere. A trolley is the small wheel that trolls, or runs against, the"
+" heavy wire that carries the current to run a streetcar. It's at the end "
+"of the long pole (the trolley pole) that reaches from the roof of the "
+"streetcar to the overhead line. When the trolley stops making contact "
+"with the wire (from passing through a switch, going over bumpy track, or "
+"whatever), the streetcar comes to a halt, (usually) without crashing. The"
+" streetcar is then said to be off the trolley, or off the wire. Later on,"
+" trolley came to mean the streetcar itself. Since streetcars became "
+"common in the 1890s, the term is more than 100 years old. Nowadays, "
+"trolleys are only seen on historic streetcars, since modern streetcars "
+"use pantographs to contact the wire."
+msgstr ""
+

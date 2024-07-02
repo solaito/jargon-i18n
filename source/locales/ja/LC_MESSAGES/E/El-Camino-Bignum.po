@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/El-Camino-Bignum.rst:5
+msgid "El Camino Bignum"
+msgstr ""
+
+#: ../../E/El-Camino-Bignum.rst:7
+msgid "/el´ k\\@·mee´noh big´nuhm/, n\\."
+msgstr ""
+
+#: ../../E/El-Camino-Bignum.rst:9
+msgid ""
+"The road mundanely called El Camino Real, running along San Francisco "
+"peninsula. It originally extended all the way down to Mexico City; many "
+"portions of the old road are still intact. Navigation on the San "
+"Francisco peninsula is usually done relative to El Camino Real, which "
+"defines :ref:`logical` north and south even though it isn't really north-"
+"south in many places. El Camino Real runs right past Stanford University "
+"and so is familiar to hackers."
+msgstr ""
+
+#: ../../E/El-Camino-Bignum.rst:14
+msgid ""
+"The Spanish word ‘real’ (which has two syllables: /ray·ahl´/) means "
+"‘royal’; El Camino Real is ‘the royal road’. In the FORTRAN language, a "
+"real quantity is a number typically precise to seven significant digits, "
+"and a double precision quantity is a larger floating-point number, "
+"precise to perhaps fourteen significant digits (other languages have "
+"similar real types)."
+msgstr ""
+
+#: ../../E/El-Camino-Bignum.rst:17
+msgid ""
+"When a hacker from MIT visited Stanford in 1976, he remarked what a long "
+"road El Camino Real was. Making a pun on ‘real’, he started calling it "
+"‘El Camino Double Precision’ — but when the hacker was told that the road"
+" was hundreds of miles long, he renamed it ‘El Camino Bignum’, and that "
+"name has stuck. (See :ref:`bignum`\\.)"
+msgstr ""
+
+#: ../../E/El-Camino-Bignum.rst:21
+msgid ""
+"[GLS has since let slip that the unnamed hacker in this story was in fact"
+" himself —ESR]"
+msgstr ""
+
+#: ../../E/El-Camino-Bignum.rst:23
+msgid ""
+"In the early 1990s, the synonym El Camino Virtual was been reported as an"
+" alternate at IBM and Amdahl sites in the Valley."
+msgstr ""
+
+#: ../../E/El-Camino-Bignum.rst:25
+msgid ""
+"Mathematically literate hackers in the Valley have also been heard to "
+"refer to some major cross-street intersecting El Camino Real as \"El "
+"Camino Imaginary\". One popular theory is that the intersection is "
+"located near Moffett Field — where they keep all those complex planes."
+msgstr ""
+

@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/foobar.rst:5
+msgid "foobar"
+msgstr ""
+
+#: ../../F/foobar.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/foobar.rst:9
+msgid ""
+"[very common] Another widely used :ref:`metasyntactic-variable`\\; see "
+":ref:`foo` for etymology. Probably originally propagated through "
+"DECsystem manuals by Digital Equipment Corporation ( :ref:`DEC`\\) in "
+"1960s and early 1970s; confirmed sightings there go back to 1972. Hackers"
+" do *not* generally use this to mean :ref:`FUBAR` in either the slang or "
+"jargon sense. See also :ref:`Fred-Foobar`\\. In RFC1639, \"FOOBAR\" was "
+"made an abbreviation for \"FTP Operation Over Big Address Records\", but "
+"this was an obvious :ref:`backronym`\\. It has been plausibly suggested "
+"that \"foobar\" spread among early computer engineers partly because of "
+"FUBAR and partly because \"foo bar\" parses in electronics techspeak as "
+"an inverted foo signal; if a digital signal is active low (so a negative "
+"or zero-voltage condition represents a \"1\") then a horizontal bar is "
+"commonly placed over the signal label."
+msgstr ""
+

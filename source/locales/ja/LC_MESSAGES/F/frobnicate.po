@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/frobnicate.rst:5
+msgid "frobnicate"
+msgstr ""
+
+#: ../../F/frobnicate.rst:7
+msgid "/frob´ni·kayt/, vt\\."
+msgstr ""
+
+#: ../../F/frobnicate.rst:9
+msgid ""
+"[Poss. derived from :ref:`frobnitz`\\, and usually abbreviated to "
+":ref:`frob`\\, but frobnicate is recognized as the official full form. :]"
+" To manipulate or adjust, to tweak. One frequently frobs bits or other "
+"2-state devices. Thus: \"Please frob the light switch\" (that is, flip "
+"it), but also \"Stop frobbing that clasp; you'll break it\". One also "
+"sees the construction to frob a frob. See :ref:`tweak` and "
+":ref:`twiddle`\\."
+msgstr ""
+
+#: ../../F/frobnicate.rst:17
+msgid ""
+"Usage: frob, twiddle, and tweak sometimes connote points along a "
+"continuum. ‘Frob’ connotes aimless manipulation; twiddle connotes gross "
+"manipulation, often a coarse search for a proper setting; tweak connotes "
+"fine-tuning. If someone is turning a knob on an oscilloscope, then if "
+"he's carefully adjusting it, he is probably tweaking it; if he is just "
+"turning it but looking at the screen, he is probably twiddling it; but if"
+" he's just doing it because turning a knob is fun, he's frobbing it. The "
+"variant frobnosticate has been recently reported."
+msgstr ""
+

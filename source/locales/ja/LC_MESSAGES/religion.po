@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../religion.rst:5
+msgid "Religion"
+msgstr ""
+
+#: ../../religion.rst:7
+msgid ""
+"Agnostic. Atheist. Non-observant Jewish. Neo-pagan. Very commonly, three "
+"or more of these are combined in the same person. Conventional faith-"
+"holding Christianity is rare though not unknown."
+msgstr ""
+
+#: ../../religion.rst:14
+msgid ""
+"Even hackers who identify with a religious affiliation tend to be relaxed"
+" about it, hostile to organized religion in general and all forms of "
+"religious bigotry in particular. Many enjoy ‘parody’ religions such as "
+"Discordianism and the Church of the SubGenius."
+msgstr ""
+
+#: ../../religion.rst:17
+msgid ""
+"Also, many hackers are influenced to varying degrees by Zen Buddhism or "
+"(less commonly) Taoism, and blend them easily with their ‘native’ "
+"religions."
+msgstr ""
+
+#: ../../religion.rst:19
+msgid ""
+"There is a definite strain of mystical, almost Gnostic sensibility that "
+"shows up even among those hackers not actively involved with neo-"
+"paganism, Discordianism, or Zen. Hacker folklore that pays homage to "
+"‘wizards’ and speaks of incantations and demons has too much "
+"psychological truthfulness about it to be entirely a joke."
+msgstr ""
+

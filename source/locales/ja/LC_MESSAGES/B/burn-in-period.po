@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/burn-in-period.rst:5
+msgid "burn-in period"
+msgstr ""
+
+#: ../../B/burn-in-period.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/burn-in-period.rst:10
+msgid ""
+"A factory test designed to catch systems with :ref:`marginal` components "
+"before they get out the door; the theory is that burn-in will protect "
+"customers by outwaiting the steepest part of the :ref:`bathtub-curve` "
+"(see :ref:`infant-mortality`\\)."
+msgstr ""
+
+#: ../../B/burn-in-period.rst:13
+msgid ""
+"A period of indeterminate length in which a person using a computer is so"
+" intensely involved in his project that he forgets basic needs such as "
+"food, drink, sleep, etc. Warning: Excessive burn-in can lead to burn-out."
+" See :ref:`hack-mode`\\, :ref:`larval-stage`\\."
+msgstr ""
+
+#: ../../B/burn-in-period.rst:17
+msgid ""
+"Historical note: the origin of \"burn-in\" (sense 1) is apparently the "
+"practice of setting a new-model airplane's brakes on fire, then "
+"extinguishing the fire, in order to make them hold better. This was done "
+"on the first version of the U.S. spy-plane, the U-2."
+msgstr ""
+

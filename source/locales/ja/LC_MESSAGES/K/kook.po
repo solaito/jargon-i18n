@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../K/kook.rst:5
+msgid "kook"
+msgstr ""
+
+#: ../../K/kook.rst:7
+msgid ""
+"[Usenet; originally and more formally, net.kook] Term used to describe a "
+"regular poster who continually posts messages with no apparent grounding "
+"in reality. Different from a :ref:`troll`\\, which implies a sort of sly "
+"wink on the part of a poster who knows better, kooks really believe what "
+"they write, to the extent that they believe anything."
+msgstr ""
+
+#: ../../K/kook.rst:10
+msgid ""
+"The kook trademark is paranoia and grandiosity. Kooks will often build up"
+" elaborate imaginary support structures, fake corporations and the like, "
+"and continue to act as if those things are real even after their falsity "
+"has been documented in public."
+msgstr ""
+
+#: ../../K/kook.rst:13
+msgid ""
+"While they may appear harmless, and are usually filtered out by the other"
+" regular participants in a newsgroup of mailing list, they can still "
+"cause problems because the necessity for these measures is not "
+"immediately apparent to newcomers; there are several instances on record,"
+" for example, of journalists writing stories with quotes from kooks who "
+"caught them unaware."
+msgstr ""
+
+#: ../../K/kook.rst:15
+msgid ""
+"An entertaining web page chronicling the activities of many notable kooks"
+" can be found at `http://www.crank.net/usenet.html "
+"<http://www.crank.net/usenet.html>`_."
+msgstr ""
+

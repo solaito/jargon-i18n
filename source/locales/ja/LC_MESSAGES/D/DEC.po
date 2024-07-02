@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/DEC.rst:5
+msgid "DEC"
+msgstr ""
+
+#: ../../D/DEC.rst:7
+msgid "/dek/, n\\."
+msgstr ""
+
+#: ../../D/DEC.rst:9
+msgid ""
+"n. Commonly used abbreviation for Digital Equipment Corporation, later "
+"deprecated by DEC itself in favor of \"Digital\" and now entirely "
+"obsolete following the buyout by Compaq. Before the :ref:`killer-micro` "
+"revolution of the late 1980s, hackerdom was closely symbiotic with DEC's "
+"pioneering timesharing machines. The first of the group of cultures "
+"described by this lexicon nucleated around the PDP-1 (see :ref:`TMRC`\\)."
+" Subsequently, the PDP-6, :ref:`PDP-10`\\, :ref:`PDP-20`\\, :ref:`PDP-11`"
+" and :ref:`VAX` were all foci of large and important hackerdoms, and DEC "
+"machines long dominated the ARPANET and Internet machine population. DEC "
+"was the technological leader of the minicomputer era (roughly 1967 to "
+"1987), but its failure to embrace microcomputers and Unix early cost it "
+"heavily in profits and prestige after :ref:`silicon` got cheap. "
+"Nevertheless, the microprocessor design tradition owes a major debt to "
+"the :ref:`PDP-11` instruction set, and every one of the major general-"
+"purpose microcomputer OSs so far (CP/M, MS-DOS, Unix, OS/2, Windows NT) "
+"was either genetically descended from a DEC OS, or incubated on DEC "
+"hardware, or both. Accordingly, DEC was for many years still regarded "
+"with a certain wry affection even among many hackers too young to have "
+"grown up on DEC machines."
+msgstr ""
+

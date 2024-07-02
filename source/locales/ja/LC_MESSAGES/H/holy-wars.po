@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/holy-wars.rst:5
+msgid "holy wars"
+msgstr ""
+
+#: ../../H/holy-wars.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../H/holy-wars.rst:9
+msgid ""
+"[from :ref:`Usenet`\\, but may predate it; common] n. :ref:`flame-war`\\s"
+" over :ref:`religious-issues`\\. The paper by Danny Cohen that "
+"popularized the terms :ref:`big-endian` and :ref:`little-endian` in "
+"connection with the LSB-first/MSB-first controversy was entitled *On Holy"
+" Wars and a Plea for Peace*\\."
+msgstr ""
+
+#: ../../H/holy-wars.rst:12
+msgid ""
+"Great holy wars of the past have included :ref:`ITS` vs.: :ref:`Unix`\\, "
+":ref:`Unix` vs.: :ref:`VMS`\\, :ref:`BSD` Unix vs.: System V, :ref:`C` "
+"vs.: :ref:`Pascal`\\, :ref:`C` vs.: FORTRAN, etc. In the year 2003, "
+"popular favorites of the day are KDE vs, GNOME, vim vs. elvis, Linux vs. "
+"[Free\\|Net\\|Open]BSD. Hardy perennials include :ref:`EMACS` vs.: "
+":ref:`vi`\\, my personal computer vs.: everyone else's personal computer,"
+" ad nauseam. The characteristic that distinguishes holy wars from normal "
+"technical disputes is that in a holy war most of the participants spend "
+"their time trying to pass off personal value choices and cultural "
+"attachments as objective technical evaluations. This happens precisely "
+"because in a true holy war, the actual substantive differences between "
+"the sides are relatively minor. See also :ref:`theology`\\."
+msgstr ""
+

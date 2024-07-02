@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bignum.rst:5
+msgid "bignum"
+msgstr ""
+
+#: ../../B/bignum.rst:7
+msgid "/big´nuhm/, n\\."
+msgstr ""
+
+#: ../../B/bignum.rst:9
+msgid "[common; orig. from MIT MacLISP]"
+msgstr ""
+
+#: ../../B/bignum.rst:13
+msgid ""
+"[techspeak] A multiple-precision computer representation for very large "
+"integers."
+msgstr ""
+
+#: ../../B/bignum.rst:16
+msgid ""
+"More generally, any very large number. \"Have you ever looked at the "
+"United States Budget? There's bignums for you!\""
+msgstr ""
+
+#: ../../B/bignum.rst:21
+msgid ""
+"[Stanford] In backgammon, large numbers on the dice especially a roll of "
+"double fives or double sixes (compare :ref:`moby`\\, sense 4). See also "
+":ref:`El-Camino-Bignum`\\."
+msgstr ""
+
+#: ../../B/bignum.rst:24
+msgid ""
+"Sense 1 may require some explanation. Most computer languages provide a "
+"kind of data called integer, but such computer integers are usually very "
+"limited in size; usually they must be smaller than :math:`2^{31}` "
+"(2,147,483,648). If you want to work with numbers larger than that, you "
+"have to use floating-point numbers, which are usually accurate to only "
+"six or seven decimal places. Computer languages that provide bignums can "
+"perform exact calculations on very large numbers, such as 1000! (the "
+"factorial of 1000, which is 1000 times 999 times 998 times ... times 2 "
+"times 1). For example, this value for 1000! was computed by the MacLISP "
+"system using bignums:"
+msgstr ""
+

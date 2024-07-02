@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/HP-SUX.rst:5
+msgid "HP-SUX"
+msgstr ""
+
+#: ../../H/HP-SUX.rst:7
+msgid "/H·P suhks/, n\\."
+msgstr ""
+
+#: ../../H/HP-SUX.rst:9
+msgid ""
+"Unflattering hackerism for HP-UX, Hewlett-Packard's Unix port, which "
+"features some truly unique bogosities in the filesystem internals and "
+"elsewhere (these occasionally create portability problems). HP-UX is "
+"often referred to as ‘hockey-pux’ inside HP, and one respondent claims "
+"that the proper pronunciation is /H·P ukkkhhhh/ as though one were about "
+"to spit. Another such alternate spelling and pronunciation is \"H-PUX\" "
+"/H-puhks/. Hackers at HP/Apollo (the former Apollo Computers which was "
+"swallowed by HP in 1989) have been heard to complain that Mr. Packard "
+"should have pushed to have his name first, if for no other reason than "
+"the greater eloquence of the resulting acronym. See :ref:`sun-stools`\\, "
+":ref:`Slowlaris`\\."
+msgstr ""
+

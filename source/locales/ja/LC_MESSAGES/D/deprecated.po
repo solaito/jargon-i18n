@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/deprecated.rst:5
+msgid "deprecated"
+msgstr ""
+
+#: ../../D/deprecated.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../D/deprecated.rst:9
+msgid ""
+"Said of a program or feature that is considered obsolescent and in the "
+"process of being phased out, usually in favor of a specified replacement."
+" Deprecated features can, unfortunately, linger on for many years. This "
+"term appears with distressing frequency in standards documents when the "
+"committees writing the documents realize that large amounts of extant "
+"(and presumably happily working) code depend on the feature(s) that have "
+"passed out of favor. See also :ref:`dusty-deck`\\."
+msgstr ""
+
+#: ../../D/deprecated.rst:14
+msgid ""
+"[Usage note: don't confuse this word with ‘depreciated’, or the verb form"
+" ‘deprecate’ with ‘depreciate’. They are different words; see any "
+"dictionary for discussion.]"
+msgstr ""
+

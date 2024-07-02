@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/magic-smoke.rst:5
+msgid "magic smoke"
+msgstr ""
+
+#: ../../M/magic-smoke.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../M/magic-smoke.rst:9
+msgid ""
+"A substance trapped inside IC packages that enables them to function "
+"(also called blue smoke; this is similar to the archaic phlogiston "
+"hypothesis about combustion). Its existence is demonstrated by what "
+"happens when a chip burns up — the magic smoke gets let out, so it "
+"doesn't work any more. See :ref:`smoke-test`\\, :ref:`let-the-smoke-"
+"out`\\."
+msgstr ""
+
+#: ../../M/magic-smoke.rst:13
+msgid ""
+"Usenetter Jay Maynard tells the following story: \"Once, while hacking on"
+" a dedicated Z80 system, I was testing code by blowing EPROMs and "
+"plugging them in the system, then seeing what happened. One time, I "
+"plugged one in backwards. I only discovered that after I realized that "
+"Intel didn't put power-on lights under the quartz windows on the tops of "
+"their EPROMs — the die was glowing white-hot. Amazingly, the EPROM worked"
+" fine after I erased it, filled it full of zeros, then erased it again. "
+"For all I know, it's still in service. Of course, this is because the "
+"magic smoke didn't get let out.\" Compare the original phrasing of :ref"
+":`Murphys-Law`\\."
+msgstr ""
+

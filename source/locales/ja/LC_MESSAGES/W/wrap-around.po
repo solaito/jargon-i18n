@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/wrap-around.rst:5
+msgid "wrap around"
+msgstr ""
+
+#: ../../W/wrap-around.rst:7
+msgid "vi\\."
+msgstr ""
+
+#: ../../W/wrap-around.rst:9
+msgid "(also n. wraparound and v. shorthand wrap)"
+msgstr ""
+
+#: ../../W/wrap-around.rst:12
+msgid ""
+"[techspeak] The action of a counter that starts over at zero or at minus "
+"infinity (see :ref:`infinity`\\) after its maximum value has been "
+"reached, and continues incrementing, either because it is programmed to "
+"do so or because of an overflow (as when a car's odometer starts over at "
+"0)."
+msgstr ""
+
+#: ../../W/wrap-around.rst:15
+msgid ""
+"To change :ref:`phase` gradually and continuously by maintaining a steady"
+" wake-sleep cycle somewhat longer than 24 hours, e.g., living six long "
+"(28-hour) days in a week (or, equivalently, sleeping at the rate of 10 "
+"microhertz). This sense is also called :ref:`phase-wrapping`\\."
+msgstr ""
+

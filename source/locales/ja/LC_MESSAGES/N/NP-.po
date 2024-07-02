@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/NP-.rst:5
+msgid "NP-"
+msgstr ""
+
+#: ../../N/NP-.rst:7
+msgid "/N·P/, pref\\."
+msgstr ""
+
+#: ../../N/NP-.rst:9
+msgid ""
+"Extremely. Used to modify adjectives describing a level or quality of "
+"difficulty; the connotation is often ‘more so than it should be’. This is"
+" generalized from the computer-science terms NP-hard and NP-complete; NP-"
+"complete problems all seem to be very hard, but so far no one has found a"
+" proof that they are. NP is the set of Nondeterministic-Polynomial "
+"problems, those that can be completed by a nondeterministic Turing "
+"machine in an amount of time that is a polynomial function of the size of"
+" the input; a solution for one NP-complete problem would solve all the "
+"others. \"Coding a BitBlt implementation to perform correctly in every "
+"case is NP-annoying.\""
+msgstr ""
+
+#: ../../N/NP-.rst:15
+msgid ""
+"Note, however, that strictly speaking this usage is misleading; there are"
+" plenty of easy problems in class NP. NP-complete problems are hard not "
+"because they are in class NP, but because they are the hardest problems "
+"in class NP."
+msgstr ""
+

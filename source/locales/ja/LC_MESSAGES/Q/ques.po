@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../Q/ques.rst:5
+msgid "ques"
+msgstr ""
+
+#: ../../Q/ques.rst:7
+msgid "/kwes/"
+msgstr ""
+
+#: ../../Q/ques.rst:9
+msgid "n\\. The question mark character (``?``\\, ASCII 0111111)."
+msgstr ""
+
+#: ../../Q/ques.rst:12
+msgid ""
+"interj. What? Also frequently verb-doubled as \"Ques ques?\" See "
+":ref:`wall`\\."
+msgstr ""
+

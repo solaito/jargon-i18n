@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/B1FF.rst:5
+msgid "B1FF"
+msgstr ""
+
+#: ../../B/B1FF.rst:7
+msgid "/bif/, BIFF, n\\."
+msgstr ""
+
+#: ../../B/B1FF.rst:9
+msgid ""
+"The most famous :ref:`pseudo`\\, and the prototypical :ref:`newbie`\\. "
+"Articles from B1FF feature all uppercase letters sprinkled liberally with"
+" bangs, typos, ‘cute’ misspellings (EVRY BUDY LUVS GOOD OLD BIFF CUZ KØØL"
+" DOOD AN HE RITES REEL AWESUM THINGZ IN CAPITULL LETTRS LIKE THIS!!! ), "
+"use (and often misuse) of fragments of :ref:`talk-mode` abbreviations, a "
+"long :ref:`sig-block` (sometimes even a :ref:`doubled-sig`\\), and "
+"unbounded naivete. B1FF posts articles using his elder brother's VIC-20. "
+"B1FF's location is a mystery, as his articles appear to come from a "
+"variety of sites. However, BITNET seems to be the most frequent origin. "
+"The theory that B1FF is a denizen of BITNET is supported by B1FF's "
+"(unfortunately invalid) electronic mail address: B1FF\\@BIT.NET."
+msgstr ""
+
+#: ../../B/B1FF.rst:17
+msgid ""
+"[1993: Now It Can Be Told! My spies inform me that B1FF was originally "
+"created by Joe Talmadge <jat@cup.hp.com>, also the author of the infamous"
+" and much-plagiarized \"Flamer's Bible\". The BIFF filter he wrote was "
+"later passed to Richard Sexton, who posted BIFFisms much more widely. "
+"Versions have since been posted for the amusement of the net at large. "
+"See also :ref:`Jeff-K-` —ESR]"
+msgstr ""
+

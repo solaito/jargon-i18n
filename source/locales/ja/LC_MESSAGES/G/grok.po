@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/grok.rst:5
+msgid "grok"
+msgstr ""
+
+#: ../../G/grok.rst:7
+msgid "/grok/, /grohk/, vt\\."
+msgstr ""
+
+#: ../../G/grok.rst:9
+msgid ""
+"[common; from the novel *Stranger in a Strange Land*\\, by Robert A. "
+"Heinlein, where it is a Martian word meaning literally ‘to drink’ and "
+"metaphorically ‘to be one with’] The emphatic form is grok in fullness."
+msgstr ""
+
+#: ../../G/grok.rst:12
+msgid ""
+"To understand. Connotes intimate and exhaustive knowledge. When you claim"
+" to ‘grok’ some knowledge or technique, you are asserting that you have "
+"not merely learned it in a detached instrumental way but that it has "
+"become part of you, part of your identity. For example, to say that you "
+"\"know\" :ref:`LISP` is simply to assert that you can code in it if "
+"necessary — but to say you \"grok\" LISP is to claim that you have deeply"
+" entered the world-view and spirit of the language, with the implication "
+"that it has transformed your view of programming. Contrast :ref:`zen`\\, "
+"which is similar supernal understanding experienced as a single brief "
+"flash. See also :ref:`glark`\\."
+msgstr ""
+
+#: ../../G/grok.rst:20
+msgid ""
+"Used of programs, may connote merely sufficient understanding. \"Almost "
+"all C compilers grok the :code:`void` type these days.\""
+msgstr ""
+

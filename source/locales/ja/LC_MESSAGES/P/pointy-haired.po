@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/pointy-haired.rst:5
+msgid "pointy-haired"
+msgstr ""
+
+#: ../../P/pointy-haired.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../P/pointy-haired.rst:9
+msgid ""
+"[after the character in the :ref:`Dilbert` comic strip] Describes the "
+"extreme form of the property that separates :ref:`suit`\\s and "
+":ref:`marketroid`\\s from hackers. Compare :ref:`brain-dead`\\; "
+":ref:`demented`\\; see :ref:`PHB`\\. Always applied to people, never to "
+"ideas. The plural form is often used as a noun. \"The pointy-haireds "
+"ordered me to use Windows NT, but I set up a Linux server with Samba "
+"instead.\""
+msgstr ""
+

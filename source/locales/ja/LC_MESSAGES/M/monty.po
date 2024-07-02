@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/monty.rst:5
+msgid "monty"
+msgstr ""
+
+#: ../../M/monty.rst:7
+msgid "/mon´tee/, n\\."
+msgstr ""
+
+#: ../../M/monty.rst:10
+msgid ""
+"[US Geological Survey] A program with a ludicrously complex user "
+"interface written to perform extremely trivial tasks. An example would be"
+" a menu-driven, button clicking, pulldown, pop-up windows program for "
+"listing directories. The original monty was an infamous weather-reporting"
+" program, Monty the Amazing Weather Man, written at the USGS. Monty had a"
+" widget-packed X-window interface with over 200 buttons; and all monty "
+"actually *did* was files off the network."
+msgstr ""
+
+#: ../../M/monty.rst:16
+msgid ""
+"[Great Britain; commonly capitalized as Monty or as the Full Monty] 16 "
+"megabytes of memory, when fitted to an IBM-PC or compatible. A standard "
+"PC-compatible using the AT- or ISA-bus with a normal BIOS cannot access "
+"more than 16 megabytes of RAM. Generally used of a PC, Unix workstation, "
+"etc. to mean fully populated with memory, disk-space or some other "
+"desirable resource. See the World Wide Words article `The Full Monty "
+"<http://www.worldwidewords.org/articles/monty.htm>`_\\  for discussion of"
+" the rather complex etymology that may lie behind this phrase. Compare "
+"American :ref:`moby`\\."
+msgstr ""
+

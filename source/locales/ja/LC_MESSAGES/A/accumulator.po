@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/accumulator.rst:5
+msgid "accumulator"
+msgstr ""
+
+#: ../../A/accumulator.rst:7
+msgid "n\\. obs\\."
+msgstr ""
+
+#: ../../A/accumulator.rst:11
+msgid ""
+"Archaic term for a register. On-line use of it as a synonym for register "
+"is a fairly reliable indication that the user has been around for quite a"
+" while and/or that the architecture under discussion is quite old. The "
+"term in full is almost never used of microprocessor registers, for "
+"example, though symbolic names for arithmetic registers beginning in ‘A’ "
+"derive from historical use of the term accumulator (and not, actually, "
+"from ‘arithmetic’). Confusingly, though, an ‘A’ register name prefix may "
+"also stand for address, as for example on the Motorola 680x0 family."
+msgstr ""
+
+#: ../../A/accumulator.rst:17
+msgid ""
+"A register being used for arithmetic or logic (as opposed to addressing "
+"or a loop index), especially one being used to accumulate a sum or count "
+"of many items. This use is in context of a particular routine or stretch "
+"of code. \"The FOOBAZ routine uses A3 as an accumulator.\""
+msgstr ""
+
+#: ../../A/accumulator.rst:22
+msgid ""
+"One's in-basket (esp. among old-timers who might use sense 1). \"You want"
+" this reviewed? Sure, just put it in the accumulator.\" (See "
+":ref:`stack`\\.)"
+msgstr ""
+

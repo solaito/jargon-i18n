@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/front-end.rst:5
+msgid "front end"
+msgstr ""
+
+#: ../../F/front-end.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/front-end.rst:10
+msgid ""
+"An intermediary computer that does set-up and filtering for another "
+"(usually more powerful but less friendly) machine (a back end)."
+msgstr ""
+
+#: ../../F/front-end.rst:13
+msgid ""
+"What you're talking to when you have a conversation with someone who is "
+"making replies without paying attention. \"Look at the dancing "
+"elephants!\" \"Uh-huh.\" \"Do you know what I just said?\" \"Sorry, you "
+"were talking to the front end.\""
+msgstr ""
+
+#: ../../F/front-end.rst:20
+msgid ""
+"Software that provides an interface to another program ‘behind’ it, which"
+" may not be as user-friendly. Probably from analogy with hardware front-"
+"ends (see sense 1) that interfaced with mainframes."
+msgstr ""
+

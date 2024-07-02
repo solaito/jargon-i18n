@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/anti-idiotarianism.rst:5
+msgid "anti-idiotarianism"
+msgstr ""
+
+#: ../../A/anti-idiotarianism.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../A/anti-idiotarianism.rst:9
+msgid ""
+"[very common] Opposition to idiots of all political stripes. First coined"
+" in the :ref:`blog` named `Little Green Footballs "
+"<http://www.littlegreenfootballs.com/weblog/weblog.php>`_\\  as part of a"
+" post expressing disgust with inane responses to post-9/11 Islamic "
+"terrorism. Anti-idiotarian wrath has focused on Islamic terrorists and "
+"their sympathizers in the Western political left, but also routinely "
+"excoriated right-wing politicians backing repressive ’anti-terror‘ "
+"legislation and Christian religious figures who (in the blogosphere's "
+"view of the matter) have descended nearly to the level of jihad "
+"themselves."
+msgstr ""
+

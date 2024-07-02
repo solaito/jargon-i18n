@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../I/ICBM-address.rst:5
+msgid "ICBM address"
+msgstr ""
+
+#: ../../I/ICBM-address.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../I/ICBM-address.rst:9
+msgid ""
+"(Also missile address) The form used to register a site with the Usenet "
+"mapping project, back before the day of pervasive Internet, included a "
+"blank for longitude and latitude, preferably to seconds-of-arc accuracy. "
+"This was actually used for generating geographically-correct maps of "
+"Usenet links on a plotter; however, it became traditional to refer to "
+"this as one's ICBM address or missile address, and some people include it"
+" in their :ref:`sig-block` with that name. (A real missile address would "
+"include target elevation.)"
+msgstr ""
+

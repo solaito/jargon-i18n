@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/pop.rst:5
+msgid "pop"
+msgstr ""
+
+#: ../../P/pop.rst:7
+msgid "/pop/"
+msgstr ""
+
+#: ../../P/pop.rst:9
+msgid ""
+"[from the operation that removes the top of a stack, and the fact that "
+"procedure return addresses are usually saved on the stack] (also "
+"capitalized ‘POP’)"
+msgstr ""
+
+#: ../../P/pop.rst:11
+msgid ""
+"vt\\. To remove something from a :ref:`stack`\\. If a person says he/she "
+"has popped something from his stack, that means he/she has finally "
+"finished working on it and can now remove it from the list of things "
+"hanging overhead."
+msgstr ""
+
+#: ../../P/pop.rst:16
+msgid ""
+"When a discussion gets to a level of detail so deep that the main point "
+"of the discussion is being lost, someone will shout \"Pop! \", meaning "
+"\"Get back up to a higher level!\" The shout is frequently accompanied by"
+" an upthrust arm with a finger pointing to the ceiling."
+msgstr ""
+
+#: ../../P/pop.rst:21
+msgid ""
+"[all-caps, as ‘POP’] Point of Presence, a bank of dial-in lines allowing "
+"customers to make (local) calls into an ISP. This is borderline "
+"techspeak."
+msgstr ""
+

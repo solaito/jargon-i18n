@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/luser.rst:5
+msgid "luser"
+msgstr ""
+
+#: ../../L/luser.rst:7
+msgid "/loo´zr/, n\\."
+msgstr ""
+
+#: ../../L/luser.rst:9
+msgid ""
+"[common] A :ref:`user`\\; esp. one who is also a :ref:`loser`\\. ( "
+":ref:`luser` and :ref:`loser` are pronounced identically.) This word was "
+"coined around 1975 at MIT. Under ITS, when you first walked up to a "
+"terminal at MIT and typed Control-Z to get the computer's attention, it "
+"printed out some status information, including how many people were "
+"already using the computer; it might print \"14 users\", for example. "
+"Someone thought it would be a great joke to patch the system to print "
+"\"14 losers\" instead. There ensued a great controversy, as some of the "
+"users didn't particularly want to be called losers to their faces every "
+"time they used the computer. For a while several hackers struggled "
+"covertly, each changing the message behind the back of the others; any "
+"time you logged into the computer it was even money whether it would say "
+"\"users\" or \"losers\". Finally, someone tried the compromise "
+"\"lusers\", and it stuck. Later one of the ITS machines supported "
+":code:`luser` as a request-for-help command. ITS died the death in "
+"mid-1990, except as a museum piece; the usage lives on, however, and the "
+"term luser is often seen in program comments and on Usenet. Compare "
+":ref:`mundane`\\, :ref:`muggle`\\, :ref:`newbie`\\, :ref:`chainik`\\."
+msgstr ""
+

@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/grue.rst:5
+msgid "grue"
+msgstr ""
+
+#: ../../G/grue.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../G/grue.rst:9
+msgid ""
+"[from archaic English verb for shudder, as with fear] The grue was "
+"originated in the game :ref:`Zork` (Dave Lebling took the name from Jack "
+"Vance's *Dying Earth* fantasies) and used in several other :ref:`Infocom`"
+" games as a hint that you should perhaps look for a lamp, torch or some "
+"type of light source. Wandering into a dark area would cause the game to "
+"prompt you, \"It is very dark. If you continue you are likely to be eaten"
+" by a grue.\" If you failed to locate a light source within the next "
+"couple of moves this would indeed be the case."
+msgstr ""
+
+#: ../../G/grue.rst:14
+msgid ""
+"The grue, according to scholars of the Great Underground Empire, is a "
+"sinister, lurking presence in the dark places of the earth. Its favorite "
+"diet is either adventurers or enchanters, but its insatiable appetite is "
+"tempered by its extreme fear of light. No grues have ever been seen by "
+"the light of day, and only a few have been observed in their underground "
+"lairs. Of those who have seen grues, few have survived their fearsome "
+"jaws to tell the tale. Grues have sickly glowing fur, fish-mouthed faces,"
+" sharp claws and fangs, and an uncontrollable tendency to slaver and "
+"gurgle. They are certainly the most evil-tempered of all creatures; to "
+"say they are touchy is a dangerous understatement. \"Sour as a grue\" is "
+"a common expression, even among grues themselves."
+msgstr ""
+
+#: ../../G/grue.rst:22
+msgid "All this folklore is widely known among hackers."
+msgstr ""
+

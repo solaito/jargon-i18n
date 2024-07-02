@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/cut-a-tape.rst:5
+msgid "cut a tape"
+msgstr ""
+
+#: ../../C/cut-a-tape.rst:7
+msgid "vi\\."
+msgstr ""
+
+#: ../../C/cut-a-tape.rst:9
+msgid ""
+"To write a software or document distribution on magnetic tape for "
+"shipment. Has nothing to do with physically cutting the medium! Early "
+"versions of this lexicon claimed that one never analogously speaks of "
+"‘cutting a disk’, but this has since been reported as live usage. Related"
+" slang usages are mainstream business's ‘cut a check’, the recording "
+"industry's ‘cut a record’, and the military's ‘cut an order’."
+msgstr ""
+
+#: ../../C/cut-a-tape.rst:14
+msgid ""
+"All of these usages reflect physical processes in obsolete recording and "
+"duplication technologies. The first stage in manufacturing an old-style "
+"vinyl record involved cutting grooves in a stamping die with a precision "
+"lathe. More mundanely, the dominant technology for mass duplication of "
+"paper documents in pre-photocopying days involved \"cutting a stencil\", "
+"punching away portions of the wax overlay on a silk screen. More "
+"directly, paper tape with holes punched in it was an important early "
+"storage medium. See also :ref:`burn-a-CD`\\."
+msgstr ""
+

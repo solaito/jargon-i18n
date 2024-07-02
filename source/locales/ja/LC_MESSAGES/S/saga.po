@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/saga.rst:5
+msgid "saga"
+msgstr ""
+
+#: ../../S/saga.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/saga.rst:9
+msgid "[WPI] A cuspy but bogus raving story about ``N`` random broken people."
+msgstr ""
+
+#: ../../S/saga.rst:11
+msgid "Here is a classic example of the saga form, as told by Guy L. Steele:"
+msgstr ""
+
+#: ../../S/saga.rst:159
+msgid ""
+"[My spies on the West Coast inform me that there is a close relative of "
+"the raspberry found out there called an ‘ollalieberry’ —ESR]"
+msgstr ""
+
+#: ../../S/saga.rst:161
+msgid ""
+"[Ironic footnote: the :ref:`meme` about ginger vs. rotting meat is an "
+"urban legend. It's not borne out by an examination of medieval recipes or"
+" period purchase records for spices, and appears full-blown in the works "
+"of Samuel Pegge, a gourmand and notorious flake case who originated "
+"numerous food myths. The truth seems to be that ginger was used to cover "
+"not rot but the extreme salt taste of meat packed in brine, which was the"
+" best method available before refrigeration. —ESR]"
+msgstr ""
+

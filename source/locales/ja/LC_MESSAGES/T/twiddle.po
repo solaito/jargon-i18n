@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/twiddle.rst:5
+msgid "twiddle"
+msgstr ""
+
+#: ../../T/twiddle.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/twiddle.rst:10
+msgid ""
+"Tilde (ASCII 1111110, ``~``\\). Also called squiggle, sqiggle (sic — "
+"pronounced /skig´l/), and twaddle, but twiddle is the most common term."
+msgstr ""
+
+#: ../../T/twiddle.rst:14
+msgid ""
+"A small and insignificant change to a program. Usually fixes one bug and "
+"generates several new ones (see also :ref:`shotgun-debugging`\\)."
+msgstr ""
+
+#: ../../T/twiddle.rst:17
+msgid ""
+"vt\\. To change something in a small way. Bits, for example, are often "
+"twiddled. Twiddling a switch or :ref:`knobs` implies much less sense of "
+"purpose than toggling or tweaking it; see :ref:`frobnicate`\\. To speak "
+"of twiddling a bit connotes aimlessness, and at best doesn't specify what"
+" you're doing to the bit; ‘toggling a bit’ has a more specific meaning "
+"(see :ref:`bit-twiddling`\\, :ref:`toggle`\\). 4. Uncommon name for the "
+":ref:`twirling-baton` prompt."
+msgstr ""
+

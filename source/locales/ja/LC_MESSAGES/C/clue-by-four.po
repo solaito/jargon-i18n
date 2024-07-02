@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/clue-by-four.rst:5
+msgid "clue-by-four"
+msgstr ""
+
+#: ../../C/clue-by-four.rst:7
+msgid ""
+"[Usenet: portmanteau, clue + two-by-four] The notional stick with which "
+"one whacks an aggressively clueless person. This term derives from a "
+"western American folk saying about training a mule \"First, you got to "
+"hit him with a two-by-four. That's to get his attention.\" The clue-by-"
+"four is a close relative of the :ref:`LART`\\. Syn. clue stick. This "
+"metaphor is commonly elaborated; your editor once heard a hacker say \"I "
+"smite you with the great sword Cluebringer!\""
+msgstr ""
+

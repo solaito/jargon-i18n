@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/superprogrammer.rst:5
+msgid "superprogrammer"
+msgstr ""
+
+#: ../../S/superprogrammer.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/superprogrammer.rst:9
+msgid ""
+"A prolific programmer; one who can code exceedingly well and quickly. Not"
+" all hackers are superprogrammers, but many are. (Productivity can vary "
+"from one programmer to another by three orders of magnitude. For example,"
+" one programmer might be able to write an average of 3 lines of working "
+"code in one day, while another, with the proper tools, might be able to "
+"write 3,000. This range is astonishing; it is matched in very few other "
+"areas of human endeavor.) The term superprogrammer is more commonly used "
+"within such places as IBM than in the hacker community. It tends to "
+"stress naive measures of productivity and to underweight creativity, "
+"ingenuity, and getting the job *done* — and to sidestep the question of "
+"whether the 3,000 lines of code do more or less useful work than three "
+"lines that do the :ref:`Right-Thing`\\. Hackers tend to prefer the terms "
+":ref:`hacker` and :ref:`wizard`\\."
+msgstr ""
+

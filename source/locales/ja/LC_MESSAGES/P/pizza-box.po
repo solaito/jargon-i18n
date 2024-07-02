@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/pizza-box.rst:5
+msgid "pizza box"
+msgstr ""
+
+#: ../../P/pizza-box.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../P/pizza-box.rst:9
+msgid ""
+"[Sun] The largish thin box housing the electronics in (especially Sun) "
+"desktop workstations, so named because of its size and shape and the "
+"dimpled pattern that looks like air holes."
+msgstr ""
+
+#: ../../P/pizza-box.rst:11
+msgid ""
+"Two-meg single-platter removable disk packs used to be called pizzas, and"
+" the huge drive they were stuck into was referred to as a pizza oven. "
+"It's an index of progress that in the old days just the disk was pizza-"
+"sized, while now the entire computer is."
+msgstr ""
+

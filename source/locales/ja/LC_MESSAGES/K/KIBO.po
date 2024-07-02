@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../K/KIBO.rst:5
+msgid "KIBO"
+msgstr ""
+
+#: ../../K/KIBO.rst:7
+msgid "/ki:´boh/"
+msgstr ""
+
+#: ../../K/KIBO.rst:10
+msgid ""
+"[acronym] Knowledge In, Bullshit Out. A summary of what happens whenever "
+"valid data is passed through an organization (or person) that "
+"deliberately or accidentally disregards or ignores its significance. "
+"Consider, for example, what an advertising campaign can do with a "
+"product's actual specifications. Compare :ref:`GIGO`\\; see also :ref"
+":`SNAFU-principle`\\."
+msgstr ""
+
+#: ../../K/KIBO.rst:16
+msgid ""
+"James Parry <kibo@world.std.com>, a Usenetter infamous for various "
+"surrealist net.pranks and an uncanny, machine-assisted knack for joining "
+"any thread in which his nom de guerre is mentioned. He has a website at "
+"`http://www.kibo.com/ <http://www.kibo.com/>`_."
+msgstr ""
+

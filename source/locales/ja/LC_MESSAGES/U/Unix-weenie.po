@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../U/Unix-weenie.rst:5
+msgid "Unix weenie"
+msgstr ""
+
+#: ../../U/Unix-weenie.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../U/Unix-weenie.rst:9
+msgid "[ITS]"
+msgstr ""
+
+#: ../../U/Unix-weenie.rst:12
+msgid ""
+"A derogatory play on ‘Unix wizard’, common among hackers who use Unix by "
+"necessity but would prefer alternatives. The implication is that although"
+" the person in question may consider mastery of Unix arcana to be a "
+"wizardly skill, the only real skill involved is the ability to tolerate "
+"(and the bad taste to wallow in) the incoherence and needless complexity "
+"that is alleged to infest many Unix programs. \"This shell script tries "
+"to parse its arguments in 69 bletcherous ways. It must have been written "
+"by a real Unix weenie.\""
+msgstr ""
+
+#: ../../U/Unix-weenie.rst:18
+msgid ""
+"A derogatory term for anyone who engages in uncritical praise of Unix. "
+"Often appearing in the context \"stupid Unix weenie\". See "
+":ref:`Weenix`\\, :ref:`Unix-conspiracy`\\. See also :ref:`weenie`\\."
+msgstr ""
+

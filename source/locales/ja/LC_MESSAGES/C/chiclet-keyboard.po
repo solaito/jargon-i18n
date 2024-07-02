@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/chiclet-keyboard.rst:5
+msgid "chiclet keyboard"
+msgstr ""
+
+#: ../../C/chiclet-keyboard.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/chiclet-keyboard.rst:9
+msgid ""
+"A keyboard with a small, flat rectangular or lozenge-shaped rubber or "
+"plastic keys that look like pieces of chewing gum. (Chiclets is the brand"
+" name of a variety of chewing gum that does in fact resemble the keys of "
+"chiclet keyboards.) Used esp. to describe the original IBM PCjr keyboard."
+" Vendors unanimously liked these because they were cheap, and a lot of "
+"early portable and laptop products got launched using them. Customers "
+"rejected the idea with almost equal unanimity, and chiclets are not often"
+" seen on anything larger than a digital watch any more."
+msgstr ""
+

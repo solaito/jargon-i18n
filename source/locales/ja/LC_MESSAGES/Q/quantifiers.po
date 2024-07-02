@@ -1,0 +1,153 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../Q/quantifiers.rst:5
+msgid "quantifiers"
+msgstr ""
+
+#: ../../Q/quantifiers.rst:7
+msgid ""
+"In techspeak and jargon, the standard metric prefixes used in the SI "
+"(Système International) conventions for scientific measurement have dual "
+"uses. With units of time or things that come in powers of 10, such as "
+"money, they retain their usual meanings of multiplication by powers of "
+"``1000 = 10^3``\\. But when used with bytes or other things that "
+"naturally come in powers of 2, they usually denote multiplication by "
+"powers of ``1024 = 2^10``\\."
+msgstr ""
+
+#: ../../Q/quantifiers.rst:11
+msgid ""
+"Here are the SI magnifying prefixes, along with the corresponding binary "
+"interpretations in common use:"
+msgstr ""
+
+#: ../../Q/quantifiers.rst:26
+msgid "Here are the SI fractional prefixes:"
+msgstr ""
+
+#: ../../Q/quantifiers.rst:41
+msgid ""
+"The prefixes zetta-, yotta-, zepto-, and yocto- have been included in "
+"these tables purely for completeness and giggle value; they were adopted "
+"in 1990 by the *19th Conference Generale des Poids et Mesures*\\. The "
+"binary peta- and exa- loadings, though well established, are not in "
+"jargon use either — yet. The prefix milli-, denoting multiplication by "
+"``1/1000``\\, has always been rare in jargon (there is, however, a "
+"standard joke about the millihelen — notionally, the amount of beauty "
+"required to launch one ship). See the entries on :ref:`micro-`\\, "
+":ref:`pico-`\\, and :ref:`nano-` for more information on connotative "
+"jargon use of these terms. ‘Femto’ and ‘atto’ (which, interestingly, "
+"derive not from Greek but from Danish) have not yet acquired jargon "
+"loadings, though it is easy to predict what those will be once computing "
+"technology enters the required realms of magnitude (however, see "
+":ref:`attoparsec`\\)."
+msgstr ""
+
+#: ../../Q/quantifiers.rst:47
+msgid ""
+"There are, of course, some standard unit prefixes for powers of 10. In "
+"the following table, the ‘prefix’ column is the international standard "
+"prefix for the appropriate power of ten; the ‘binary’ column lists jargon"
+" abbreviations and words for the corresponding power of 2. The B-suffixed"
+" forms are commonly used for byte quantities; the words ‘meg’ and ‘gig’ "
+"are nouns that may (but do not always) pluralize with ‘s’."
+msgstr ""
+
+#: ../../Q/quantifiers.rst:59
+msgid ""
+"Confusingly, hackers often use K or M as though they were suffix or "
+"numeric multipliers rather than a prefix; thus \"2K dollars\", \"2M of "
+"disk space\". This is also true (though less commonly) of G."
+msgstr ""
+
+#: ../../Q/quantifiers.rst:62
+msgid ""
+"Note that the formal SI metric prefix for 1000 is ‘k’; some use this "
+"strictly, reserving ‘K’ for multiplication by 1024 (KB is thus "
+"‘kilobytes’)."
+msgstr ""
+
+#: ../../Q/quantifiers.rst:64
+msgid ""
+"K, M, and G used alone refer to quantities of bytes; thus, 64G is 64 "
+"gigabytes and ‘a K’ is a kilobyte (compare mainstream use of ‘a G’ as "
+"short for ‘a grand’, that is, $1000). Whether one pronounces ‘gig’ with "
+"hard or soft ‘g’ depends on what one thinks the proper pronunciation of "
+"‘giga-’ is."
+msgstr ""
+
+#: ../../Q/quantifiers.rst:67
+msgid ""
+"Confusing 1000 and 1024 (or other powers of 2 and 10 close in magnitude) "
+"— for example, describing a memory in units of 500K or 524K instead of "
+"512K — is a sure sign of the :ref:`marketroid`\\. One example of this: it"
+" is common to refer to the capacity of 3.5\" floppies as ‘1.44 MB’ In "
+"fact, this is a completely :ref:`bogus` number. The correct size is 1440 "
+"KB, that is, 1440 \\* 1024 = 1474560 bytes. So the ‘mega’ in ‘1.44 MB’ is"
+" compounded of two ‘kilos’, one of which is 1024 and the other of which "
+"is 1000. The correct number of megabytes would of course be 1440 / 1024 ="
+" 1.40625. Alas, this fine point is probably lost on the world forever. "
+"[1993 update: hacker Morgan Burke has proposed, to general approval on "
+"Usenet, the following additional prefixes:"
+msgstr ""
+
+#: ../../Q/quantifiers.rst:77
+msgid "groucho"
+msgstr ""
+
+#: ../../Q/quantifiers.rst:78
+msgid "10^-30"
+msgstr ""
+
+#: ../../Q/quantifiers.rst:79
+msgid "harpo"
+msgstr ""
+
+#: ../../Q/quantifiers.rst:80
+msgid "10^-27"
+msgstr ""
+
+#: ../../Q/quantifiers.rst:81
+msgid "harpi"
+msgstr ""
+
+#: ../../Q/quantifiers.rst:82
+msgid "10^27"
+msgstr ""
+
+#: ../../Q/quantifiers.rst:83
+msgid "grouchi"
+msgstr ""
+
+#: ../../Q/quantifiers.rst:84
+msgid "10^30"
+msgstr ""
+
+#: ../../Q/quantifiers.rst:86
+msgid ""
+"We observe that this would leave the prefixes zeppo-, gummo-, and chico- "
+"available for future expansion. Sadly, there is little immediate prospect"
+" that Mr. Burke's eminently sensible proposal will be ratified.]"
+msgstr ""
+

@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/network-address.rst:5
+msgid "network address"
+msgstr ""
+
+#: ../../N/network-address.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../N/network-address.rst:9
+msgid ""
+"(also net address) As used by hackers, means an address on ‘the’ network "
+"(see :ref:`the-network`\\; this used to include :ref:`bang-path` "
+"addresses but now always implies an Internet address). Net addresses are "
+"often used in email text as a more concise substitute for personal names;"
+" indeed, hackers may come to know each other quite well by network names "
+"without ever learning each others' ‘legal’ monikers. Display of a network"
+" address (e.g. on business cards) used to function as an important hacker"
+" identification signal, like lodge pins among Masons or tie-dyed T-shirts"
+" among Grateful Dead fans. In the day of pervasive Internet this is less "
+"true, but you can still be fairly sure that anyone with a network address"
+" handwritten on his or her convention badge is a hacker."
+msgstr ""
+

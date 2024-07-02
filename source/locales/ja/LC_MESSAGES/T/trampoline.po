@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/trampoline.rst:5
+msgid "trampoline"
+msgstr ""
+
+#: ../../T/trampoline.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/trampoline.rst:9
+msgid ""
+"An incredibly :ref:`hairy` technique, found in some :ref:`HLL` and "
+"program-overlay implementations (e.g., on the Macintosh), that involves "
+"on-the-fly generation of small executable (and, likely as not, self-"
+"modifying) code objects to do indirection between code sections. Under "
+"BSD and possibly in other Unixes, trampoline code is used to transfer "
+"control from the kernel back to user mode when a signal (which has had a "
+"handler installed) is sent to a process. These pieces of :ref:`live-data`"
+" are called trampolines. Trampolines are notoriously difficult to "
+"understand in action; in fact, it is said by those who use this term that"
+" the trampoline that doesn't bend your brain is not the true trampoline. "
+"See also :ref:`snap`\\."
+msgstr ""
+

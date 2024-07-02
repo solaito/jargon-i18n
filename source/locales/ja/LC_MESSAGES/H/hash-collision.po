@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hash-collision.rst:5
+msgid "hash collision"
+msgstr ""
+
+#: ../../H/hash-collision.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../H/hash-collision.rst:9
+msgid ""
+"[from the techspeak] (var. : hash clash) When used of people, signifies a"
+" confusion in associative memory or imagination, especially a persistent "
+"one (see :ref:`thinko`\\). True story: One of us [ESR] was once on the "
+"phone with a friend about to move out to Berkeley. When asked what he "
+"expected Berkeley to be like, the friend replied: \"Well, I have this "
+"mental picture of naked women throwing Molotov cocktails, but I think "
+"that's just a collision in my hash tables.\" Compare :ref:`hash-"
+"bucket`\\."
+msgstr ""
+

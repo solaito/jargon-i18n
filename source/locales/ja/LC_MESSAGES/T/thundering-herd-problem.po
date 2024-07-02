@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/thundering-herd-problem.rst:5
+msgid "thundering herd problem"
+msgstr ""
+
+#: ../../T/thundering-herd-problem.rst:7
+msgid ""
+"Scheduler thrashing. This can happen under Unix when you have a number of"
+" processes that are waiting on a single event. When that event (a "
+"connection to the web server, say) happens, every process which could "
+"possibly handle the event is awakened. In the end, only one of those "
+"processes will actually be able to do the work, but, in the meantime, all"
+" the others wake up and contend for CPU time before being put back to "
+"sleep. Thus the system thrashes briefly while a herd of processes "
+"thunders through. If this starts to happen many times per second, the "
+"performance impact can be significant."
+msgstr ""
+

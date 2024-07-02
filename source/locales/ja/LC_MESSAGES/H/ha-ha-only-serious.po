@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/ha-ha-only-serious.rst:5
+msgid "ha ha only serious"
+msgstr ""
+
+#: ../../H/ha-ha-only-serious.rst:7
+msgid ""
+"[from SF fandom, orig. as mutation of HHOK, ‘Ha Ha Only Kidding’] A "
+"phrase (often seen abbreviated as HHOS) that aptly captures the flavor of"
+" much hacker discourse. Applied especially to parodies, absurdities, and "
+"ironic jokes that are both intended and perceived to contain a possibly "
+"disquieting amount of truth, or truths that are constructed on in-joke "
+"and self-parody. This lexicon contains many examples of ha-ha-only-"
+"serious in both form and content. Indeed, the entirety of hacker culture "
+"is often perceived as ha-ha-only-serious by hackers themselves; to take "
+"it either too lightly or too seriously marks a person as an outsider, a "
+":ref:`wannabee`\\, or in :ref:`larval-stage`\\. For further enlightenment"
+" on this subject, consult any Zen master. See also :ref:`hacker-humor`\\,"
+" and :ref:`koan`\\."
+msgstr ""
+

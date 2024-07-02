@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/spamhaus.rst:5
+msgid "spamhaus"
+msgstr ""
+
+#: ../../S/spamhaus.rst:7
+msgid "spam´hows, n\\."
+msgstr ""
+
+#: ../../S/spamhaus.rst:9
+msgid ""
+"Pejorative term for an internet service provider that permits or even "
+"encourages :ref:`spam` mailings from its systems. The plural is "
+"spamhausen. There is a web page devoted to `tracking spamhausen "
+"<http://www.spamhaus.org/>`_."
+msgstr ""
+
+#: ../../S/spamhaus.rst:13
+msgid ""
+"The most notorious of the spamhausen was Sanford Wallace's Cyber "
+"Promotions Inc., shut down by a lawsuit on 16 October 1997. The "
+"anniversary of the shutdown is celebrated on Usenet as Spam Freedom Day, "
+"but lesser imitators of the Spamford still infest various murky corners "
+"of the net. Since prosecution of spammers became routine under the junk-"
+"fax laws and statues specifically targeting spam, spamhausen have "
+"declined in relative importance; today, hit-and-run attacks by spammers "
+"using :ref:`relay-rape` and :ref:`throwaway-account`\\s on reputable ISPs"
+" seem to account for most of the flow."
+msgstr ""
+

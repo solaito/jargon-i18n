@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/banana-problem.rst:5
+msgid "banana problem"
+msgstr ""
+
+#: ../../B/banana-problem.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/banana-problem.rst:9
+msgid ""
+"[from the story of the little girl who said \"I know how to spell "
+"‘banana’, but I don't know when to stop\"]. Not knowing where or when to "
+"bring a production to a close (compare :ref:`fencepost-error`\\). One may"
+" say there is a banana problem of an algorithm with poorly defined or "
+"incorrect termination conditions, or in discussing the evolution of a "
+"design that may be succumbing to featuritis (see also :ref:`creeping-"
+"elegance`\\, :ref:`creeping-featuritis`\\). See item 176 under "
+":ref:`HAKMEM`\\, which describes a banana problem in a :ref:`Dissociated-"
+"Press` implementation. Also, see :ref:`one-banana-problem` for a "
+"superficially similar but unrelated usage."
+msgstr ""
+

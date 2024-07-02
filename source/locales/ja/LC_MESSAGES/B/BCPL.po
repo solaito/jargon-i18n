@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/BCPL.rst:5
+msgid "BCPL"
+msgstr ""
+
+#: ../../B/BCPL.rst:7
+msgid "//, n\\."
+msgstr ""
+
+#: ../../B/BCPL.rst:9
+msgid ""
+"[abbreviation, \"Basic Combined Programming Language\") A programming "
+"language developed by Martin Richards in Cambridge in 1967. It is "
+"remarkable for its rich syntax, small size of compiler (it can be run in "
+"16k) and extreme portability. It reached break-even point at a very early"
+" stage, and was the language in which the original :ref:`hello-world` "
+"program was written. It has been ported to so many different systems that"
+" its creator confesses to having lost count. It has only one data type (a"
+" machine word) which can be used as an integer, a character, a floating "
+"point number, a pointer, or almost anything else, depending on context. "
+"BCPL was a precursor of C, which inherited some of its features."
+msgstr ""
+

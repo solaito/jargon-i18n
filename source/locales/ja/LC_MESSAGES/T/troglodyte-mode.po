@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/troglodyte-mode.rst:5
+msgid "troglodyte mode"
+msgstr ""
+
+#: ../../T/troglodyte-mode.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/troglodyte-mode.rst:9
+msgid ""
+"[Rice University] Programming with the lights turned off, sunglasses on, "
+"and the terminal inverted (black on white) because you've been up for so "
+"many days straight that your eyes hurt (see :ref:`raster-burn`\\). Loud "
+"music blaring from a stereo stacked in the corner is optional but "
+"recommended. See :ref:`larval-stage`\\, :ref:`hack-mode`\\."
+msgstr ""
+

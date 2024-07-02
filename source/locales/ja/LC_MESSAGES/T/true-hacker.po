@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/true-hacker.rst:5
+msgid "true-hacker"
+msgstr ""
+
+#: ../../T/true-hacker.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/true-hacker.rst:9
+msgid ""
+"[analogy with ‘trufan’ from SF fandom] One who exemplifies the primary "
+"values of hacker culture, esp. competence and helpfulness to other "
+"hackers. A high compliment. \"He spent 6 hours helping me bring up UUCP "
+"and netnews on my FOOBAR 4000 last week — manifestly the act of a true-"
+"hacker.\" Compare :ref:`demigod`\\, oppose :ref:`munchkin`\\."
+msgstr ""
+

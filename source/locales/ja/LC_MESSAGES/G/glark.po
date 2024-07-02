@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/glark.rst:5
+msgid "glark"
+msgstr ""
+
+#: ../../G/glark.rst:7
+msgid "/glark/, vt\\."
+msgstr ""
+
+#: ../../G/glark.rst:9
+msgid ""
+"To figure something out from context. \"The System III manuals are pretty"
+" poor, but you can generally glark the meaning from context.\" "
+"Interestingly, the word was originally ‘glork’; the context was \"This "
+"gubblick contains many nonsklarkish English flutzpahs, but the overall "
+"pluggandisp can be glorked [sic] from context\" (David Moser, quoted by "
+"Douglas Hofstadter in his *Metamagical Themas* column in the January 1981"
+" *Scientific American*\\). It is conjectured that hacker usage mutated "
+"the verb to ‘glark’ because :ref:`glork` was already an established "
+"jargon term (some hackers do report using the original term). Compare "
+":ref:`grok`\\, :ref:`zen`\\."
+msgstr ""
+

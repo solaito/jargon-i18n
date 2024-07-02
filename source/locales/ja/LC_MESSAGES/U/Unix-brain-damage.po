@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../U/Unix-brain-damage.rst:5
+msgid "Unix brain damage"
+msgstr ""
+
+#: ../../U/Unix-brain-damage.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../U/Unix-brain-damage.rst:9
+msgid ""
+"Something that has to be done to break a network program (typically a "
+"mailer) on a non-Unix system so that it will interoperate with Unix "
+"systems. The hack may qualify as Unix brain damage if the program "
+"conforms to published standards and the Unix program in question does "
+"not. Unix brain damage happens because it is much easier for other "
+"(minority) systems to change their ways to match non-conforming behavior "
+"than it is to change all the hundreds of thousands of Unix systems out "
+"there."
+msgstr ""
+
+#: ../../U/Unix-brain-damage.rst:13
+msgid ""
+"An example of Unix brain damage is a :ref:`kluge` in a mail server to "
+"recognize bare line feed (the Unix newline) as an equivalent form to the "
+"Internet standard newline, which is a carriage return followed by a line "
+"feed. Such things can make even a hardened :ref:`jock` weep."
+msgstr ""
+

@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/black-art.rst:5
+msgid "black art"
+msgstr ""
+
+#: ../../B/black-art.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/black-art.rst:9
+msgid ""
+"[common] A collection of arcane, unpublished, and (by implication) mostly"
+" ad-hoc techniques developed for a particular application or systems area"
+" (compare :ref:`black-magic`\\). VLSI design and compiler code "
+"optimization were (in their beginnings) considered classic examples of "
+"black art; as theory developed they became :ref:`deep-magic`\\, and once "
+"standard textbooks had been written, became merely :ref:`heavy-"
+"wizardry`\\. The huge proliferation of formal and informal channels for "
+"spreading around new computer-related technologies during the last twenty"
+" years has made both the term black art and what it describes less common"
+" than formerly. See also :ref:`voodoo-programming`\\."
+msgstr ""
+

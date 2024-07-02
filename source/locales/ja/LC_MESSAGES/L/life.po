@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/life.rst:5
+msgid "life"
+msgstr ""
+
+#: ../../L/life.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../L/life.rst:10
+#, python-format
+msgid ""
+"A cellular-automata game invented by John Horton Conway and first "
+"introduced publicly by Martin Gardner (*Scientific American*\\, October "
+"1970); the game's popularity had to wait a few years for computers on "
+"which it could reasonably be played, as it's no fun to simulate the cells"
+" by hand. Many hackers pass through a stage of fascination with it, and "
+"hackers at various places contributed heavily to the mathematical "
+"analysis of this game (most notably Bill Gosper at MIT, who even "
+"implemented life in :ref:`TECO`\\!). When a hacker mentions ‘life’, he is"
+" much more likely to mean this game than the magazine, the breakfast "
+"cereal, or the human state of existence. Many web resources are available"
+" starting from the `Open Directory page of Life "
+"<http://dmoz.org/Computers/Artificial_Life/Cellular_Automata/Conway%27s_Game_of_Life/>`_."
+" The `Life Lexicon <http://www.argentum.freeserve.co.uk/lex_home.htm>`_\\"
+"  is a good indicator of what makes the game so fascinating."
+msgstr ""
+
+#: ../../L/life.rst:20
+msgid ""
+"A glider, possibly the best known of the quasi-organic     phenomena in "
+"the Game of Life."
+msgstr ""
+
+#: ../../L/life.rst:24
+msgid "The opposite of :ref:`Usenet`\\. As in \" :ref:`Get-a-life-`\\\""
+msgstr ""
+

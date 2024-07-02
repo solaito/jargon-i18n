@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/alt.rst:5
+msgid "alt"
+msgstr ""
+
+#: ../../A/alt.rst:7
+msgid "/awlt/"
+msgstr ""
+
+#: ../../A/alt.rst:9
+msgid ""
+"n\\. The alt shift key on an IBM PC or :ref:`clone` keyboard; see :ref"
+":`bucky-bits`\\, sense 2 (though typical PC usage does not simply set the"
+" 0200 bit)."
+msgstr ""
+
+#: ../../A/alt.rst:12
+msgid ""
+"n\\. The option key on a Macintosh; use of this term usually reveals that"
+" the speaker hacked PCs before coming to the Mac (see also :ref:`feature-"
+"key`\\, which is sometimes *incorrectly* called ‘alt’)."
+msgstr ""
+
+#: ../../A/alt.rst:16
+msgid ""
+"The :samp:`alt` hierarchy on Usenet, the tree of newsgroups created by "
+"users without a formal vote and approval procedure. There is a myth, not "
+"entirely implausible, that :samp:`alt` is acronymic for \"anarchists, "
+"lunatics, and terrorists\"; but in fact it is simply short for "
+"\"alternative\"."
+msgstr ""
+
+#: ../../A/alt.rst:19
+msgid ""
+"n.,obs. Rare alternate name for the ASCII ESC character (ASCII 0011011). "
+"This use, derives, with the alt key itself, from archaic PDP-10 operating"
+" systems, especially :ref:`ITS`\\."
+msgstr ""
+

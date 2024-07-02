@@ -1,0 +1,36 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/Microsoft.rst:5
+msgid "Microsoft"
+msgstr ""
+
+#: ../../M/Microsoft.rst:7
+msgid ""
+"The new :ref:`Evil-Empire` (the old one was :ref:`IBM`\\). The basic "
+"complaints are, as formerly with IBM, that (a) their system designs are "
+"horrible botches, (b) we can't get :ref:`source` to fix them, and (c) "
+"they throw their weight around a lot. See also :ref:`Halloween-"
+"Documents`\\."
+msgstr ""
+

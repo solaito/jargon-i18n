@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/gronked.rst:5
+msgid "gronked"
+msgstr ""
+
+#: ../../G/gronked.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../G/gronked.rst:10
+msgid "Broken. \"The teletype scanner was gronked, so we took the system down.\""
+msgstr ""
+
+#: ../../G/gronked.rst:14
+msgid ""
+"Of people, the condition of feeling very tired or (less commonly) sick. "
+"\"I've been chasing that bug for 17 hours now and I am thoroughly "
+"gronked!\" Compare :ref:`broken`\\, which means about the same as "
+":ref:`gronk` used of hardware, but connotes depression or "
+"mental/emotional problems in people."
+msgstr ""
+

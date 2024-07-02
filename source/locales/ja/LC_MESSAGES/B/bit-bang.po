@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bit-bang.rst:5
+msgid "bit bang"
+msgstr ""
+
+#: ../../B/bit-bang.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/bit-bang.rst:9
+msgid ""
+"Transmission of data on a serial line, when accomplished by rapidly "
+"tweaking a single output bit, in software, at the appropriate times. The "
+"technique is a simple loop with eight OUT and SHIFT instruction pairs for"
+" each byte. Input is more interesting. And full duplex (doing input and "
+"output at the same time) is one way to separate the real hackers from the"
+" :ref:`wannabee`\\s."
+msgstr ""
+
+#: ../../B/bit-bang.rst:14
+msgid ""
+"Bit bang was used on certain early models of Prime computers, presumably "
+"when UARTs were too expensive, and on archaic Z80 micros with a Zilog PIO"
+" but no SIO. In an interesting instance of the :ref:`cycle-of-"
+"reincarnation`\\, this technique returned to use in the early 1990s on "
+"some RISC architectures because it consumes such an infinitesimal part of"
+" the processor that it actually makes sense not to have a UART. Compare "
+":ref:`cycle-of-reincarnation`\\. Nowadays it's used to describe I2C, a "
+"serial protocol for monitoring motherboard hardware."
+msgstr ""
+

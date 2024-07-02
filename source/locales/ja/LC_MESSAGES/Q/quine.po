@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../Q/quine.rst:5
+msgid "quine"
+msgstr ""
+
+#: ../../Q/quine.rst:7
+msgid "/kwi:n/, n\\."
+msgstr ""
+
+#: ../../Q/quine.rst:9
+msgid ""
+"[from the name of the logician Willard van Orman Quine, via Douglas "
+"Hofstadter] A program that generates a copy of its own source text as its"
+" complete output. Devising the shortest possible quine in some given "
+"programming language is a common hackish amusement. (We ignore some "
+"variants of BASIC in which a program consisting of a single empty string "
+"literal reproduces itself trivially.) Here is one classic quine:"
+msgstr ""
+
+#: ../../Q/quine.rst:23
+msgid ""
+"This one works in LISP or Scheme. It's relatively easy to write quines in"
+" other languages such as Postscript which readily handle programs as "
+"data; much harder (and thus more challenging!) in languages like C which "
+"do not. Here is a classic C quine for ASCII machines:"
+msgstr ""
+
+#: ../../Q/quine.rst:35
+msgid ""
+"For excruciatingly exact quinishness, remove the interior line breaks. "
+"Here is another elegant quine in ANSI C:"
+msgstr ""
+
+#: ../../Q/quine.rst:44
+msgid ""
+"Some infamous :ref:`Obfuscated-C-Contest` entries have been quines that "
+"reproduced in exotic ways. There is an amusing `Quine Home Page "
+"<http://www.nyx.org/~gthompso/quine.htm>`_."
+msgstr ""
+

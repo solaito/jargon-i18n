@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../I/I-didn-t-change-anything-.rst:5
+msgid "I didn't change anything!"
+msgstr ""
+
+#: ../../I/I-didn-t-change-anything-.rst:7
+msgid "interj\\."
+msgstr ""
+
+#: ../../I/I-didn-t-change-anything-.rst:9
+msgid ""
+"An aggrieved cry often heard as bugs manifest during a regression test. "
+"The :ref:`canonical` reply to this assertion is \"Then it works just the "
+"same as it did before, doesn't it?\" See also :ref:`one-line-fix`\\. This"
+" is also heard from applications programmers trying to blame an obvious "
+"applications problem on an unrelated systems software change, for example"
+" a divide-by-0 fault after terminals were added to a network. Usually, "
+"their statement is found to be false. Upon close questioning, they will "
+"admit some major restructuring of the program that shouldn't have broken "
+"anything, in their opinion, but which actually :ref:`hosed` the code "
+"completely."
+msgstr ""
+

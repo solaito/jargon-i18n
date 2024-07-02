@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/naive.rst:5
+msgid "naive"
+msgstr ""
+
+#: ../../N/naive.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../N/naive.rst:10
+msgid ""
+"Untutored in the perversities of some particular program or system; one "
+"who still tries to do things in an intuitive way, rather than the right "
+"way (in really good designs these coincide, but most designs aren't "
+"‘really good’ in the appropriate sense). This trait is completely "
+"unrelated to general maturity or competence, or even competence at any "
+"other specific program. It is a sad commentary on the primitive state of "
+"computing that the natural opposite of this term is often claimed to be "
+"experienced user but is really more like cynical user."
+msgstr ""
+
+#: ../../N/naive.rst:15
+msgid ""
+"Said of an algorithm that doesn't take advantage of some superior but "
+"advanced technique, e.g., the :ref:`bubble-sort`\\. It may imply naivete "
+"on the part of the programmer, although there are situations where a "
+"naive algorithm is preferred, because it is more important to keep the "
+"code comprehensible than to go for maximum performance. \"I know the "
+"linear search is naive, but in this case the list typically only has half"
+" a dozen items.\" Compare :ref:`brute-force`\\."
+msgstr ""
+

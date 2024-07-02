@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/PDP-11.rst:5
+msgid "PDP-11"
+msgstr ""
+
+#: ../../P/PDP-11.rst:7
+msgid ""
+"Possibly the single most successful minicomputer design in history, a "
+"favorite of hackers for many years, and the first major Unix machine, The"
+" first PDP-11s (the 11/15 and 11/20) shipped in 1970 from :ref:`DEC`\\; "
+"the last (11/93 and 11/94) in 1990. Along the way, the 11 gave birth to "
+"the :ref:`VAX`\\, strongly influenced the design of microprocessors such "
+"as the Motorola 6800 and Intel 386, and left a permanent imprint on the C"
+" language (which has an odd preference for octal embedded in its syntax "
+"because of the way PDP-11 machine instructions were formatted). There is "
+"a `history site <http://telnet.hu/hamster/pdp-11/>`_."
+msgstr ""
+

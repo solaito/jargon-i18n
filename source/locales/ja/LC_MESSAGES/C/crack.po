@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/crack.rst:5
+msgid "crack"
+msgstr ""
+
+#: ../../C/crack.rst:7
+msgid "[warez d00dz]"
+msgstr ""
+
+#: ../../C/crack.rst:9
+msgid "v\\. To break into a system (compare :ref:`cracker`\\)."
+msgstr ""
+
+#: ../../C/crack.rst:12
+msgid ""
+"v\\. Action of removing the copy protection from a commercial program. "
+"People who write cracks consider themselves challenged by the copy "
+"protection measures. They will often do it as much to show that they are "
+"smarter than the developer who designed the copy protection scheme than "
+"to actually copy the program."
+msgstr ""
+
+#: ../../C/crack.rst:17
+msgid ""
+"n\\. A program, instructions or patch used to remove the copy protection "
+"of a program or to uncripple features from a demo/time limited program."
+msgstr ""
+
+#: ../../C/crack.rst:21
+msgid "An :ref:`exploit`\\."
+msgstr ""
+

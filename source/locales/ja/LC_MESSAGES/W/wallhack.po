@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/wallhack.rst:5
+msgid "wallhack"
+msgstr ""
+
+#: ../../W/wallhack.rst:7
+msgid ""
+"A form of game cheat especially associated with first-person shooters "
+"like Quake, in which the walls in the simulated maze or dungeon are "
+"rendered transparent to the cheater. This gives the cheater normally "
+"hidden information about the whereabouts of other players. Beyond gaming,"
+" a wallhack is the paradigm case of a whole class of security problems "
+"that stem from the fact that a server cannot trust client software, and "
+"server authors must assume that all computation farmed out to a client is"
+" exposed to and can be interfered with by the user."
+msgstr ""
+

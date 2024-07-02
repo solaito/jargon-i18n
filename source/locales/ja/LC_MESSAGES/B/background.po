@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/background.rst:5
+msgid "background"
+msgstr ""
+
+#: ../../B/background.rst:7
+msgid "n\\.,adj\\.,vt\\."
+msgstr ""
+
+#: ../../B/background.rst:9
+msgid ""
+"[common] To do a task in background is to do it whenever "
+":ref:`foreground` matters are not claiming your undivided attention, and "
+"to background something means to relegate it to a lower priority. \"For "
+"now, we'll just print a list of nodes and links; I'm working on the "
+"graph-printing problem in background.\" Note that this implies ongoing "
+"activity but at a reduced level or in spare time, in contrast to "
+"mainstream ‘back burner’ (which connotes benign neglect until some future"
+" resumption of activity). Some people prefer to use the term for "
+"processing that they have queued up for their unconscious minds (a tack "
+"that one can often fruitfully take upon encountering an obstacle in "
+"creative work). Compare :ref:`amp-off`\\, :ref:`slopsucker`\\."
+msgstr ""
+
+#: ../../B/background.rst:15
+msgid ""
+"Technically, a task running in background is detached from the terminal "
+"where it was started (and often running at a lower priority); oppose "
+":ref:`foreground`\\. Nowadays this term is primarily associated with "
+":ref:`Unix`\\, but it appears to have been first used in this sense on "
+"OS/360."
+msgstr ""
+

@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/fandango-on-core.rst:5
+msgid "fandango on core"
+msgstr ""
+
+#: ../../F/fandango-on-core.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/fandango-on-core.rst:9
+msgid ""
+"[Unix/C hackers, from the Iberian dance] In C, a wild pointer that runs "
+"out of bounds, causing a :ref:`core-dump`\\, or corrupts the "
+":manpage:`malloc(3)` :ref:`arena` in such a way as to cause mysterious "
+"failures later on, is sometimes said to have ‘done a fandango on core’. "
+"On low-end personal machines without an MMU (or Windows boxes, which have"
+" an MMU but use it incompetently), this can corrupt the OS itself, "
+"causing massive lossage. Other frenetic dances, such as the cha-cha or "
+"the watusi, may be substituted. See :ref:`aliasing-bug`\\, :ref"
+":`precedence-lossage`\\, :ref:`smash-the-stack`\\, :ref:`memory-leak`\\, "
+":ref:`memory-smash`\\, :ref:`overrun-screw`\\, :ref:`core`\\."
+msgstr ""
+

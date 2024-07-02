@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/microfortnight.rst:5
+msgid "microfortnight"
+msgstr ""
+
+#: ../../M/microfortnight.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../M/microfortnight.rst:9
+msgid ""
+"1/1000000 of the fundamental unit of time in the Furlong/Firkin/Fortnight"
+" system of measurement; 1.2096 sec. (A furlong is 1/8th of a mile; a "
+"firkin is 9 imperial gallons; the mass unit of the system is taken to be "
+"a firkin of water). The VMS operating system has a lot of tuning "
+"parameters that you can set with the SYSGEN utility, and one of these is "
+"TIMEPROMPTWAIT, the time the system will wait for an operator to set the "
+"correct date and time at boot if it realizes that the current value is "
+"bogus. This time is specified in microfortnights!"
+msgstr ""
+
+#: ../../M/microfortnight.rst:14
+msgid ""
+"Multiple uses of the millifortnight (about 20 minutes) and "
+":ref:`nanofortnight` have also been reported."
+msgstr ""
+

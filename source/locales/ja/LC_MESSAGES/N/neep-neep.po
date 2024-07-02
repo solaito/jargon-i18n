@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/neep-neep.rst:5
+msgid "neep-neep"
+msgstr ""
+
+#: ../../N/neep-neep.rst:7
+msgid "/neep neep/, n\\."
+msgstr ""
+
+#: ../../N/neep-neep.rst:9
+msgid ""
+"[onomatopoeic, widely spread through SF fandom but reported to have "
+"originated at Caltech in the 1970s] One who is fascinated by computers. "
+"Less specific than :ref:`hacker`\\, as it need not imply more skill than "
+"is required to play games on a PC. The derived noun neeping applies "
+"specifically to the long conversations about computers that tend to "
+"develop in the corners at most SF-convention parties (the term neepery is"
+" also in wide use). Fandom has a related proverb to the effect that "
+"\"Hacking is a conversational black hole! \"."
+msgstr ""
+

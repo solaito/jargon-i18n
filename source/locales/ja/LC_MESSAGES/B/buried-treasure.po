@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/buried-treasure.rst:5
+msgid "buried treasure"
+msgstr ""
+
+#: ../../B/buried-treasure.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/buried-treasure.rst:9
+msgid ""
+"A surprising piece of code found in some program. While usually not "
+"wrong, it tends to vary from :ref:`crufty` to :ref:`bletcherous`\\, and "
+"has lain undiscovered only because it was functionally correct, however "
+"horrible it is. Used sarcastically, because what is found is anything "
+"*but* treasure. Buried treasure almost always needs to be dug up and "
+"removed. \"I just found that the scheduler sorts its queue using :ref"
+":`bubble-sort`\\! Buried treasure!\""
+msgstr ""
+

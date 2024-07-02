@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/walking-drives.rst:5
+msgid "walking drives"
+msgstr ""
+
+#: ../../W/walking-drives.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../W/walking-drives.rst:9
+msgid ""
+"An occasional failure mode of magnetic-disk drives back in the days when "
+"they were huge, clunky :ref:`washing-machine`\\s. Those old "
+":ref:`dinosaur` parts carried terrific angular momentum; the combination "
+"of a misaligned spindle or worn bearings and stick-slip interactions with"
+" the floor could cause them to ‘walk’ across a room, lurching alternate "
+"corners forward a couple of millimeters at a time. There is a legend "
+"about a drive that walked over to the only door to the computer room and "
+"jammed it shut; the staff had to cut a hole in the wall in order to get "
+"at it! Walking could also be induced by certain patterns of drive access "
+"(a fast seek across the whole width of the disk, followed by a slow seek "
+"in the other direction). Some bands of old-time hackers figured out how "
+"to induce disk-accessing patterns that would do this to particular drive "
+"models and held disk-drive races."
+msgstr ""
+

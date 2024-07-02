@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/warlording.rst:5
+msgid "warlording"
+msgstr ""
+
+#: ../../W/warlording.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../W/warlording.rst:9
+msgid ""
+"[from the Usenet group :samp:`alt.fan.warlord`\\] The act of excoriating "
+"a bloated, ugly, or derivative :ref:`sig-block`\\. Common grounds for "
+"warlording include the presence of a signature rendered in a "
+":ref:`BUAF`\\, over-used or cliched :ref:`sig-quote`\\s, ugly :ref"
+":`ASCII-art`\\, or simply excessive size. The original ‘Warlord’ was a "
+":ref:`B1FF`\\-like :ref:`newbie` c.1991 who featured in his sig a "
+"particularly large and obnoxious ASCII graphic resembling the sword of "
+"Conan the Barbarian in the 1981 John Milius movie; the group name "
+":samp:`alt.fan.warlord` was sarcasm, and the characteristic mode of "
+"warlording is devastatingly sarcastic praise. See also :ref:`McQuary-"
+"limit`\\."
+msgstr ""
+

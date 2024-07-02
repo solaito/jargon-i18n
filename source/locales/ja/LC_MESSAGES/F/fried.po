@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/fried.rst:5
+msgid "fried"
+msgstr ""
+
+#: ../../F/fried.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../F/fried.rst:10
+msgid ""
+"[common] Non-working due to hardware failure; burnt out. Especially used "
+"of hardware brought down by a power glitch (see :ref:`glitch`\\), :ref"
+":`drop-outs`\\, a short, or some other electrical event. (Sometimes this "
+"literally happens to electronic circuits! In particular, resistors can "
+"burn out and transformers can melt down, emitting noxious smoke — see "
+":ref:`friode`\\, :ref:`SED` and :ref:`LER`\\. However, this term is also "
+"used metaphorically.) Compare :ref:`frotzed`\\."
+msgstr ""
+
+#: ../../F/fried.rst:18
+msgid ""
+"[common] Of people, exhausted. Said particularly of those who continue to"
+" work in such a state. Often used as an explanation or excuse. \"Yeah, I "
+"know that fix destroyed the file system, but I was fried when I put it "
+"in.\" Esp. : common in conjunction with brain: \"My brain is fried today,"
+" I'm very short on sleep.\""
+msgstr ""
+

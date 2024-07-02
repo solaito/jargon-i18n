@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../O/suffix-oid.rst:5
+msgid "-oid"
+msgstr ""
+
+#: ../../O/suffix-oid.rst:7
+msgid "suff\\."
+msgstr ""
+
+#: ../../O/suffix-oid.rst:9
+msgid "[from Greek suffix -oid = in the image of]"
+msgstr ""
+
+#: ../../O/suffix-oid.rst:12
+msgid ""
+"Used as in mainstream slang English to indicate a poor imitation, a "
+"counterfeit, or some otherwise slightly bogus resemblance. Hackers will "
+"happily use it with all sorts of non-Greco/Latin stem words that wouldn't"
+" keep company with it in mainstream English. For example, \"He's a "
+"nerdoid\" means that he superficially resembles a nerd but can't make the"
+" grade; a modemoid might be a 300-baud box (Real Modems run at 28.8 or "
+"up); a computeroid might be any :ref:`bitty-box`\\. The word keyboid "
+"could be used to describe a :ref:`chiclet-keyboard`\\, but would have to "
+"be written; spoken, it would confuse the listener as to the speaker's "
+"city of origin."
+msgstr ""
+
+#: ../../O/suffix-oid.rst:18
+msgid ""
+"More specifically, an indicator for ‘resembling an android’ which in the "
+"past has been confined to science-fiction fans and hackers. It too has "
+"recently (in 1991) started to go mainstream (most notably in the term "
+"‘trendoid’ for victims of terminal hipness). This is probably traceable "
+"to the popularization of the term :ref:`droid` in *Star Wars* and its "
+"sequels. (See also :ref:`windoid`\\.)"
+msgstr ""
+
+#: ../../O/suffix-oid.rst:23
+msgid ""
+"Coinages in both forms have been common in science fiction for at least "
+"fifty years, and hackers (who are often SF fans) have probably been "
+"making ‘-oid’ jargon for almost that long [though GLS and I can "
+"personally confirm only that they were already common in the mid-1970s "
+"—ESR]."
+msgstr ""
+

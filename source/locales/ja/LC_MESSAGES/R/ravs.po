@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/ravs.rst:5
+msgid "ravs"
+msgstr ""
+
+#: ../../R/ravs.rst:7
+msgid "/ravz/, Chinese ravs, n\\."
+msgstr ""
+
+#: ../../R/ravs.rst:9
+msgid ""
+"[primarily MIT/Boston usage] Jiao-zi (steamed or boiled) or Guo-tie (pan-"
+"fried). A Chinese appetizer, known variously in the plural as dumplings, "
+"pot stickers (the literal translation of guo-tie), and (around Boston) "
+"‘Peking Ravioli’. The term rav is short for ‘ravioli’, and among hackers "
+"always means the Chinese kind rather than the Italian kind. Both consist "
+"of a filling in a pasta shell, but the Chinese kind includes no cheese, "
+"uses a thinner pasta, has a pork-vegetable filling (good ones include "
+"Chinese chives), and is cooked differently, either by steaming or frying."
+" A rav or dumpling can be cooked any way, but a potsticker is always the "
+"pan-fried kind (so called because it sticks to the frying pot and has to "
+"be scraped off). \"Let's get hot-and-sour soup and three orders of "
+"ravs.\" See also :ref:`oriental-food`\\."
+msgstr ""
+

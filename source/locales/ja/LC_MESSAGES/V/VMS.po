@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../V/VMS.rst:5
+msgid "VMS"
+msgstr ""
+
+#: ../../V/VMS.rst:7
+msgid "/V·M·S/, n\\."
+msgstr ""
+
+#: ../../V/VMS.rst:9
+msgid ""
+":ref:`DEC`\\'s proprietary operating system for its :ref:`VAX` "
+"minicomputer; one of the seven or so environments that loom largest in "
+"hacker folklore. Many Unix fans generously concede that VMS would "
+"probably be the hacker's favorite commercial OS if Unix didn't exist; "
+"though true, this makes VMS fans furious. One major hacker gripe with VMS"
+" concerns its slowness — thus the following limerick:"
+msgstr ""
+
+#: ../../V/VMS.rst:23
+msgid ""
+"See also :ref:`VAX`\\, :ref:`TOPS-10`\\, :ref:`TOPS-20`\\, :ref:`Unix`\\,"
+" :ref:`runic`\\."
+msgstr ""
+

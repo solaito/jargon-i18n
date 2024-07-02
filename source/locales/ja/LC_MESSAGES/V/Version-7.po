@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../V/Version-7.rst:5
+msgid "Version 7"
+msgstr ""
+
+#: ../../V/Version-7.rst:7
+msgid "/vee´ se´vn/, n\\."
+msgstr ""
+
+#: ../../V/Version-7.rst:9
+msgid ""
+"The first widely distributed version of :ref:`Unix`\\, released "
+"unsupported by Bell Labs in 1978. The term is used adjectivally to "
+"describe Unix features and programs that date from that release, and are "
+"thus guaranteed to be present and portable in all Unix versions (this was"
+" the standard gauge of portability before the POSIX and IEEE 1003 "
+"standards). Note that this usage does *not* derive from the release being"
+" the \"seventh version of :ref:`Unix`\\\"; research :ref:`Unix` at Bell "
+"Labs has traditionally been numbered according to the edition of the "
+"associated documentation. Indeed, only the widely-distributed Sixth and "
+"Seventh Editions are widely known as V[67]; the OS that might today be "
+"known as ‘V10’ is instead known in full as \"Tenth Edition Research "
+"Unix\" or just \"Tenth Edition\" for short. For this reason, \"V7\" is "
+"often read by cognoscenti as \"Seventh Edition\". See :ref:`BSD`\\, "
+":ref:`Unix`\\. Some old-timers impatient with commercialization and "
+"kernel bloat still maintain that V7 was the Last True Unix."
+msgstr ""
+

@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/mumble.rst:5
+msgid "mumble"
+msgstr ""
+
+#: ../../M/mumble.rst:7
+msgid "interj\\."
+msgstr ""
+
+#: ../../M/mumble.rst:10
+msgid ""
+"Said when the correct response is too complicated to enunciate, or the "
+"speaker has not thought it out. Often prefaces a longer answer, or "
+"indicates a general reluctance to get into a long discussion. \"Don't you"
+" think that we could improve LISP performance by using a hybrid "
+"reference-count transaction garbage collector, if the cache is big enough"
+" and there are some extra cache bits for the microcode to use?\" \"Well, "
+"mumble ... I'll have to think about it.\""
+msgstr ""
+
+#: ../../M/mumble.rst:17
+msgid ""
+"[MIT] Expression of not-quite-articulated agreement, often used as an "
+"informal vote of consensus in a meeting: \"So, shall we dike out the "
+"COBOL emulation?\" \"Mumble!\""
+msgstr ""
+
+#: ../../M/mumble.rst:21
+msgid ""
+"Sometimes used as an expression of disagreement (distinguished from sense"
+" 2 by tone of voice and other cues). \"I think we should buy a "
+":ref:`VAX`\\.\" \"Mumble!\" Common variant: mumble frotz (see "
+":ref:`frotz`\\; interestingly, one does not say ‘mumble frobnitz’ even "
+"though ‘frotz’ is short for ‘frobnitz’)."
+msgstr ""
+
+#: ../../M/mumble.rst:27
+msgid "Yet another :ref:`metasyntactic-variable`\\, like :ref:`foo`\\."
+msgstr ""
+
+#: ../../M/mumble.rst:30
+msgid "When used as a question (\"Mumble?\") means \"I didn't understand you\"."
+msgstr ""
+
+#: ../../M/mumble.rst:34
+msgid ""
+"Sometimes used in ‘public’ contexts on-line as a placefiller for things "
+"one is barred from giving details about. For example, a poster with pre-"
+"released hardware in his machine might say \"Yup, my machine now has an "
+"extra 16M of memory, thanks to the card I'm testing for Mumbleco.\""
+msgstr ""
+
+#: ../../M/mumble.rst:38
+msgid ""
+"A conversational wild card used to designate something one doesn't want "
+"to bother spelling out, but which can be :ref:`glark`\\ed from context. "
+"Compare :ref:`blurgle`\\."
+msgstr ""
+
+#: ../../M/mumble.rst:42
+msgid ""
+"[XEROX PARC] A colloquialism used to suggest that further discussion "
+"would be fruitless."
+msgstr ""
+

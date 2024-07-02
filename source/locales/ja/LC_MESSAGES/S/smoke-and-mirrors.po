@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/smoke-and-mirrors.rst:5
+msgid "smoke and mirrors"
+msgstr ""
+
+#: ../../S/smoke-and-mirrors.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/smoke-and-mirrors.rst:9
+msgid ""
+"Marketing deceptions. The term is mainstream in this general sense. Among"
+" hackers it's strongly associated with bogus demos and crocked "
+":ref:`benchmark`\\s (see also :ref:`MIPS`\\, :ref:`machoflops`\\). \"They"
+" claim their new box cranks 50 MIPS for under $5000, but didn't specify "
+"the instruction mix — sounds like smoke and mirrors to me.\" The phrase, "
+"popularized by newspaper columnist Jimmy Breslin c.1975, has been said to"
+" derive from carnie slang for magic acts and ‘freak show’ displays that "
+"depend on *trompe l'oeil* effects, but also calls to mind the fierce "
+"Aztec god Tezcatlipoca (lit. \"Smoking Mirror\") for whom the hearts of "
+"huge numbers of human sacrificial victims were regularly cut out. Upon "
+"hearing about a rigged demo or yet another round of fantasy-based "
+"marketing promises, hackers often feel analogously disheartened. See also"
+" :ref:`stealth-manager`\\."
+msgstr ""
+

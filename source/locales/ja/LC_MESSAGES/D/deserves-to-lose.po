@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/deserves-to-lose.rst:5
+msgid "deserves to lose"
+msgstr ""
+
+#: ../../D/deserves-to-lose.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../D/deserves-to-lose.rst:9
+msgid ""
+"[common] Said of someone who willfully does the :ref:`Wrong-Thing`\\; "
+"humorously, if one uses a feature known to be :ref:`marginal`\\. What is "
+"meant is that one deserves the consequences of one's :ref:`losing` "
+"actions. \"Boy, anyone who tries to use :ref:`mess-dos` deserves to "
+":ref:`lose`\\!\" ( :ref:`ITS` fans used to say the same thing of "
+":ref:`Unix`\\; many still do.) See also :ref:`screw`\\, :ref:`chomp`\\, "
+":ref:`bagbiter`\\."
+msgstr ""
+

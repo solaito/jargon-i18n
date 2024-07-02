@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/dinosaur.rst:5
+msgid "dinosaur"
+msgstr ""
+
+#: ../../D/dinosaur.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/dinosaur.rst:10
+msgid ""
+"Any hardware requiring raised flooring and special power. Used especially"
+" of old minis and mainframes, in contrast with newer microprocessor-based"
+" machines. In a famous quote from the 1998 Unix EXPO, Bill Joy compared "
+"the liquid-cooled mainframe in the massive IBM display with a grazing "
+"dinosaur \"with a truck outside pumping its bodily fluids through it\". "
+"IBM was not amused. Compare :ref:`big-iron`\\; see also "
+":ref:`mainframe`\\."
+msgstr ""
+
+#: ../../D/dinosaur.rst:17
+msgid "[IBM] A very conservative user; a :ref:`zipperhead`\\."
+msgstr ""
+

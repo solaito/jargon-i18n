@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bitty-box.rst:5
+msgid "bitty box"
+msgstr ""
+
+#: ../../B/bitty-box.rst:7
+msgid "/bit´ee boks/, n\\."
+msgstr ""
+
+#: ../../B/bitty-box.rst:10
+msgid ""
+"A computer sufficiently small, primitive, or incapable as to cause a "
+"hacker acute claustrophobia at the thought of developing software on or "
+"for it. Especially used of small, obsolescent, single-tasking-only "
+"personal machines such as the Atari 800, Osborne, Sinclair, VIC-20, "
+"TRS-80, or IBM PC."
+msgstr ""
+
+#: ../../B/bitty-box.rst:14
+msgid ""
+"[Pejorative] More generally, the opposite of ‘real computer’ (see "
+":ref:`Get-a-real-computer-`\\). See also :ref:`mess-dos`\\, "
+":ref:`toaster`\\, and :ref:`toy`\\."
+msgstr ""
+

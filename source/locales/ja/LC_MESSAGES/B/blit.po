@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/blit.rst:5
+msgid "blit"
+msgstr ""
+
+#: ../../B/blit.rst:7
+msgid "/blit/, vt\\."
+msgstr ""
+
+#: ../../B/blit.rst:10
+msgid ""
+"[common] To copy a large array of bits from one part of a computer's "
+"memory to another part, particularly when the memory is being used to "
+"determine what is shown on a display screen. \"The storage allocator "
+"picks through the table and copies the good parts up into high memory, "
+"and then blits it all back down again.\" See :ref:`bitblt`\\, "
+":ref:`BLT`\\, :ref:`dd`\\, :ref:`cat`\\, :ref:`blast`\\, :ref:`snarf`\\. "
+"More generally, to perform some operation (such as toggling) on a large "
+"array of bits while moving them."
+msgstr ""
+
+#: ../../B/blit.rst:16
+msgid ""
+"[historical, rare] Sometimes all-capitalized as BLIT: an early "
+"experimental bit-mapped terminal designed by Rob Pike at Bell Labs, later"
+" commercialized as the AT&T 5620. (The folk etymology from \"Bell Labs "
+"Intelligent Terminal\" is incorrect. Its creators liked to claim that "
+"\"Blit\" stood for the Bacon, Lettuce, and Interactive Tomato.)"
+msgstr ""
+

@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/Blue-Glue.rst:5
+msgid "Blue Glue"
+msgstr ""
+
+#: ../../B/Blue-Glue.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/Blue-Glue.rst:9
+msgid ""
+"[IBM; obs.] IBM's SNA (Systems Network Architecture), an incredibly "
+":ref:`losing` and :ref:`bletcherous` communications protocol once widely "
+"favored at commercial shops that didn't know any better (like other "
+"proprietary networking protocols, it became obsolete and effectively "
+"disappeared after the Internet explosion c.1994). The official IBM "
+"definition is \"that which binds blue boxes together.\" See :ref:`fear-"
+"and-loathing`\\. It may not be irrelevant that Blue Glue is the trade "
+"name of a 3M product that is commonly used to hold down the carpet "
+"squares to the removable panel floors common in :ref:`dinosaur-pen`\\s. A"
+" correspondent at U. Minn. reports that the CS department there has about"
+" 80 bottles of the stuff hanging about, so they often refer to any messy "
+"work to be done as using the blue glue."
+msgstr ""
+

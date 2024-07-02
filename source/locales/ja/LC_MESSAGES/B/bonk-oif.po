@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bonk-oif.rst:5
+msgid "bonk/oif"
+msgstr ""
+
+#: ../../B/bonk-oif.rst:7
+msgid "/bonk/, /oyf/, interj\\."
+msgstr ""
+
+#: ../../B/bonk-oif.rst:9
+msgid ""
+"In the U.S. :ref:`MUD` community, it has become traditional to express "
+"pique or censure by bonking the offending person. Convention holds that "
+"one should acknowledge a bonk by saying \"oif!\" and there is a myth to "
+"the effect that failing to do so upsets the cosmic bonk/oif balance, "
+"causing much trouble in the universe. Some MUDs have implemented special "
+"commands for bonking and oifing. Note: in parts of the U.K. ‘bonk’ is a "
+"sexually loaded slang term; care is advised in transatlantic "
+"conversations (see :ref:`boink`\\). Commonwealth hackers report a similar"
+" convention involving the ‘fish/bang’ balance. See also :ref:`talk-"
+"mode`\\."
+msgstr ""
+

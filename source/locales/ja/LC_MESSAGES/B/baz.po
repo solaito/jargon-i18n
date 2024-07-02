@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/baz.rst:5
+msgid "baz"
+msgstr ""
+
+#: ../../B/baz.rst:7
+msgid "/baz/, n\\."
+msgstr ""
+
+#: ../../B/baz.rst:10
+msgid ""
+"[common] The third :ref:`metasyntactic-variable` \"Suppose we have three "
+"functions: FOO, BAR, and BAZ. FOO calls BAR, which calls BAZ....\" (See "
+"also :ref:`fum`\\)"
+msgstr ""
+
+#: ../../B/baz.rst:13
+msgid ""
+"interj. A term of mild annoyance. In this usage the term is often drawn "
+"out for 2 or 3 seconds, producing an effect not unlike the bleating of a "
+"sheep; /baaaaaaz/."
+msgstr ""
+
+#: ../../B/baz.rst:18
+msgid "Occasionally appended to :ref:`foo` to produce ‘foobaz’."
+msgstr ""
+
+#: ../../B/baz.rst:20
+msgid ""
+"Earlier versions of this lexicon derived baz as a Stanford corruption of "
+":ref:`bar`\\. However, Pete Samson (compiler of the :ref:`TMRC` lexicon) "
+"reports it was already current when he joined TMRC in 1958. He says \"It "
+"came from *Pogo*\\. Albert the Alligator, when vexed or outraged, would "
+"shout \"Bazz Fazz!\" or \"Rowrbazzle!\" The club layout was said to model"
+" the (mythical) New England counties of Rowrfolk and Bassex (Rowrbazzle "
+"mingled with (Norfolk/Suffolk/Middlesex/Essex).\""
+msgstr ""
+

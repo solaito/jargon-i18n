@@ -1,0 +1,146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../crackers.rst:5
+msgid "Crackers, Phreaks, and Lamers"
+msgstr ""
+
+#: ../../crackers.rst:7
+msgid ""
+"From the early 1980s onward, a flourishing culture of local, MS-DOS-based"
+" bulletin boards developed separately from Internet hackerdom. The BBS "
+"culture has, as its seamy underside, a stratum of ‘pirate boards’ "
+"inhabited by :ref:`cracker`\\s, phone phreaks, and :ref:`warez-d00dz`\\. "
+"These people (mostly teenagers running IBM-PC clones from their bedrooms)"
+" have developed their own characteristic jargon, heavily influenced by "
+"skateboard lingo and underground-rock slang. While BBS technology "
+"essentially died out after the :ref:`Great-Internet-Explosion`\\, the "
+"cracker culture moved to IRC and other Internet-based network channels "
+"and maintained a semi-underground existence."
+msgstr ""
+
+#: ../../crackers.rst:12
+msgid ""
+"Though crackers often call themselves ‘hackers’, they aren't (they "
+"typically have neither significant programming ability, nor Internet "
+"expertise, nor experience with UNIX or other true multi-user systems). "
+"Their vocabulary has little overlap with hackerdom's, and hackers regard "
+"them with varying degrees of contempt. But ten years on the brightest "
+"crackers tend to become hackers, and sometimes to recall their origins by"
+" using cracker slang in a marked and heavily ironic way."
+msgstr ""
+
+#: ../../crackers.rst:16
+msgid ""
+"This lexicon covers much of cracker slang (which is often called \"leet-"
+"speak\") so the reader will be able to understand both what leaks out of "
+"the cracker underground and the occasional ironic use by hackers."
+msgstr ""
+
+#: ../../crackers.rst:18
+msgid "Here is a brief guide to cracker and :ref:`warez-d00dz` usage:"
+msgstr ""
+
+#: ../../crackers.rst:20
+msgid ""
+"Misspell frequently. The substitutions phone → fone and freak → phreak "
+"are obligatory."
+msgstr ""
+
+#: ../../crackers.rst:23
+msgid ""
+"Always substitute ‘z’s for ‘s’s. (i.e. \"codes\" → \"codez\"). The "
+"substitution of ‘z’ for ‘s’ has evolved so that a ‘z’ is now "
+"systematically put at the end of words to denote an illegal or cracking "
+"connection. Examples : Appz, passwordz, passez, utilz, MP3z, distroz, "
+"pornz, sitez, gamez, crackz, serialz, downloadz, FTPz, etc."
+msgstr ""
+
+#: ../../crackers.rst:29
+msgid ""
+"Type random emphasis characters after a post line (i.e. \"Hey "
+"Dudes!#!$#$!#!$\")."
+msgstr ""
+
+#: ../../crackers.rst:32
+msgid ""
+"Use the emphatic ‘k’ prefix (\"k-kool\", \"k-rad\", \"k-awesome\") "
+"frequently."
+msgstr ""
+
+#: ../../crackers.rst:34
+msgid "Abbreviate compulsively (\"I got lotsa warez w/ docs\")."
+msgstr ""
+
+#: ../../crackers.rst:36
+msgid "TYPE ALL IN CAPS LOCK, SO IT LOOKS LIKE YOU'RE YELLING ALL THE TIME."
+msgstr ""
+
+#: ../../crackers.rst:38
+msgid "The following letter substitutions are common:"
+msgstr ""
+
+#: ../../crackers.rst:54
+msgid ""
+"Thus, \"elite\" comes out \"31337\" and \"all your base are belong to "
+"us\" becomes \"4ll y0ur b4s3 4r3 b3l0ng t0 us\", Other less common "
+"substitutions include:"
+msgstr ""
+
+#: ../../crackers.rst:72
+msgid ""
+"The word \"cool\" is spelled \"kewl\" and normally used ironically; when "
+"crackers really want to praise something they use the prefix \"uber\" "
+"(from German) which comes out \"ub3r\" or even \"\\|_|83r\""
+msgstr ""
+
+#: ../../crackers.rst:74
+msgid ""
+"These traits are similar to those of :ref:`B1FF`\\, who originated as a "
+"parody of naive :ref:`BBS` users; also of his latter-day equivalent "
+":ref:`Jeff-K-`\\. Occasionally, this sort of distortion may be used as "
+"heavy sarcasm or ironically by a real hacker, as in:"
+msgstr ""
+
+#: ../../crackers.rst:84
+msgid ""
+"The words \"hax0r\" for \"hacker\" and \"sux0r\" for \"sucks\" are the "
+"most common references; more generally, to mark a term as cracker-speak "
+"one may add \"0r\" or \"xor\". Examples:"
+msgstr ""
+
+#: ../../crackers.rst:95
+msgid ""
+"The only practice resembling this in native hacker usage is the "
+"substitution of a dollar sign of ‘s’ in names of products or service felt"
+" to be excessively expensive, e.g. Compu$erve, Micro$oft."
+msgstr ""
+
+#: ../../crackers.rst:98
+msgid ""
+"For further discussion of the pirate-board subculture, see "
+":ref:`lamer`\\, :ref:`elite`\\, :ref:`leech`\\, :ref:`poser`\\, "
+":ref:`cracker`\\, and especially :ref:`warez-d00dz`\\, :ref:`banner-"
+"site`\\, :ref:`ratio-site`\\, :ref:`leech-mode`\\."
+msgstr ""
+

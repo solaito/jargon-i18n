@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/window-shopping.rst:5
+msgid "window shopping"
+msgstr ""
+
+#: ../../W/window-shopping.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../W/window-shopping.rst:9
+msgid ""
+"[US Geological Survey] Among users of :ref:`WIMP-environment`\\s like "
+":ref:`X` or the Macintosh, extended experimentation with new window "
+"colors, fonts, and icon shapes. This activity can take up hours of what "
+"might otherwise have been productive working time. \"I spent the "
+"afternoon window shopping until I found the coolest shade of green for my"
+" active window borders — now they perfectly match my medium slate blue "
+"background.\" Serious window shoppers will spend their days with bitmap "
+"editors, creating new and different icons and background patterns for all"
+" to see. Also: window dressing, the act of applying new fonts, colors, "
+"etc. See :ref:`fritterware`\\, compare :ref:`macdink`\\."
+msgstr ""
+

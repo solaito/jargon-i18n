@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/real-time.rst:5
+msgid "real time"
+msgstr ""
+
+#: ../../R/real-time.rst:8
+msgid ""
+"[techspeak] adj. Describes an application which requires a program to "
+"respond to stimuli within some small upper limit of response time "
+"(typically milli- or microseconds). Process control at a chemical plant "
+"is the :ref:`canonical` example. Such applications often require special "
+"operating systems (because everything else must take a back seat to "
+"response time) and speed-tuned hardware."
+msgstr ""
+
+#: ../../R/real-time.rst:13
+msgid ""
+"adv. In jargon, refers to doing something while people are watching or "
+"waiting. \"I asked her how to find the calling procedure's program "
+"counter on the stack and she came up with an algorithm in real time.\""
+msgstr ""
+

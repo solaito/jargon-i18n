@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/smurf.rst:5
+msgid "smurf"
+msgstr ""
+
+#: ../../S/smurf.rst:7
+msgid "/smerf/, n\\."
+msgstr ""
+
+#: ../../S/smurf.rst:10
+msgid ""
+"[from the :samp:`soc.motss` newsgroup on Usenet, after some obnoxiously "
+"gooey cartoon characters] A newsgroup regular with a habitual style that "
+"is irreverent, silly, and *cute*\\. Like many other hackish terms for "
+"people, this one may be praise or insult depending on who uses it. In "
+"general, being referred to as a smurf is probably not going to make your "
+"day unless you've previously adopted the label yourself in a spirit of "
+"irony. Compare :ref:`old-fart`\\."
+msgstr ""
+
+#: ../../S/smurf.rst:16
+msgid ""
+"[techspeak] A ping packet with a forged source address sent to some other"
+" network's broadcast address. All the machines on the destination network"
+" will send a ping response to the forged source address (the victim). "
+"This both overloads the victim's network and hides the location of the "
+"attacker."
+msgstr ""
+

@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/Nightmare-File-System.rst:5
+msgid "Nightmare File System"
+msgstr ""
+
+#: ../../N/Nightmare-File-System.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../N/Nightmare-File-System.rst:9
+msgid ""
+"Pejorative hackerism for Sun's Network File System (NFS). In any "
+"nontrivial network of Suns where there is a lot of NFS cross-mounting, "
+"when one Sun goes down, the others often freeze up. Some machine tries to"
+" access the down one, and (getting no response) repeats indefinitely. "
+"This causes it to appear dead to some messages (what is actually "
+"happening is that it is locked up in what should have been a brief "
+"excursion to a higher :ref:`spl` level). Then another machine tries to "
+"reach either the down machine or the pseudo-down machine, and itself "
+"becomes pseudo-down. The first machine to discover the down one is now "
+"trying both to access the down one and to respond to the pseudo-down one,"
+" so it is even harder to reach. This situation snowballs very quickly, "
+"and soon the entire network of machines is frozen — worst of all, the "
+"user can't even abort the file access that started the problem! Many of "
+"NFS's problems are excused by partisans as being an inevitable result of "
+"its statelessness, which is held to be a great feature (critics, of "
+"course, call it a great :ref:`misfeature`\\). (ITS partisans are apt to "
+"cite this as proof of Unix's alleged bogosity; ITS had a working NFS-like"
+" shared file system with none of these problems in the early 1970s.) See "
+"also :ref:`broadcast-storm`\\."
+msgstr ""
+

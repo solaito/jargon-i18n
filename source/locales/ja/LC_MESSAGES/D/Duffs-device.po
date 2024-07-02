@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/Duffs-device.rst:5
+msgid "Duff's device"
+msgstr ""
+
+#: ../../D/Duffs-device.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/Duffs-device.rst:9
+msgid ""
+"The most dramatic use yet seen of :ref:`fall-through` in C, invented by "
+"Tom Duff when he was at Lucasfilm. Trying to optimize all the "
+"instructions he could out of an inner loop that copied data serially onto"
+" an output port, he decided to unroll it. He then realized that the "
+"unrolled version could be implemented by *interlacing* the structures of "
+"a switch and a loop:"
+msgstr ""
+
+#: ../../D/Duffs-device.rst:31
+msgid ""
+"Shocking though it appears to all who encounter it for the first time, "
+"the device is actually perfectly valid, legal C. C's default :ref:`fall-"
+"through` in case statements has long been its most controversial single "
+"feature; Duff observed that \"This code forms some sort of argument in "
+"that debate, but I'm not sure whether it's for or against.\" Duff has "
+"discussed the device in detail at `http://www.lysator.liu.se/c/duffs-"
+"device.html <http://www.lysator.liu.se/c/duffs-device.html>`_. Note that "
+"the omission of postfix :code:`++` from :code:`\\*to` was intentional "
+"(though confusing). Duff's device can be used to implement memory copy, "
+"but the original aim was to copy values serially into a magic IO "
+"register."
+msgstr ""
+
+#: ../../D/Duffs-device.rst:36
+msgid ""
+"[For maximal obscurity, the outermost pair of braces above could actually"
+" be removed — GLS]"
+msgstr ""
+

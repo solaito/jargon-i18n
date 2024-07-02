@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/gorets.rst:5
+msgid "gorets"
+msgstr ""
+
+#: ../../G/gorets.rst:7
+msgid "/gor´ets/, n\\."
+msgstr ""
+
+#: ../../G/gorets.rst:9
+msgid ""
+"The unknown ur-noun, fill in your own meaning. Found esp. on the Usenet "
+"newsgroup :samp:`alt.gorets`\\, which seems to be a running contest to "
+"redefine the word by implication in the funniest and most peculiar way, "
+"with the understanding that no definition is ever final. [A correspondent"
+" from the former Soviet Union informs me that *gorets* is Russian for "
+"‘mountain dweller’. Another from France informs me that *goret* is "
+"archaic French for a young pig —ESR] Compare :ref:`frink`\\."
+msgstr ""
+

@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/water-MIPS.rst:5
+msgid "water MIPS"
+msgstr ""
+
+#: ../../W/water-MIPS.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../W/water-MIPS.rst:9
+msgid ""
+"(see :ref:`MIPS`\\, sense 2) Large, water-cooled machines of either "
+"today's ECL-supercomputer flavor or yesterday's traditional "
+":ref:`mainframe` type."
+msgstr ""
+
+#: ../../W/water-MIPS.rst:15
+msgid "A really unusual kind of  :ref:`water-MIPS`\\."
+msgstr ""
+
+#: ../../W/water-MIPS.rst:17
+msgid ""
+"(The next cartoon in the Crunchly saga is         "
+":ref:`74-12-25<crunchly74-12-25>`\\.  The previous  cartoon was  "
+":ref:`73-10-31<crunchly73-10-31>`\\.)"
+msgstr ""
+

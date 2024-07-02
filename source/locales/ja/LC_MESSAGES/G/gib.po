@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/gib.rst:5
+msgid "gib"
+msgstr ""
+
+#: ../../G/gib.rst:7
+msgid "/jib/"
+msgstr ""
+
+#: ../../G/gib.rst:9
+msgid ""
+"vi\\. To destroy utterly. Like :ref:`frag`\\, but much more violent and "
+"final. \"There's no trace left. You definitely gibbed that bug\"."
+msgstr ""
+
+#: ../../G/gib.rst:15
+msgid "n\\. Remnants after total obliteration."
+msgstr ""
+
+#: ../../G/gib.rst:18
+msgid ""
+"Popilarized by id software in the game Quake, but actually goes back to "
+"an earlier game called *Rise of the Triad*\\. It's short for giblets "
+"(thus pronounced \"jib\"), and referred to the bloody remains of slain "
+"opponents. Eventually the word was verbed, and leaked into general usage "
+"afterward."
+msgstr ""
+

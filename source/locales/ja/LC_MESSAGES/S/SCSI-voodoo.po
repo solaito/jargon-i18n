@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/SCSI-voodoo.rst:5
+msgid "SCSI voodoo"
+msgstr ""
+
+#: ../../S/SCSI-voodoo.rst:7
+msgid "/skuz´ee voo´doo/"
+msgstr ""
+
+#: ../../S/SCSI-voodoo.rst:9
+msgid ""
+"[common among Mac users] :ref:`SCSI` interface hardware is notoriously "
+"fickle of temperament. Often, the SCSI bus will fail to work unless the "
+"cable order of devices is re-arranged, SCSI termination is added or "
+"removed (sometimes double-termination or *no* termination will fix the "
+"problem), or particular devices are given particular SCSI IDs. The skills"
+" needed to trick the naturally skittish demons of SCSI into working are "
+"collectively known as SCSI voodoo. Compare :ref:`magic`\\, :ref:`deep-"
+"magic`\\, :ref:`heavy-wizardry`\\, :ref:`rain-dance`\\, :ref:`cargo-cult-"
+"programming`\\, :ref:`wave-a-dead-chicken`\\, :ref:`voodoo-"
+"programming`\\."
+msgstr ""
+
+#: ../../S/SCSI-voodoo.rst:14
+msgid ""
+"While ordinary mortals frequently experience near-terminal frustration "
+"when attempting to configure SCSI device chains, it is said that a true "
+"master of this arcane art can (through rituals involving chicken blood, "
+"ground rhino horn, hairs of a virgin, eye of newt, etc.) hook up your "
+"personal computer with three scanners, a Zip drive, an IDE hard drive, a "
+"home weather station, a Smith-Corona typewriter, and the neighbor's "
+"garage door."
+msgstr ""
+

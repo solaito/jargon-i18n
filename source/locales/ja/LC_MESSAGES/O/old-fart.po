@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../O/old-fart.rst:5
+msgid "old fart"
+msgstr ""
+
+#: ../../O/old-fart.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../O/old-fart.rst:9
+msgid ""
+"Tribal elder. A title self-assumed with remarkable frequency by (esp.) "
+"Usenetters who have been programming for more than about 25 years; often "
+"appears in :ref:`sig-block`\\s attached to Jargon File contributions of "
+"great archeological significance. This is a term of insult in the second "
+"or third person but one of pride in first person."
+msgstr ""
+

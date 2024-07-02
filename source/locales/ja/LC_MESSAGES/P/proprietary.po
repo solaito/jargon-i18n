@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/proprietary.rst:5
+msgid "proprietary"
+msgstr ""
+
+#: ../../P/proprietary.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../P/proprietary.rst:10
+msgid ""
+"In :ref:`marketroid`\\-speak, superior; implies a product imbued with "
+"exclusive magic by the unmatched brilliance of the company's own hardware"
+" or software designers."
+msgstr ""
+
+#: ../../P/proprietary.rst:13
+msgid ""
+"In the language of hackers and users, inferior; implies a product not "
+"conforming to open-systems standards, and thus one that puts the customer"
+" at the mercy of a vendor able to gouge freely on service and upgrade "
+"charges after the initial sale has locked the customer in. Often used in "
+"the phrase \"proprietary crap\"."
+msgstr ""
+
+#: ../../P/proprietary.rst:17
+msgid ""
+"Synonym for closed-source or non-free, e.g. software issued without "
+"license rights permitting the public to independently review, develop and"
+" redistribute it."
+msgstr ""
+
+#: ../../P/proprietary.rst:20
+msgid ""
+"Proprietary software should be distinguished from commercial software. It"
+" is possible for software to be commercial (that is, intended to make a "
+"profit for the producers) without being proprietary. The reverse is also "
+"possible, for example in binary-only freeware."
+msgstr ""
+

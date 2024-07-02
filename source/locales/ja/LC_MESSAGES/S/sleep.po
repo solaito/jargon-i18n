@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/sleep.rst:5
+msgid "sleep"
+msgstr ""
+
+#: ../../S/sleep.rst:7
+msgid "vi\\."
+msgstr ""
+
+#: ../../S/sleep.rst:10
+msgid ""
+"[techspeak] To relinquish a claim (of a process on a multitasking system)"
+" for service; to indicate to the scheduler that a process may be "
+"deactivated until some given event occurs or a specified time delay "
+"elapses."
+msgstr ""
+
+#: ../../S/sleep.rst:13
+msgid ""
+"In jargon, used very similarly to v. :ref:`block`\\; also in sleep on, "
+"syn. : with block on. Often used to indicate that the speaker has "
+"relinquished a demand for resources until some (possibly unspecified) "
+"external event: \"They can't get the fix I've been asking for into the "
+"next release, so I'm going to sleep on it until the release, then start "
+"hassling them again.\""
+msgstr ""
+

@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/firewall-machine.rst:5
+msgid "firewall machine"
+msgstr ""
+
+#: ../../F/firewall-machine.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/firewall-machine.rst:9
+msgid ""
+"A dedicated gateway machine with special security precautions on it, used"
+" to service outside network connections and dial-in lines. The idea is to"
+" protect a cluster of more loosely administered machines hidden behind it"
+" from :ref:`cracker`\\s. The typical firewall is an inexpensive micro-"
+"based Unix box kept clean of critical data, with a bunch of modems and "
+"public network ports on it but just one carefully watched connection back"
+" to the rest of the cluster. The special precautions may include threat "
+"monitoring, callback, and even a complete :ref:`iron-box` keyable to "
+"particular incoming IDs or activity patterns. Syn. :ref:`flytrap`\\, :ref"
+":`Venus-flytrap`\\. See also :ref:`wild-side`\\."
+msgstr ""
+
+#: ../../F/firewall-machine.rst:17
+msgid ""
+"[When first coined in the mid-1980s this term was pure jargon. Now (1999)"
+" it is techspeak, and has been retained only as an example of uptake "
+"—ESR]"
+msgstr ""
+

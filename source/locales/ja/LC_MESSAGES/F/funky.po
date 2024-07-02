@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/funky.rst:5
+msgid "funky"
+msgstr ""
+
+#: ../../F/funky.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../F/funky.rst:9
+msgid ""
+"Said of something that functions, but in a slightly strange, klugey way. "
+"It does the job and would be difficult to change, so its obvious non-"
+"optimality is left alone. Often used to describe interfaces. The more "
+"bugs something has that nobody has bothered to fix because workarounds "
+"are easier, the funkier it is. :ref:`TECO` and UUCP are funky. The Intel "
+"i860's exception handling is extraordinarily funky. Most standards "
+"acquire funkiness as they age. \"The new mailer is installed, but is "
+"still somewhat funky; if it bounces your mail for no reason, try "
+"resubmitting it.\" \"This UART is pretty funky. The data ready line is "
+"active-high in interrupt mode and active-low in DMA mode.\""
+msgstr ""
+

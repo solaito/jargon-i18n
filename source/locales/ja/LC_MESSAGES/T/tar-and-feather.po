@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/tar-and-feather.rst:5
+msgid "tar and feather"
+msgstr ""
+
+#: ../../T/tar-and-feather.rst:7
+msgid "vi\\."
+msgstr ""
+
+#: ../../T/tar-and-feather.rst:9
+msgid ""
+"[from Unix :manpage:`tar(1)`\\] To create a transportable archive from a "
+"group of files by first sticking them together with :manpage:`tar(1)` "
+"(the Tape ARchiver) and then compressing the result (see "
+":ref:`compress`\\). The latter action is dubbed feathering partly for "
+"euphony and (if only for contrived effect) by analogy to what you do with"
+" an airplane propeller to decrease wind resistance, or with an oar to "
+"reduce water resistance; smaller files, after all, slip through comm "
+"links more easily. Compare the more common :ref:`tarball`\\. Earlier, the"
+" phrase referred to a punishment in which the victims had tar being "
+"poured upon them and then, whilst the tar was still sticky, having a "
+"pillow full of feathers - or other material — thrown at them. See "
+"`http://www.nwta.com/Spy/spring99/tar.html "
+"<http://www.nwta.com/Spy/spring99/tar.html>`_."
+msgstr ""
+

@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/sig-block.rst:5
+msgid "sig block"
+msgstr ""
+
+#: ../../S/sig-block.rst:7
+msgid "/sig blok/, n\\."
+msgstr ""
+
+#: ../../S/sig-block.rst:9
+msgid ""
+"[Internet and Usenet; often written ‘.sig’ there] Short for ‘signature’, "
+"used specifically to refer to the electronic signature block that most "
+"Unix mail- and news-posting software will :ref:`automagically` append to "
+"outgoing mail and news. The composition of one's sig can be quite an art "
+"form, including an ASCII logo, one's choice of witty sayings (see :ref"
+":`sig-quote`\\, :ref:`fool-file`\\), or even source code for small "
+"programs about which the author wishes to make a statement; but many "
+"consider large sigs a waste of :ref:`bandwidth`\\, and it has been "
+"observed that the size of one's sig block is usually inversely "
+"proportional to one's longevity and level of prestige on the net. See "
+"also :ref:`doubled-sig`\\, :ref:`McQuary-limit`\\."
+msgstr ""
+

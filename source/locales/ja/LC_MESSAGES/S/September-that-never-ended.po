@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/September-that-never-ended.rst:5
+msgid "September that never ended"
+msgstr ""
+
+#: ../../S/September-that-never-ended.rst:7
+msgid ""
+"All time since September 1993. One of the seasonal rhythms of the Usenet "
+"used to be the annual September influx of clueless newbies who, lacking "
+"any sense of :ref:`netiquette`\\, made a general nuisance of themselves. "
+"This coincided with people starting college, getting their first internet"
+" accounts, and plunging in without bothering to learn what was "
+"acceptable. These relatively small drafts of newbies could be assimilated"
+" within a few months. But in September 1993, AOL users became able to "
+"post to Usenet, nearly overwhelming the old-timers' capacity to "
+"acculturate them; to those who nostalgically recall the period before, "
+"this triggered an inexorable decline in the quality of discussions on "
+"newsgroups. Syn. eternal September. See also :ref:`AOL-`\\."
+msgstr ""
+

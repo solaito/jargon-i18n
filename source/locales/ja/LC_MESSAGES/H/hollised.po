@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hollised.rst:5
+msgid "hollised"
+msgstr ""
+
+#: ../../H/hollised.rst:7
+msgid "/hol´ist/, adj\\."
+msgstr ""
+
+#: ../../H/hollised.rst:9
+msgid ""
+"[Usenet: :samp:`sci.space`\\] To be hollised is to have been ordered by "
+"one's employer not to post any even remotely job-related material to "
+"Usenet (or, by extension, to other Internet media). The original and most"
+" notorious case of this involved one Ken Hollis, a Lockheed employee and "
+"space-program enthusiast who posted publicly available material on access"
+" to Space Shuttle launches to :samp:`sci.space`\\. He was gagged under "
+"threat of being fired in 1994 at the behest of NASA public-relations "
+"officers. The result was, of course, a huge publicity black eye for NASA."
+" Nevertheless several other NASA contractor employees were subsequently "
+"hollised for similar activities. Use of this term carries the strong "
+"connotation that the persons doing the gagging are bureaucratic idiots "
+"blinded to their own best interests by territorial reflexes."
+msgstr ""
+

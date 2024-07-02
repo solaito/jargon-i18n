@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/smart.rst:5
+msgid "smart"
+msgstr ""
+
+#: ../../S/smart.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../S/smart.rst:9
+msgid ""
+"Said of a program that does the :ref:`Right-Thing` in a wide variety of "
+"complicated circumstances. There is a difference between calling a "
+"program smart and calling it intelligent; in particular, there do not "
+"exist any intelligent programs (yet — see :ref:`AI-complete`\\). Compare "
+":ref:`robust` (smart programs can be :ref:`brittle`\\)."
+msgstr ""
+

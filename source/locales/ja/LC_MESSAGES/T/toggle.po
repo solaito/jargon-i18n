@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/toggle.rst:5
+msgid "toggle"
+msgstr ""
+
+#: ../../T/toggle.rst:7
+msgid "vt\\."
+msgstr ""
+
+#: ../../T/toggle.rst:9
+msgid ""
+"To change a :ref:`bit` from whatever state it is in to the other state; "
+"to change from 1 to 0 or from 0 to"
+msgstr ""
+
+#: ../../T/toggle.rst:12
+msgid ""
+"This comes from ‘toggle switches’, such as standard light switches, "
+"though the word toggle actually refers to the mechanism that keeps the "
+"switch in the position to which it is flipped rather than to the fact "
+"that the switch has two positions. There are four things you can do to a "
+"bit: set it (force it to be 1), clear (or zero) it, leave it alone, or "
+"toggle it. (Mathematically, one would say that there are four distinct "
+"boolean-valued functions of one boolean argument, but saying that is much"
+" less fun than talking about toggling bits.)"
+msgstr ""
+

@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/down.rst:5
+msgid "down"
+msgstr ""
+
+#: ../../D/down.rst:7
+msgid ""
+"adj. Not operating. \"The up escalator is down\" is considered a humorous"
+" thing to say (unless of course you were expecting to use it), and \"The "
+"elevator is down\" always means \"The elevator isn't working\" and never "
+"refers to what floor the elevator is on. With respect to computers, this "
+"term has passed into the mainstream; the extension to other kinds of "
+"machine is still confined to techies (e.g. boiler mechanics may speak of "
+"a boiler being down)."
+msgstr ""
+
+#: ../../D/down.rst:13
+msgid ""
+"go down vi. To stop functioning; usually said of the :ref:`system`\\. The"
+" message from the :ref:`console` that every hacker hates to hear from the"
+" operator is \"System going down in 5 minutes\"."
+msgstr ""
+
+#: ../../D/down.rst:17
+msgid ""
+"take down, bring down vt. To deactivate purposely, usually for repair "
+"work or :ref:`PM`\\. \"I'm taking the system down to work on that bug in "
+"the tape drive.\" Occasionally one hears the word down by itself used as "
+"a verb in this vt. sense."
+msgstr ""
+
+#: ../../D/down.rst:21
+msgid "See :ref:`crash`\\; oppose :ref:`up`\\."
+msgstr ""
+

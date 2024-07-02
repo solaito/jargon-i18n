@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/grind.rst:5
+msgid "grind"
+msgstr ""
+
+#: ../../G/grind.rst:7
+msgid "vt\\."
+msgstr ""
+
+#: ../../G/grind.rst:10
+msgid ""
+"[MIT and Berkeley; now rare] To prettify hardcopy of code, especially "
+"LISP code, by reindenting lines, printing keywords and comments in "
+"distinct fonts (if available), etc. This usage was associated with the "
+"MacLISP community and is now rare; :ref:`prettyprint` was and is the "
+"generic term for such operations."
+msgstr ""
+
+#: ../../G/grind.rst:14
+msgid ""
+"[Unix] To generate the formatted version of a document from the "
+":ref:`troff`\\, :ref:`TeX`\\, or Scribe source."
+msgstr ""
+
+#: ../../G/grind.rst:17
+msgid ""
+"[common] To run seemingly interminably, esp. (but not necessarily) if "
+"performing some tedious and inherently useless task. Similar to "
+":ref:`crunch` or :ref:`grovel`\\. Grinding has a connotation of using a "
+"lot of CPU time, but it is possible to grind a disk, network, etc. See "
+"also :ref:`hog`\\."
+msgstr ""
+
+#: ../../G/grind.rst:24
+msgid "To make the whole system slow. \"Troff really grinds a :ref:`PDP-11`\\.\""
+msgstr ""
+
+#: ../../G/grind.rst:27
+msgid "grind grind excl. Roughly, \"Isn't the machine slow today!\""
+msgstr ""
+

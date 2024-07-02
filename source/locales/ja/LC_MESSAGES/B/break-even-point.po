@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/break-even-point.rst:5
+msgid "break-even point"
+msgstr ""
+
+#: ../../B/break-even-point.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/break-even-point.rst:9
+msgid ""
+"In the process of implementing a new computer language, the point at "
+"which the language is sufficiently effective that one can implement the "
+"language in itself. That is, for a new language called, hypothetically, "
+"FOOGOL, one has reached break-even when one can write a demonstration "
+"compiler for FOOGOL in FOOGOL, discard the original implementation "
+"language, and thereafter use working versions of FOOGOL to develop newer "
+"ones. This is an important milestone; see :ref:`MFTL`\\."
+msgstr ""
+
+#: ../../B/break-even-point.rst:13
+msgid ""
+"Since this entry was first written, several correspondents have reported "
+"that there actually was a compiler for a tiny Algol-like language called "
+"Foogol floating around on various :ref:`VAXen` in the early and mid-"
+"1980s. A FOOGOL implementation is available at the Retrocomputing Museum "
+"`http://www.catb.org/retro/ <http://www.catb.org/retro/>`_."
+msgstr ""
+

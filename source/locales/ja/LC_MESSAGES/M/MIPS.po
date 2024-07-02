@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/MIPS.rst:5
+msgid "MIPS"
+msgstr ""
+
+#: ../../M/MIPS.rst:7
+msgid "/mips/, n\\."
+msgstr ""
+
+#: ../../M/MIPS.rst:9
+msgid "[abbreviation]"
+msgstr ""
+
+#: ../../M/MIPS.rst:12
+msgid ""
+"A measure of computing speed; formally, ‘Million Instructions Per Second’"
+" (that's :math:`10^{6}` per second, not :math:`2^{20}`\\! ); often "
+"rendered by hackers as ‘Meaningless Indication of Processor Speed’ or in "
+"other unflattering ways, such as ‘Meaningless Information Provided by "
+"Salesmen’. This joke expresses an attitude nearly universal among hackers"
+" about the value of most :ref:`benchmark` claims, said attitude being one"
+" of the great cultural divides between hackers and :ref:`marketroid`\\s "
+"(see also :ref:`BogoMIPS`\\). The singular is sometimes ‘1 MIP’ even "
+"though this is clearly etymologically wrong. See also :ref:`KIPS` and "
+":ref:`GIPS`\\."
+msgstr ""
+
+#: ../../M/MIPS.rst:19
+msgid ""
+"Computers, especially large computers, considered abstractly as sources "
+"of :ref:`computron`\\s. \"This is just a workstation; the heavy MIPS are "
+"hidden in the basement.\""
+msgstr ""
+
+#: ../../M/MIPS.rst:23
+msgid ""
+"The corporate name of a particular RISC-chip company, later acquired by "
+"SGI."
+msgstr ""
+
+#: ../../M/MIPS.rst:26
+msgid ""
+"Acronym for ‘Meaningless Information per Second’ (a joke, prob. : from "
+"sense 1)."
+msgstr ""
+

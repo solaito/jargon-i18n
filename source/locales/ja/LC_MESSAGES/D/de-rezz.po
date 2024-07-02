@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/de-rezz.rst:5
+msgid "de-rezz"
+msgstr ""
+
+#: ../../D/de-rezz.rst:7
+msgid "/dee·rez´/"
+msgstr ""
+
+#: ../../D/de-rezz.rst:9
+msgid "[from ‘de-resolve’ via the movie *Tron*\\] (also derez)"
+msgstr ""
+
+#: ../../D/de-rezz.rst:11
+msgid ""
+"vi\\. To disappear or dissolve; the image that goes with it is of an "
+"object breaking up into raster lines and static and then dissolving. "
+"Occasionally used of a person who seems to have suddenly ‘fuzzed out’ "
+"mentally rather than physically. Usage: extremely silly, also rare. This "
+"verb was actually invented as *fictional* hacker jargon, and adopted in a"
+" spirit of irony by real hackers years after the fact."
+msgstr ""
+
+#: ../../D/de-rezz.rst:17
+msgid ""
+"vt\\. The Macintosh resource decompiler. On a Macintosh, many program "
+"structures (including the code itself) are managed in small segments of "
+"the program file known as resources; Rez and DeRez are a pair of "
+"utilities for compiling and decompiling resource files. Thus, decompiling"
+" a resource is derezzing. Usage: very common."
+msgstr ""
+

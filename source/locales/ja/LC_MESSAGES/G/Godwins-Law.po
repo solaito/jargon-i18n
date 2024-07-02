@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/Godwins-Law.rst:5
+msgid "Godwin's Law"
+msgstr ""
+
+#: ../../G/Godwins-Law.rst:7
+msgid "prov\\."
+msgstr ""
+
+#: ../../G/Godwins-Law.rst:9
+msgid ""
+"[Usenet] \"As a Usenet discussion grows longer, the probability of a "
+"comparison involving Nazis or Hitler approaches one.\" There is a "
+"tradition in many groups that, once this occurs, that thread is over, and"
+" whoever mentioned the Nazis has automatically lost whatever argument was"
+" in progress. Godwin's Law thus practically guarantees the existence of "
+"an upper bound on thread length in those groups. However there is also a "
+"widely- recognized codicil that any *intentional* triggering of Godwin's "
+"Law in order to invoke its thread-ending effects will be unsuccessful. "
+"Godwin himself has `discussed the subject "
+"<http://www.wired.com/wired/archive/2.10/godwin.if_pr.html>`_. See also "
+":ref:`Formosas-Law`\\."
+msgstr ""
+

@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/compact.rst:5
+msgid "compact"
+msgstr ""
+
+#: ../../C/compact.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../C/compact.rst:9
+msgid ""
+"Of a design, describes the valuable property that it can all be "
+"apprehended at once in one's head. This generally means the thing created"
+" from the design can be used with greater facility and fewer errors than "
+"an equivalent tool that is not compact. Compactness does not imply "
+"triviality or lack of power; for example, C is compact and FORTRAN is "
+"not, but C is more powerful than FORTRAN. Designs become non-compact "
+"through accreting :ref:`feature`\\s and :ref:`cruft` that don't merge "
+"cleanly into the overall design scheme (thus, some fans of "
+":ref:`Classic-C` maintain that ANSI C is no longer compact)."
+msgstr ""
+

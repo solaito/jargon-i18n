@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/rubber-hose-cryptanalysis.rst:5
+msgid "rubber-hose cryptanalysis"
+msgstr ""
+
+#: ../../R/rubber-hose-cryptanalysis.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../R/rubber-hose-cryptanalysis.rst:9
+msgid ""
+"[sci.crypt newsgroup] The technique of breaking a code or cipher by "
+"finding someone who has the key and applying a rubber hose vigorously and"
+" repeatedly to the soles of that luckless person's feet until the key is "
+"discovered. Shorthand for any method of coercion: the originator of the "
+"term drily noted that it \"can take a surprisingly short time and is "
+"quite computationally inexpensive\" relative to other cryptanalysis "
+"methods. Compare :ref:`social-engineering`\\, :ref:`brute-force`\\."
+msgstr ""
+

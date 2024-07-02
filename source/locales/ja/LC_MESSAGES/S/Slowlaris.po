@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/Slowlaris.rst:5
+msgid "Slowlaris"
+msgstr ""
+
+#: ../../S/Slowlaris.rst:7
+msgid "/slo'·lahr·is/, n\\."
+msgstr ""
+
+#: ../../S/Slowlaris.rst:9
+msgid ""
+"[Usenet; poss. from the variety of prosimian called a \"slow loris\". The"
+" variant ‘Slowlartus’ is also common, related to :ref:`LART`\\] Common "
+"hackish term for Solaris, Sun's System VR4 version of Unix that came out "
+"of the standardization wars of the early 1990s. So named because "
+"especially on older hardware, responsiveness was much less crisp than "
+"under the preceding SunOS. Early releases of Solaris (that is, Solaris 2,"
+" as some :ref:`marketroid`\\s at Sun retroactively rechristened SunOS as "
+"Solaris 1) were quite buggy, and Sun was forced by customer demand to "
+"support SunOS for quite some time. Newer versions are acknowledged to be "
+"among the best commercial Unix variants in 1998, but still lose single-"
+"processor benchmarks to Sparc :ref:`Linux`\\. Compare :ref:`HP-SUX`\\, "
+":ref:`sun-stools`\\."
+msgstr ""
+

@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/cuspy.rst:5
+msgid "cuspy"
+msgstr ""
+
+#: ../../C/cuspy.rst:7
+msgid "/kuhs´pee/, adj\\."
+msgstr ""
+
+#: ../../C/cuspy.rst:9
+msgid ""
+"[WPI: from the :ref:`DEC` abbreviation CUSP, for ‘Commonly Used System "
+"Program’, i.e., a utility program used by many people. Now rare.]"
+msgstr ""
+
+#: ../../C/cuspy.rst:13
+msgid "(of a program) Well-written."
+msgstr ""
+
+#: ../../C/cuspy.rst:16
+msgid ""
+"Functionally excellent. A program that performs well and interfaces well "
+"to users is cuspy. Oppose :ref:`rude`\\."
+msgstr ""
+
+#: ../../C/cuspy.rst:21
+msgid ""
+"[NYU] Said of an attractive woman, especially one regarded as available. "
+"Implies a certain curvaceousness."
+msgstr ""
+

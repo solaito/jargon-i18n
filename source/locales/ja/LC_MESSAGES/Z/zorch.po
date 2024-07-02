@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../Z/zorch.rst:5
+msgid "zorch"
+msgstr ""
+
+#: ../../Z/zorch.rst:7
+msgid "/zorch/"
+msgstr ""
+
+#: ../../Z/zorch.rst:10
+msgid "[TMRC] v. To attack with an inverse heat sink."
+msgstr ""
+
+#: ../../Z/zorch.rst:13
+msgid ""
+"[TMRC] v. To travel, with ``v`` approaching ``c`` [that is, with velocity"
+" approaching lightspeed —ESR]."
+msgstr ""
+
+#: ../../Z/zorch.rst:16
+msgid ""
+"[MIT] v. To propel something very quickly. \"The new comm software is "
+"very fast; it really zorches files through the network.\""
+msgstr ""
+
+#: ../../Z/zorch.rst:20
+msgid ""
+"[MIT] n. Influence. Brownie points. Good karma. The intangible and fuzzy "
+"currency in which favors are measured. \"I'd rather not ask him for that "
+"just yet; I think I've used up my quota of zorch with him for the week.\""
+msgstr ""
+
+#: ../../Z/zorch.rst:27
+msgid ""
+"[MIT] n. Energy, drive, or ability. \"I think I'll :ref:`punt` that "
+"change for now; I've been up for 30 hours and I've run out of zorch.\""
+msgstr ""
+
+#: ../../Z/zorch.rst:31
+msgid "[MIT] v. To flunk an exam or course."
+msgstr ""
+
+#: ../../Z/zorch.rst:33
+msgid ""
+"A track called *Zorch* was the B-side of a single called *Captain "
+"Hideous*\\, released by novelty artist Nervous Norvous in 1955. Norvous "
+"was heavily influemced by a radio comedian named Red Blanchard; the word "
+"\"zorch\" appears to have been coined on Blanchard's show in the early "
+"1950s. The word itself had no meaning, but there where compounds using it"
+" that did — \"zorch cow\", for example, was a variant of the Chicago-area"
+" slang \"black cow\" for a root beer float."
+msgstr ""
+

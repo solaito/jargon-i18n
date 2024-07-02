@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/funny-money.rst:5
+msgid "funny money"
+msgstr ""
+
+#: ../../F/funny-money.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/funny-money.rst:10
+msgid ""
+"Notional ‘dollar’ units of computing time and/or storage handed to "
+"students at the beginning of a computer course; also called play money or"
+" purple money (in implicit opposition to real or green money). In New "
+"Zealand and Germany the odd usage paper money has been recorded; in "
+"Germany, the particularly amusing synonym transfer ruble commemorates the"
+" funny money used for trade between COMECON countries back when the "
+"Soviet Bloc still existed. When your funny money ran out, your account "
+"froze and you needed to go to a professor to get more. Fortunately, the "
+"plunging cost of timesharing cycles has made this less common. The "
+"amounts allocated were almost invariably too small, even for the non-"
+"hackers who wanted to slide by with minimum work. In extreme cases, the "
+"practice led to small-scale black markets in bootlegged computer "
+"accounts."
+msgstr ""
+
+#: ../../F/funny-money.rst:18
+msgid ""
+"By extension, phantom money or quantity tickets of any kind used as a "
+"resource-allocation hack within a system. Antonym: real money."
+msgstr ""
+

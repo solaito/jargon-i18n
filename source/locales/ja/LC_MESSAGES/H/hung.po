@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hung.rst:5
+msgid "hung"
+msgstr ""
+
+#: ../../H/hung.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../H/hung.rst:9
+msgid ""
+"[from ‘hung up’; common] Equivalent to :ref:`wedged`\\, but more common "
+"at Unix/C sites. Not generally used of people. Syn. with :ref:`locked-"
+"up`\\, :ref:`wedged`\\; compare :ref:`hosed`\\. See also :ref:`hang`\\. A"
+" hung state is distinguished from :ref:`crash`\\ed or :ref:`down`\\, "
+"where the program or system is also unusable but because it is not "
+"running rather than because it is waiting for something. However, the "
+"recovery from both situations is often the same. It is also distinguished"
+" from the similar but more drastic state :ref:`wedged` — hung software "
+"can be woken up with easy things like interrupt keys, but wedged will "
+"need a kill -9 or even reboot."
+msgstr ""
+

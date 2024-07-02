@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/micros-tilde-1.rst:5
+msgid "micros~1"
+msgstr ""
+
+#: ../../M/micros-tilde-1.rst:7
+msgid ""
+"An abbreviation of the full name :ref:`Microsoft` resembling the rather "
+":ref:`bogus` way Windows 9x's VFAT filesystem truncates long file names "
+"to fit in the MS-DOS 8+3 scheme (the real filename is stored elsewhere). "
+"If other files start with the same prefix, they'll be called micros~2 and"
+" so on, causing lots of problems with backups and other routine system-"
+"administration problems. During the US Antitrust trial against Microsoft "
+"the names Micros~1 and Micros~2 were suggested for the two companies that"
+" would exist after a break-up."
+msgstr ""
+

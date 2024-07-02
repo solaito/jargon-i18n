@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hex.rst:5
+msgid "hex"
+msgstr ""
+
+#: ../../H/hex.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../H/hex.rst:10
+msgid "Short for :ref:`hexadecimal`\\, base 16."
+msgstr ""
+
+#: ../../H/hex.rst:13
+msgid ""
+"A 6-pack of anything (compare :ref:`quad`\\, sense 2). Neither usage has "
+"anything to do with :ref:`magic` or :ref:`black-art`\\, though the pun is"
+" appreciated and occasionally used by hackers. True story: As a joke, "
+"some hackers once offered some surplus ICs for sale to be worn as "
+"protective amulets against hostile magic. The chips were, of course, hex "
+"inverters."
+msgstr ""
+

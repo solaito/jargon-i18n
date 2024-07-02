@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bot.rst:5
+msgid "bot"
+msgstr ""
+
+#: ../../B/bot.rst:7
+msgid "n"
+msgstr ""
+
+#: ../../B/bot.rst:9
+msgid "[common on IRC, MUD and among gamers; from \"robot\"]"
+msgstr ""
+
+#: ../../B/bot.rst:12
+msgid ""
+"An :ref:`IRC` or :ref:`MUD` user who is actually a program. On IRC, "
+"typically the robot provides some useful service. Examples are NickServ, "
+"which tries to prevent random users from adopting :ref:`nick`\\s already "
+"claimed by others, and MsgServ, which allows one to send asynchronous "
+"messages to be delivered when the recipient signs on. Also common are "
+"‘annoybots’, such as KissServ, which perform no useful function except to"
+" send cute messages to other people. Service bots are less common on "
+"MUDs; but some others, such as the ‘Julia’ bot active in 1990--91, have "
+"been remarkably impressive Turing-test experiments, able to pass as human"
+" for as long as ten or fifteen minutes of conversation."
+msgstr ""
+
+#: ../../B/bot.rst:19
+msgid ""
+"An AI-controlled player in a computer game (especially a first-person "
+"shooter such as Quake) which, unlike ordinary monsters, operates like a "
+"human-controlled player, with access to a player's weapons and abilities."
+" An example can be found at `http://www.telefragged.com/thefatal/ "
+"<http://www.telefragged.com/thefatal/>`_."
+msgstr ""
+
+#: ../../B/bot.rst:23
+msgid ""
+"Term used, though less commonly, for a web :ref:`spider`\\. The file for "
+"controlling spider behavior on your site is officially the \"Robots "
+"Exclusion File\" and its URL is \"http://<somehost>/robots.txt\")"
+msgstr ""
+
+#: ../../B/bot.rst:26
+msgid ""
+"Note that bots in all senses were ‘robots’ when the terms first appeared "
+"in the early 1990s, but the shortened form is now habitual."
+msgstr ""
+

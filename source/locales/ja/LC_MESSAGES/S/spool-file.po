@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/spool-file.rst:5
+msgid "spool file"
+msgstr ""
+
+#: ../../S/spool-file.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/spool-file.rst:9
+msgid ""
+"Any file to which data is :ref:`spool`\\ed to await the next stage of "
+"processing. Especially used in circumstances where spooling the data "
+"copes with a mismatch between speeds in two devices or pieces of "
+"software. For example, when you send mail under Unix, it's typically "
+"copied to a spool file to await a transport :ref:`demon`\\'s attentions. "
+"This is borderline techspeak."
+msgstr ""
+

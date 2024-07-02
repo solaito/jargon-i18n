@@ -1,0 +1,335 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../online-preface.rst:3
+msgid "Welcome to the Jargon File"
+msgstr ""
+
+#: ../../online-preface.rst:5
+msgid ""
+"This is the Jargon File, a comprehensive compendium of hacker slang "
+"illuminating many aspects of hackish tradition, folklore, and humor."
+msgstr ""
+
+#: ../../online-preface.rst:7
+msgid ""
+"This document (the Jargon File) is in the public domain, to be freely "
+"used, shared, and modified. There are (by intention) no legal restraints "
+"on what you can do with it, but there are traditions about its proper use"
+" to which many hackers are quite strongly attached. Please extend the "
+"courtesy of proper citation when you quote the File, ideally with a "
+"version number, as it will change and grow over time. (Examples of "
+"appropriate citation form: \"Jargon File 4.4.7\" or \"The on-line hacker "
+"Jargon File, version 4.4.7, 29 Dec 2003\".)"
+msgstr ""
+
+#: ../../online-preface.rst:12
+msgid ""
+"The Jargon File is a common heritage of the hacker culture. Over the "
+"years a number of individuals have volunteered considerable time to "
+"maintaining the File and been recognized by the net at large as editors "
+"of it. Editorial responsibilities include: to collate contributions and "
+"suggestions from others; to seek out corroborating information; to cross-"
+"reference related entries; to keep the file in a consistent format; and "
+"to announce and distribute updated versions periodically. Current "
+"volunteer editors include:"
+msgstr ""
+
+#: ../../online-preface.rst:17
+msgid "Eric Raymond <esr@thyrsus.com>"
+msgstr ""
+
+#: ../../online-preface.rst:19
+msgid ""
+"Although there is no requirement that you do so, it is considered good "
+"form to check with an editor before quoting the File in a published work "
+"or commercial product. We may have additional information that would be "
+"helpful to you and can assist you in framing your quote to reflect not "
+"only the letter of the File but its spirit as well."
+msgstr ""
+
+#: ../../online-preface.rst:22
+msgid ""
+"All contributions and suggestions about this file sent to a volunteer "
+"editor are gratefully received and will be regarded, unless otherwise "
+"labelled, as freely given donations for possible use as part of this "
+"public-domain file."
+msgstr ""
+
+#: ../../online-preface.rst:24
+msgid ""
+"From time to time a snapshot of this file has been polished, edited, and "
+"formatted for commercial publication with the cooperation of the "
+"volunteer editors and the hacker community at large. If you wish to have "
+"a bound paper copy of this file, you may find it convenient to purchase "
+"one of these. They often contain additional material not found in on-line"
+" versions. The three ‘authorized’ editions so far are described in the "
+"Revision History section; there may be more in the future."
+msgstr ""
+
+#: ../../online-preface.rst:29
+msgid ""
+"The Jargon File's online rendition uses an unusually large number of "
+"special characters. This test page lists them so you can check what your "
+"browser does with each one."
+msgstr ""
+
+#: ../../online-preface.rst:34
+msgid "glyph"
+msgstr ""
+
+#: ../../online-preface.rst:35
+msgid "description"
+msgstr ""
+
+#: ../../online-preface.rst:36
+msgid "α"
+msgstr ""
+
+#: ../../online-preface.rst:37
+msgid "greek character alpha"
+msgstr ""
+
+#: ../../online-preface.rst:38
+msgid "κ"
+msgstr ""
+
+#: ../../online-preface.rst:39
+msgid "greek character kappa"
+msgstr ""
+
+#: ../../online-preface.rst:40
+msgid "λ"
+msgstr ""
+
+#: ../../online-preface.rst:41
+msgid "greek character lambda"
+msgstr ""
+
+#: ../../online-preface.rst:42
+msgid "Λ"
+msgstr ""
+
+#: ../../online-preface.rst:43
+msgid "greek character Lambda"
+msgstr ""
+
+#: ../../online-preface.rst:44
+msgid "ν"
+msgstr ""
+
+#: ../../online-preface.rst:45
+msgid "greek character nu"
+msgstr ""
+
+#: ../../online-preface.rst:46
+msgid "ο"
+msgstr ""
+
+#: ../../online-preface.rst:47
+msgid "greek character omicron"
+msgstr ""
+
+#: ../../online-preface.rst:48
+msgid "π"
+msgstr ""
+
+#: ../../online-preface.rst:49
+msgid "greek character pi"
+msgstr ""
+
+#: ../../online-preface.rst:50
+msgid "£"
+msgstr ""
+
+#: ../../online-preface.rst:51
+msgid "pound sterling"
+msgstr ""
+
+#: ../../online-preface.rst:52
+msgid "〈"
+msgstr ""
+
+#: ../../online-preface.rst:53
+msgid "left angle bracket"
+msgstr ""
+
+#: ../../online-preface.rst:54
+msgid "〉"
+msgstr ""
+
+#: ../../online-preface.rst:55
+msgid "right angle bracket"
+msgstr ""
+
+#: ../../online-preface.rst:56
+msgid "æ"
+msgstr ""
+
+#: ../../online-preface.rst:57
+msgid "ae ligature"
+msgstr ""
+
+#: ../../online-preface.rst:58
+msgid "ß"
+msgstr ""
+
+#: ../../online-preface.rst:59
+msgid "German sharp-s sign"
+msgstr ""
+
+#: ../../online-preface.rst:60
+msgid "∼"
+msgstr ""
+
+#: ../../online-preface.rst:61
+msgid "similarity sign"
+msgstr ""
+
+#: ../../online-preface.rst:62
+msgid "⊕"
+msgstr ""
+
+#: ../../online-preface.rst:63
+msgid "circle-plus"
+msgstr ""
+
+#: ../../online-preface.rst:64
+msgid "⊗"
+msgstr ""
+
+#: ../../online-preface.rst:65
+msgid "circle-times"
+msgstr ""
+
+#: ../../online-preface.rst:66
+msgid "×"
+msgstr ""
+
+#: ../../online-preface.rst:67
+msgid "times"
+msgstr ""
+
+#: ../../online-preface.rst:68
+msgid "∅"
+msgstr ""
+
+#: ../../online-preface.rst:69
+msgid "empty set (used for APL null)"
+msgstr ""
+
+#: ../../online-preface.rst:70
+msgid "µ"
+msgstr ""
+
+#: ../../online-preface.rst:71
+msgid "micro quantifier sign"
+msgstr ""
+
+#: ../../online-preface.rst:72
+msgid "→"
+msgstr ""
+
+#: ../../online-preface.rst:73
+msgid "right arrow"
+msgstr ""
+
+#: ../../online-preface.rst:74
+msgid "⇔"
+msgstr ""
+
+#: ../../online-preface.rst:75
+msgid "horizontal double arrow"
+msgstr ""
+
+#: ../../online-preface.rst:76
+msgid "™"
+msgstr ""
+
+#: ../../online-preface.rst:77
+msgid "trademark symbol"
+msgstr ""
+
+#: ../../online-preface.rst:78
+msgid "®"
+msgstr ""
+
+#: ../../online-preface.rst:79
+msgid "registered-trademark symbol"
+msgstr ""
+
+#: ../../online-preface.rst:80
+msgid "−"
+msgstr ""
+
+#: ../../online-preface.rst:81
+msgid "minus"
+msgstr ""
+
+#: ../../online-preface.rst:82
+msgid "±"
+msgstr ""
+
+#: ../../online-preface.rst:83
+msgid "plus-or-minus"
+msgstr ""
+
+#: ../../online-preface.rst:84
+msgid "Ø"
+msgstr ""
+
+#: ../../online-preface.rst:85
+msgid "slashed-O"
+msgstr ""
+
+#: ../../online-preface.rst:86
+msgid "\\@"
+msgstr ""
+
+#: ../../online-preface.rst:87
+msgid "schwa"
+msgstr ""
+
+#: ../../online-preface.rst:88
+msgid "´"
+msgstr ""
+
+#: ../../online-preface.rst:89
+msgid "acute accent"
+msgstr ""
+
+#: ../../online-preface.rst:90
+msgid "·"
+msgstr ""
+
+#: ../../online-preface.rst:91
+msgid "medial dot"
+msgstr ""
+
+#: ../../online-preface.rst:93
+msgid ""
+"We normally test with the latest build of Mozilla. If some of the special"
+" characters above look wrong, your browser has bugs in its standards-"
+"conformance and you should replace it."
+msgstr ""
+

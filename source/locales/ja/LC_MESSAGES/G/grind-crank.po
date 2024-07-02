@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/grind-crank.rst:5
+msgid "grind crank"
+msgstr ""
+
+#: ../../G/grind-crank.rst:7
+msgid "n\\., //"
+msgstr ""
+
+#: ../../G/grind-crank.rst:9
+msgid ""
+"A mythical accessory to a terminal. A crank on the side of a monitor, "
+"which when operated makes a zizzing noise and causes the computer to run "
+"faster. Usually one does not refer to a grind crank out loud, but merely "
+"makes the appropriate gesture and noise. See :ref:`grind`\\."
+msgstr ""
+
+#: ../../G/grind-crank.rst:14
+msgid ""
+"Historical note: At least one real machine actually had a grind crank — "
+"the R1, a research machine built toward the end of the days of the great "
+"vacuum tube computers, in 1959. R1 (also known as ‘The Rice Institute "
+"Computer’ (TRIC) and later as ‘The Rice University Computer’ (TRUC)) had "
+"a single-step/free-run switch for use when debugging programs. Since "
+"single-stepping through a large program was rather tedious, there was "
+"also a crank with a cam and gear arrangement that repeatedly pushed the "
+"single-step button. This allowed one to ‘crank’ through a lot of code, "
+"then slow down to single-step for a bit when you got near the code of "
+"interest, poke at some registers using the console typewriter, and then "
+"keep on cranking. See `http://www.cs.rice.edu/History/R1/ "
+"<http://www.cs.rice.edu/History/R1/>`_."
+msgstr ""
+

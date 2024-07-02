@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/Plan-9.rst:5
+msgid "Plan 9"
+msgstr ""
+
+#: ../../P/Plan-9.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../P/Plan-9.rst:9
+msgid ""
+"In the late 1980s, researchers at Bell Labs (especially Rob Pike of "
+"Kernighan & Pike fame) got bored with the limitations of UNIX and decided"
+" to reimplement the entire system. The result was called Plan 9 in \"the "
+"Bell Labs tradition of selecting names that make marketeers wince.\" The "
+"developers also wished to pay homage to the famous film, \"Plan 9 From "
+"Outer Space\", considered by some to be the worst movie ever made. The "
+"source is available for download under open-source terms. The developers "
+"and a small fan base hang out at :samp:`comp.os.plan9`\\, where one can "
+"occasionally hear \"If you want UNIX, you know where to find it\""
+msgstr ""
+

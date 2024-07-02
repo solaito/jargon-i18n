@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/state.rst:5
+msgid "state"
+msgstr ""
+
+#: ../../S/state.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/state.rst:10
+msgid ""
+"Condition, situation. \"What's the state of your latest hack?\" \"It's "
+"winning away.\" \"The system tried to read and write the disk "
+"simultaneously and got into a totally :ref:`wedged` state.\" The standard"
+" question \"What's your state?\" means \"What are you doing?\" or \"What "
+"are you about to do?\" Typical answers are \"about to gronk out\", or "
+"\"hungry\". Another standard question is \"What's the state of the world?"
+" \", meaning \"What's new?\" or \"What's going on?\". The more terse and "
+"humorous way of asking these questions would be \"State-p?\". Another way"
+" of phrasing the first question under sense 1 would be \"state-p latest "
+"hack? \"."
+msgstr ""
+
+#: ../../S/state.rst:26
+msgid ""
+"Information being maintained in non-permanent memory (electronic or "
+"human)."
+msgstr ""
+

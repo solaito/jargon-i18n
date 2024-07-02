@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../K/kludge.rst:5
+msgid "kludge"
+msgstr ""
+
+#: ../../K/kludge.rst:8
+msgid ""
+"/kluhj/ n. Incorrect (though regrettably common) spelling of :ref:`kluge`"
+" (US). These two words have been confused in American usage since the "
+"early 1960s, and widely confounded in Great Britain since the end of "
+"World War II."
+msgstr ""
+
+#: ../../K/kludge.rst:12
+msgid ""
+"[TMRC] A :ref:`crock` that works. (A long-ago *Datamation* article by "
+"Jackson Granholme similarly said: \"An ill-assorted collection of poorly "
+"matching parts, forming a distressing whole.\")"
+msgstr ""
+
+#: ../../K/kludge.rst:15
+msgid ""
+"v\\. To use a kludge to get around a problem. \"I've kludged around it "
+"for now, but I'll fix it up properly later.\""
+msgstr ""
+
+#: ../../K/kludge.rst:19
+msgid ""
+"This word appears to have derived from Scots kludge or kludgie for a "
+"common toilet, via British military slang. It apparently became confused "
+"with U.S. :ref:`kluge` during or after World War II; some Britons from "
+"that era use both words in definably different ways, but :ref:`kluge` is "
+"now uncommon in Great Britain. ‘Kludge’ in Commonwealth hackish differs "
+"in meaning from ‘kluge’ in that it lacks the positive senses; a kludge is"
+" something no Commonwealth hacker wants to be associated too closely "
+"with. Also, ‘kludge’ is more widely known in British mainstream slang "
+"than ‘kluge’ is in the U.S."
+msgstr ""
+

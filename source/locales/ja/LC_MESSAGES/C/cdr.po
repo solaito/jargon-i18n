@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/cdr.rst:5
+msgid "cdr"
+msgstr ""
+
+#: ../../C/cdr.rst:7
+msgid "/ku´dr/, /kuh´dr/, vt\\."
+msgstr ""
+
+#: ../../C/cdr.rst:9
+msgid ""
+"[from LISP] To skip past the first item from a list of things "
+"(generalized from the LISP operation on binary tree structures, which "
+"returns a list consisting of all but the first element of its argument). "
+"In the form cdr down, to trace down a list of elements: \"Shall we cdr "
+"down the agenda?\" Usage: silly. See also :ref:`loop-through`\\."
+msgstr ""
+
+#: ../../C/cdr.rst:14
+msgid ""
+"Historical note: The instruction format of the IBM 704 that hosted the "
+"original LISP implementation featured two 15-bit fields called the "
+"address and decrement parts. The term cdr was originally Contents of "
+"Decrement part of Register. Similarly, car stood for Contents of Address "
+"part of Register."
+msgstr ""
+
+#: ../../C/cdr.rst:18
+msgid ""
+"The cdr and car operations have since become bases for formation of "
+"compound metaphors in non-LISP contexts. GLS recalls, for example, a "
+"programming project in which strings were represented as linked lists; "
+"the get-character and skip-character operations were of course called "
+"CHAR and CHDR."
+msgstr ""
+

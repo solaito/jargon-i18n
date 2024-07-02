@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/trivial.rst:5
+msgid "trivial"
+msgstr ""
+
+#: ../../T/trivial.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../T/trivial.rst:10
+msgid "Too simple to bother detailing."
+msgstr ""
+
+#: ../../T/trivial.rst:13
+msgid "Not worth the speaker's time."
+msgstr ""
+
+#: ../../T/trivial.rst:16
+msgid ""
+"Complex, but solvable by methods so well known that anyone not utterly "
+":ref:`cretinous` would have thought of them already."
+msgstr ""
+
+#: ../../T/trivial.rst:19
+msgid ""
+"Any problem one has already solved (some claim that hackish trivial "
+"usually evaluates to \"I've seen it before\"). Hackers' notions of "
+"triviality may be quite at variance with those of non-hackers. See "
+":ref:`nontrivial`\\, :ref:`uninteresting`\\."
+msgstr ""
+
+#: ../../T/trivial.rst:23
+msgid ""
+"The physicist Richard Feynman, who had the hacker nature to an amazing "
+"degree (see his essay \"Los Alamos From Below\" in *Surely You're Joking,"
+" Mr. Feynman!*\\), defined trivial theorem as \"one that has already been"
+" proved\"."
+msgstr ""
+

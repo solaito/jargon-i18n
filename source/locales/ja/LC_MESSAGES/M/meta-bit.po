@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/meta-bit.rst:5
+msgid "meta bit"
+msgstr ""
+
+#: ../../M/meta-bit.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../M/meta-bit.rst:9
+msgid ""
+"The top bit of an 8-bit character, which is on in character values 128--"
+"255. Also called :ref:`high-bit`\\, :ref:`alt-bit`\\. Some terminals and "
+"consoles (see :ref:`space-cadet-keyboard`\\) have a META shift key. "
+"Others (including, *mirabile dictu*\\, keyboards on IBM PC-class "
+"machines) have an ALT key. See also :ref:`bucky-bits`\\."
+msgstr ""
+
+#: ../../M/meta-bit.rst:15
+msgid ""
+"Historical note: although in modern usage shaped by a universe of 8-bit "
+"bytes the meta bit is invariably hex 80 (octal 0200), things were "
+"different on earlier machines with 36-bit words and 9-bit bytes. The MIT "
+"and Stanford keyboards (see :ref:`space-cadet-keyboard`\\) generated hex "
+"100 (octal 400) from their meta keys."
+msgstr ""
+

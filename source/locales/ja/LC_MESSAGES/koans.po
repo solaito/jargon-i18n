@@ -1,0 +1,152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../koans.rst:5
+msgid "Some AI Koans"
+msgstr ""
+
+#: ../../koans.rst:7
+msgid ""
+"These are some of the funniest examples of a genre of jokes told at the "
+"MIT AI Lab about various noted hackers. The original koans were composed "
+"by Danny Hillis, who would later found Connection Machines, Inc. In "
+"reading these, it is at least useful to know that Minsky, Sussman, and "
+"Drescher are AI researchers of note, that Tom Knight was one of the Lisp "
+"machine's principal designers, and that David Moon wrote much of Lisp "
+"Machine Lisp."
+msgstr ""
+
+#: ../../koans.rst:13
+msgid "Tom Knight and the Lisp Machine"
+msgstr ""
+
+#: ../../koans.rst:15
+msgid ""
+"A novice was trying to fix a broken Lisp machine by turning the power off"
+" and on."
+msgstr ""
+
+#: ../../koans.rst:17
+msgid ""
+"Knight, seeing what the student was doing, spoke sternly: \"You cannot "
+"fix a machine by just power-cycling it with no understanding of what is "
+"going wrong.\""
+msgstr ""
+
+#: ../../koans.rst:19
+msgid "Knight turned the machine off and on."
+msgstr ""
+
+#: ../../koans.rst:21
+msgid "The machine worked."
+msgstr ""
+
+#: ../../koans.rst:25
+msgid "Moon instructs a student"
+msgstr ""
+
+#: ../../koans.rst:27
+msgid ""
+"One day a student came to Moon and said: \"I understand how to make a "
+"better garbage collector. We must keep a reference count of the pointers "
+"to each cons.\""
+msgstr ""
+
+#: ../../koans.rst:30
+msgid "Moon patiently told the student the following story:"
+msgstr ""
+
+#: ../../koans.rst:38
+msgid ""
+"[Ed. note: Pure reference-count garbage collectors have problems with "
+"circular structures that point to themselves.]"
+msgstr ""
+
+#: ../../koans.rst:43
+msgid "Sussman attains enlightenment"
+msgstr ""
+
+#: ../../koans.rst:45
+msgid ""
+"In the days when Sussman was a novice, Minsky once came to him as he sat "
+"hacking at the PDP-6."
+msgstr ""
+
+#: ../../koans.rst:47
+msgid "\"What are you doing? \", asked Minsky."
+msgstr ""
+
+#: ../../koans.rst:50
+msgid ""
+"\"I am training a randomly wired neural net to play Tic-Tac-Toe\" Sussman"
+" replied."
+msgstr ""
+
+#: ../../koans.rst:52
+msgid "\"Why is the net wired randomly? \", asked Minsky."
+msgstr ""
+
+#: ../../koans.rst:55
+msgid ""
+"\"I do not want it to have any preconceptions of how to play\", Sussman "
+"said."
+msgstr ""
+
+#: ../../koans.rst:57
+msgid "Minsky then shut his eyes."
+msgstr ""
+
+#: ../../koans.rst:59
+msgid "\"Why do you close your eyes? \", Sussman asked his teacher."
+msgstr ""
+
+#: ../../koans.rst:62
+msgid "\"So that the room will be empty.\""
+msgstr ""
+
+#: ../../koans.rst:64
+msgid "At that moment, Sussman was enlightened."
+msgstr ""
+
+#: ../../koans.rst:68
+msgid "Drescher and the toaster"
+msgstr ""
+
+#: ../../koans.rst:70
+msgid ""
+"A disciple of another sect once came to Drescher as he was eating his "
+"morning meal."
+msgstr ""
+
+#: ../../koans.rst:72
+msgid ""
+"\"I would like to give you this personality test\", said the outsider, "
+"\"because I want you to be happy.\""
+msgstr ""
+
+#: ../../koans.rst:74
+msgid ""
+"Drescher took the paper that was offered him and put it into the toaster,"
+" saying: \"I wish the toaster to be happy, too.\""
+msgstr ""
+

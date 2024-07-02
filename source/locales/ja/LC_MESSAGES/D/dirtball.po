@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/dirtball.rst:5
+msgid "dirtball"
+msgstr ""
+
+#: ../../D/dirtball.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/dirtball.rst:9
+msgid ""
+"[XEROX PARC] A small, perhaps struggling outsider; not in the major or "
+"even the minor leagues. For example, \"Xerox is not a dirtball company\"."
+msgstr ""
+
+#: ../../D/dirtball.rst:12
+msgid ""
+"[Outsiders often observe in the PARC culture an institutional arrogance "
+"which usage of this term exemplifies. The brilliance and scope of PARC's "
+"contributions to computer science have been such that this superior "
+"attitude is not much resented. —ESR]"
+msgstr ""
+

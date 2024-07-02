@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/net--.rst:5
+msgid "net.-"
+msgstr ""
+
+#: ../../N/net--.rst:7
+msgid "/net dot/, pref\\."
+msgstr ""
+
+#: ../../N/net--.rst:9
+msgid ""
+"[Usenet] Prefix used to describe people and events related to Usenet. "
+"From the time before the :ref:`Great-Renaming`\\, when most non-local "
+"newsgroups had names beginning \"net.\". Includes :ref:`net-god`\\s, "
+"net.goddesses (various charismatic net.women with circles of on-line "
+"admirers), net.lurkers (see :ref:`lurker`\\), net.person, net.parties (a "
+"synonym for :ref:`boink`\\, sense 2), and many similar constructs. See "
+"also :ref:`net-police`\\."
+msgstr ""
+

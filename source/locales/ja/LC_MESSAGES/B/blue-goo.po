@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/blue-goo.rst:5
+msgid "blue goo"
+msgstr ""
+
+#: ../../B/blue-goo.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/blue-goo.rst:9
+msgid ""
+"Term for ‘police’ :ref:`nanobot`\\s intended to prevent :ref:`gray-"
+"goo`\\, denature hazardous waste, destroy pollution, put ozone back into "
+"the stratosphere, prevent halitosis, and promote truth, justice, and the "
+"American way, etc. The term \"Blue Goo\" can be found in Dr. Seuss's *Fox"
+" In Socks* to refer to a substance much like bubblegum. ‘Would you like "
+"to chew blue goo, sir?’. See :ref:`nanotechnology`\\."
+msgstr ""
+

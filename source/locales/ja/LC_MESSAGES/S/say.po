@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/say.rst:5
+msgid "say"
+msgstr ""
+
+#: ../../S/say.rst:7
+msgid "vt\\."
+msgstr ""
+
+#: ../../S/say.rst:10
+msgid ""
+"To type to a terminal. \"To list a directory verbosely, you have to say "
+":code:`ls -l`\\.\" Tends to imply a :ref:`newline`\\-terminated command "
+"(a ‘sentence’)."
+msgstr ""
+
+#: ../../S/say.rst:15
+msgid ""
+"A computer may also be said to ‘say’ things to you, even if it doesn't "
+"have a speech synthesizer, by displaying them on a terminal in response "
+"to your commands. Hackers find it odd that this usage confuses "
+":ref:`mundane`\\s."
+msgstr ""
+

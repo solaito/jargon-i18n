@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/Python.rst:5
+msgid "Python"
+msgstr ""
+
+#: ../../P/Python.rst:7
+msgid "/pi:´thon/"
+msgstr ""
+
+#: ../../P/Python.rst:9
+msgid ""
+"In the words of its author, \"the other scripting language\" (other than "
+":ref:`Perl`\\, that is). Python's design is notably clean, elegant, and "
+"well thought through; it tends to attract the sort of programmers who "
+"find Perl grubby and exiguous. Some people revolt at its use of "
+"whitespace to define logical structure by indentation, objecting that "
+"this harks back to the horrible old fixed-field languages of the 1960s. "
+"Python's relationship with Perl is rather like the :ref:`BSD` community's"
+" relationship to :ref:`Linux` — it's the smaller party in a (usually "
+"friendly) rivalry, but the average quality of its developers is generally"
+" conceded to be rather higher than in the larger community it competes "
+"with. There's a Python resource page at `http://www.python.org "
+"<http://www.python.org>`_. See also :ref:`Guido`\\, :ref:`BDFL`\\."
+msgstr ""
+

@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/TCP-IP.rst:5
+msgid "TCP/IP"
+msgstr ""
+
+#: ../../T/TCP-IP.rst:7
+msgid "/T´C·P I´P/, n\\."
+msgstr ""
+
+#: ../../T/TCP-IP.rst:10
+msgid ""
+"[Transmission Control Protocol/Internet Protocol] The wide-area-"
+"networking protocol that makes the Internet work, and the only one most "
+"hackers can speak the name of without laughing or retching. Unlike such "
+"allegedly ‘standard’ competitors such as X.25, DECnet, and the ISO "
+"7-layer stack, TCP/IP evolved primarily by actually being *used*\\, "
+"rather than being handed down from on high by a vendor or a heavily-"
+"politicized standards committee. Consequently, it (a) works, (b) actually"
+" promotes cheap cross-platform connectivity, and (c) annoys the hell out "
+"of corporate and governmental empire-builders everywhere. Hackers value "
+"all three of these properties. See :ref:`creationism`\\."
+msgstr ""
+
+#: ../../T/TCP-IP.rst:17
+msgid ""
+"[Amateur Packet Radio] Formerly expanded as \"The Crap Phil Is Pushing\"."
+" The reference is to Phil Karn, KA9Q, and the context was an ongoing "
+"technical/political war between the majority of sites still running AX.25"
+" and the TCP/IP relays. TCP/IP won."
+msgstr ""
+

@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/suffix-ware.rst:5
+msgid "-ware"
+msgstr ""
+
+#: ../../W/suffix-ware.rst:7
+msgid "suff\\."
+msgstr ""
+
+#: ../../W/suffix-ware.rst:9
+msgid ""
+"[from ‘software’] Commonly used to form jargon terms for classes of "
+"software. For examples, see :ref:`annoyware`\\, :ref:`careware`\\, "
+":ref:`crippleware`\\, :ref:`crudware`\\, :ref:`freeware`\\, "
+":ref:`fritterware`\\, :ref:`guiltware`\\, :ref:`liveware`\\, "
+":ref:`meatware`\\, :ref:`payware`\\, :ref:`psychedelicware`\\, "
+":ref:`shareware`\\, :ref:`shelfware`\\, :ref:`vaporware`\\, "
+":ref:`wetware`\\, :ref:`spyware`\\, :ref:`adware`\\."
+msgstr ""
+

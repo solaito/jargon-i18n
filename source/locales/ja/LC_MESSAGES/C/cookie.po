@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/cookie.rst:5
+msgid "cookie"
+msgstr ""
+
+#: ../../C/cookie.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/cookie.rst:9
+msgid ""
+"A handle, transaction ID, or other token of agreement between cooperating"
+" programs. \"I give him a packet, he gives me back a cookie.\" The claim "
+"check you get from a dry-cleaning shop is a perfect mundane example of a "
+"cookie; the only thing it's useful for is to relate a later transaction "
+"to this one (so you get the same clothes back). Syn. :ref:`magic-"
+"cookie`\\; see also :ref:`fortune-cookie`\\. Now mainstream in the "
+"specific sense of web-browser cookies."
+msgstr ""
+

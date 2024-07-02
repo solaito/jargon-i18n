@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/gensym.rst:5
+msgid "gensym"
+msgstr ""
+
+#: ../../G/gensym.rst:7
+msgid "/jen´sim/"
+msgstr ""
+
+#: ../../G/gensym.rst:9
+msgid "[from MacLISP for generated symbol]"
+msgstr ""
+
+#: ../../G/gensym.rst:11
+msgid ""
+"v\\. To invent a new name for something temporary, in such a way that the"
+" name is almost certainly not in conflict with one already in use."
+msgstr ""
+
+#: ../../G/gensym.rst:14
+msgid ""
+"n\\. The resulting name. The canonical form of a gensym is ‘Gnnnn’ where "
+"nnnn represents a number; any LISP hacker would recognize G0093 (for "
+"example) as a gensym."
+msgstr ""
+
+#: ../../G/gensym.rst:19
+msgid ""
+"A freshly generated data structure with a gensymmed name. Gensymmed names"
+" are useful for storing or uniquely identifying crufties (see "
+":ref:`cruft`\\)."
+msgstr ""
+

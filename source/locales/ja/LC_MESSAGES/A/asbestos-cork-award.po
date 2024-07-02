@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/asbestos-cork-award.rst:5
+msgid "asbestos cork award"
+msgstr ""
+
+#: ../../A/asbestos-cork-award.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../A/asbestos-cork-award.rst:9
+msgid ""
+"Once, long ago at MIT, there was a :ref:`flamer` so consistently "
+"obnoxious that another hacker designed, had made, and distributed posters"
+" announcing that said flamer had been nominated for the asbestos cork "
+"award. (Any reader in doubt as to the intended application of the cork "
+"should consult the etymology under :ref:`flame`\\.) Since then, it is "
+"agreed that only a select few have risen to the heights of bombast "
+"required to earn this dubious dignity — but there is no agreement on "
+"*which* few."
+msgstr ""
+

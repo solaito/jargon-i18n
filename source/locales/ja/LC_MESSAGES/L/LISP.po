@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/LISP.rst:5
+msgid "LISP"
+msgstr ""
+
+#: ../../L/LISP.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../L/LISP.rst:9
+msgid ""
+"[from ‘LISt Processing language’, but mythically from ‘Lots of Irritating"
+" Superfluous Parentheses’] AI's mother tongue, a language based on the "
+"ideas of (a) variable-length lists and trees as fundamental data types, "
+"and (b) the interpretation of code as data and vice-versa. Invented by "
+"John McCarthy at MIT in the late 1950s, it is actually older than any "
+"other :ref:`HLL` still in use except FORTRAN. Accordingly, it has "
+"undergone considerable adaptive radiation over the years; modern variants"
+" are quite different in detail from the original LISP 1.5. The dominant "
+"HLL among hackers until the early 1980s, LISP has since shared the throne"
+" with :ref:`C`\\. Its partisans claim it is the only language that is "
+"truly beautiful. See :ref:`languages-of-choice`\\."
+msgstr ""
+
+#: ../../L/LISP.rst:16
+msgid ""
+"All LISP functions and programs are expressions that return values; this,"
+" together with the high memory utilization of LISPs, gave rise to Alan "
+"Perlis's famous quip (itself a take on an Oscar Wilde quote) that \"LISP "
+"programmers know the value of everything and the cost of nothing\"."
+msgstr ""
+
+#: ../../L/LISP.rst:18
+msgid ""
+"One significant application for LISP has been as a proof by example that "
+"most newer languages, such as :ref:`COBOL` and Ada, are full of "
+"unnecessary :ref:`crock`\\s. When the :ref:`Right-Thing` has already been"
+" done once, there is no justification for :ref:`bogosity` in newer "
+"languages."
+msgstr ""
+
+#: ../../L/LISP.rst:23
+msgid "We've got your numbers...."
+msgstr ""
+

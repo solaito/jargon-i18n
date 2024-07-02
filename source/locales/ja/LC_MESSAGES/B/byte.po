@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/byte.rst:5
+msgid "byte"
+msgstr ""
+
+#: ../../B/byte.rst:7
+msgid "/bi:t/, n\\."
+msgstr ""
+
+#: ../../B/byte.rst:9
+msgid ""
+"[techspeak] A unit of memory or data equal to the amount used to "
+"represent one character; on modern architectures this is invariably 8 "
+"bits. Some older architectures used byte for quantities of 6, 7, or "
+"(especially) 9 bits, and the PDP-10 supported bytes that were actually "
+"bitfields of 1 to 36 bits! These usages are now obsolete, killed off by "
+"universal adoption of power-of-2 word sizes."
+msgstr ""
+
+#: ../../B/byte.rst:13
+msgid ""
+"Historical note: The term was coined by Werner Buchholz in 1956 during "
+"the early design phase for the IBM Stretch computer; originally it was "
+"described as 1 to 6 bits (typical I/O equipment of the period used 6-bit "
+"chunks of information). The move to an 8-bit byte happened in late 1956, "
+"and this size was later adopted and promulgated as a standard by the "
+"System/360. The word was coined by mutating the word ‘bite’ so it would "
+"not be accidentally misspelled as :ref:`bit`\\. See also :ref:`nybble`\\."
+msgstr ""
+

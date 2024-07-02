@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/twink.rst:5
+msgid "twink"
+msgstr ""
+
+#: ../../T/twink.rst:7
+msgid "/twink/, n\\."
+msgstr ""
+
+#: ../../T/twink.rst:10
+msgid "[Berkeley] A clue-repellant user; the next step beyond a clueless one."
+msgstr ""
+
+#: ../../T/twink.rst:13
+msgid ""
+"[UCSC] A :ref:`read-only-user`\\. Also reported on the Usenet group "
+":samp:`soc.motss`\\; may derive from gay slang for a cute young thing "
+"with nothing upstairs (compare mainstream ‘chick’)."
+msgstr ""
+
+#: ../../T/twink.rst:17
+msgid ""
+"On MU\\* systems that specialize in role-playing, refers to behavior of a"
+" (usually inexperienced) player that either ignores rules or social "
+"convention, or disrupts the natural flow of a scene to show off super "
+"powers."
+msgstr ""
+
+#: ../../T/twink.rst:19
+msgid ""
+"We are informed that in Indian country, the term twink generally refers "
+"to blondes into generic ‘Native American spirituality’. Signs include "
+"Indian jewelry with MADE IN THAILAND stamped on it, crystals, Clairol "
+"black hair, wearing swimsuits to powwows, Cherokee princess grandmas, a "
+"love of *Dances with Wolves*\\, and a fear of AIM and the NCAI. The twink"
+" nature is everywhere."
+msgstr ""
+

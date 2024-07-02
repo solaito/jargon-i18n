@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/miswart.rst:5
+msgid "miswart"
+msgstr ""
+
+#: ../../M/miswart.rst:7
+msgid "/mis·wort/, n\\."
+msgstr ""
+
+#: ../../M/miswart.rst:9
+msgid ""
+"[from :ref:`wart` by analogy with :ref:`misbug`\\] A :ref:`feature` that "
+"superficially appears to be a :ref:`wart` but has been determined to be "
+"the :ref:`Right-Thing`\\. For example, in some versions of the "
+":ref:`EMACS` text editor, the ‘transpose characters’ command exchanges "
+"the character under the cursor with the one before it on the screen, "
+"*except* when the cursor is at the end of a line, in which case the two "
+"characters before the cursor are exchanged. While this behavior is "
+"perhaps surprising, and certainly inconsistent, it has been found through"
+" extensive experimentation to be what most users want. This feature is a "
+"miswart."
+msgstr ""
+

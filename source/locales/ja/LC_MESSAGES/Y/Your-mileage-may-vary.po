@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../Y/Your-mileage-may-vary.rst:5
+msgid "Your mileage may vary"
+msgstr ""
+
+#: ../../Y/Your-mileage-may-vary.rst:7
+msgid "cav\\."
+msgstr ""
+
+#: ../../Y/Your-mileage-may-vary.rst:9
+msgid ""
+"[from the standard disclaimer attached to EPA mileage ratings by American"
+" car manufacturers]"
+msgstr ""
+
+#: ../../Y/Your-mileage-may-vary.rst:12
+msgid ""
+"A ritual warning often found in Unix freeware distributions. Translates "
+"roughly as \"Hey, I tried to write this portably, but who knows what'll "
+"happen on your system?\""
+msgstr ""
+
+#: ../../Y/Your-mileage-may-vary.rst:16
+msgid ""
+"More generally, a qualifier attached to advice. \"I find that sending "
+"flowers works well, but your mileage may vary.\""
+msgstr ""
+

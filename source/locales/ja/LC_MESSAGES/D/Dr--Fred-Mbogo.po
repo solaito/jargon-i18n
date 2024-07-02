@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/Dr--Fred-Mbogo.rst:5
+msgid "Dr. Fred Mbogo"
+msgstr ""
+
+#: ../../D/Dr--Fred-Mbogo.rst:7
+msgid "/\\@m·boh´goh, dok´tr fred/, n\\."
+msgstr ""
+
+#: ../../D/Dr--Fred-Mbogo.rst:9
+msgid ""
+"[Stanford] The archetypal man you don't want to see about a problem, esp."
+" an incompetent professional; a shyster. \"Do you know a good eye "
+"doctor?\" \"Sure, try Mbogo Eye Care and Professional Dry Cleaning.\" The"
+" name comes from synergy between :ref:`bogus` and the original Dr. Mbogo,"
+" a witch doctor who was Gomez Addams' physician on the old *Addams "
+"Family* TV show. Interestingly enough, it turns out that under the rules "
+"for Swahili noun classes, ‘m-’ is the characteristic prefix of \"nouns "
+"referring to human beings\". As such, \"mbogo\" is quite plausible as a "
+"Swahili coinage for a person having the nature of a :ref:`bogon`\\. "
+"Actually, \"mbogo\" is indeed a Ki-Swahili word referring to the African "
+"Cape Buffalo, *syncerus caffer*\\. It is one of the \"big five\" "
+"dangerous African game animals, and many people with bush experience "
+"believe it to be the most dangerous of them. Compare :ref:`Bloggs-Family`"
+" and :ref:`J--Random-Hacker`\\; see also :ref:`Fred-Foobar` and "
+":ref:`fred`\\."
+msgstr ""
+

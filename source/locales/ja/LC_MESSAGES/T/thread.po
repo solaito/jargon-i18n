@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/thread.rst:5
+msgid "thread"
+msgstr ""
+
+#: ../../T/thread.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/thread.rst:9
+msgid ""
+"[Usenet, GEnie, CompuServe] Common abbreviation of topic thread, a more "
+"or less continuous chain of postings on a single topic. To follow a "
+"thread is to read a series of Usenet postings sharing a common subject or"
+" (more correctly) which are connected by Reference headers. The better "
+"newsreaders can present news in thread order automatically. Not to be "
+"confused with the techspeak sense of ‘thread’, e.g. a lightweight "
+"process."
+msgstr ""
+
+#: ../../T/thread.rst:15
+msgid ""
+"Interestingly, this is far from a neologism. The OED says: \"That which "
+"connects the successive points in anything, esp. a narrative, train of "
+"thought, or the like; the sequence of events or ideas continuing "
+"throughout the whole course of anything;\" Citations are given going back"
+" to 1642!"
+msgstr ""
+

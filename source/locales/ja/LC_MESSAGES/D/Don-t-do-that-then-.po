@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/Don-t-do-that-then-.rst:5
+msgid "Don't do that then!"
+msgstr ""
+
+#: ../../D/Don-t-do-that-then-.rst:7
+msgid "imp\\."
+msgstr ""
+
+#: ../../D/Don-t-do-that-then-.rst:9
+msgid ""
+"[from an old doctor's office joke about a patient with a trivial "
+"complaint] Stock response to a user complaint. \"When I type control-S, "
+"the whole system comes to a halt for thirty seconds.\" \"Don't do that, "
+"then!\" (or \"So don't do that!\"). Compare :ref:`RTFM`\\."
+msgstr ""
+
+#: ../../D/Don-t-do-that-then-.rst:15
+msgid ""
+"Here's a classic example of \"Don't do that then!\" from Neal "
+"Stephenson's *In The Beginning Was The Command Line*\\. A friend of his "
+"built a network with a load of Macs and a few high-powered database "
+"servers. He found that from time to time the whole network would lock up "
+"for no apparent reason. The problem was eventually tracked down to "
+"MacOS's cooperative multitasking: when a user held down the mouse button "
+"for too long, the network stack wouldn't get a chance to run..."
+msgstr ""
+

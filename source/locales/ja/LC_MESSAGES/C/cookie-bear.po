@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/cookie-bear.rst:5
+msgid "cookie bear"
+msgstr ""
+
+#: ../../C/cookie-bear.rst:7
+msgid "n\\. obs\\."
+msgstr ""
+
+#: ../../C/cookie-bear.rst:10
+msgid ""
+"Original term, pre-Sesame-Street, for what is now universally called a "
+":ref:`cookie-monster`\\. A correspondent observes \"In those days, "
+"hackers were actually getting their yucks from...sit down now...Andy "
+"Williams. Yes, that Andy Williams. Seems he had a rather hip (by the "
+"standards of the day) TV variety show. One of the best parts of the show "
+"was the recurring ‘cookie bear’ sketch. In these sketches, a guy in a "
+"bear suit tried all sorts of tricks to get a cookie out of Williams. The "
+"sketches would always end with Williams shrieking (and I don't mean "
+"figuratively), ‘No cookies! Not now, not ever...NEVER!! !’ And the bear "
+"would fall down. Great stuff.\""
+msgstr ""
+

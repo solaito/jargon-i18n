@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/Matrix.rst:5
+msgid "Matrix"
+msgstr ""
+
+#: ../../M/Matrix.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../M/Matrix.rst:9
+msgid "[FidoNet]"
+msgstr ""
+
+#: ../../M/Matrix.rst:12
+msgid "What the Opus BBS software and sysops call :ref:`FidoNet`\\."
+msgstr ""
+
+#: ../../M/Matrix.rst:15
+msgid ""
+"Fanciful term for a :ref:`cyberspace` expected to emerge from current "
+"networking experiments (see :ref:`the-network`\\). The name of the rather"
+" good 1999 :ref:`cypherpunk` movie *The Matrix* played on this sense, "
+"which however had been established for years before."
+msgstr ""
+
+#: ../../M/Matrix.rst:19
+msgid ""
+"The totality of present-day computer networks (popularized in this sense "
+"by John Quarterman; rare outside academic literature)."
+msgstr ""
+

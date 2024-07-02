@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/cursor-dipped-in-X.rst:5
+msgid "cursor dipped in X"
+msgstr ""
+
+#: ../../C/cursor-dipped-in-X.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/cursor-dipped-in-X.rst:9
+msgid ""
+"There are a couple of metaphors in English of the form ‘pen dipped in X’ "
+"(perhaps the most common values of X are ‘acid’, ‘bile’, and ‘vitriol’). "
+"These map over neatly to this hackish usage (the cursor being what moves,"
+" leaving letters behind, when one is composing on-line). \"Talk about a "
+":ref:`nastygram`\\! He must've had his cursor dipped in acid when he "
+"wrote that one!\""
+msgstr ""
+

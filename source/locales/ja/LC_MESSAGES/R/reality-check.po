@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../R/reality-check.rst:5
+msgid "reality check"
+msgstr ""
+
+#: ../../R/reality-check.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../R/reality-check.rst:10
+msgid ""
+"The simplest kind of test of software or hardware; doing the equivalent "
+"of asking it what ``2 + 2`` is and seeing if you get 4. The software "
+"equivalent of a :ref:`smoke-test`\\."
+msgstr ""
+
+#: ../../R/reality-check.rst:14
+msgid ""
+"The act of letting a :ref:`real-user` try out prototype software. Compare"
+" :ref:`sanity-check`\\."
+msgstr ""
+

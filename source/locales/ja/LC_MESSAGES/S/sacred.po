@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/sacred.rst:5
+msgid "sacred"
+msgstr ""
+
+#: ../../S/sacred.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../S/sacred.rst:9
+msgid ""
+"Reserved for the exclusive use of something (an extension of the standard"
+" meaning). Often means that anyone may look at the sacred object, but "
+"clobbering it will screw whatever it is sacred to. The comment \"Register"
+" 7 is sacred to the interrupt handler\" appearing in a program would be "
+"interpreted by a hacker to mean that if any *other* part of the program "
+"changes the contents of register 7, dire consequences are likely to "
+"ensue."
+msgstr ""
+

@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/Live-Free-Or-Die-.rst:5
+msgid "Live Free Or Die!"
+msgstr ""
+
+#: ../../L/Live-Free-Or-Die-.rst:7
+msgid "imp\\."
+msgstr ""
+
+#: ../../L/Live-Free-Or-Die-.rst:10
+msgid ""
+"The state motto of New Hampshire, which appears on that state's "
+"automobile license plates."
+msgstr ""
+
+#: ../../L/Live-Free-Or-Die-.rst:13
+msgid ""
+"A slogan associated with Unix in the romantic days when Unix aficionados "
+"saw themselves as a tiny, beleaguered underground tilting against the "
+"windmills of industry. The \"free\" referred specifically to freedom from"
+" the :ref:`fascist` design philosophies and crufty misfeatures common on "
+"competing operating systems. Armando Stettner, one of the early Unix "
+"developers, used to give out fake license plates bearing this motto under"
+" a large Unix, all in New Hampshire colors of green and white. These are "
+"now valued collector's items. In 1994 :ref:`DEC` put an inferior "
+"imitation of these in circulation with a red corporate logo added. Compaq"
+" (half of which was once DEC) continued the practice."
+msgstr ""
+
+#: ../../L/Live-Free-Or-Die-.rst:22
+msgid "Armando Stettner's original Unix license plate."
+msgstr ""
+

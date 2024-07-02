@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/smoke-test.rst:5
+msgid "smoke test"
+msgstr ""
+
+#: ../../S/smoke-test.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/smoke-test.rst:10
+msgid ""
+"A rudimentary form of testing applied to electronic equipment following "
+"repair or reconfiguration, in which power is applied and the tester "
+"checks for sparks, smoke, or other dramatic signs of fundamental failure."
+" See :ref:`magic-smoke`\\."
+msgstr ""
+
+#: ../../S/smoke-test.rst:14
+msgid ""
+"By extension, the first run of a piece of software after construction or "
+"a critical change. See and compare :ref:`reality-check`\\."
+msgstr ""
+
+#: ../../S/smoke-test.rst:17
+msgid ""
+"There is an interesting semi-parallel to this term among typographers and"
+" printers: When new typefaces are being punch-cut by hand, a smoke test "
+"(hold the letter in candle smoke, then press it onto paper) is used to "
+"check out new dies."
+msgstr ""
+

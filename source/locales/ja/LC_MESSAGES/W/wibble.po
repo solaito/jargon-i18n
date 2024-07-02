@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/wibble.rst:5
+msgid "wibble"
+msgstr ""
+
+#: ../../W/wibble.rst:7
+msgid ""
+"[UK, perh. originally from the first *Roger Irrelevant* strip in *VIZ* "
+"comics, spread via *Your Sinclair magazine in the 1980s and early "
+"1990s*\\]"
+msgstr ""
+
+#: ../../W/wibble.rst:10
+msgid ""
+"n.,v. Commonly used to describe chatter, content-free remarks or other "
+"essentially meaningless contributions to threads in newsgroups. \"Oh, "
+"rspence is wibbling again\"."
+msgstr ""
+
+#: ../../W/wibble.rst:15
+msgid "[UK IRC] An explicit on-line no-op."
+msgstr ""
+
+#: ../../W/wibble.rst:18
+msgid ""
+"One of the preferred :ref:`metasyntactic-variable`\\s in the UK, forming "
+"a series with :code:`wobble`\\, :code:`wubble`\\, and :code:`flob` "
+"(attributed to the hilarious historical comedy *Blackadder*\\)."
+msgstr ""
+
+#: ../../W/wibble.rst:21
+msgid ""
+"A pronunciation of the letters \"www\", as seen in URLs; i.e., www. "
+":ref:`foo`\\.com may be pronounced \"wibble dot foo dot com\" (compare "
+":ref:`dub-dub-dub`\\)."
+msgstr ""
+

@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/furrfu.rst:5
+msgid "furrfu"
+msgstr ""
+
+#: ../../F/furrfu.rst:7
+msgid "excl\\."
+msgstr ""
+
+#: ../../F/furrfu.rst:9
+msgid ""
+"[Usenet; written, only rarely spoken] Written-only equivalent of "
+"\"Sheesh! \"; it is, in fact, \"sheesh\" modified by :ref:`rot13`\\. "
+"Evolved in mid-1992 as a response to notably silly postings repeating "
+"urban myths on the Usenet newsgroup :samp:`alt.folklore.urban`\\, after "
+"some posters complained that \"Sheesh!\" as a response to "
+":ref:`newbie`\\s was being overused. See also :ref:`FOAF`\\."
+msgstr ""
+

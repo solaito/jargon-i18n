@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/stack.rst:5
+msgid "stack"
+msgstr ""
+
+#: ../../S/stack.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/stack.rst:9
+msgid ""
+"The set of things a person has to do in the future. One speaks of the "
+"next project to be attacked as having risen to the top of the stack. "
+"\"I'm afraid I've got real work to do, so this'll have to be pushed way "
+"down on my stack.\" \"I haven't done it yet because every time I pop my "
+"stack something new gets pushed.\" If you are interrupted several times "
+"in the middle of a conversation, \"My stack overflowed\" means \"I forget"
+" what we were talking about.\" The implication is that more items were "
+"pushed onto the stack than could be remembered, so the least recent items"
+" were lost. The usual physical example of a stack is to be found in a "
+"cafeteria: a pile of plates or trays sitting on a spring in a well, so "
+"that when you put one on the top they all sink down, and when you take "
+"one off the top the rest spring up a bit. See also :ref:`push` and "
+":ref:`pop`\\."
+msgstr ""
+
+#: ../../S/stack.rst:18
+msgid ""
+"(*The Art of Computer Programming*\\, second edition, vol. 1, p. 236) "
+"says:"
+msgstr ""
+
+#: ../../S/stack.rst:29
+msgid ""
+"The term \"stack\" was originally coined by Edsger Dijkstra, who was "
+"quite proud of it."
+msgstr ""
+

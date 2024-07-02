@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hack-up.rst:5
+msgid "hack up"
+msgstr ""
+
+#: ../../H/hack-up.rst:7
+msgid "vt\\."
+msgstr ""
+
+#: ../../H/hack-up.rst:9
+msgid ""
+"To :ref:`hack`\\, but generally implies that the result is a hack in "
+"sense 1 (a quick hack). Contrast this with :ref:`hack-on`\\. To hack up "
+"on implies a :ref:`quick-and-dirty` modification to an existing system. "
+"Contrast :ref:`hacked-up`\\; compare :ref:`kluge-up`\\, :ref:`monkey-"
+"up`\\, :ref:`cruft-together`\\."
+msgstr ""
+

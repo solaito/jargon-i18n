@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../appendixb.rst:7
+msgid "Table of Contents"
+msgstr ""
+
+#: ../../appendixb.rst:5
+msgid "A Portrait of J. Random Hacker"
+msgstr ""
+
+#: ../../appendixb.rst:30
+msgid ""
+"This profile reflects detailed comments on an earlier ‘trial balloon’ "
+"version from about a hundred Usenet respondents. Where comparatives are "
+"used, the implicit ‘other’ is a randomly selected segment of the non-"
+"hacker population of the same size as hackerdom."
+msgstr ""
+
+#: ../../appendixb.rst:33
+msgid ""
+"An important point: Except in some relatively minor respects such as "
+"slang vocabulary, hackers don't get to be the way they are by imitating "
+"each other. Rather, it seems to be the case that the combination of "
+"personality traits that makes a hacker so conditions one's outlook on "
+"life that one tends to end up being like other hackers whether one wants "
+"to or not (much as bizarrely detailed similarities in behavior and "
+"preferences are found in genetic twins raised separately)."
+msgstr ""
+

@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../Q/qux.rst:5
+msgid "qux"
+msgstr ""
+
+#: ../../Q/qux.rst:7
+msgid "/kwuhks/"
+msgstr ""
+
+#: ../../Q/qux.rst:9
+msgid ""
+"The fourth of the standard :ref:`metasyntactic-variable`\\, after "
+":ref:`baz` and before the quu(u...)x series. See :ref:`foo`\\, "
+":ref:`bar`\\, :ref:`baz`\\, :ref:`quux`\\. This appears to be a recent "
+"mutation from :ref:`quux`\\, and many versions (especially older "
+"versions) of the standard series just run :ref:`foo`\\, :ref:`bar`\\, "
+":ref:`baz`\\, :ref:`quux`\\, ...."
+msgstr ""
+

@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../Q/quadruple-bucky.rst:5
+msgid "quadruple bucky"
+msgstr ""
+
+#: ../../Q/quadruple-bucky.rst:7
+msgid "n\\. obs\\."
+msgstr ""
+
+#: ../../Q/quadruple-bucky.rst:11
+msgid ""
+"On an MIT :ref:`space-cadet-keyboard`\\, use of all four of the shifting "
+"keys (control, meta, hyper, and super) while typing a character key."
+msgstr ""
+
+#: ../../Q/quadruple-bucky.rst:14
+msgid ""
+"On a Stanford or MIT keyboard in :ref:`raw-mode`\\, use of four shift "
+"keys while typing a fifth character, where the four shift keys are the "
+"control and meta keys on *both* sides of the keyboard. This was very "
+"difficult to do! One accepted technique was to press the left-control and"
+" left-meta keys with your left hand, the right-control and right-meta "
+"keys with your right hand, and the fifth key with your nose."
+msgstr ""
+
+#: ../../Q/quadruple-bucky.rst:18
+msgid ""
+"Quadruple-bucky combinations were very seldom used in practice, because "
+"when one invented a new command one usually assigned it to some character"
+" that was easier to type. If you want to imply that a program has "
+"ridiculously many commands or features, you can say something like: \"Oh,"
+" the command that makes it spin the tapes while whistling Beethoven's "
+"Fifth Symphony is quadruple-bucky-cokebottle.\" See :ref:`double-"
+"bucky`\\, :ref:`bucky-bits`\\, :ref:`cokebottle`\\."
+msgstr ""
+

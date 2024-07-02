@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bandwidth.rst:5
+msgid "bandwidth"
+msgstr ""
+
+#: ../../B/bandwidth.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/bandwidth.rst:10
+msgid ""
+"[common] Used by hackers (in a generalization of its technical meaning) "
+"as the volume of information per unit time that a computer, person, or "
+"transmission medium can handle. \"Those are amazing graphics, but I "
+"missed some of the detail — not enough bandwidth, I guess.\" Compare :ref"
+":`low-bandwidth`\\; see also :ref:`brainwidth`\\. This generalized usage "
+"began to go mainstream after the Internet population explosion of "
+"1993-1994."
+msgstr ""
+
+#: ../../B/bandwidth.rst:16
+msgid "Attention span."
+msgstr ""
+
+#: ../../B/bandwidth.rst:19
+msgid ""
+"On :ref:`Usenet`\\, a measure of network capacity that is often wasted by"
+" people complaining about how items posted by others are a waste of "
+"bandwidth."
+msgstr ""
+

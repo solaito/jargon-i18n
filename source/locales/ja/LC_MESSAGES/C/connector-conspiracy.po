@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/connector-conspiracy.rst:5
+msgid "connector conspiracy"
+msgstr ""
+
+#: ../../C/connector-conspiracy.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/connector-conspiracy.rst:9
+msgid ""
+"[probably came into prominence with the appearance of the KL-10 (one "
+"model of the :ref:`PDP-10`\\), none of whose connectors matched anything "
+"else] The tendency of manufacturers (or, by extension, programmers or "
+"purveyors of anything) to come up with new products that don't fit "
+"together with the old stuff, thereby making you buy either all new stuff "
+"or expensive interface devices."
+msgstr ""
+
+#: ../../C/connector-conspiracy.rst:11
+msgid ""
+"(A closely related phenomenon, with a slightly different intent, is the "
+"habit manufacturers have of inventing new screw heads so that only "
+"Designated Persons, possessing the magic screwdrivers, can remove covers "
+"and make repairs or install options. A good 1990s example is the use of "
+"Torx screws for cable-TV set-top boxes. Older Apple Macintoshes took this"
+" one step further, requiring not only a long Torx screwdriver but a "
+"specialized case-cracking tool to open the box.)"
+msgstr ""
+
+#: ../../C/connector-conspiracy.rst:15
+msgid ""
+"In these latter days of open-systems computing this term has fallen "
+"somewhat into disuse, to be replaced by the observation that \"Standards "
+"are great! There are so many of them to choose from!\" Compare :ref"
+":`backward-combatability`\\."
+msgstr ""
+

@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/SNAFU-principle.rst:5
+msgid "SNAFU principle"
+msgstr ""
+
+#: ../../S/SNAFU-principle.rst:7
+msgid "/sna´foo prin´si·pl/, n\\."
+msgstr ""
+
+#: ../../S/SNAFU-principle.rst:9
+msgid ""
+"[from a WWII Army ac­ro­nym for ‘Situation Normal, All Fucked Up’] \"True"
+" communication is possible only between equals, because inferiors are "
+"more consistently rewarded for telling their superiors pleasant lies than"
+" for telling the truth. :\" — a central tenet of :ref:`Discordianism`\\, "
+"often invoked by hackers to explain why authoritarian hierarchies screw "
+"up so reliably and systematically. The effect of the SNAFU principle is a"
+" progressive disconnection of decision-makers from reality. This lightly "
+"adapted version of a fable dating back to the early 1960s illustrates the"
+" phenomenon perfectly:"
+msgstr ""
+
+#: ../../S/SNAFU-principle.rst:64
+msgid ""
+"After the subsequent and inevitable disaster, the :ref:`suit`\\s protect "
+"themselves by saying \"I was misinformed! \", and the implementors are "
+"demoted or fired. Compare :ref:`Conways-Law`\\."
+msgstr ""
+

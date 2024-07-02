@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/crash.rst:5
+msgid "crash"
+msgstr ""
+
+#: ../../C/crash.rst:7
+msgid ""
+"n\\. A sudden, usually drastic failure. Most often said of the "
+":ref:`system` (q.v., sense 1), esp. of magnetic disk drives (the term "
+"originally described what happens when the air gap of a hard disk "
+"collapses). \"Three :ref:`luser`\\s lost their files in last night's disk"
+" crash.\" A disk crash that involves the read/write heads dropping onto "
+"the surface of the disks and scraping off the oxide may also be referred "
+"to as a head crash, whereas the term system crash usually, though not "
+"always, implies that the operating system or other software was at fault."
+msgstr ""
+
+#: ../../C/crash.rst:14
+msgid ""
+"v\\. To fail suddenly. \"Has the system just crashed?\" \"Something "
+"crashed the OS!\" See :ref:`down`\\. Also used transitively to indicate "
+"the cause of the crash (usually a person or a program, or both). \"Those "
+"idiots playing :ref:`SPACEWAR` crashed the system.\""
+msgstr ""
+
+#: ../../C/crash.rst:22
+msgid ""
+"vi\\. Sometimes said of people hitting the sack after a long :ref"
+":`hacking-run`\\; see :ref:`gronk-out`\\."
+msgstr ""
+

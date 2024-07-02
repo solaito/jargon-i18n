@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/death-code.rst:5
+msgid "death code"
+msgstr ""
+
+#: ../../D/death-code.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/death-code.rst:9
+msgid ""
+"A routine whose job is to set everything in the computer — registers, "
+"memory, flags, everything — to zero, including that portion of memory "
+"where it is running; its last act is to :ref:`stomp-on` its own \"store "
+"zero\" instruction. Death code isn't very useful, but writing it is an "
+"interesting hacking challenge on architectures where the instruction set "
+"makes it possible, such as the PDP-8 (it has also been done on the DG "
+"Nova)."
+msgstr ""
+
+#: ../../D/death-code.rst:12
+msgid ""
+"Perhaps the ultimate death code is on the TI 990 series, where all "
+"registers are actually in RAM, and the instruction \"store immediate 0\" "
+"has the opcode \"0\". The PC will immediately wrap around core as many "
+"times as it can until a user hits HALT. Any empty memory location is "
+"death code. Worse, the manufacturer recommended use of this instruction "
+"in startup code (which would be in ROM and therefore survive)."
+msgstr ""
+

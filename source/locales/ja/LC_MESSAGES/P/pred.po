@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/pred.rst:5
+msgid "pred"
+msgstr ""
+
+#: ../../P/pred.rst:7
+msgid "//"
+msgstr ""
+
+#: ../../P/pred.rst:9
+msgid ""
+"[Usenet; orig. fr. the Island MUD via Oxford University] Abbreviation for"
+" \"predictable\", used to signify or preempt responses that are extremely"
+" predictable but have to be filled in for the sake of form (the phrase is"
+" bracketed by <pred>...</pred>). X-Pred headers in mail or news serve the"
+" same end. Figuring out the connection between the X-Pred tagline and the"
+" thread is part of the entertainment. For example, it is said that any "
+"thread about taxation must contain a reference to Raquel Welch, if only "
+"to stop other people from mentioning her. This is allegedly due to a "
+"Monty Python sketch where a character declares that he would tax Raquel "
+"Welch, and he has a feeling she would tax him."
+msgstr ""
+

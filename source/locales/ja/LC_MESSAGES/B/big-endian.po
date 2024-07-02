@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/big-endian.rst:5
+msgid "big-endian"
+msgstr ""
+
+#: ../../B/big-endian.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../B/big-endian.rst:9
+msgid ""
+"[common; From Swift's *Gulliver's Travels* via the famous paper *On Holy "
+"Wars and a Plea for Peace* by Danny Cohen, USC/ISI `IEN 137 "
+"<http://khavrinen.lcs.mit.edu/wollman/ien-137.txt>`_, dated April 1, "
+"1980]"
+msgstr ""
+
+#: ../../B/big-endian.rst:12
+msgid ""
+"Describes a computer architecture in which, within a given multi-byte "
+"numeric representation, the most significant byte has the lowest address "
+"(the word is stored ‘big-end-first’). Most processors, including the IBM "
+"370 family, the :ref:`PDP-10`\\, the Motorola microprocessor families, "
+"and most of the various RISC designs are big-endian. Big-endian byte "
+"order is also sometimes called network order. See :ref:`little-endian`\\,"
+" :ref:`middle-endian`\\, :ref:`NUXI-problem`\\, :ref:`swab`\\."
+msgstr ""
+
+#: ../../B/big-endian.rst:18
+msgid ""
+"An Internet address the wrong way round. Most of the world follows the "
+"Internet standard and writes email addresses starting with the name of "
+"the computer and ending up with the name of the country. In the U.K.: the"
+" Joint Academic Networking Team had decided to do it the other way round "
+"before the Internet domain standard was established. Most gateway sites "
+"have :ref:`ad-hockery` in their mailers to handle this, but can still be "
+"confused. In particular, the address :samp:`me\\@uk.ac.bris.pys.as` could"
+" be interpreted in JANET's big-endian way as one in the U.K. (domain "
+":samp:`uk`\\) or in the standard little-endian way as one in the domain "
+":samp:`as` (American Samoa) on the opposite side of the world."
+msgstr ""
+

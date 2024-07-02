@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/PDP-20.rst:5
+msgid "PDP-20"
+msgstr ""
+
+#: ../../P/PDP-20.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../P/PDP-20.rst:9
+msgid ""
+"The most famous computer that never was. :ref:`PDP-10` computers running "
+"the :ref:`TOPS-10` operating system were labeled ‘DECsystem-10’ as a way "
+"of differentiating them from the :ref:`PDP-11`\\. Later on, those systems"
+" running :ref:`TOPS-20` were labeled ‘DECSYSTEM-20’ (the block capitals "
+"being the result of a lawsuit brought against DEC by Singer, which once "
+"made a computer called ‘system-10’), but contrary to popular lore there "
+"was never a ‘PDP-20’; the only difference between a 10 and a 20 was the "
+"operating system and the color of the paint. Most (but not all) machines "
+"sold to run TOPS-10 were painted ‘Basil Blue’, whereas most TOPS-20 "
+"machines were painted ‘Chinese Red’ (often mistakenly called orange)."
+msgstr ""
+

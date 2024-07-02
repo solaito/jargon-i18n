@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/magic-number.rst:5
+msgid "magic number"
+msgstr ""
+
+#: ../../M/magic-number.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../M/magic-number.rst:9
+msgid "[Unix/C; common]"
+msgstr ""
+
+#: ../../M/magic-number.rst:12
+msgid ""
+"In source code, some non-obvious constant whose value is significant to "
+"the operation of a program and that is inserted inconspicuously in-line ("
+" :ref:`hardcoded`\\), rather than expanded in by a symbol set by a "
+"commented :code:`#define`\\. Magic numbers in this sense are bad style."
+msgstr ""
+
+#: ../../M/magic-number.rst:16
+msgid ""
+"A number that encodes critical information used in an algorithm in some "
+"opaque way. The classic examples of these are the numbers used in hash or"
+" CRC functions, or the coefficients in a linear congruential generator "
+"for pseudo-random numbers. This sense actually predates and was ancestral"
+" to the more common sense"
+msgstr ""
+
+#: ../../M/magic-number.rst:21
+msgid ""
+"Special data located at the beginning of a binary data file to indicate "
+"its type to a utility. Under Unix, the system and various applications "
+"programs (especially the linker) distinguish between types of executable "
+"file by looking for a magic number. Once upon a time, these magic numbers"
+" were :ref:`PDP-11` branch instructions that skipped over header data to "
+"the start of executable code; 0407, for example, was octal for ‘branch 16"
+" bytes relative’. Many other kinds of files now have magic numbers "
+"somewhere; some magic numbers are, in fact, strings, like the ``!<arch>``"
+" at the beginning of a Unix archive file or the ``%!`` leading PostScript"
+" files. Nowadays only a :ref:`wizard` knows the spells to create magic "
+"numbers. How do you choose a fresh magic number of your own? Simple — you"
+" pick one at random. See? It's magic!"
+msgstr ""
+
+#: ../../M/magic-number.rst:32
+msgid ""
+"An input that leads to a computational boundary condition, where "
+"algorithm behavior becomes discontinuous. Numeric overflows (particularly"
+" with signed data types) and run-time errors (divide by zero, stack "
+"overflows) are indications of magic numbers. The Y2K scare was probably "
+"the most notorious magic number non-incident."
+msgstr ""
+
+#: ../../M/magic-number.rst:36
+msgid ""
+"*The* magic number, on the other hand, is ``7±2``\\. See *The magical "
+"number seven, plus or minus two: some limits on our capacity for "
+"processing information* by George Miller, in the *Psychological Review* "
+"63:81-97 (1956). This classic paper established the number of distinct "
+"items (such as numeric digits) that humans can hold in short-term memory."
+" Among other things, this strongly influenced the interface design of the"
+" phone system."
+msgstr ""
+

@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../V/virtual-shredder.rst:5
+msgid "virtual shredder"
+msgstr ""
+
+#: ../../V/virtual-shredder.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../V/virtual-shredder.rst:9
+msgid ""
+"The jargonic equivalent of the :ref:`bit-bucket` at shops using IBM's "
+"VM/CMS operating system. VM/CMS officially supports a whole bestiary of "
+"virtual card readers, virtual printers, and other phantom devices; these "
+"are used to supply some of the same capabilities Unix gets from pipes and"
+" I/O redirection."
+msgstr ""
+

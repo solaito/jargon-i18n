@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/cat.rst:5
+msgid "cat"
+msgstr ""
+
+#: ../../C/cat.rst:7
+msgid "vt\\."
+msgstr ""
+
+#: ../../C/cat.rst:9
+msgid "[from catenate via :ref:`Unix` :manpage:`cat(1)`\\]"
+msgstr ""
+
+#: ../../C/cat.rst:12
+msgid ""
+"[techspeak] To spew an entire file to the screen or some other output "
+"sink without pause (syn. :ref:`blast`\\)."
+msgstr ""
+
+#: ../../C/cat.rst:16
+msgid ""
+"By extension, to dump large amounts of data at an unprepared target or "
+"with no intention of browsing it carefully. Usage: considered silly. Rare"
+" outside Unix sites. See also :ref:`dd`\\, :ref:`BLT`\\."
+msgstr ""
+
+#: ../../C/cat.rst:21
+msgid ""
+"Among Unix fans, :manpage:`cat(1)` is considered an excellent example of "
+"user-interface design, because it delivers the file contents without such"
+" verbosity as spacing or headers between the files, and because it does "
+"not require the files to consist of lines of text, but works with any "
+"sort of data."
+msgstr ""
+
+#: ../../C/cat.rst:23
+msgid ""
+"Among Unix haters, :manpage:`cat(1)` is considered the :ref:`canonical` "
+"example of *bad* user-interface design, because of its woefully unobvious"
+" name. It is far more often used to :ref:`blast` a file to standard "
+"output than to concatenate two files. The name :code:`cat` for the former"
+" operation is just as unintuitive as, say, LISP's :ref:`cdr`\\."
+msgstr ""
+
+#: ../../C/cat.rst:27
+msgid "Of such oppositions are :ref:`holy-wars` made.... See also :ref:`UUOC`\\."
+msgstr ""
+

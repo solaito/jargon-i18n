@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/backward-combatability.rst:5
+msgid "backward combatability"
+msgstr ""
+
+#: ../../B/backward-combatability.rst:7
+msgid "/bak´w\\@rd k\\@m·bat'\\@·bil'\\@·tee/, n\\."
+msgstr ""
+
+#: ../../B/backward-combatability.rst:9
+msgid ""
+"[CMU, Tektronix: from backward compatibility] A property of hardware or "
+"software revisions in which previous protocols, formats, layouts, etc. "
+"are irrevocably discarded in favor of ‘new and improved’ protocols, "
+"formats, and layouts, leaving the previous ones not merely deprecated but"
+" actively defeated. (Too often, the old and new versions cannot "
+"definitively be distinguished, such that lingering instances of the "
+"previous ones yield crashes or other infelicitous effects, as opposed to "
+"a simple \"version mismatch\" message.) A backwards compatible change, on"
+" the other hand, allows old versions to coexist without crashes or error "
+"messages, but too many major changes incorporating elaborate backwards "
+"compatibility processing can lead to extreme :ref:`software-bloat`\\. See"
+" also :ref:`flag-day`\\."
+msgstr ""
+

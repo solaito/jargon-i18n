@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hakspek.rst:5
+msgid "hakspek"
+msgstr ""
+
+#: ../../H/hakspek.rst:7
+msgid "/hak´speek/, n\\."
+msgstr ""
+
+#: ../../H/hakspek.rst:9
+msgid ""
+"A shorthand method of spelling found on many British academic bulletin "
+"boards and :ref:`talker-system`\\s. Syllables and whole words in a "
+"sentence are replaced by single ASCII characters the names of which are "
+"phonetically similar or equivalent, while multiple letters are usually "
+"dropped. Hence, ‘for’ becomes ‘4’; ‘two’, ‘too’, and ‘to’ become ‘2’; "
+"‘ck’ becomes ‘k’. \"Before I see you tomorrow\" becomes \"b4 i c u "
+"2moro\". First appeared in London about 1986, and was probably caused by "
+"the slowness of available talker systems, which operated on archaic "
+"machines with outdated operating systems and no standard methods of "
+"communication."
+msgstr ""
+
+#: ../../H/hakspek.rst:15
+msgid ""
+"Hakspek almost disappeared after the great bandwidth explosion of the "
+"early 1990s, as fast Internet links wiped out the old-style talker "
+"systems. However, it has enjoyed a revival in another medium — the Short "
+"Message Service (SMS) associated with GSM cellphones. SMS sends are "
+"limited to a maximum of 160 characters, and typing on a cellphone keypad "
+"is difficult and slow anyway. There are now even published paper "
+"dictionaries for SMS users to help them do hakspek-to-English and vice-"
+"versa."
+msgstr ""
+
+#: ../../H/hakspek.rst:20
+msgid "See also :ref:`talk-mode`\\."
+msgstr ""
+

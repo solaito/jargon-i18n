@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bag-on-the-side.rst:5
+msgid "bag on the side"
+msgstr ""
+
+#: ../../B/bag-on-the-side.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/bag-on-the-side.rst:9
+msgid ""
+"[prob. originally related to a colostomy bag] An extension to an "
+"established hack that is supposed to add some functionality to the "
+"original. Usually derogatory, implying that the original was being "
+"overextended and should have been thrown away, and the new product is "
+"ugly, inelegant, or bloated. Also v. phrase, \"to hang a bag on the side "
+"[of]\". \"C++? That's just a bag on the side of C ....\" \"They want me "
+"to hang a bag on the side of the accounting system.\""
+msgstr ""
+

@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/boat-anchor.rst:5
+msgid "boat anchor"
+msgstr ""
+
+#: ../../B/boat-anchor.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/boat-anchor.rst:9
+msgid "[common; from ham radio]"
+msgstr ""
+
+#: ../../B/boat-anchor.rst:12
+msgid ""
+"Like :ref:`doorstop` but more severe; implies that the offending hardware"
+" is irreversibly dead or useless. \"That was a working motherboard once. "
+"One lightning strike later, instant boat anchor!\""
+msgstr ""
+
+#: ../../B/boat-anchor.rst:17
+msgid "A person who just takes up space."
+msgstr ""
+
+#: ../../B/boat-anchor.rst:20
+msgid ""
+"Obsolete but still working hardware, especially when used of an old, "
+"bulky, quirky system; originally a term of annoyance, but became more and"
+" more affectionate as the hardware became more and more obsolete."
+msgstr ""
+
+#: ../../B/boat-anchor.rst:22
+msgid ""
+"Auctioneers use this term for a large, undesirable object such as a "
+"washing machine; actual boating enthusiasts, however, use \"mooring "
+"anchor\" for frustrating (not actually useless) equipment."
+msgstr ""
+

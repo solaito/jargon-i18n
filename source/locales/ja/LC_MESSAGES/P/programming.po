@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/programming.rst:5
+msgid "programming"
+msgstr ""
+
+#: ../../P/programming.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../P/programming.rst:10
+msgid ""
+"The art of debugging a blank sheet of paper (or, in these days of on-line"
+" editing, the art of debugging an empty file). \"Bloody instructions "
+"which, being taught, return to plague their inventor\" (*Macbeth*\\, Act "
+"1, Scene 7)"
+msgstr ""
+
+#: ../../P/programming.rst:14
+msgid ""
+"A pastime similar to banging one's head against a wall, but with fewer "
+"opportunities for reward."
+msgstr ""
+
+#: ../../P/programming.rst:17
+msgid "The most fun you can have with your clothes on."
+msgstr ""
+
+#: ../../P/programming.rst:20
+msgid "The least fun you can have with your clothes off."
+msgstr ""
+

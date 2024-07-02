@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/Discordianism.rst:5
+msgid "Discordianism"
+msgstr ""
+
+#: ../../D/Discordianism.rst:7
+msgid "/dis·kor´di·\\@n·ism/, n\\."
+msgstr ""
+
+#: ../../D/Discordianism.rst:9
+msgid ""
+"The veneration of :ref:`Eris`\\, a.k.a. Discordia; widely popular among "
+"hackers. Discordianism was popularized by Robert Shea and Robert Anton "
+"Wilson's novel *Illuminatus!* as a sort of self-subverting Dada-Zen for "
+"Westerners — it should on no account be taken seriously but is far more "
+"serious than most jokes. Consider, for example, the Fifth Commandment of "
+"the Pentabarf, from *Principia Discordia*\\: \"A Discordian is Prohibited"
+" of Believing What he Reads.\" Discordianism is usually connected with an"
+" elaborate conspiracy theory/joke involving millennia-long warfare "
+"between the anarcho-surrealist partisans of Eris and a malevolent, "
+"authoritarian secret society called the Illuminati. See "
+":ref:`Religion<religion>` in Appendix B, :ref:`Church-of-the-"
+"SubGenius`\\, and :ref:`ha-ha-only-serious`\\."
+msgstr ""
+

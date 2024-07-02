@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/theory.rst:5
+msgid "theory"
+msgstr ""
+
+#: ../../T/theory.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../T/theory.rst:9
+msgid ""
+"The consensus, idea, plan, story, or set of rules that is currently being"
+" used to inform a behavior. This usage is a generalization and "
+"(deliberate) abuse of the technical meaning. \"What's the theory on "
+"fixing this TECO loss?\" \"What's the theory on dinner tonight?\" "
+"(\"Chinatown, I guess.\") \"What's the current theory on letting lusers "
+"on during the day?\" \"The theory behind this change is to fix the "
+"following well-known screw....\""
+msgstr ""
+

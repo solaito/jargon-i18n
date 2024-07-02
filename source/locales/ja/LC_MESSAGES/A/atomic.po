@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/atomic.rst:5
+msgid "atomic"
+msgstr ""
+
+#: ../../A/atomic.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../A/atomic.rst:9
+msgid "[from Gk.*atomos*\\, indivisible]"
+msgstr ""
+
+#: ../../A/atomic.rst:12
+msgid ""
+"Indivisible; cannot be split up. For example, an instruction may be said "
+"to do several things ‘atomically’, i.e., all the things are done "
+"immediately, and there is no chance of the instruction being half-"
+"completed or of another being interspersed. Used esp. to convey that an "
+"operation cannot be screwed up by interrupts. \"This routine locks the "
+"file and increments the file's semaphore atomically.\""
+msgstr ""
+
+#: ../../A/atomic.rst:19
+msgid ""
+"[primarily techspeak] Guaranteed to complete successfully or not at all, "
+"usu. refers to database transactions. If an error prevents a partially-"
+"performed transaction from proceeding to completion, it must be \"backed "
+"out\", as the database must not be left in an inconsistent state."
+msgstr ""
+
+#: ../../A/atomic.rst:23
+msgid ""
+"Computer usage, in either of the above senses, has none of the "
+"connotations that ‘atomic’ has in mainstream English (i.e. of particles "
+"of matter, nuclear explosions etc. )."
+msgstr ""
+

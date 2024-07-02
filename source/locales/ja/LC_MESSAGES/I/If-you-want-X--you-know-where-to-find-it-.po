@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../I/If-you-want-X--you-know-where-to-find-it-.rst:5
+msgid "If you want X, you know where to find it."
+msgstr ""
+
+#: ../../I/If-you-want-X--you-know-where-to-find-it-.rst:7
+msgid ""
+"There is a legend that Dennis Ritchie, inventor of :ref:`C`\\, once "
+"responded to demands for features resembling those of what at the time "
+"was a much more popular language by observing \"If you want PL/I, you "
+"know where to find it.\" Ever since, this has been hackish standard form "
+"for fending off requests to alter a new design to mimic some older (and, "
+"by implication, inferior and :ref:`baroque`\\) one. The case X = "
+":ref:`Pascal` manifests semi-regularly on Usenet's :samp:`comp.lang.c` "
+"newsgroup. Indeed, the case X = X has been reported in discussions of "
+"graphics software (see :ref:`X`\\)."
+msgstr ""
+

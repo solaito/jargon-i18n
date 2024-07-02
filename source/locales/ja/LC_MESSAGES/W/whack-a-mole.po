@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/whack-a-mole.rst:5
+msgid "whack-a-mole"
+msgstr ""
+
+#: ../../W/whack-a-mole.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../W/whack-a-mole.rst:9
+msgid ""
+"[from the carnival game which involves quickly and repeatedly hitting the"
+" heads of mechanical moles with a mallet as they pop up from their "
+"holes.]"
+msgstr ""
+
+#: ../../W/whack-a-mole.rst:12
+msgid ""
+"The practice of repeatedly causing spammers' :ref:`throwaway-account`\\s "
+"and drop boxes to be terminated."
+msgstr ""
+
+#: ../../W/whack-a-mole.rst:15
+msgid ""
+"After sense 1 became established in the mid-1990s the term passed into "
+"more generalized use, and now is commonly found in such combinations as "
+"whack-a-mole windows; the obnoxious pop-up advertisement windows spawned "
+"in flocks when you surf to sites like Angelfire or Lycos."
+msgstr ""
+

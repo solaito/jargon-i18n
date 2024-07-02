@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/pubic-directory.rst:5
+msgid "pubic directory"
+msgstr ""
+
+#: ../../P/pubic-directory.rst:7
+msgid "/pyoob´ik d\\@·rek´t\\@·ree/, n\\."
+msgstr ""
+
+#: ../../P/pubic-directory.rst:9
+msgid ""
+"[NYU] (also pube directory /pyoob' d\\@·rek´t\\@·ree/) The pub (public) "
+"directory on a machine that allows FTP access. So called because it is "
+"the default location for :ref:`SEX` (sense 1). \"I'll have the source in "
+"the pube directory by Friday.\""
+msgstr ""
+

@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/noddy.rst:5
+msgid "noddy"
+msgstr ""
+
+#: ../../N/noddy.rst:7
+msgid "/nod´ee/, adj\\."
+msgstr ""
+
+#: ../../N/noddy.rst:9
+msgid "[UK: from the children's books]"
+msgstr ""
+
+#: ../../N/noddy.rst:12
+msgid ""
+"Small and un-useful, but demonstrating a point. Noddy programs are often "
+"written by people learning a new language or system. The archetypal noddy"
+" program is :ref:`hello-world`\\. Noddy code may be used to demonstrate a"
+" feature or bug of a compiler. May be used of real hardware or software "
+"to imply that it isn't worth using. \"This editor's a bit noddy.\""
+msgstr ""
+
+#: ../../N/noddy.rst:20
+msgid ""
+"A program that is more or less instant to produce. In this use, the term "
+"does not necessarily connote uselessness, but describes a :ref:`hack` "
+"sufficiently trivial that it can be written and debugged while carrying "
+"on (and during the space of) a normal conversation. \"I'll just throw "
+"together a noddy :ref:`awk` script to dump all the first fields.\" In "
+"North America this might be called a :ref:`mickey-mouse-program`\\. See "
+":ref:`toy-program`\\."
+msgstr ""
+

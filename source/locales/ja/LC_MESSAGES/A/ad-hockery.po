@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../A/ad-hockery.rst:5
+msgid "ad-hockery"
+msgstr ""
+
+#: ../../A/ad-hockery.rst:7
+msgid "/ad·hok'\\@r·ee/, n\\."
+msgstr ""
+
+#: ../../A/ad-hockery.rst:9
+msgid "[Purdue]"
+msgstr ""
+
+#: ../../A/ad-hockery.rst:12
+msgid ""
+"Gratuitous assumptions made inside certain programs, esp. expert systems,"
+" which lead to the appearance of semi-intelligent behavior but are in "
+"fact entirely arbitrary. For example, fuzzy-matching of input tokens that"
+" might be typing errors against a symbol table can make it look as though"
+" a program knows how to spell."
+msgstr ""
+
+#: ../../A/ad-hockery.rst:17
+msgid ""
+"Special-case code to cope with some awkward input that would otherwise "
+"cause a program to :ref:`choke`\\, presuming normal inputs are dealt with"
+" in some cleaner and more regular way."
+msgstr ""
+
+#: ../../A/ad-hockery.rst:19
+msgid ""
+"Also called ad-hackery, ad-hocity (/ad-hos'\\@-tee/), ad-crockery. See "
+"also :ref:`ELIZA-effect`\\."
+msgstr ""
+
+#: ../../A/ad-hockery.rst:26
+msgid "This is  :ref:`ad-hockery` in action."
+msgstr ""
+
+#: ../../A/ad-hockery.rst:28
+msgid ""
+"(The next cartoon in the Crunchly saga is         "
+":ref:`74-08-18<crunchly74-08-18>`\\.  The previous one is         "
+":ref:`73-07-29<crunchly73-07-29>`\\.)"
+msgstr ""
+

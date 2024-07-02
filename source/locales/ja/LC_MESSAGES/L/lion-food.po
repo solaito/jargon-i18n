@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/lion-food.rst:5
+msgid "lion food"
+msgstr ""
+
+#: ../../L/lion-food.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../L/lion-food.rst:9
+msgid ""
+"[IBM] Middle management or HQ staff (or, by extension, administrative "
+"drones in general). From an old joke about two lions who, escaping from "
+"the zoo, split up to increase their chances but agree to meet after 2 "
+"months. When they finally meet, one is skinny and the other overweight. "
+"The thin one says: \"How did you manage? I ate a human just once and they"
+" turned out a small army to chase me — guns, nets, it was terrible. Since"
+" then I've been reduced to eating mice, insects, even grass.\" The fat "
+"one replies: \"Well, I hid near an IBM office and ate a manager a day. "
+"And nobody even noticed!\""
+msgstr ""
+

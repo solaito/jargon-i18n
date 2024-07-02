@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/double-bucky.rst:5
+msgid "double bucky"
+msgstr ""
+
+#: ../../D/double-bucky.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../D/double-bucky.rst:9
+msgid ""
+"Using both the CTRL and META keys. \"The command to burn all LEDs is "
+"double bucky F.\""
+msgstr ""
+
+#: ../../D/double-bucky.rst:12
+msgid ""
+"This term originated on the Stanford extended-ASCII keyboard, and was "
+"later taken up by users of the :ref:`space-cadet-keyboard` at MIT. A "
+"typical MIT comment was that the Stanford :ref:`bucky-bits` (control and "
+"meta shifting keys) were nice, but there weren't enough of them; you "
+"could type only 512 different characters on a Stanford keyboard. An "
+"obvious way to address this was simply to add more shifting keys, and "
+"this was eventually done; but a keyboard with that many shifting keys is "
+"hard on touch-typists, who don't like to move their hands away from the "
+"home position on the keyboard. It was half-seriously suggested that the "
+"extra shifting keys be implemented as pedals; typing on such a keyboard "
+"would be very much like playing a full pipe organ. This idea is mentioned"
+" in a parody of a very fine song by Jeffrey Moss called *Rubber "
+"Duckie*\\, which was published in *The Sesame Street Songbook* (Simon and"
+" Schuster 1971, ISBN 0-671-21036-X). These lyrics were written on May 27,"
+" 1978, in celebration of the Stanford keyboard:"
+msgstr ""
+
+#: ../../D/double-bucky.rst:48
+msgid ""
+"[This, by the way, is an excellent example of computer :ref:`filk` —ESR] "
+"See also :ref:`meta-bit`\\, :ref:`cokebottle`\\, and :ref:`quadruple-"
+"bucky`\\."
+msgstr ""
+

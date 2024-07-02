@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/nasal-demons.rst:5
+msgid "nasal demons"
+msgstr ""
+
+#: ../../N/nasal-demons.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../N/nasal-demons.rst:9
+msgid ""
+"Recognized shorthand on the Usenet group :samp:`comp.std.c` for any "
+"unexpected behavior of a C compiler on encountering an undefined "
+"construct. During a discussion on that group in early 1992, a regular "
+"remarked \"When the compiler encounters [a given undefined construct] it "
+"is legal for it to make demons fly out of your nose\" (the implication is"
+" that the compiler may choose any arbitrarily bizarre way to interpret "
+"the code without violating the ANSI C standard). Someone else followed up"
+" with a reference to \"nasal demons\", which quickly became established. "
+"The original post is web-accessible at "
+"`http://groups.google.com/groups?hl=en&selm=10195%40ksr.com "
+"<http://groups.google.com/groups?hl=en&selm=10195%40ksr.com>`_."
+msgstr ""
+

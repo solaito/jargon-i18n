@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/feeping-creaturism.rst:5
+msgid "feeping creaturism"
+msgstr ""
+
+#: ../../F/feeping-creaturism.rst:7
+msgid "/fee´ping kree\\`ch\\@r·izm/, n\\."
+msgstr ""
+
+#: ../../F/feeping-creaturism.rst:9
+msgid ""
+"A deliberate spoonerism for :ref:`creeping-featurism`\\, meant to imply "
+"that the system or program in question has become a misshapen creature of"
+" hacks. This term isn't really well defined, but it sounds so neat that "
+"most hackers have said or heard it. It is probably reinforced by an image"
+" of terminals prowling about in the dark making their customary noises."
+msgstr ""
+

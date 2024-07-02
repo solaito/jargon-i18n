@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/highly.rst:5
+msgid "highly"
+msgstr ""
+
+#: ../../H/highly.rst:7
+msgid "adv\\."
+msgstr ""
+
+#: ../../H/highly.rst:9
+msgid ""
+"[scientific computation] The preferred modifier for overstating an "
+"understatement. As in: highly nonoptimal, the worst possible way to do "
+"something; highly nontrivial, either impossible or requiring a major "
+"research project; highly nonlinear, completely erratic and unpredictable;"
+" highly nontechnical, drivel written for :ref:`luser`\\s, oversimplified "
+"to the point of being misleading or incorrect (compare :ref:`drool-proof-"
+"paper`\\). In other computing cultures, postfixing of :ref:`in-the-"
+"extreme` might be preferred."
+msgstr ""
+

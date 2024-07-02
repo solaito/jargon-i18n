@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../J/jack-in.rst:5
+msgid "jack in"
+msgstr ""
+
+#: ../../J/jack-in.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../J/jack-in.rst:9
+msgid ""
+"To log on to a machine or connect to a network or :ref:`BBS`\\, esp. for "
+"purposes of entering a :ref:`virtual-reality` simulation such as a "
+":ref:`MUD` or :ref:`IRC` (leaving is \"jacking out\"). This term derives "
+"from :ref:`cyberpunk` SF, in which it was used for the act of plugging an"
+" electrode set into neural sockets in order to interface the brain "
+"directly to a virtual reality. It is primarily used by MUD and IRC fans "
+"and younger hackers on BBS systems."
+msgstr ""
+

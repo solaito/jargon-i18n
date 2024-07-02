@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/comment-out.rst:5
+msgid "comment out"
+msgstr ""
+
+#: ../../C/comment-out.rst:7
+msgid "vt\\."
+msgstr ""
+
+#: ../../C/comment-out.rst:9
+msgid ""
+"To surround a section of code with comment delimiters or to prefix every "
+"line in the section with a comment marker; this prevents it from being "
+"compiled or interpreted. Often done when the code is redundant or "
+"obsolete, but is being left in the source to make the intent of the "
+"active code clearer; also when the code in that section is broken and you"
+" want to bypass it in order to debug some other part of the code. Compare"
+" :ref:`condition-out`\\, usually the preferred technique in languages "
+"(such as :ref:`C`\\) that make it possible."
+msgstr ""
+

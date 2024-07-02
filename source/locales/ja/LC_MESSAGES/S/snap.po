@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/snap.rst:5
+msgid "snap"
+msgstr ""
+
+#: ../../S/snap.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../S/snap.rst:9
+msgid ""
+"To replace a pointer to a pointer with a direct pointer; to replace an "
+"old address with the forwarding address found there. If you telephone the"
+" main number for an institution and ask for a particular person by name, "
+"the operator may tell you that person's extension before connecting you, "
+"in the hopes that you will snap your pointer and dial direct next time. "
+"The underlying metaphor may be that of a rubber band stretched through a "
+"number of intermediate points; if you remove all the thumbtacks in the "
+"middle, it snaps into a straight line from first to last. See :ref"
+":`chase-pointers`\\."
+msgstr ""
+
+#: ../../S/snap.rst:14
+msgid ""
+"Often, the behavior of a :ref:`trampoline` is to perform an error check "
+"once and then snap the pointer that invoked it so as henceforth to bypass"
+" the trampoline (and its one-shot error check). In this context one also "
+"speaks of snapping links. For example, in a LISP implementation, a "
+"function interface trampoline might check to make sure that the caller is"
+" passing the correct number of arguments; if it is, and if the caller and"
+" the callee are both compiled, then snapping the link allows that "
+"particular path to use a direct procedure-call instruction with no "
+"further overhead."
+msgstr ""
+

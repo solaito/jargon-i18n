@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/breath-of-life-packet.rst:5
+msgid "breath-of-life packet"
+msgstr ""
+
+#: ../../B/breath-of-life-packet.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/breath-of-life-packet.rst:9
+msgid ""
+"[XEROX PARC] An Ethernet packet that contains bootstrap (see "
+":ref:`boot`\\) code, periodically sent out from a working computer to "
+"infuse the ‘breath of life’ into any computer on the network that has "
+"happened to crash. Machines depending on such packets have sufficient "
+"hardware or firmware code to wait for (or request) such a packet during "
+"the reboot process. See also :ref:`dickless-workstation`\\."
+msgstr ""
+
+#: ../../B/breath-of-life-packet.rst:13
+msgid ""
+"The notional kiss-of-death packet, with a function complementary to that "
+"of a breath-of-life packet, is recommended for dealing with hosts that "
+"consume too many network resources. Though ‘kiss-of-death packet’ is "
+"usually used in jest, there is at least one documented instance of an "
+"Internet subnet with limited address-table slots in a gateway machine in "
+"which such packets were routinely used to compete for slots, rather like "
+"Christmas shoppers competing for scarce parking spaces."
+msgstr ""
+

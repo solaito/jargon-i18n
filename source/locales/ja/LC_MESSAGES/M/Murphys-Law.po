@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/Murphys-Law.rst:5
+msgid "Murphy's Law"
+msgstr ""
+
+#: ../../M/Murphys-Law.rst:7
+msgid "prov\\."
+msgstr ""
+
+#: ../../M/Murphys-Law.rst:9
+msgid ""
+"The correct, *original* Murphy's Law reads: \"If there are two or more "
+"ways to do something, and one of those ways can result in a catastrophe, "
+"then someone will do it.\" This is a principle of defensive design, cited"
+" here because it is usually given in mutant forms less descriptive of the"
+" challenges of design for :ref:`luser`\\s. For example, you don't make a "
+"two-pin plug symmetrical and then label it \"THIS WAY UP\"; if it matters"
+" which way it is plugged in, then you make the design asymmetrical (see "
+"also the anecdote under :ref:`magic-smoke`\\)."
+msgstr ""
+
+#: ../../M/Murphys-Law.rst:13
+msgid ""
+"Edward A. Murphy, Jr. was one of McDonnell-Douglas's test engineers on "
+"the rocket-sled experiments that were done by the U.S. Air Force in 1949 "
+"to test human acceleration tolerances (USAF project MX981). One "
+"experiment involved a set of 16 accelerometers mounted to different parts"
+" of the subject's body. There were two ways each sensor could be glued to"
+" its mount, and somebody methodically installed all 16 in a replacement "
+"set the wrong way around. Murphy then made the original form of his "
+"pronouncement, which the test subject (Major John Paul Stapp) mis-quoted "
+"(apparently in the more general form \"Whatever can go wrong, will go "
+"wrong)\" at a news conference a few days later."
+msgstr ""
+
+#: ../../M/Murphys-Law.rst:18
+msgid ""
+"Within months ‘Murphy's Law’ had spread to various technical cultures "
+"connected to aerospace engineering. Before too many years had gone by "
+"variants had passed into the popular imagination, changing as they went. "
+"Most of these are variants on \"Anything that can go wrong, will\"; this "
+"is more correctly referred to as :ref:`Finagles-Law`\\. The memetic drift"
+" apparent in these mutants clearly demonstrates Murphy's Law acting on "
+"itself!"
+msgstr ""
+

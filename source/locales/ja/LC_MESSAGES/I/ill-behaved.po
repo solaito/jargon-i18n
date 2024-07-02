@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../I/ill-behaved.rst:5
+msgid "ill-behaved"
+msgstr ""
+
+#: ../../I/ill-behaved.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../I/ill-behaved.rst:10
+msgid ""
+"[numerical analysis] Said of an algorithm or computational method that "
+"tends to blow up because of accumulated roundoff error or poor "
+"convergence properties."
+msgstr ""
+
+#: ../../I/ill-behaved.rst:13
+msgid ""
+"[obs.] Software that bypasses the defined :ref:`OS` interfaces to do "
+"things (like screen, keyboard, and disk I/O) itself, often in a way that "
+"depends on the hardware of the machine it is running on or which is "
+"nonportable or incompatible with other pieces of software. In the MS-DOS "
+"world, there was a folk theorem (nearly true) to the effect that (owing "
+"to gross inadequacies and performance penalties in the OS interface) all "
+"interesting applications were ill-behaved. See also :ref:`bare-metal`\\. "
+"Oppose :ref:`well-behaved`\\. See also :ref:`mess-dos`\\."
+msgstr ""
+
+#: ../../I/ill-behaved.rst:21
+msgid ""
+"In modern usage, a program is called ill-behaved if it uses interfaces to"
+" the OS or other programs that are private, undocumented, or grossly non-"
+"portable. Another way to be ill-behaved is to use headers or files that "
+"are theoretically private to another application."
+msgstr ""
+

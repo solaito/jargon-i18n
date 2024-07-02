@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/h.rst:5
+msgid "h"
+msgstr ""
+
+#: ../../H/h.rst:7
+msgid ""
+"[from SF fandom] A method of ‘marking’ common words, i.e., calling "
+"attention to the fact that they are being used in a nonstandard, ironic, "
+"or humorous way. Originated in the fannish catchphrase \"Bheer is the One"
+" True Ghod!\" from decades ago. H-infix marking of ‘Ghod’ and other words"
+" spread into the 1960s counterculture via underground comix, and into "
+"early hackerdom either from the counterculture or from SF fandom (the "
+"three overlapped heavily at the time). More recently, the h infix has "
+"become an expected feature of benchmark names (Dhrystone, Rhealstone, "
+"etc. ); this is probably patterning on the original Whetstone (the name "
+"of a laboratory) but influenced by the fannish/counterculture h infix."
+msgstr ""
+

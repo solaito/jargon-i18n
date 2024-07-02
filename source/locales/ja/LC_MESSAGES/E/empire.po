@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/empire.rst:5
+msgid "empire"
+msgstr ""
+
+#: ../../E/empire.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../E/empire.rst:9
+msgid ""
+"Any of a family of military simulations derived from a game written by "
+"Peter Langston many years ago. A number of multi-player variants of "
+"varying degrees of sophistication exist, and one single-player version "
+"implemented for both Unix and VMS; the latter is even available as MS-"
+"DOS/Windows freeware. All are notoriously addictive. Of various "
+"commercial derivatives the best known is probably \"Empire Deluxe\" on "
+"PCs and Amigas."
+msgstr ""
+
+#: ../../E/empire.rst:14
+msgid ""
+"Modern empire is a real-time wargame played over the internet by up to "
+"120 players. Typical games last from 24 hours (blitz) to a couple of "
+"months (long term). The amount of sleep you can get while playing is a "
+"function of the rate at which updates occur and the number of co-rulers "
+"of your country. Empire server software is available for Unix-like "
+"machines, and clients for Unix and other platforms. A comprehensive "
+"history of the game is available at "
+"`http://www.empire.cx/infopages/History.html "
+"<http://www.wolfpackempire.com/infopages/History.html>`_. The Empire "
+"resource site is at `http://www.empire.cx/ <http://www.empire.cx/>`_."
+msgstr ""
+

@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../comparatives.rst:5
+msgid "Comparatives"
+msgstr ""
+
+#: ../../comparatives.rst:7
+msgid ""
+"Finally, note that many words in hacker jargon have to be understood as "
+"members of sets of comparatives. This is especially true of the "
+"adjectives and nouns used to describe the beauty and functional quality "
+"of code. Here is an approximately correct spectrum:"
+msgstr ""
+
+#: ../../comparatives.rst:11
+msgid ""
+"monstrosity brain-damage screw bug lose misfeature crock kluge hack win "
+"feature elegance perfection"
+msgstr ""
+
+#: ../../comparatives.rst:13
+msgid ""
+"The last is spoken of as a mythical absolute, approximated but never "
+"actually attained. Another similar scale is used for describing the "
+"reliability of software:"
+msgstr ""
+
+#: ../../comparatives.rst:16
+msgid "broken flaky dodgy fragile brittle solid robust bulletproof armor-plated"
+msgstr ""
+
+#: ../../comparatives.rst:18
+msgid ""
+"Note, however, that ‘dodgy’ is primarily Commonwealth Hackish (it is rare"
+" in the U.S., where ‘squirrelly’ may be more common) and may change "
+"places with ‘flaky’ for some speakers."
+msgstr ""
+
+#: ../../comparatives.rst:20
+msgid ""
+"Coinages for describing :ref:`lossage` seem to call forth the very finest"
+" in hackish linguistic inventiveness; it has been truly said that hackers"
+" have even more words for equipment failures than Yiddish has for "
+"obnoxious people."
+msgstr ""
+

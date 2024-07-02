@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../L/larval-stage.rst:5
+msgid "larval stage"
+msgstr ""
+
+#: ../../L/larval-stage.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../L/larval-stage.rst:9
+msgid ""
+"Describes a period of monomaniacal concentration on coding apparently "
+"passed through by all fledgling hackers. Common symptoms include the "
+"perpetration of more than one 36-hour :ref:`hacking-run` in a given week;"
+" neglect of all other activities including usual basics like food, sleep,"
+" and personal hygiene; and a chronic case of advanced bleary-eye. Can "
+"last from 6 months to 2 years, the apparent median being around 18 "
+"months. A few so afflicted never resume a more ‘normal’ life, but the "
+"ordeal seems to be necessary to produce really wizardly (as opposed to "
+"merely competent) programmers. See also :ref:`wannabee`\\. A less "
+"protracted and intense version of larval stage (typically lasting about a"
+" month) may recur when one is learning a new :ref:`OS` or programming "
+"language."
+msgstr ""
+

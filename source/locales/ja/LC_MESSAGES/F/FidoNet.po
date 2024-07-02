@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/FidoNet.rst:5
+msgid "FidoNet"
+msgstr ""
+
+#: ../../F/FidoNet.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/FidoNet.rst:9
+msgid ""
+"A worldwide hobbyist network of personal computers which exchanges mail, "
+"discussion groups, and files. Founded in 1984 and originally consisting "
+"only of IBM PCs and compatibles, FidoNet now includes such diverse "
+"machines as Apple ][s, Ataris, Amigas, and Unix systems. For years "
+"FidoNet actually grew faster than Usenet, but the advent of cheap "
+"Internet access probably means its days are numbered. FidoNet's site "
+"count has dropped from 38K nodes in 1996 through 15K nodes in 2001 to 10K"
+" nodes in late 2003, and most of those are probably single-user machines "
+"rather than the thriving BBSes of yore."
+msgstr ""
+

@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/Exon.rst:5
+msgid "Exon"
+msgstr ""
+
+#: ../../E/Exon.rst:7
+msgid "/eks´on/, excl\\."
+msgstr ""
+
+#: ../../E/Exon.rst:9
+msgid ""
+"A generic obscenity that quickly entered wide use on the Internet and "
+"Usenet after the passage of the Communications Decency Act. From the last"
+" name of Senator James Exon (Democrat-Nebraska), primary author of the "
+":ref:`CDA`\\. This usage outlasted the CDA itself, which was quashed a "
+"little over a year later by one of the most acerbic pro-free-speech "
+"opinions ever uttered by the Supreme Court. The campaign against it was "
+"led by an alliance of hackers and civil libertarians, and was the first "
+"effective political mobilization of the hacker culture. Use of Exon's "
+"name as an expletive outlived the CDA controversy itself."
+msgstr ""
+

@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/T.rst:5
+msgid "T"
+msgstr ""
+
+#: ../../T/T.rst:7
+msgid "/T/"
+msgstr ""
+
+#: ../../T/T.rst:10
+msgid ""
+"[from LISP terminology for ‘true’] Yes. Used in reply to a question "
+"(particularly one asked using :ref:`The -P convention<p-convention>`\\). "
+"In LISP, the constant T means ‘true’, among other things. Some Lisp "
+"hackers use ‘T’ and ‘NIL’ instead of ‘Yes’ and ‘No’ almost reflexively. "
+"This sometimes causes misunderstandings. When a waiter or flight "
+"attendant asks whether a hacker wants coffee, he may absently respond "
+"‘T’, meaning that he wants coffee; but of course he will be brought a cup"
+" of tea instead. Fortunately, most hackers (particularly those who "
+"frequent Chinese restaurants) like tea at least as well as coffee — so it"
+" is not that big a problem."
+msgstr ""
+
+#: ../../T/T.rst:19
+msgid "See :ref:`time-T` (also :ref:`since-time-T-equals-minus-infinity`\\)."
+msgstr ""
+
+#: ../../T/T.rst:22
+msgid ""
+"[techspeak] In transaction-processing circles, an abbreviation for the "
+"noun ‘transaction’."
+msgstr ""
+
+#: ../../T/T.rst:25
+msgid "[Purdue] Alternate spelling of :ref:`tee`\\."
+msgstr ""
+
+#: ../../T/T.rst:28
+msgid ""
+"A dialect of :ref:`LISP` developed at Yale. (There is an intended "
+"allusion to NIL, \"New Implementation of Lisp\", another dialect of Lisp "
+"developed for the :ref:`VAX`\\)"
+msgstr ""
+

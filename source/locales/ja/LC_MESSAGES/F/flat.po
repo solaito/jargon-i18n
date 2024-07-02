@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/flat.rst:5
+msgid "flat"
+msgstr ""
+
+#: ../../F/flat.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../F/flat.rst:10
+msgid ""
+"[common] Lacking any complex internal structure. \"That :ref:`bitty-box` "
+"has only a flat filesystem, not a hierarchical one.\" The verb form is "
+":ref:`flatten`\\."
+msgstr ""
+
+#: ../../F/flat.rst:15
+msgid ""
+"Said of a memory architecture (like that of the :ref:`VAX` or 680x0) that"
+" is one big linear address space (typically with each possible value of a"
+" processor register corresponding to a unique core address), as opposed "
+"to a segmented architecture (like that of the 80x86) in which addresses "
+"are composed from a base-register/offset pair (segmented designs are "
+"generally considered :ref:`cretinous`\\)."
+msgstr ""
+
+#: ../../F/flat.rst:17
+msgid ""
+"Note that sense 1 (at least with respect to filesystems) is usually used "
+"pejoratively, while sense 2 is a :ref:`Good-Thing`\\."
+msgstr ""
+

@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/email.rst:5
+msgid "email"
+msgstr ""
+
+#: ../../E/email.rst:7
+msgid "/ee´mayl/"
+msgstr ""
+
+#: ../../E/email.rst:9
+msgid "(also written ‘e-mail’ and ‘E-mail’)"
+msgstr ""
+
+#: ../../E/email.rst:11
+msgid ""
+"n\\. Electronic mail automatically passed through computer networks "
+"and/or via modems over common-carrier lines. Contrast :ref:`snail-"
+"mail`\\, :ref:`paper-net`\\, :ref:`voice-net`\\. See :ref:`network-"
+"address`\\."
+msgstr ""
+
+#: ../../E/email.rst:16
+msgid "vt\\. To send electronic mail."
+msgstr ""
+
+#: ../../E/email.rst:19
+msgid ""
+"Oddly enough, the word emailed is actually listed in the OED; it means "
+"\"embossed (with a raised pattern) or perh. arranged in a net or open "
+"work\". A use from 1480 is given. The word is probably derived from "
+"French émaillé (enameled) and related to Old French emmailleüre "
+"(network). A French correspondent tells us that in modern French, ‘email’"
+" is a hard enamel obtained by heating special paints in a furnace; an "
+"‘emailleur’ (no final e) is a craftsman who makes email (he generally "
+"paints some objects (like, say, jewelry) and cooks them in a furnace)."
+msgstr ""
+
+#: ../../E/email.rst:25
+msgid ""
+"There are numerous spelling variants of this word. In Internet traffic up"
+" to 1995, ‘email’ predominates, ‘e-mail’ runs a not-too-distant second, "
+"and ‘E-mail’ and ‘Email’ are a distant third and fourth."
+msgstr ""
+

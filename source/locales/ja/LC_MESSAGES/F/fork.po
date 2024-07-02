@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/fork.rst:5
+msgid "fork"
+msgstr ""
+
+#: ../../F/fork.rst:7
+msgid ""
+"In the open-source community, a fork is what occurs when two (or more) "
+"versions of a software package's source code are being developed in "
+"parallel which once shared a common code base, and these multiple "
+"versions of the source code have irreconcilable differences between them."
+" This should not be confused with a development branch, which may later "
+"be folded back into the original source code base. Nor should it be "
+"confused with what happens when a new distribution of Linux or some other"
+" distribution is created, because that largely assembles pieces than can "
+"and will be used in other distributions without conflict."
+msgstr ""
+
+#: ../../F/fork.rst:11
+msgid ""
+"Forking is uncommon; in fact, it is so uncommon that individual instances"
+" loom large in hacker folklore. Notable in this class were the "
+"Emacs/XEmacs fork, the GCC/EGCS fork (later healed by a merger) and the "
+"forks among the FreeBSD, NetBSD, and OpenBSD operating systems."
+msgstr ""
+

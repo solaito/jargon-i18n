@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/top-post.rst:5
+msgid "top-post"
+msgstr ""
+
+#: ../../T/top-post.rst:7
+msgid "n\\., v\\."
+msgstr ""
+
+#: ../../T/top-post.rst:9
+msgid ""
+"[common] To put the newly-added portion of an email or Usenet response "
+"before the quoted part, as opposed to the more logical sequence of quoted"
+" portion first with original following. The problem with this practice is"
+" neatly summed up by the following FAQ entry:"
+msgstr ""
+
+#: ../../T/top-post.rst:18
+msgid ""
+"This term is generally used pejoratively with the implication that the "
+"offending person is a :ref:`newbie`\\, a Microsoft addict (Microsoft mail"
+" tools produce a similar format by default), or simply a common-and-"
+"garden-variety idiot."
+msgstr ""
+
+#: ../../T/top-post.rst:20
+msgid ""
+"One major problem with top-posting is that people who do it all too "
+"frequently quote the *entire* parent message rather than trimming it down"
+" to those portions relevent to their reply — this makes threads bulky and"
+" unnecessarily difficult to read and arouses the righteous ire of "
+"experienced Internet residents (this style is called \"TOFU\" for \"text "
+"over, fullquote under\", or sometimes \"jeopardy-style quoting\"). "
+"Another problem is that top-posters often word their replies on the "
+"assumption that you just read the previous message, even though their "
+"perversity has put it further down the page than you have yet read. "
+"Oppose :ref:`bottom-post`\\."
+msgstr ""
+

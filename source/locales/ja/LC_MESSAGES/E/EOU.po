@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/EOU.rst:5
+msgid "EOU"
+msgstr ""
+
+#: ../../E/EOU.rst:7
+msgid "/E·O·U/, n\\."
+msgstr ""
+
+#: ../../E/EOU.rst:9
+msgid ""
+"The mnemonic of a mythical ASCII control character (End Of User) that "
+"would make an ASR-33 Teletype explode on receipt. This construction "
+"parodies the numerous obscure delimiter and control characters left in "
+"ASCII from the days when it was associated more with wire-service "
+"teletypes than computers (e.g., FS, GS, RS, US, EM, SUB, ETX, and esp. "
+"EOT). It is worth remembering that ASR-33s were big, noisy mechanical "
+"beasts with a lot of clattering parts; the notion that one might explode "
+"was nowhere near as ridiculous as it might seem to someone sitting in "
+"front of a :ref:`tube` or flatscreen today."
+msgstr ""
+

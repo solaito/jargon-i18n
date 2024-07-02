@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../E/emoticon.rst:5
+msgid "emoticon"
+msgstr ""
+
+#: ../../E/emoticon.rst:7
+msgid "/ee·moh´ti·kon/, n\\."
+msgstr ""
+
+#: ../../E/emoticon.rst:9
+#, python-format
+msgid ""
+"[common] An ASCII glyph used to indicate an emotional state in email or "
+"news. Although originally intended mostly as jokes, emoticons (or some "
+"other explicit humor indication) are virtually required under certain "
+"circumstances in high-volume text-only communication forums such as "
+"Usenet; the lack of verbal and visual cues can otherwise cause what were "
+"intended to be humorous, sarcastic, ironic, or otherwise non-100%-serious"
+" comments to be badly misinterpreted (not always even by "
+":ref:`newbie`\\s), resulting in arguments and :ref:`flame-war`\\s."
+msgstr ""
+
+#: ../../E/emoticon.rst:12
+msgid ""
+"Hundreds of emoticons have been proposed, but only a few are in common "
+"use. These include: .. list-table::"
+msgstr ""
+
+#: ../../E/emoticon.rst:24
+msgid ""
+"(These may become more comprehensible if you tilt your head sideways, to "
+"the left.) The first two listed are by far the most frequently "
+"encountered. Hyphenless forms of them are common on CompuServe, GEnie, "
+"and BIX; see also :ref:`bixie`\\. On :ref:`Usenet`\\, smiley is often "
+"used as a generic term synonymous with :ref:`emoticon`\\, as well as "
+"specifically for the happy-face emoticon."
+msgstr ""
+
+#: ../../E/emoticon.rst:29
+msgid ""
+"The invention of the original smiley and frowney emoticons is generally "
+"credited to Scott Fahlman at CMU in 1982. He later wrote: \"I wish I had "
+"saved the original post, or at least recorded the date for posterity, but"
+" I had no idea that I was starting something that would soon pollute all "
+"the world's communication channels.\" In September 2002 the original post"
+" `was recovered "
+"<http://research.microsoft.com/~mbj/Smiley/Smiley.html>`_."
+msgstr ""
+
+#: ../../E/emoticon.rst:33
+msgid ""
+"There is a rival claim by one Kevin McKenzie, who seems to have proposed "
+"the smiley on the MsgGroup mailing list, April 12 1979. It seems likely "
+"these two inventions were independent. Users of the PLATO educational "
+"system `report <http://www.platopeople.com/emoticons.html>`_\\  using "
+"emoticons composed from overlaid dot-matrix graphics in the 1970s."
+msgstr ""
+
+#: ../../E/emoticon.rst:37
+msgid ""
+"Note for the :ref:`newbie`\\: Overuse of the smiley is a mark of "
+"loserhood! More than one per paragraph is a fairly sure sign that you've "
+"gone over the line."
+msgstr ""
+

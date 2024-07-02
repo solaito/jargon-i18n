@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/drunk-mouse-syndrome.rst:5
+msgid "drunk mouse syndrome"
+msgstr ""
+
+#: ../../D/drunk-mouse-syndrome.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/drunk-mouse-syndrome.rst:9
+msgid ""
+"(also mouse on drugs) A malady exhibited by the mouse pointing device of "
+"some computers. The typical symptom is for the mouse cursor on the screen"
+" to move in random directions and not in sync with the motion of the "
+"actual mouse. Can usually be corrected by unplugging the mouse and "
+"plugging it back again. Another recommended fix for optical mice is to "
+"rotate your mouse pad 90 degrees."
+msgstr ""
+
+#: ../../D/drunk-mouse-syndrome.rst:14
+msgid ""
+"At Xerox PARC in the 1970s, most people kept a can of copier cleaner "
+"(isopropyl alcohol) at their desks. When the steel ball on the mouse had "
+"picked up enough :ref:`cruft` to be unreliable, the mouse was doused in "
+"cleaner, which restored it for a while. However, this operation left a "
+"fine residue that accelerated the accumulation of cruft, so the dousings "
+"became more and more frequent. Finally, the mouse was declared "
+"‘alcoholic’ and sent to the clinic to be dried out in a CFC ultrasonic "
+"bath."
+msgstr ""
+

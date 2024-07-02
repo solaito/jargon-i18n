@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../K/kit.rst:5
+msgid "kit"
+msgstr ""
+
+#: ../../K/kit.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../K/kit.rst:9
+msgid ""
+"[Usenet; poss. : fr. : :ref:`DEC` slang for a full software distribution,"
+" as opposed to a patch or upgrade] A source software distribution that "
+"has been packaged in such a way that it can (theoretically) be unpacked "
+"and installed according to a series of steps using only standard Unix "
+"tools, and entirely documented by some reasonable chain of references "
+"from the top-level :ref:`README-file`\\. The more general term "
+":ref:`distribution` may imply that special tools or more stringent "
+"conditions on the host environment are required."
+msgstr ""
+

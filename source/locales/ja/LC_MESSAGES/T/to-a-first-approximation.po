@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../T/to-a-first-approximation.rst:5
+msgid "to a first approximation"
+msgstr ""
+
+#: ../../T/to-a-first-approximation.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../T/to-a-first-approximation.rst:10
+msgid ""
+"[techspeak] When one is doing certain numerical computations, an "
+"approximate solution may be computed by any of several heuristic methods,"
+" then refined to a final value. By using the starting point of a first "
+"approximation of the answer, one can write an algorithm that converges "
+"more quickly to the correct result."
+msgstr ""
+
+#: ../../T/to-a-first-approximation.rst:14
+msgid ""
+"In jargon, a preface to any comment that indicates that the comment is "
+"only approximately true. The remark \"To a first approximation, I feel "
+"good\" might indicate that deeper questioning would reveal that not all "
+"is perfect (e.g., a nagging cough still remains after an illness)."
+msgstr ""
+

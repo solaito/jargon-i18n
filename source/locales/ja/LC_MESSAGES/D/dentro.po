@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/dentro.rst:5
+msgid "dentro"
+msgstr ""
+
+#: ../../D/dentro.rst:7
+msgid "/den´troh/"
+msgstr ""
+
+#: ../../D/dentro.rst:9
+msgid ""
+"[ :ref:`demoscene`\\] Combination of :ref:`demo` (sense 4) and "
+":ref:`intro`\\. Other name mixings include intmo, dentmo etc. and are "
+"used usually when the authors are not quite sure whether the program is a"
+" :ref:`demo` or an :ref:`intro`\\. Special-purpose coinages like wedtro "
+"(some member of a group got married), invtro (invitation intro) etc. have"
+" also been sighted."
+msgstr ""
+

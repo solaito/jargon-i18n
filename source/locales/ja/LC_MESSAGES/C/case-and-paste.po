@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/case-and-paste.rst:5
+msgid "case and paste"
+msgstr ""
+
+#: ../../C/case-and-paste.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/case-and-paste.rst:9
+msgid "[from ‘cut and paste’]"
+msgstr ""
+
+#: ../../C/case-and-paste.rst:11
+msgid ""
+"The addition of a new :ref:`feature` to an existing system by selecting "
+"the code from an existing feature and pasting it in with minor changes. "
+"Common in telephony circles because most operations in a telephone switch"
+" are selected using :code:`case` statements. Leads to :ref:`software-"
+"bloat`\\."
+msgstr ""
+
+#: ../../C/case-and-paste.rst:15
+msgid ""
+"In some circles of EMACS users this is called ‘programming by Meta-W’, "
+"because Meta-W is the EMACS command for copying a block of text to a kill"
+" buffer in preparation to pasting it in elsewhere. The term is "
+"condescending, implying that the programmer is acting mindlessly rather "
+"than thinking carefully about what is required to integrate the code for "
+"two similar cases."
+msgstr ""
+
+#: ../../C/case-and-paste.rst:18
+msgid "At :ref:`DEC` (now HP), this is sometimes called clone-and-hack coding."
+msgstr ""
+

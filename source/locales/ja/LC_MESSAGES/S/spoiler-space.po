@@ -1,0 +1,37 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/spoiler-space.rst:5
+msgid "spoiler space"
+msgstr ""
+
+#: ../../S/spoiler-space.rst:7
+msgid ""
+"[also spoiler spoo or spoiler protection] A screenful of blank or spacer "
+"lines deliberately inserted in a message following a :ref:`spoiler` "
+"warning, so the actual spoiler can't be seen without hitting a key. "
+"Formfeeds used to be used for this, but are now rare because so many "
+"people read news through Web interfaces on which they have no good "
+"interpretation."
+msgstr ""
+

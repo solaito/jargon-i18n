@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/MEGO.rst:5
+msgid "MEGO"
+msgstr ""
+
+#: ../../M/MEGO.rst:7
+msgid "/me´goh/, /mee´goh/"
+msgstr ""
+
+#: ../../M/MEGO.rst:9
+msgid ""
+"[\"My Eyes Glaze Over\", often \"Mine Eyes Glazeth (sic) Over\", "
+"attributed to the futurologist Herman Kahn] Also MEGO factor."
+msgstr ""
+
+#: ../../M/MEGO.rst:11
+msgid ""
+"n\\. A :ref:`handwave` intended to confuse the listener and hopefully "
+"induce agreement because the listener does not want to admit to not "
+"understanding what is going on. MEGO is usually directed at senior "
+"management by engineers and contains a high proportion of :ref:`TLA`\\s."
+msgstr ""
+
+#: ../../M/MEGO.rst:15
+msgid "excl. An appropriate response to MEGO tactics."
+msgstr ""
+
+#: ../../M/MEGO.rst:19
+msgid ""
+"Among non-hackers, often refers not to behavior that causes the eyes to "
+"glaze, but to the eye-glazing reaction itself, which may be triggered by "
+"the mere threat of excessive technical detail as effectively as by an "
+"actual excess of it."
+msgstr ""
+

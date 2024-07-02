@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bug-of-the-month-club.rst:5
+msgid "bug-of-the-month club"
+msgstr ""
+
+#: ../../B/bug-of-the-month-club.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/bug-of-the-month-club.rst:9
+msgid ""
+"[from \"book-of-the-month club\", a time-honored mail-order-marketing "
+"technique in the U.S.] A mythical club which users of "
+":manpage:`sendmail(8)` (the Unix mail daemon) belong to; this was coined "
+"on the Usenet newsgroup comp.security.unix at a time when sendmail "
+"security holes, which allowed outside :ref:`cracker`\\s access to the "
+"system, were being uncovered at an alarming rate, forcing sysadmins to "
+"update very often. Also, more completely, fatal security bug-of-the-month"
+" club. See also :ref:`kernel-of-the-week-club`\\."
+msgstr ""
+

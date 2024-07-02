@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/workaround.rst:5
+msgid "workaround"
+msgstr ""
+
+#: ../../W/workaround.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../W/workaround.rst:10
+msgid ""
+"A temporary :ref:`kluge` used to bypass, mask, or otherwise avoid a "
+":ref:`bug` or :ref:`misfeature` in some system. Theoretically, "
+"workarounds are always replaced by :ref:`fix`\\es; in practice, customers"
+" often find themselves living with workarounds for long periods of time. "
+"\"The code died on NUL characters in the input, so I fixed it to "
+"interpret them as spaces.\" \"That's not a fix, that's a workaround!\""
+msgstr ""
+
+#: ../../W/workaround.rst:16
+msgid ""
+"A procedure to be employed by the user in order to do what some currently"
+" non-working feature should do. Hypothetical example: \"Using META-F7 "
+":ref:`crash`\\es the 4.43 build of Weemax, but as a workaround you can "
+"type CTRL-R, then SHIFT-F5, and delete the remaining :ref:`cruft` by "
+"hand.\""
+msgstr ""
+

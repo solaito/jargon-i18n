@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bang.rst:5
+msgid "bang"
+msgstr ""
+
+#: ../../B/bang.rst:7
+msgid ""
+"n\\. Common spoken name for ``!`` (ASCII 0100001), especially when used "
+"in pronouncing a :ref:`bang-path` in spoken hackish. In :ref:`elder-days`"
+" this was considered a CMUish usage, with MIT and Stanford hackers "
+"preferring :ref:`excl` or :ref:`shriek`\\; but the spread of Unix has "
+"carried ‘bang’ with it (esp. via the term :ref:`bang-path`\\) and it is "
+"now certainly the most common spoken name for ``!``\\. Note that it is "
+"used exclusively for non-emphatic written ``!``\\; one would not say "
+"\"Congratulations bang\" (except possibly for humorous purposes), but if "
+"one wanted to specify the exact characters \"foo!\" one would speak \"Eff"
+" oh oh bang\". See :ref:`shriek`\\, :ref:`ASCII`\\."
+msgstr ""
+
+#: ../../B/bang.rst:15
+msgid ""
+"interj. An exclamation signifying roughly \"I have achieved "
+"enlightenment! \", or \"The dynamite has cleared out my brain!\" Often "
+"used to acknowledge that one has perpetrated a :ref:`thinko` immediately "
+"after one has been called on it."
+msgstr ""
+

@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../M/magic-cookie.rst:5
+msgid "magic cookie"
+msgstr ""
+
+#: ../../M/magic-cookie.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../M/magic-cookie.rst:9
+msgid "[Unix; common]"
+msgstr ""
+
+#: ../../M/magic-cookie.rst:12
+msgid ""
+"Something passed between routines or programs that enables the receiver "
+"to perform some operation; a capability ticket or opaque identifier. "
+"Especially used of small data objects that contain data encoded in a "
+"strange or intrinsically machine-dependent way. E.g., on non-Unix OSes "
+"with a non-byte-stream model of files, the result of :manpage:`ftell(3)` "
+"may be a magic cookie rather than a byte offset; it can be passed to "
+":manpage:`fseek(3)`\\, but not operated on in any meaningful way. The "
+"phrase it hands you a magic cookie means it returns a result whose "
+"contents are not defined but which can be passed back to the same or some"
+" other program later."
+msgstr ""
+
+#: ../../M/magic-cookie.rst:18
+msgid ""
+"An in-band code for changing graphic rendition (e.g., inverse video or "
+"underlining) or performing other control functions (see also "
+":ref:`cookie`\\). Some older terminals would leave a blank on the screen "
+"corresponding to mode-change magic cookies; this was also called a "
+":ref:`glitch` (or occasionally a turd; compare :ref:`mouse-droppings`\\)."
+" See also :ref:`cookie`\\."
+msgstr ""
+

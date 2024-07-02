@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../K/kill-file.rst:5
+msgid "kill file"
+msgstr ""
+
+#: ../../K/kill-file.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../K/kill-file.rst:9
+msgid ""
+"[Usenet; very common] (alt. : KILL file) Per-user file(s) used by some "
+":ref:`Usenet` reading programs (originally Larry Wall's "
+":manpage:`rn(1)`\\) to discard summarily (without presenting for reading)"
+" articles matching some particularly uninteresting (or unwanted) patterns"
+" of subject, author, or other header lines. Thus to add a person (or "
+"subject) to one's kill file is to arrange for that person to be ignored "
+"by one's newsreader in future. By extension, it may be used for a "
+"decision to ignore the person or subject in other media. See also "
+":ref:`plonk`\\."
+msgstr ""
+

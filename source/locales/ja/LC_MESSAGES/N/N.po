@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/N.rst:5
+msgid "N"
+msgstr ""
+
+#: ../../N/N.rst:7
+msgid "/N/, quant\\."
+msgstr ""
+
+#: ../../N/N.rst:10
+msgid ""
+"A large and indeterminate number of objects: \"There were ``N`` bugs in "
+"that crock!\" Also used in its original sense of a variable name: \"This "
+"crock has ``N`` bugs, as ``N`` goes to infinity.\" (The true number of "
+"bugs is always at least ``N + 1``\\; see :ref:`Lubarskys-Law-of-"
+"Cybernetic-Entomology`\\.)"
+msgstr ""
+
+#: ../../N/N.rst:15
+msgid ""
+"A variable whose value is inherited from the current context. For "
+"example, when a meal is being ordered at a restaurant, ``N`` may be "
+"understood to mean however many people there are at the table. From the "
+"remark \"We'd like to order ``N`` wonton soups and a family dinner for "
+"``N - 1``\\\" you can deduce that one person at the table wants to eat "
+"only soup, even though you don't know how many people there are (see :ref"
+":`great-wall`\\)."
+msgstr ""
+
+#: ../../N/N.rst:20
+msgid "``Nth``\\: adj. The ordinal counterpart of ``N``\\, senses 1 and 2."
+msgstr ""
+
+#: ../../N/N.rst:24
+msgid ""
+"\"Now for the ``N``\\th and last time...\" In the specific context \"``N"
+"``\\th-year grad student\", ``N`` is generally assumed to be at least 4, "
+"and is usually 5 or more (see :ref:`tenured-graduate-student`\\). See "
+"also :ref:`random-numbers`\\, :ref:`two-to-the-N`\\."
+msgstr ""
+

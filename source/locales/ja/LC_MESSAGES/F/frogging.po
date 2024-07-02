@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/frogging.rst:5
+msgid "frogging"
+msgstr ""
+
+#: ../../F/frogging.rst:7
+msgid "v\\."
+msgstr ""
+
+#: ../../F/frogging.rst:10
+msgid ""
+"Partial corruption of a text file or input stream by some bug or "
+"consistent glitch, as opposed to random events like line noise or media "
+"failures. Might occur, for example, if one bit of each incoming character"
+" on a tty were stuck, so that some characters were correct and others "
+"were not. See :ref:`dread-high-bit-disease`\\."
+msgstr ""
+
+#: ../../F/frogging.rst:15
+msgid ""
+"By extension, accidental display of text in a mode where the output "
+"device emits special symbols or mnemonics rather than conventional ASCII."
+" This often happens, for example, when using a terminal or comm program "
+"on a device like an IBM PC with a special ‘high-half’ character set and "
+"with the bit-parity assumption wrong. A hacker sufficiently familiar with"
+" ASCII bit patterns might be able to read the display anyway."
+msgstr ""
+

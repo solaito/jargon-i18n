@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../F/fred.rst:5
+msgid "fred"
+msgstr ""
+
+#: ../../F/fred.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../F/fred.rst:10
+msgid ""
+"The personal name most frequently used as a :ref:`metasyntactic-variable`"
+" (see :ref:`foo`\\). Allegedly popular because it's easy for a non-touch-"
+"typist to type on a standard QWERTY keyboard. In Great Britain, ‘fred’, "
+"‘jim’ and ‘sheila’ are common metasyntactic variables because their "
+"uppercase versions were *official* names given to the 3 memory areas that"
+" held I/O status registers on the lovingly-remembered BBC Microcomputer! "
+"(It is reported that SHEILA was poked the most often.) Unlike :ref:`J"
+"--Random-Hacker` or J. Random Loser, the name ‘fred’ has no positive or "
+"negative loading (but see :ref:`Dr--Fred-Mbogo`\\). See also "
+":ref:`barney`\\."
+msgstr ""
+
+#: ../../F/fred.rst:19
+msgid ""
+"An acronym for ‘Flipping Ridiculous Electronic Device’; other F-verbs may"
+" be substituted for ‘flipping’."
+msgstr ""
+

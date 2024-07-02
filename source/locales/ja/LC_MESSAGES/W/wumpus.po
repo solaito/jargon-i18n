@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/wumpus.rst:5
+msgid "wumpus"
+msgstr ""
+
+#: ../../W/wumpus.rst:7
+msgid "/wuhm´p\\@s/, n\\."
+msgstr ""
+
+#: ../../W/wumpus.rst:9
+msgid ""
+"The central monster (and, in many versions, the name) of a famous family "
+"of very early computer games called *Hunt The Wumpus*\\. The original was"
+" invented in 1970 (several years before :ref:`ADVENT`\\) by Gregory Yob. "
+"The wumpus lived somewhere in a cave with the topology of an "
+"dodecahedron's edge/vertex graph (later versions supported other "
+"topologies, including an icosahedron and Möbius strip). The player "
+"started somewhere at random in the cave with five ‘crooked arrows’; these"
+" could be shot through up to three connected rooms, and would kill the "
+"wumpus on a hit (later versions introduced the wounded wumpus, which got "
+"very angry). Unfortunately for players, the movement necessary to map the"
+" maze was made hazardous not merely by the wumpus (which would eat you if"
+" you stepped on him) but also by bottomless pits and colonies of super "
+"bats that would pick you up and drop you at a random location (later "
+"versions added ‘anaerobic termites’ that ate arrows, bat migrations, and "
+"earthquakes that randomly changed pit locations)."
+msgstr ""
+
+#: ../../W/wumpus.rst:15
+msgid ""
+"This game appears to have been the first to use a non-random graph-"
+"structured map (as opposed to a rectangular grid like the even older Star"
+" Trek games). In this respect, as in the dungeon-like setting and its "
+"terse, amusing messages, it prefigured :ref:`ADVENT` and :ref:`Zork` and "
+"was directly ancestral to the latter (Zork acknowledged this heritage by "
+"including a super-bat colony). A C emulation of the original Basic game "
+"is available at the Retrocomputing Museum, `http://www.catb.org/retro/ "
+"<http://www.catb.org/retro/>`_."
+msgstr ""
+

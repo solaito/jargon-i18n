@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/download.rst:5
+msgid "download"
+msgstr ""
+
+#: ../../D/download.rst:7
+msgid "vt\\."
+msgstr ""
+
+#: ../../D/download.rst:9
+msgid ""
+"To transfer data or (esp.) code from a far-away system (especially a "
+"larger host system) over a digital communications link to a nearby system"
+" (especially a smaller client system. Oppose :ref:`upload`\\."
+msgstr ""
+
+#: ../../D/download.rst:13
+msgid ""
+"Historical use of these terms was at one time associated with transfers "
+"from large timesharing machines to PCs or peripherals (download) and "
+"vice-versa (upload). The modern usage relative to the speaker (rather "
+"than as an indicator of the size and role of the machines) evolved as "
+"machine categories lost most of their former functional importance."
+msgstr ""
+

@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../G/Gang-of-Four.rst:5
+msgid "Gang of Four"
+msgstr ""
+
+#: ../../G/Gang-of-Four.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../G/Gang-of-Four.rst:9
+msgid ""
+"(also abbreviated GOF) [prob. a play on the ‘Gang Of Four’ who briefly "
+"ran Communist China after the death of Mao] Describes either the authors "
+"or the book *Design Patterns: Elements of Reusable Object-Oriented "
+"Software* published in 1995 by Addison-Wesley (ISBN 0-201-63361-2). The "
+"authors forming the Gang Of Four are Erich Gamma, Richard Helm, Ralph "
+"Johnson and John Vlissides. They are also sometimes referred to as ‘Gamma"
+" et. al.’ The authors state at "
+"`http://www.hillside.net/patterns/DPBook/GOF.html "
+"<http://www.hillside.net/patterns/DPBook/GOF.html>`_\\  \"Why are we ... "
+"called this? Who knows. Somehow the name just stuck.\" The term is also "
+"used to describe any of the design patterns that are used in the book, "
+"referring to the patterns within it as ‘Gang Of Four Patterns.’"
+msgstr ""
+

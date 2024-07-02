@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/biff.rst:5
+msgid "biff"
+msgstr ""
+
+#: ../../B/biff.rst:7
+msgid "/bif/, vt\\."
+msgstr ""
+
+#: ../../B/biff.rst:9
+msgid ""
+"[now rare] To notify someone of incoming mail. From the BSD utility "
+":manpage:`biff(1)`\\, which was in turn named after a friendly dog who "
+"used to chase frisbees in the halls at UCB while 4.2BSD was in "
+"development. There was a legend that it had a habit of barking whenever "
+"the mailman came, but the author of :code:`biff` says this is not true. "
+"No relation to :ref:`B1FF`\\."
+msgstr ""
+

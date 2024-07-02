@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../W/war-chalking.rst:5
+msgid "war-chalking"
+msgstr ""
+
+#: ../../W/war-chalking.rst:7
+msgid ""
+"[play on :ref:`war-driving`\\; the first syllable has since been "
+"reinterpreted as an acronym for \"wireless access revolution\"] The "
+"practice of using chalk marks similar to hobo signs to indicate the "
+"nearby presence of a wireless Internet access point, a boon to strolling "
+"hackers with laptops. The concept was first floated in early 2002 and was"
+" instantly seized upon with cries of glee by hackers all over the "
+"portions of the world urbanized enough to have sidewalks and access "
+"points. The process rather recalls the explosive spread of heraldry in "
+"the medieval Europe of the 1120s. There is a site that `explains the "
+"symbology <http://www.warchalking.org/>`_;."
+msgstr ""
+

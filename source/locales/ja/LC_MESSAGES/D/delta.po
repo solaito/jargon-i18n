@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../D/delta.rst:5
+msgid "delta"
+msgstr ""
+
+#: ../../D/delta.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../D/delta.rst:10
+msgid ""
+"[techspeak] A quantitative change, especially a small or incremental one "
+"(this use is general in physics and engineering). \"I just doubled the "
+"speed of my program!\" \"What was the delta on program size?\" \"About 30"
+" percent.\" (He doubled the speed of his program, but increased its size "
+"by only 30 percent.)"
+msgstr ""
+
+#: ../../D/delta.rst:17
+msgid ""
+"[Unix] A :ref:`diff`\\, especially a :ref:`diff` stored under the set of "
+"version-control tools called SCCS (Source Code Control System) or RCS "
+"(Revision Control System)."
+msgstr ""
+
+#: ../../D/delta.rst:19
+msgid ""
+"n\\. A small quantity, but not as small as :ref:`epsilon`\\. The jargon "
+"usage of :ref:`delta` and :ref:`epsilon` stems from the traditional use "
+"of these letters in mathematics for very small numerical quantities, "
+"particularly in ‘epsilon-delta’ proofs in limit theory (as in the "
+"differential calculus). The term :ref:`delta` is often used, once "
+":ref:`epsilon` has been mentioned, to mean a quantity that is slightly "
+"bigger than :ref:`epsilon` but still very small. \"The cost isn't "
+"epsilon, but it's delta\" means that the cost isn't totally negligible, "
+"but it is nevertheless very small. Common constructions include within "
+"delta of —, within epsilon of —: that is, ‘close to’ and ‘even closer "
+"to’."
+msgstr ""
+

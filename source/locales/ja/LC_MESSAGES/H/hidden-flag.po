@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hidden-flag.rst:5
+msgid "hidden flag"
+msgstr ""
+
+#: ../../H/hidden-flag.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../H/hidden-flag.rst:9
+msgid ""
+"[scientific computation] An extra option added to a routine without "
+"changing the calling sequence. For example, instead of adding an explicit"
+" input variable to instruct a routine to give extra diagnostic output, "
+"the programmer might just add a test for some otherwise meaningless "
+"feature of the existing inputs, such as a negative mass. The use of "
+"hidden flags can make a program very hard to debug and understand, but is"
+" all too common wherever programs are hacked on in a hurry."
+msgstr ""
+

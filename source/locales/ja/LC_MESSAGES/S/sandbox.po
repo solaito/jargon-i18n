@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../S/sandbox.rst:5
+msgid "sandbox"
+msgstr ""
+
+#: ../../S/sandbox.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../S/sandbox.rst:9
+msgid "(also ‘sandbox, the’)"
+msgstr ""
+
+#: ../../S/sandbox.rst:12
+msgid ""
+"Common term for the R&D department at many software and computer "
+"companies (where hackers in commercial environments are likely to be "
+"found). Half-derisive, but reflects the truth that research is a form of "
+"creative play. Compare :ref:`playpen`\\."
+msgstr ""
+
+#: ../../S/sandbox.rst:17
+msgid "Syn. :ref:`link-farm`\\."
+msgstr ""
+
+#: ../../S/sandbox.rst:21
+msgid ""
+"A controlled environment within which potentially dangerous programs are "
+"run. Used esp. in reference to Java implementations."
+msgstr ""
+
+#: ../../S/sandbox.rst:26
+msgid ""
+"A checked-out copy of a source tree, on which one may safely perform "
+"builds without interfereing with others."
+msgstr ""
+

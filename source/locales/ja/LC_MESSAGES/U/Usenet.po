@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../U/Usenet.rst:5
+msgid "Usenet"
+msgstr ""
+
+#: ../../U/Usenet.rst:7
+msgid "/yoos´net/, /yooz´net/, n\\."
+msgstr ""
+
+#: ../../U/Usenet.rst:9
+msgid ""
+"[from ‘Users' Network’; the original spelling was USENET, but the mixed-"
+"case form is now widely preferred] A distributed :ref:`bboard` (bulletin "
+"board) system supported mainly by Unix machines. Originally implemented "
+"in 1979--1980 by Steve Bellovin, Jim Ellis, Tom Truscott, and Steve "
+"Daniel at Duke University and the University of North Carolina, it has "
+"swiftly grown to become international in scope and is now probably the "
+"largest decentralized information utility in existence. As of late 2002, "
+"it hosts over 100,000 :ref:`newsgroup`\\s and an unguessably huge volume "
+"of new technical articles, news, discussion, chatter, and :ref:`flamage` "
+"every day (and that leaves out the graphics...)."
+msgstr ""
+
+#: ../../U/Usenet.rst:13
+msgid ""
+"By the year the Internet hit the mainstream (1994) the original UUCP "
+"transport for Usenet was fading out of use — almost all Usenet "
+"connections were over Internet links. A lot of newbies and journalists "
+"began to refer to \"Internet newsgroups\" as though Usenet was and always"
+" had been just another Internet service. This ignorance greatly annoys "
+"experienced Usenetters."
+msgstr ""
+

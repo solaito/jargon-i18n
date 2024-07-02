@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../I/incantation.rst:5
+msgid "incantation"
+msgstr ""
+
+#: ../../I/incantation.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../I/incantation.rst:9
+msgid ""
+"Any particularly arbitrary or obscure command that one must mutter at a "
+"system to attain a desired result. Not used of passwords or other "
+"explicit security features. Especially used of tricks that are so poorly "
+"documented that they must be learned from a :ref:`wizard`\\. \"This "
+"compiler normally locates initialized data in the data segment, but if "
+"you :ref:`mutter` the right incantation they will be forced into text "
+"space.\""
+msgstr ""
+

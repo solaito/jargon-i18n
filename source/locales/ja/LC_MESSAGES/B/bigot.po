@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bigot.rst:5
+msgid "bigot"
+msgstr ""
+
+#: ../../B/bigot.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../B/bigot.rst:9
+msgid ""
+"[common] A person who is religiously attached to a particular computer, "
+"language, operating system, editor, or other tool (see :ref:`religious-"
+"issues`\\). Usually found with a specifier; thus, Cray bigot, ITS bigot, "
+"APL bigot, VMS bigot, Berkeley bigot. Real bigots can be distinguished "
+"from mere partisans or zealots by the fact that they refuse to learn "
+"alternatives even when the march of time and/or technology is threatening"
+" to obsolete the favored tool. It is truly said \"You can tell a bigot, "
+"but you can't tell him much.\" Compare :ref:`weenie`\\, :ref:`Amiga-"
+"Persecution-Complex`\\."
+msgstr ""
+

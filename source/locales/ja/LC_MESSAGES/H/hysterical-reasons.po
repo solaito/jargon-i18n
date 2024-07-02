@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hysterical-reasons.rst:5
+msgid "hysterical reasons"
+msgstr ""
+
+#: ../../H/hysterical-reasons.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../H/hysterical-reasons.rst:9
+msgid ""
+"(also hysterical raisins) A variant on the stock phrase \"for historical "
+"reasons\", indicating specifically that something must be done in some "
+"stupid way for backwards compatibility, and moreover that the feature it "
+"must be compatible with was the result of a bad design in the first "
+"place. \"All IBM PC video adapters have to support MDA text mode for "
+"hysterical reasons.\" Compare :ref:`bug-for-bug-compatible`\\."
+msgstr ""
+

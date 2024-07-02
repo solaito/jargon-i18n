@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/NeWS.rst:5
+msgid "NeWS"
+msgstr ""
+
+#: ../../N/NeWS.rst:7
+msgid "/nee´wis/, /n[y]oo´is/, /n[y]ooz/, n\\."
+msgstr ""
+
+#: ../../N/NeWS.rst:9
+msgid ""
+"[acronym; the \"Network Window System\"] The road not taken in window "
+"systems, an elegant :ref:`PostScript`\\-based environment that would "
+"almost certainly have won the standards war with :ref:`X` if it hadn't "
+"been :ref:`proprietary` to Sun Microsystems. There is a lesson here that "
+"too many software vendors haven't yet heeded. Many hackers insist on the "
+"two-syllable pronunciations above as a way of distinguishing NeWS from "
+"Usenet news (the :ref:`netnews` software)."
+msgstr ""
+

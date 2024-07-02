@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../C/chawmp.rst:5
+msgid "chawmp"
+msgstr ""
+
+#: ../../C/chawmp.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../C/chawmp.rst:9
+msgid ""
+"[University of Florida] 16 or 18 bits (half of a machine word). This term"
+" was used by FORTH hackers during the late 1970s/early 1980s; it is said "
+"to have been archaic then, and may now be obsolete. It was coined in "
+"revolt against the promiscuous use of ‘word’ for anything between 16 and "
+"32 bits; ‘word’ has an additional special meaning for FORTH hacks that "
+"made the overloading intolerable. For similar reasons, /gaw´bl/ (spelled "
+"‘gawble’ or possibly ‘gawbul’) was in use as a term for 32 or 48 bits "
+"(presumably a full machine word, but our sources are unclear on this). "
+"These terms are more easily understood if one thinks of them as faithful "
+"phonetic spellings of ‘chomp’ and ‘gobble’ pronounced in a Florida or "
+"other Southern U.S. dialect. For general discussion of similar terms, see"
+" :ref:`nybble`\\."
+msgstr ""
+

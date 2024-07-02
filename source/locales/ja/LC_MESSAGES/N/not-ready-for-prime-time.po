@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../N/not-ready-for-prime-time.rst:5
+msgid "not ready for prime time"
+msgstr ""
+
+#: ../../N/not-ready-for-prime-time.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../N/not-ready-for-prime-time.rst:9
+msgid ""
+"Usable, but only just so; not very robust; for internal use only. Said of"
+" a program or device. Often connotes that the thing will be made more "
+"solid :ref:`Real-Soon-Now`\\. This term comes from the ensemble name of "
+"the original cast of *Saturday Night Live*\\, the \"Not Ready for Prime "
+"Time Players\". It has extra flavor for hackers because of the special "
+"(though now semi-obsolescent) meaning of :ref:`prime-time`\\. Compare "
+":ref:`beta`\\."
+msgstr ""
+

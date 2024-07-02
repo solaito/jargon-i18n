@@ -1,0 +1,64 @@
+************************************************************
+I
+************************************************************
+
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
+   
+   I/I-didn-t-change-anything-
+   I/I-see-no-X-here-
+   I/I-for-one-welcome-our-new-X-overlords
+   I/IANAL
+   I/IBM
+   I/ICBM-address
+   I/ice
+   I/idiot
+   I/idempotent
+   I/IDP
+   I/If-you-want-X--you-know-where-to-find-it-
+   I/ifdef-out
+   I/IIRC
+   I/ill-behaved
+   I/IMHO
+   I/Imminent-Death-Of-The-Net-Predicted-
+   I/in-the-extreme
+   I/incantation
+   I/include
+   I/include-war
+   I/indent-style
+   I/Indent-o-Meter
+   I/index-of-X
+   I/infant-mortality
+   I/infinite
+   I/infinite-loop
+   I/Infinite-Monkey-Theorem
+   I/infinity
+   I/inflate
+   I/Infocom
+   I/initgame
+   I/insanely-great
+   I/installfest
+   I/INTERCAL
+   I/InterCaps
+   I/interesting
+   I/Internet
+   I/Internet-Death-Penalty
+   I/Internet-Exploder
+   I/Internet-Exploiter
+   I/interrupt
+   I/interrupts-locked-out
+   I/intertwingled
+   I/intro
+   I/IRC
+   I/iron
+   I/Iron-Age
+   I/iron-box
+   I/ironmonger
+   I/ISO-standard-cup-of-tea
+   I/ISP
+   I/Itanic
+   I/ITS
+   I/IWBNI
+   I/IYFEG
+

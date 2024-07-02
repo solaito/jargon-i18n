@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/Perl.rst:5
+msgid "Perl"
+msgstr ""
+
+#: ../../P/Perl.rst:7
+msgid "/perl/, n\\."
+msgstr ""
+
+#: ../../P/Perl.rst:9
+msgid ""
+"[Practical Extraction and Report Language, a.k.a. Pathologically Eclectic"
+" Rubbish Lister] An interpreted language developed by Larry Wall, author "
+"of :manpage:`patch(1)` and :manpage:`rn(1)`\\). Superficially resembles "
+":ref:`awk`\\, but is much hairier, including many facilities reminiscent "
+"of :manpage:`sed(1)` and shells and a comprehensive Unix system-call "
+"interface. Unix sysadmins, who are almost always incorrigible hackers, "
+"generally consider it one of the :ref:`languages-of-choice`\\, and it is "
+"by far the most widely used tool for making ‘live’ web pages via CGI. "
+"Perl has been described, in a parody of a famous remark about "
+":manpage:`lex(1)`\\, as the :ref:`Swiss-Army-chainsaw` of Unix "
+"programming. Though Perl is very useful, it would be a stretch to "
+"describe it as pretty or :ref:`elegant`\\; people who like clean, spare "
+"design generally prefer :ref:`Python`\\. See also :ref:`Camel-Book`\\, "
+":ref:`TMTOWTDI`\\."
+msgstr ""
+

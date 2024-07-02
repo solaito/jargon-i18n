@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hacked-off.rst:5
+msgid "hacked off"
+msgstr ""
+
+#: ../../H/hacked-off.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../H/hacked-off.rst:9
+msgid ""
+"[analogous to ‘pissed off’] Said of system administrators who have become"
+" annoyed, upset, or touchy owing to suspicions that their sites have been"
+" or are going to be victimized by crackers, or used for inappropriate, "
+"technically illegal, or even overtly criminal activities. For example, "
+"having unreadable files in your home directory called ‘worm’, ‘lockpick’,"
+" or ‘goroot’ would probably be an effective (as well as impressively "
+"obvious and stupid) way to get your sysadmin hacked off at you."
+msgstr ""
+
+#: ../../H/hacked-off.rst:12
+msgid ""
+"It has been pointed out that there is precedent for this usage in U.S. "
+"Navy slang, in which officers under discipline are sometimes said to be "
+"\"in hack\" and one may speak of \"hacking off the C.O. \"."
+msgstr ""
+

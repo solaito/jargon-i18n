@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/brute-force.rst:5
+msgid "brute force"
+msgstr ""
+
+#: ../../B/brute-force.rst:7
+msgid "adj\\."
+msgstr ""
+
+#: ../../B/brute-force.rst:9
+msgid ""
+"Describes a primitive programming style, one in which the programmer "
+"relies on the computer's processing power instead of using his or her own"
+" intelligence to simplify the problem, often ignoring problems of scale "
+"and applying naive methods suited to small problems directly to large "
+"ones. The term can also be used in reference to programming style: brute-"
+"force programs are written in a heavyhanded, tedious way, full of "
+"repetition and devoid of any elegance or useful abstraction (see also "
+":ref:`brute-force-and-ignorance`\\)."
+msgstr ""
+
+#: ../../B/brute-force.rst:12
+msgid ""
+"The :ref:`canonical` example of a brute-force algorithm is associated "
+"with the ‘traveling salesman problem’ (TSP), a classical :ref:`NP-`\\hard"
+" problem: Suppose a person is in, say, Boston, and wishes to drive to "
+"``N`` other cities. In what order should the cities be visited in order "
+"to minimize the distance travelled? The brute-force method is to simply "
+"generate all possible routes and compare the distances; while guaranteed "
+"to work and simple to implement, this algorithm is clearly very stupid in"
+" that it considers even obviously absurd routes (like going from Boston "
+"to Houston via San Francisco and New York, in that order). For very small"
+" ``N`` it works well, but it rapidly becomes absurdly inefficient when "
+"``N`` increases (for ``N = 15``\\, there are already 1,307,674,368,000 "
+"possible routes to consider, and for ``N = 1000`` — well, see "
+":ref:`bignum`\\). Sometimes, unfortunately, there is no better general "
+"solution than brute force. See also :ref:`NP-` and :ref:`rubber-hose-"
+"cryptanalysis`\\."
+msgstr ""
+
+#: ../../B/brute-force.rst:19
+msgid ""
+"A more simple-minded example of brute-force programming is finding the "
+"smallest number in a large list by first using an existing program to "
+"sort the list in ascending order, and then picking the first number off "
+"the front."
+msgstr ""
+
+#: ../../B/brute-force.rst:21
+msgid ""
+"Whether brute-force programming should actually be considered stupid or "
+"not depends on the context; if the problem is not terribly big, the extra"
+" CPU time spent on a brute-force solution may cost less than the "
+"programmer time it would take to develop a more ‘intelligent’ algorithm. "
+"Additionally, a more intelligent algorithm may imply more long-term "
+"complexity cost and bug-chasing than are justified by the speed "
+"improvement."
+msgstr ""
+
+#: ../../B/brute-force.rst:24
+msgid ""
+"Ken Thompson, co-inventor of Unix, is reported to have uttered the "
+"epigram \"When in doubt, use brute force\". He probably intended this as "
+"a :ref:`ha-ha-only-serious`\\, but the original Unix kernel's preference "
+"for simple, robust, and portable algorithms over :ref:`brittle` ‘smart’ "
+"ones does seem to have been a significant factor in the success of that "
+"OS. Like so many other tradeoffs in software design, the choice between "
+"brute force and complex, finely-tuned cleverness is often a difficult one"
+" that requires both engineering savvy and delicate esthetic judgment."
+msgstr ""
+

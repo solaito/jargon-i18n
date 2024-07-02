@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../P/pseudoprime.rst:5
+msgid "pseudoprime"
+msgstr ""
+
+#: ../../P/pseudoprime.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../P/pseudoprime.rst:9
+msgid ""
+"A backgammon prime (six consecutive occupied points) with one point "
+"missing. This term is an esoteric pun derived from number theory: a "
+"number that passes a certain kind of \"primality test\" may be called a "
+"pseudoprime (all primes pass any such test, but so do some composite "
+"numbers), and any number that passes several is, in some sense, almost "
+"certainly prime. The hacker backgammon usage stems from the idea that a "
+"pseudoprime is almost as good as a prime: it will do the same job unless "
+"you are unlucky."
+msgstr ""
+

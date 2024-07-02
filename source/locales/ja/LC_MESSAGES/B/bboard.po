@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../B/bboard.rst:5
+msgid "bboard"
+msgstr ""
+
+#: ../../B/bboard.rst:7
+msgid "/bee´bord/, n\\."
+msgstr ""
+
+#: ../../B/bboard.rst:9
+msgid "[contraction of ‘bulletin board’]"
+msgstr ""
+
+#: ../../B/bboard.rst:12
+msgid ""
+"Any electronic bulletin board; esp. used of :ref:`BBS` systems running on"
+" personal micros, less frequently of a Usenet :ref:`newsgroup` (in fact, "
+"use of this term for a newsgroup generally marks one either as a "
+":ref:`newbie` fresh in from the BBS world or as a real old-timer "
+"predating Usenet)."
+msgstr ""
+
+#: ../../B/bboard.rst:16
+msgid ""
+"At CMU and other colleges with similar facilities, refers to campus-wide "
+"electronic bulletin boards."
+msgstr ""
+
+#: ../../B/bboard.rst:19
+msgid ""
+"The term physical bboard is sometimes used to refer to an old-fashioned, "
+"non-electronic cork-and-thumbtack memo board. At CMU, it refers to a "
+"particular one outside the CS Lounge."
+msgstr ""
+
+#: ../../B/bboard.rst:22
+msgid ""
+"In either of senses 1 or 2, the term is usually prefixed by the name of "
+"the intended board (‘the Moonlight Casino bboard’ or ‘market bboard’); "
+"however, if the context is clear, the better-read bboards may be referred"
+" to by name alone, as in (at CMU) \"Don't post for-sale ads on general\"."
+msgstr ""
+

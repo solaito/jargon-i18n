@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Original Maintainer: Eric S. Raymond, Converted by
+# @solaito
+# This file is distributed under the same license as the jargon-sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jargon-sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../H/hack-mode.rst:5
+msgid "hack mode"
+msgstr ""
+
+#: ../../H/hack-mode.rst:7
+msgid "n\\."
+msgstr ""
+
+#: ../../H/hack-mode.rst:10
+msgid "What one is in when hacking, of course."
+msgstr ""
+
+#: ../../H/hack-mode.rst:13
+msgid ""
+"More specifically, a Zen-like state of total focus on The Problem that "
+"may be achieved when one is hacking (this is why every good hacker is "
+"part mystic). Ability to enter such concentration at will correlates "
+"strongly with wizardliness; it is one of the most important skills "
+"learned during :ref:`larval-stage`\\. Sometimes amplified as deep hack "
+"mode."
+msgstr ""
+
+#: ../../H/hack-mode.rst:17
+msgid ""
+"Being yanked out of hack mode (see :ref:`priority-interrupt`\\) may be "
+"experienced as a physical shock, and the sensation of being in hack mode "
+"is more than a little habituating. The intensity of this experience is "
+"probably by itself sufficient explanation for the existence of hackers, "
+"and explains why many resist being promoted out of positions where they "
+"can code. See also :ref:`cyberspace` (sense 3)."
+msgstr ""
+
+#: ../../H/hack-mode.rst:21
+msgid ""
+"Some aspects of hacker etiquette will appear quite odd to an observer "
+"unaware of the high value placed on hack mode. For example, if someone "
+"appears at your door, it is perfectly okay to hold up a hand (without "
+"turning one's eyes away from the screen) to avoid being interrupted. One "
+"may read, type, and interact with the computer for quite some time before"
+" further acknowledging the other's presence (of course, he or she is "
+"reciprocally free to leave without a word). The understanding is that you"
+" might be in :ref:`hack-mode` with a lot of delicate :ref:`state` (sense "
+"2) in your head, and you dare not :ref:`swap` that context out until you "
+"have reached a good point to pause. See also :ref:`juggling-eggs`\\."
+msgstr ""
+
