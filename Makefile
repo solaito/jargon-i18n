@@ -17,7 +17,7 @@ help:
 html_%:
 	@$(SPHINXBUILD) -D language="$*" -b html "$(SOURCEDIR)" "$(BUILDDIR)/html/$*" $(0) -j auto
 
-html: html_en html_ja
+html: html_en
 	@
 
 # Catch-all target: route all unknown targets to Sphinx using the new

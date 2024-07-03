@@ -10,7 +10,7 @@ phases:
       - pip install -r requirements.txt
   build:
     commands:
-      - make html -e SPHINXOPTS='-D language="ja"'
+      - make html -e SPHINXOPTS='-D language="en"'
 artifacts:
   files:
     - "**/*"
