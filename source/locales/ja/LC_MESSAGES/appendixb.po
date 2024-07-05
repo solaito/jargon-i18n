@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../appendixb.rst:7
 msgid "Table of Contents"
-msgstr ""
+msgstr "目次"
 
 #: ../../appendixb.rst:5
 msgid "A Portrait of J. Random Hacker"
