@@ -27,5 +27,5 @@ msgstr "目次"
 
 #: ../../pt01.rst:3
 msgid "Introduction"
-msgstr ""
+msgstr "はじめに"
 
