@@ -23,9 +23,9 @@ msgstr ""
 
 #: ../../construction.rst:7
 msgid "Table of Contents"
-msgstr ""
+msgstr "目次"
 
 #: ../../construction.rst:5
 msgid "Jargon Construction"
-msgstr ""
+msgstr "ジャーゴンの成り立ち"
 

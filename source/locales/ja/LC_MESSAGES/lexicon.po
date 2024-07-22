@@ -23,15 +23,16 @@ msgstr ""
 
 #: ../../lexicon.rst:22
 msgid "Table of Contents"
-msgstr ""
+msgstr "目次"
 
 #: ../../lexicon.rst:5
 msgid "The Jargon Lexicon"
-msgstr ""
+msgstr "ジャーゴン辞書"
 
 #: ../../lexicon.rst:11
 msgid "The Crunchly saga begins here."
-msgstr ""
+msgstr "Crunchlyの物語はここから始まります。"
+
 
 #: ../../lexicon.rst:13
 msgid ""

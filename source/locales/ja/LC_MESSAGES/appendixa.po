@@ -23,15 +23,15 @@ msgstr ""
 
 #: ../../appendixa.rst:7
 msgid "Table of Contents"
-msgstr ""
+msgstr "目次"
 
 #: ../../appendixa.rst:5
 msgid "Hacker Folklore"
-msgstr ""
+msgstr "ハッカーの伝承"
 
 #: ../../appendixa.rst:18
 msgid ""
 "This appendix contains several legends and fables that illuminate the "
 "meaning of various entries in the lexicon."
-msgstr ""
+msgstr "この付録には、辞書のさまざまな項目の意味を明らかにするいくつかの伝説や寓話が含まれています。"
 

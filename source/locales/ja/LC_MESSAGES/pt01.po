@@ -23,9 +23,9 @@ msgstr ""
 
 #: ../../pt01.rst:5
 msgid "Table of Contents"
-msgstr ""
+msgstr "目次"
 
 #: ../../pt01.rst:3
 msgid "Introduction"
-msgstr ""
+msgstr "はじめに"
 

@@ -23,13 +23,13 @@ msgstr ""
 
 #: ../../index.rst:9
 msgid "Table of Contents"
-msgstr ""
+msgstr "目次"
 
 #: ../../index.rst:3
 msgid "The Jargon File"
-msgstr ""
+msgstr "ジャーゴンファイル"
 
 #: ../../index.rst:7
 msgid "(version 4.4.7)"
-msgstr ""
+msgstr "(version 4.4.7) - 拙訳"
 
