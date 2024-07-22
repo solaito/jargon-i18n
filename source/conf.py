@@ -16,7 +16,10 @@ release = '0.1.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["sphinx_multitoc_numbering"]
+extensions = [
+  "sphinx_multitoc_numbering",
+  'sphinx_rtd_theme',
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -26,20 +29,15 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_book_theme'
-
-html_theme_options = {
-'collapse_navigation': True,
-'navigation_depth': 2,
-}
+html_theme = 'sphinx_rtd_theme'
 
 html_static_path = ['_static']
 
 html_context = {
-	'support_languages': {
-		'en': 'English',
-		'ja': '日本語',
-    }
+  'current_version' : "latest",
+  'versions' : [["latest", "link to latest"]],
+  'current_language': 'en',
+  'languages': [["en", "link to en"], ["ja", "link to ja"]]
 }
 
 
