@@ -37,7 +37,12 @@ html_context = {
   'current_version' : "latest",
   'versions' : [["latest", "link to latest"]],
   'current_language': 'en',
-  'languages': [["en", "link to en"], ["ja", "link to ja"]]
+  'languages': [["en", "link to en"], ["ja", "link to ja"]],
+  'display_github': True, # Integrate GitHub
+  'github_user': "solaito", # Username
+  'github_repo': "jargon-i18n", # Repo name
+  'github_version': "develop", # Version
+  'conf_py_path': "/source/", # Path in the checkout to the docs root
 }
 
 
