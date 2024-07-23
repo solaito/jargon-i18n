@@ -27,11 +27,11 @@ msgstr "目次"
 
 #: ../../pt03.rst:3
 msgid "Appendices"
-msgstr ""
+msgstr "付録"
 
 #: ../../pt03.rst:17
 msgid "Bibliography"
-msgstr ""
+msgstr "参考文献"
 
 #: ../../pt03.rst:19
 msgid ""
