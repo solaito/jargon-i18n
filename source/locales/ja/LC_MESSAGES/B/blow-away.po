@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../B/blow-away.rst:5
 msgid "blow away"
-msgstr ""
+msgstr "blow away（吹き飛ばす）"
 
 #: ../../B/blow-away.rst:7
 msgid "vt\\."
@@ -34,5 +34,4 @@ msgid ""
 "To remove (files and directories) from permanent storage, generally by "
 "accident. \"He reformatted the wrong partition and blew away last night's"
 " netnews.\" Oppose :ref:`nuke`\\."
-msgstr ""
-
+msgstr "たいていはミスで、固定記憶装置から（ファイルやディレクトリを）削除すること。「彼は間違ったパーティションを再フォーマットして、昨夜のネットニュースを吹き飛ばした」。 :ref:`nuke` と対比せよ。" 
