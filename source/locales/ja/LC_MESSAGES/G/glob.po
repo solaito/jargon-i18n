@@ -8,86 +8,91 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/glob.rst:5
 msgid "glob"
-msgstr ""
+msgstr "glob"
 
 #: ../../G/glob.rst:7
 msgid "/glob/, not, /glohb/, v\\.,n\\."
-msgstr ""
+msgstr "/glob/, ではなく, /glohb/, 動詞・名詞"
 
 #: ../../G/glob.rst:9
 msgid ""
-"[Unix; common] To expand special characters in a wildcarded name, or the "
-"act of so doing (the action is also called globbing). The Unix "
-"conventions for filename wildcarding have become sufficiently pervasive "
-"that many hackers use some of them in written English, especially in "
-"email or news on technical topics. Those commonly encountered include the"
-" following:"
+"[Unix; common] To expand special characters in a wildcarded name, or the act"
+" of so doing (the action is also called globbing). The Unix conventions for "
+"filename wildcarding have become sufficiently pervasive that many hackers "
+"use some of them in written English, especially in email or news on "
+"technical topics. Those commonly encountered include the following:"
 msgstr ""
+"[Unix; 一般的] "
+"ワイルドカードを含む名前の特殊文字を展開すること、またはそうする行為(その動作はglobbingとも呼ばれる)。ファイル名のワイルドカード化のUnixの慣習は十分に広まったため、多くのハッカーは書き言葉の英語で、特に技術的な話題に関するメールやニュースで、そのいくつかを使う。よく見かけるものには以下が含まれる。"
 
 #: ../../G/glob.rst:15
 msgid "\\*"
-msgstr ""
+msgstr "\\*"
 
 #: ../../G/glob.rst:16
 msgid "wildcard for any string (see also :ref:`UN-asterisk-X`\\)"
-msgstr ""
+msgstr "任意の文字列のワイルドカード(\\ :ref:`UN-asterisk-X`\\ も参照)"
 
 #: ../../G/glob.rst:17
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: ../../G/glob.rst:18
 msgid ""
 "wildcard for any single character (generally read this way only at the "
 "beginning or in the middle of a word)"
-msgstr ""
+msgstr "任意の1文字のワイルドカード(一般に、単語の先頭または途中でのみこのように読まれる)"
 
 #: ../../G/glob.rst:19
 msgid "[]"
-msgstr ""
+msgstr "[]"
 
 #: ../../G/glob.rst:20
 msgid "delimits a wildcard matching any of the enclosed characters"
-msgstr ""
+msgstr "囲まれた文字のいずれかにマッチするワイルドカードを区切る"
 
 #: ../../G/glob.rst:21
 msgid "{}"
-msgstr ""
+msgstr "{}"
 
 #: ../../G/glob.rst:22
 msgid ""
-"alternation of comma-separated alternatives; thus, ‘foo{baz,qux}’ would "
-"be read as ‘foobaz’ or ‘fooqux’"
-msgstr ""
+"alternation of comma-separated alternatives; thus, ‘foo{baz,qux}’ would be "
+"read as ‘foobaz’ or ‘fooqux’"
+msgstr "カンマ区切りの選択肢の択一。したがって‘foo{baz,qux}’は‘foobaz’または‘fooqux’と読まれる"
 
 #: ../../G/glob.rst:24
 msgid ""
-"Some examples: \"He said his name was [KC]arl\" (expresses ambiguity). "
-"\"I don't read talk.politics.\\*\" (any of the talk.politics subgroups on"
-" :ref:`Usenet`\\). Other examples are given under the entry for "
-":ref:`X`\\. Note that glob patterns are similar, but not identical, to "
-"those used in :ref:`regexp`\\s."
+"Some examples: \"He said his name was [KC]arl\" (expresses ambiguity). \"I "
+"don't read talk.politics.\\*\" (any of the talk.politics subgroups on "
+":ref:`Usenet`\\). Other examples are given under the entry for :ref:`X`\\. "
+"Note that glob patterns are similar, but not identical, to those used in "
+":ref:`regexp`\\s."
 msgstr ""
+"いくつかの例。「彼は自分の名前は[KC]arlだと言った」(曖昧さを表す)。「talk.politics.\\* は読まない」(\\ "
+":ref:`Usenet`\\ 上のtalk.politicsのサブグループのいずれか)。他の例は\\ :ref:`X`\\ "
+"の項目に挙げられている。globパターンは\\ :ref:`regexp`\\ で使われるものと似ているが、同一ではないことに注意。"
 
 #: ../../G/glob.rst:29
 msgid ""
-"Historical note: The jargon usage derives from :code:`glob`\\, the name "
-"of a subprogram that expanded wildcards in archaic pre-Bourne versions of"
-" the Unix shell."
+"Historical note: The jargon usage derives from :code:`glob`\\, the name of a"
+" subprogram that expanded wildcards in archaic pre-Bourne versions of the "
+"Unix shell."
 msgstr ""
-
+"歴史的な注記:このジャーゴンの用法は、Bourne以前の古いバージョンのUnixシェルでワイルドカードを展開したサブプログラムの名前である\\ "
+":code:`glob`\\ に由来する。"

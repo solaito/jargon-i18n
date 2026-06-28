@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/GIPS.rst:5
 msgid "GIPS"
-msgstr ""
+msgstr "GIPS"
 
 #: ../../G/GIPS.rst:7
 msgid "/gips/, /jips/, n\\."
-msgstr ""
+msgstr "/gips/, /jips/, 名詞"
 
 #: ../../G/GIPS.rst:9
 msgid ""
@@ -35,4 +35,6 @@ msgid ""
 "‘Gillions of Instructions per Second’; see :ref:`gillion`\\). Compare "
 ":ref:`KIPS`\\."
 msgstr ""
-
+"[\\ :ref:`MIPS`\\ との類推] Giga-Instructions per Second(毎秒ギガ命令)(‘Gillions of "
+"Instructions per Second’の可能性もある。\\ :ref:`gillion`\\ を参照)。\\ :ref:`KIPS`\\ "
+"と比較せよ。"

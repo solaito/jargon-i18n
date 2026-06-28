@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/gillion.rst:5
 msgid "gillion"
-msgstr ""
+msgstr "gillion"
 
 #: ../../G/gillion.rst:7
 msgid "/gil´y\\@n/, /jil´y\\@n/, n\\."
-msgstr ""
+msgstr "/gil´y\\@n/, /jil´y\\@n/, 名詞"
 
 #: ../../G/gillion.rst:9
 msgid ""
-"[formed from :ref:`giga-` by analogy with mega/million and tera/trillion]"
-" ``10^9``\\. Same as an American billion or a British milliard. How one "
-"pronounces this depends on whether one speaks :ref:`giga-` with a hard or"
-" soft ‘g’."
+"[formed from :ref:`giga-` by analogy with mega/million and tera/trillion] "
+"``10^9``\\. Same as an American billion or a British milliard. How one "
+"pronounces this depends on whether one speaks :ref:`giga-` with a hard or "
+"soft ‘g’."
 msgstr ""
-
+"[\\ :ref:`giga-`\\ から、mega/millionおよびtera/trillionとの類推で形成された] ``10^9``\\ "
+"。アメリカのbillionまたはイギリスのmilliardと同じ。これをどう発音するかは、\\ :ref:`giga-`\\ "
+"を硬い‘g’で言うか柔らかい‘g’で言うかによる。"

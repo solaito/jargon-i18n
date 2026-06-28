@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../H/hungus.rst:5
 msgid "hungus"
-msgstr ""
+msgstr "hungus"
 
 #: ../../H/hungus.rst:7
 msgid "/huhng´g\\@s/, adj\\."
-msgstr ""
+msgstr "/huhng´g\\@s/, 形容詞"
 
 #: ../../H/hungus.rst:9
 msgid ""
 "[perhaps related to slang ‘humongous’] Large, unwieldy, usually "
-"unmanageable. \"TCP is a hungus piece of code.\" \"This is a hungus set "
-"of modifications.\" The :ref:`Infocom` text adventure game *Beyond Zork* "
+"unmanageable. \"TCP is a hungus piece of code.\" \"This is a hungus set of "
+"modifications.\" The :ref:`Infocom` text adventure game *Beyond Zork* "
 "included two monsters called hunguses."
 msgstr ""
-
+"[おそらくスラングの‘humongous’に関連]大きく、扱いにくく、たいてい手に負えない。「TCPはhungusなコード片だ」「これはhungusな修正の集まりだ」。\\"
+" :ref:`Infocom`\\ のテキストアドベンチャーゲーム\\ *Beyond Zork*\\ "
+"には、hungusesと呼ばれる2体の怪物が登場した。"

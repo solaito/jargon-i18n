@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../H/home-page.rst:5
 msgid "home page"
-msgstr ""
+msgstr "home page"
 
 #: ../../H/home-page.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../H/home-page.rst:10
 msgid ""
@@ -35,10 +35,11 @@ msgid ""
 "perhaps a bit misleading because home directories and physical homes in "
 ":ref:`RL` are private, but home pages are designed to be very public."
 msgstr ""
+"World Wide Web上の自分の個人的な掲示板。‘home page’という用語はおそらく少し誤解を招く。なぜなら、\\ :ref:`RL`\\ "
+"におけるホームディレクトリや物理的な家はプライベートだが、home pageは非常に公的であるように設計されているからだ。"
 
 #: ../../H/home-page.rst:14
 msgid ""
 "By extension, a WWW repository for information and links related to a "
 "project or organization. Compare :ref:`home-box`\\."
-msgstr ""
-
+msgstr "拡張して、プロジェクトや組織に関連する情報やリンクのためのWWWリポジトリ。\\ :ref:`home-box`\\ と比較せよ。"

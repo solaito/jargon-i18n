@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../H/handshaking.rst:5
 msgid "handshaking"
-msgstr ""
+msgstr "handshaking"
 
 #: ../../H/handshaking.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../H/handshaking.rst:9
 msgid ""
-"[very common] Hardware or software activity designed to start or keep two"
-" machines or programs in synchronization as they :ref:`do-protocol`\\. "
-"Often applied to human activity; thus, a hacker might watch two people in"
-" conversation nodding their heads to indicate that they have heard each "
+"[very common] Hardware or software activity designed to start or keep two "
+"machines or programs in synchronization as they :ref:`do-protocol`\\. Often "
+"applied to human activity; thus, a hacker might watch two people in "
+"conversation nodding their heads to indicate that they have heard each "
 "others' points and say \"Oh, they're handshaking!\". See also "
 ":ref:`protocol`\\."
 msgstr ""
-
+"[非常に一般的]2つの機械やプログラムが\\ :ref:`do-protocol`\\ "
+"する際に、それらを同期させ始める、または同期を保つように設計されたハードウェアまたはソフトウェアの活動。しばしば人間の活動にも適用される。ゆえにハッカーは、会話中の二人が互いの要点を聞いたことを示すために頷き合っているのを見て「ああ、彼らはhandshakingしている!」と言うかもしれない。\\"
+" :ref:`protocol`\\ も参照。"

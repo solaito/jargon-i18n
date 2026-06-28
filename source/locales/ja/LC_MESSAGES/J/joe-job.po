@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../J/joe-job.rst:5
 msgid "joe-job"
-msgstr ""
+msgstr "joe-job"
 
 #: ../../J/joe-job.rst:7
 msgid "n\\., vt\\."
-msgstr ""
+msgstr "名詞・他動詞"
 
 #: ../../J/joe-job.rst:9
 msgid ""
-"A spam run forged to appear as though it came from an innocent party, who"
-" is then generally flooded by the bounces; or, the act of performing such"
-" a run. The original incident is described `here "
+"A spam run forged to appear as though it came from an innocent party, who is"
+" then generally flooded by the bounces; or, the act of performing such a "
+"run. The original incident is described `here "
 "<http://www.everything2.com/index.pl?node=Joe%20Job>`_."
 msgstr ""
-
+"無実の第三者から来たかのように偽装されたspam送信で、その第三者はその後一般にバウンスメールの洪水に見舞われる。あるいは、そのような送信を行う行為。元の事件は"
+" `here <http://www.everything2.com/index.pl?node=Joe%20Job>`_ で説明されている。"

@@ -8,37 +8,38 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/gronked.rst:5
 msgid "gronked"
-msgstr ""
+msgstr "gronked"
 
 #: ../../G/gronked.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../G/gronked.rst:10
 msgid "Broken. \"The teletype scanner was gronked, so we took the system down.\""
-msgstr ""
+msgstr "壊れた。「テレタイプスキャナがgronkedだったので、システムを止めた。」"
 
 #: ../../G/gronked.rst:14
 msgid ""
 "Of people, the condition of feeling very tired or (less commonly) sick. "
-"\"I've been chasing that bug for 17 hours now and I am thoroughly "
-"gronked!\" Compare :ref:`broken`\\, which means about the same as "
-":ref:`gronk` used of hardware, but connotes depression or "
-"mental/emotional problems in people."
+"\"I've been chasing that bug for 17 hours now and I am thoroughly gronked!\""
+" Compare :ref:`broken`\\, which means about the same as :ref:`gronk` used of"
+" hardware, but connotes depression or mental/emotional problems in people."
 msgstr ""
-
+"人について、非常に疲れた、あるいは(あまり一般的ではないが)具合の悪い状態。「もう17時間あのバグを追いかけていて、すっかりgronkedだ!」\\ "
+":ref:`broken`\\ と比較せよ。これはハードウェアについて使われる\\ :ref:`gronk`\\ "
+"とほぼ同じ意味だが、人については憂鬱や精神的・感情的な問題を含意する。"

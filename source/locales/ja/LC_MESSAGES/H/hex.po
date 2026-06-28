@@ -8,38 +8,39 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../H/hex.rst:5
 msgid "hex"
-msgstr ""
+msgstr "hex"
 
 #: ../../H/hex.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../H/hex.rst:10
 msgid "Short for :ref:`hexadecimal`\\, base 16."
-msgstr ""
+msgstr "\\ :ref:`hexadecimal`\\ (16進)の略。"
 
 #: ../../H/hex.rst:13
 msgid ""
 "A 6-pack of anything (compare :ref:`quad`\\, sense 2). Neither usage has "
-"anything to do with :ref:`magic` or :ref:`black-art`\\, though the pun is"
-" appreciated and occasionally used by hackers. True story: As a joke, "
-"some hackers once offered some surplus ICs for sale to be worn as "
-"protective amulets against hostile magic. The chips were, of course, hex "
-"inverters."
+"anything to do with :ref:`magic` or :ref:`black-art`\\, though the pun is "
+"appreciated and occasionally used by hackers. True story: As a joke, some "
+"hackers once offered some surplus ICs for sale to be worn as protective "
+"amulets against hostile magic. The chips were, of course, hex inverters."
 msgstr ""
-
+"何かの6個入りパック(\\ :ref:`quad`\\ 語義2と比較せよ)。どちらの用法も\\ :ref:`magic`\\ や\\ "
+":ref:`black-art`\\ "
+"とは何の関係もないが、そのだじゃれは喜ばれ、ハッカーによって時折使われる。実話:冗談として、あるハッカーたちがかつて、敵対的な魔法に対する保護の護符として身につけるための余剰ICを売りに出した。そのチップはもちろんhexインバータ(六回路インバータ)だった。"

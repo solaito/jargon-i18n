@@ -8,28 +8,30 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../J/jibble.rst:5
 msgid "jibble"
-msgstr ""
+msgstr "jibble"
 
 #: ../../J/jibble.rst:7
 msgid ""
-"[UK] Unspecified stuff. An unspecified action. A deliberately blank word;"
-" compare :ref:`gorets`\\. A deliberate experiment in tracking the spread "
-"of a near-meaningless word. See `http://www.jibble.org/jibblemeaning.php "
+"[UK] Unspecified stuff. An unspecified action. A deliberately blank word; "
+"compare :ref:`gorets`\\. A deliberate experiment in tracking the spread of a"
+" near-meaningless word. See `http://www.jibble.org/jibblemeaning.php "
 "<http://www.jibble.org/jibblemeaning.php>`_."
 msgstr ""
-
+"[英国] 何だか分からないもの。何だか分からない行為。意図的に空白にされた語。\\ :ref:`gorets`\\ "
+"と比較せよ。ほとんど無意味な語の広まり方を追跡する意図的な実験。\\ `http://www.jibble.org/jibblemeaning.php "
+"<http://www.jibble.org/jibblemeaning.php>`_ を参照。"

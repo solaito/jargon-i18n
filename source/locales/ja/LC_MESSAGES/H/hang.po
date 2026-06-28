@@ -8,46 +8,51 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../H/hang.rst:5
 msgid "hang"
-msgstr ""
+msgstr "hang"
 
 #: ../../H/hang.rst:7
 msgid "v\\."
-msgstr ""
+msgstr "動詞"
 
 #: ../../H/hang.rst:10
 msgid ""
-"[very common] To wait for an event that will never occur. \"The system is"
-" hanging because it can't read from the crashed drive\". See "
-":ref:`wedged`\\, :ref:`hung`\\."
+"[very common] To wait for an event that will never occur. \"The system is "
+"hanging because it can't read from the crashed drive\". See :ref:`wedged`\\,"
+" :ref:`hung`\\."
 msgstr ""
+"[非常に一般的]決して起こらないイベントを待つこと。「クラッシュしたドライブから読めないのでシステムがhangしている」。\\ "
+":ref:`wedged`\\ 、\\ :ref:`hung`\\ を参照。"
 
 #: ../../H/hang.rst:15
 msgid ""
 "To wait for some event to occur; to hang around until something happens. "
-"\"The program displays a menu and then hangs until you type a "
-"character.\" Compare :ref:`block`\\."
+"\"The program displays a menu and then hangs until you type a character.\" "
+"Compare :ref:`block`\\."
 msgstr ""
+"何らかのイベントが起こるのを待つこと。何かが起こるまでぶらぶらすること。「プログラムはメニューを表示し、それから文字をタイプするまでhangする」。\\"
+" :ref:`block`\\ と比較せよ。"
 
 #: ../../H/hang.rst:20
 msgid ""
-"To attach a peripheral device, esp. in the construction ‘hang off’: "
-"\"We're going to hang another tape drive off the file server.\" Implies a"
-" device attached with cables, rather than something that is strictly "
-"inside the machine's chassis."
+"To attach a peripheral device, esp. in the construction ‘hang off’: \"We're "
+"going to hang another tape drive off the file server.\" Implies a device "
+"attached with cables, rather than something that is strictly inside the "
+"machine's chassis."
 msgstr ""
-
+"周辺機器を接続すること。特に‘hang "
+"off’という構文で。「ファイルサーバーにもう一台テープドライブをhangするつもりだ」。機械のシャーシの中に厳密に収まる何かではなく、ケーブルで接続される機器を含意する。"

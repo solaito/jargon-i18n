@@ -8,57 +8,60 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/gas.rst:5
 msgid "gas"
-msgstr ""
+msgstr "gas"
 
 #: ../../G/gas.rst:7
 msgid "[as in ‘gas chamber’]"
-msgstr ""
+msgstr "[‘ガス室(gas chamber)’のように]"
 
 #: ../../G/gas.rst:9
 msgid ""
-"interj. A term of disgust and hatred, implying that gas should be "
-"dispensed in generous quantities, thereby exterminating the source of "
-"irritation. \"Some loser just reloaded the system for no reason! Gas!\""
+"interj. A term of disgust and hatred, implying that gas should be dispensed "
+"in generous quantities, thereby exterminating the source of irritation. "
+"\"Some loser just reloaded the system for no reason! Gas!\""
 msgstr ""
+"間投詞 "
+"嫌悪と憎悪の言葉。ガスをふんだんに撒き、それによって苛立ちの元を絶滅させるべきだという含意がある。「どこかの間抜けが理由もなくシステムをリロードした!Gas!」"
 
 #: ../../G/gas.rst:14
 msgid ""
-"interj. A suggestion that someone or something ought to be flushed out of"
-" mercy. \"The system's getting :ref:`wedged` every few minutes. Gas!\""
-msgstr ""
+"interj. A suggestion that someone or something ought to be flushed out of "
+"mercy. \"The system's getting :ref:`wedged` every few minutes. Gas!\""
+msgstr "間投詞 誰かまたは何かを慈悲で流し去るべきだという提案。「システムが数分ごとに\\ :ref:`wedged`\\ になる。Gas!」"
 
 #: ../../G/gas.rst:19
 msgid ""
 "vt\\. To :ref:`flush` (sense 1). \"You should gas that old crufty "
 "software.\""
-msgstr ""
+msgstr "他動詞 \\ :ref:`flush`\\ する(語義1)。「あの古びたソフトウェアはgasすべきだ。」"
 
 #: ../../G/gas.rst:24
 msgid ""
-"[IBM] n. Dead space in nonsequentially organized files that was occupied "
-"by data that has since been deleted; the compression operation that "
-"removes it is called degassing (by analogy, perhaps, with the use of the "
-"same term in vacuum technology)."
+"[IBM] n. Dead space in nonsequentially organized files that was occupied by "
+"data that has since been deleted; the compression operation that removes it "
+"is called degassing (by analogy, perhaps, with the use of the same term in "
+"vacuum technology)."
 msgstr ""
+"[IBM] 名詞 "
+"非逐次的に構成されたファイル内の、すでに削除されたデータが占めていた空き領域。これを取り除く圧縮操作はdegassing(脱ガス)と呼ばれる(おそらく、真空技術における同じ用語の使い方との類推による)。"
 
 #: ../../G/gas.rst:27
 msgid ""
-"[IBM] n. Empty space on a disk that has been clandestinely allocated "
-"against future need."
-msgstr ""
-
+"[IBM] n. Empty space on a disk that has been clandestinely allocated against"
+" future need."
+msgstr "[IBM] 名詞 将来の必要に備えてこっそり割り当てられた、ディスク上の空き領域。"
