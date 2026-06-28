@@ -8,35 +8,38 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../J/jack-in.rst:5
 msgid "jack in"
-msgstr ""
+msgstr "jack in"
 
 #: ../../J/jack-in.rst:7
 msgid "v\\."
-msgstr ""
+msgstr "動詞"
 
 #: ../../J/jack-in.rst:9
 msgid ""
 "To log on to a machine or connect to a network or :ref:`BBS`\\, esp. for "
 "purposes of entering a :ref:`virtual-reality` simulation such as a "
 ":ref:`MUD` or :ref:`IRC` (leaving is \"jacking out\"). This term derives "
-"from :ref:`cyberpunk` SF, in which it was used for the act of plugging an"
-" electrode set into neural sockets in order to interface the brain "
-"directly to a virtual reality. It is primarily used by MUD and IRC fans "
-"and younger hackers on BBS systems."
+"from :ref:`cyberpunk` SF, in which it was used for the act of plugging an "
+"electrode set into neural sockets in order to interface the brain directly "
+"to a virtual reality. It is primarily used by MUD and IRC fans and younger "
+"hackers on BBS systems."
 msgstr ""
-
+"マシンにログオンする、あるいはネットワークや\\ :ref:`BBS`\\ に接続すること。特に\\ :ref:`MUD`\\ や\\ "
+":ref:`IRC`\\ のような\\ :ref:`virtual-reality`\\ シミュレーションに入る目的で行う(離れることは「jacking"
+" out」)。この語は\\ :ref:`cyberpunk`\\ "
+"SFに由来し、そこでは脳を直接バーチャルリアリティにインターフェースさせるために、電極セットを神経ソケットに差し込む行為を指して使われた。主にMUDやIRCのファン、そしてBBSシステム上の若いハッカーによって使われる。"

@@ -8,49 +8,50 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../H/heartbeat.rst:5
 msgid "heartbeat"
-msgstr ""
+msgstr "heartbeat"
 
 #: ../../H/heartbeat.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../H/heartbeat.rst:10
 msgid ""
 "The signal emitted by a Level 2 Ethernet transceiver at the end of every "
 "packet to show that the collision-detection circuit is still connected."
-msgstr ""
+msgstr "Level 2 Ethernetトランシーバが、衝突検出回路がまだ接続されていることを示すために、すべてのパケットの終わりに発する信号。"
 
 #: ../../H/heartbeat.rst:13
 msgid ""
-"A periodic synchronization signal used by software or hardware, such as a"
-" bus clock or a periodic interrupt."
-msgstr ""
+"A periodic synchronization signal used by software or hardware, such as a "
+"bus clock or a periodic interrupt."
+msgstr "バスクロックや周期的割り込みのような、ソフトウェアまたはハードウェアによって使われる周期的な同期信号。"
 
 #: ../../H/heartbeat.rst:16
 msgid ""
-"The ‘natural’ oscillation frequency of a computer's clock crystal, before"
-" frequency division down to the machine's clock rate."
-msgstr ""
+"The ‘natural’ oscillation frequency of a computer's clock crystal, before "
+"frequency division down to the machine's clock rate."
+msgstr "機械のクロックレートへの分周前の、コンピュータのクロック水晶の‘自然な’発振周波数。"
 
 #: ../../H/heartbeat.rst:19
 msgid ""
-"A signal emitted at regular intervals by software to demonstrate that it "
-"is still alive. Sometimes hardware is designed to reboot the machine if "
-"it stops hearing a heartbeat. See also :ref:`breath-of-life-packet`\\."
+"A signal emitted at regular intervals by software to demonstrate that it is "
+"still alive. Sometimes hardware is designed to reboot the machine if it "
+"stops hearing a heartbeat. See also :ref:`breath-of-life-packet`\\."
 msgstr ""
-
+"ソフトウェアがまだ生きていることを示すために定期的な間隔で発する信号。心拍が聞こえなくなったら機械を再起動するようにハードウェアが設計されていることもある。\\"
+" :ref:`breath-of-life-packet`\\ も参照。"

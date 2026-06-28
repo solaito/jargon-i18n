@@ -8,31 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../H/hacking-run.rst:5
 msgid "hacking run"
-msgstr ""
+msgstr "hacking run"
 
 #: ../../H/hacking-run.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../H/hacking-run.rst:9
 msgid ""
 "[analogy with ‘bombing run’ or ‘speed run’] A hack session extended long "
-"outside normal working times, especially one longer than 12 hours. May "
-"cause you to change phase the hard way (see :ref:`phase`\\)."
+"outside normal working times, especially one longer than 12 hours. May cause"
+" you to change phase the hard way (see :ref:`phase`\\)."
 msgstr ""
-
+"[‘bombing run’や‘speed "
+"run’との類推]通常の作業時間外に長く延長されたハックセッション、特に12時間を超えるもの。あなたの位相を大変な仕方で変えてしまうかもしれない(\\ "
+":ref:`phase`\\ を参照)。"

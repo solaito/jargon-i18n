@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../K/KISS-Principle.rst:5
 msgid "KISS Principle"
-msgstr ""
+msgstr "KISS Principle"
 
 #: ../../K/KISS-Principle.rst:7
 msgid "/kis´ prin´si·pl/, n\\."
-msgstr ""
+msgstr "/kis´ prin´si·pl/, 名詞"
 
 #: ../../K/KISS-Principle.rst:9
 msgid ""
-"\"Keep It Simple, Stupid\". A maxim often invoked when discussing design "
-"to fend off :ref:`creeping-featurism` and control development complexity."
-" Possibly related to the :ref:`marketroid` maxim on sales presentations, "
+"\"Keep It Simple, Stupid\". A maxim often invoked when discussing design to "
+"fend off :ref:`creeping-featurism` and control development complexity. "
+"Possibly related to the :ref:`marketroid` maxim on sales presentations, "
 "\"Keep It Short and Simple\"."
 msgstr ""
-
+"\"Keep It Simple, Stupid\"(簡潔にしておけ、馬鹿者)。\\ :ref:`creeping-featurism`\\ "
+"を防ぎ、開発の複雑さを抑えるために、設計を論じる際にしばしば持ち出される格言。セールスプレゼンに関する\\ :ref:`marketroid`\\ "
+"の格言\"Keep It Short and Simple\"(短く簡潔にせよ)と関連があるかもしれない。"

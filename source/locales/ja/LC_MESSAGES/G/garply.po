@@ -8,30 +8,29 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/garply.rst:5
 msgid "garply"
-msgstr ""
+msgstr "garply"
 
 #: ../../G/garply.rst:7
 msgid "/gar´plee/, n\\."
-msgstr ""
+msgstr "/gar´plee/, 名詞"
 
 #: ../../G/garply.rst:9
 msgid ""
-"[Stanford] Another metasyntactic variable (see :ref:`foo`\\); once "
-"popular among SAIL hackers."
-msgstr ""
-
+"[Stanford] Another metasyntactic variable (see :ref:`foo`\\); once popular "
+"among SAIL hackers."
+msgstr "[Stanford] もう一つのメタ構文変数(\\ :ref:`foo`\\ を参照)。かつてSAILのハッカーの間で人気があった。"

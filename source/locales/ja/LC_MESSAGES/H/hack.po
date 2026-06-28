@@ -8,85 +8,95 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../H/hack.rst:5
 msgid "hack"
-msgstr ""
+msgstr "hack"
 
 #: ../../H/hack.rst:7
 msgid "[very common]"
-msgstr ""
+msgstr "[非常に一般的]"
 
 #: ../../H/hack.rst:9
 msgid "n\\. Originally, a quick job that produces what is needed, but not well."
-msgstr ""
+msgstr "名詞 元来は、必要なものを生み出すが、出来は良くない手早い仕事。"
 
 #: ../../H/hack.rst:12
 msgid ""
-"n\\. An incredibly good, and perhaps very time-consuming, piece of work "
-"that produces exactly what is needed."
-msgstr ""
+"n\\. An incredibly good, and perhaps very time-consuming, piece of work that"
+" produces exactly what is needed."
+msgstr "名詞 信じられないほど良く、おそらく非常に時間のかかる、必要とされるものをまさに生み出す仕事。"
 
 #: ../../H/hack.rst:15
 msgid "vt\\. To bear emotionally or physically. \"I can't hack this heat!\""
-msgstr ""
+msgstr "他動詞 感情的または肉体的に耐えること。「この暑さには耐えられない!」"
 
 #: ../../H/hack.rst:19
 msgid ""
 "vt\\. To work on something (typically a program). In an immediate sense: "
-"\"What are you doing?\" \"I'm hacking TECO.\" In a general (time-"
-"extended) sense: \"What do you do around here?\" \"I hack TECO.\" More "
-"generally, \"I hack foo\" is roughly equivalent to \"foo is my major "
-"interest (or project)\". \"I hack solid-state physics.\" See "
-":ref:`Hacking-X-for-Y`\\."
+"\"What are you doing?\" \"I'm hacking TECO.\" In a general (time-extended) "
+"sense: \"What do you do around here?\" \"I hack TECO.\" More generally, \"I "
+"hack foo\" is roughly equivalent to \"foo is my major interest (or "
+"project)\". \"I hack solid-state physics.\" See :ref:`Hacking-X-for-Y`\\."
 msgstr ""
+"他動詞 "
+"何か(通常はプログラム)に取り組むこと。直接的な意味で「何をしてるの?」「TECOをハックしてる」。一般的な(時間的に拡張された)意味で「ここらで何をしてるの?」「TECOをハックしてる」。より一般的に「I"
+" hack foo」はおおよそ「fooが私の主な関心事(またはプロジェクト)だ」に等しい。「I hack solid-state "
+"physics(固体物理をハックしてる)」。\\ :ref:`Hacking-X-for-Y`\\ を参照。"
 
 #: ../../H/hack.rst:29
 msgid "vt\\. To pull a prank on. See sense 2 and :ref:`hacker` (sense 5)."
-msgstr ""
+msgstr "他動詞 いたずらを仕掛けること。語義2と\\ :ref:`hacker`\\ (語義5)を参照。"
 
 #: ../../H/hack.rst:33
 msgid ""
-"vi\\. To interact with a computer in a playful and exploratory rather "
-"than goal-directed way. \"Whatcha up to?\" \"Oh, just hacking.\""
-msgstr ""
+"vi\\. To interact with a computer in a playful and exploratory rather than "
+"goal-directed way. \"Whatcha up to?\" \"Oh, just hacking.\""
+msgstr "自動詞 目標指向ではなく、遊び心と探求心をもってコンピュータと対話すること。「何してるの?」「ああ、ただハックしてるだけ」。"
 
 #: ../../H/hack.rst:38
 msgid "n\\. Short for :ref:`hacker`\\."
-msgstr ""
+msgstr "名詞 \\ :ref:`hacker`\\ の略。"
 
 #: ../../H/hack.rst:42
 msgid "See :ref:`nethack`\\."
-msgstr ""
+msgstr "\\ :ref:`nethack`\\ を参照。"
 
 #: ../../H/hack.rst:45
 msgid ""
 "[MIT] v. To explore the basements, roof ledges, and steam tunnels of a "
-"large, institutional building, to the dismay of Physical Plant workers "
-"and (since this is usually performed at educational institutions) the "
-"Campus Police. This activity has been found to be eerily similar to "
-"playing adventure games such as Dungeons and Dragons and :ref:`Zork`\\. "
-"See also :ref:`vadding`\\."
+"large, institutional building, to the dismay of Physical Plant workers and "
+"(since this is usually performed at educational institutions) the Campus "
+"Police. This activity has been found to be eerily similar to playing "
+"adventure games such as Dungeons and Dragons and :ref:`Zork`\\. See also "
+":ref:`vadding`\\."
 msgstr ""
+"[MIT]動詞 "
+"大きな施設建物の地下室、屋根の縁、蒸気トンネルを探検すること。設備管理作業員や(これは通常教育機関で行われるので)キャンパス警察を狼狽させながら。この活動は、Dungeons"
+" and Dragonsや\\ :ref:`Zork`\\ のようなアドベンチャーゲームをプレイするのと不気味なほど似ていることが判明している。\\ "
+":ref:`vadding`\\ も参照。"
 
 #: ../../H/hack.rst:49
 msgid ""
-"Constructions on this term abound. They include happy hacking (a "
-"farewell), how's hacking? (a friendly greeting among hackers) and hack, "
-"hack (a fairly content-free but friendly comment, often used as a "
-"temporary farewell). For more on this totipotent term see * The Meaning "
-"of Hack*\\. See also :ref:`neat-hack`\\, :ref:`real-hack`\\."
+"Constructions on this term abound. They include happy hacking (a farewell), "
+"how's hacking? (a friendly greeting among hackers) and hack, hack (a fairly "
+"content-free but friendly comment, often used as a temporary farewell). For "
+"more on this totipotent term see * The Meaning of Hack*\\. See also "
+":ref:`neat-hack`\\, :ref:`real-hack`\\."
 msgstr ""
-
+"この用語の上に作られた言い回しは数多い。それらにはhappy hacking(別れの挨拶)、how's "
+"hacking?(ハッカー間の親しげな挨拶)、hack, "
+"hack(かなり内容のない、だが親しげなコメント。一時的な別れの挨拶としてよく使われる)が含まれる。この万能の用語についてさらに知るには\\ *The "
+"Meaning of Hack*\\ を参照。\\ :ref:`neat-hack`\\ 、\\ :ref:`real-hack`\\ も参照。"

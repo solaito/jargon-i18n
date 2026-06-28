@@ -8,43 +8,44 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../H/hamster.rst:5
 msgid "hamster"
-msgstr ""
+msgstr "hamster"
 
 #: ../../H/hamster.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../H/hamster.rst:10
 msgid ""
-"[Fairchild] A particularly slick little piece of code that does one thing"
-" well; a small, self-contained hack. The image is of a hamster "
-":ref:`happily` spinning its exercise wheel."
+"[Fairchild] A particularly slick little piece of code that does one thing "
+"well; a small, self-contained hack. The image is of a hamster :ref:`happily`"
+" spinning its exercise wheel."
 msgstr ""
+"[Fairchild]一つのことをうまくこなす、特に巧妙な小さなコード片。小さく自己完結したハック。イメージとしては、ハムスターが\\ "
+":ref:`happily`\\ 回し車を回しているところである。"
 
 #: ../../H/hamster.rst:14
 msgid ""
-"A tailless mouse; that is, one with an infrared link to a receiver on the"
-" machine, as opposed to the conventional cable."
-msgstr ""
+"A tailless mouse; that is, one with an infrared link to a receiver on the "
+"machine, as opposed to the conventional cable."
+msgstr "尾のないマウス。すなわち、従来のケーブルとは対照的に、機械上の受信機への赤外線リンクを持つもの。"
 
 #: ../../H/hamster.rst:17
 msgid ""
-"[UK] Any item of hardware made by Amstrad, a company famous for its cheap"
-" plastic PC-almost-compatibles."
-msgstr ""
-
+"[UK] Any item of hardware made by Amstrad, a company famous for its cheap "
+"plastic PC-almost-compatibles."
+msgstr "[英国]Amstrad(安価なプラスチック製のPCもどき互換機で有名な会社)製のあらゆるハードウェア。"

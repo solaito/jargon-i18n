@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../I/iron.rst:5
 msgid "iron"
-msgstr ""
+msgstr "iron"
 
 #: ../../I/iron.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../I/iron.rst:9
 msgid ""
 "Hardware, especially older and larger hardware of :ref:`mainframe` class "
-"with big metal cabinets housing relatively low-density electronics (but "
-"the term is also used of modern supercomputers). Often in the phrase :ref"
-":`big-iron`\\. Oppose :ref:`silicon`\\. See also :ref:`dinosaur`\\."
+"with big metal cabinets housing relatively low-density electronics (but the "
+"term is also used of modern supercomputers). Often in the phrase :ref:`big-"
+"iron`\\. Oppose :ref:`silicon`\\. See also :ref:`dinosaur`\\."
 msgstr ""
-
+"ハードウェア。特に、比較的低密度の電子機器を収めた大きな金属製キャビネットを持つ\\ :ref:`mainframe`\\ "
+"クラスの、より古く大きなハードウェア(ただしこの用語は現代のスーパーコンピュータについても使われる)。しばしば\\ :ref:`big-iron`\\ "
+"という句で使われる。\\ :ref:`silicon`\\ の対義語。\\ :ref:`dinosaur`\\ も参照。"

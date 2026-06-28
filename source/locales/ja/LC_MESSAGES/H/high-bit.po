@@ -8,40 +8,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../H/high-bit.rst:5
 msgid "high bit"
-msgstr ""
+msgstr "high bit"
 
 #: ../../H/high-bit.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../H/high-bit.rst:9
 msgid "[from high-order bit]"
-msgstr ""
+msgstr "[high-order bitより]"
 
 #: ../../H/high-bit.rst:12
 msgid "The most significant bit in a byte."
-msgstr ""
+msgstr "バイト中の最上位ビット。"
 
 #: ../../H/high-bit.rst:15
 msgid ""
-"[common] By extension, the most significant part of something other than "
-"a data byte: \"Spare me the whole :ref:`saga`\\, just give me the high "
-"bit.\" See also :ref:`meta-bit`\\, :ref:`dread-high-bit-disease`\\, and "
-"compare the mainstream slang bottom line."
+"[common] By extension, the most significant part of something other than a "
+"data byte: \"Spare me the whole :ref:`saga`\\, just give me the high bit.\" "
+"See also :ref:`meta-bit`\\, :ref:`dread-high-bit-disease`\\, and compare the"
+" mainstream slang bottom line."
 msgstr ""
-
+"[一般的]拡張して、データバイト以外の何かの最も重要な部分。「全部の\\ :ref:`saga`\\ は勘弁してくれ、high bitだけくれ」。\\ "
+":ref:`meta-bit`\\ 、\\ :ref:`dread-high-bit-disease`\\ も参照。また主流スラングのbottom "
+"lineと比較せよ。"

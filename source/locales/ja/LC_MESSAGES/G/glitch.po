@@ -8,73 +8,82 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/glitch.rst:5
 msgid "glitch"
-msgstr ""
+msgstr "glitch"
 
 #: ../../G/glitch.rst:7
 msgid "/glich/"
-msgstr ""
+msgstr "/glich/"
 
 #: ../../G/glitch.rst:9
 msgid ""
-"[very common; from German ‘glitschig’ slippery, via Yiddish ‘glitshen’, "
-"to slide or skid]"
-msgstr ""
+"[very common; from German ‘glitschig’ slippery, via Yiddish ‘glitshen’, to "
+"slide or skid]"
+msgstr "[非常に一般的。ドイツ語‘glitschig’(滑りやすい)から、イディッシュ語‘glitshen’(滑る、スリップする)を経由して]"
 
 #: ../../G/glitch.rst:11
 msgid ""
 "n\\. A sudden interruption in electric service, sanity, continuity, or "
-"program function. Sometimes recoverable. An interruption in electric "
-"service is specifically called a power glitch (also :ref:`power-hit`\\), "
-"of grave concern because it usually crashes all the computers. In jargon,"
-" though, a hacker who got to the middle of a sentence and then forgot how"
-" he or she intended to complete it might say, \"Sorry, I just glitched\"."
+"program function. Sometimes recoverable. An interruption in electric service"
+" is specifically called a power glitch (also :ref:`power-hit`\\), of grave "
+"concern because it usually crashes all the computers. In jargon, though, a "
+"hacker who got to the middle of a sentence and then forgot how he or she "
+"intended to complete it might say, \"Sorry, I just glitched\"."
 msgstr ""
+"名詞 電気サービス、正気、連続性、あるいはプログラムの機能における突然の中断。回復可能なこともある。電気サービスの中断は特にpower "
+"glitch(\\ :ref:`power-hit`\\ "
+"とも)と呼ばれ、たいていすべてのコンピュータをクラッシュさせるので重大な懸念事項である。だがジャーゴンでは、文の途中まで来てそれをどう終えるつもりだったか忘れたハッカーが「すまん、ちょっとglitchした」と言うかもしれない。"
 
 #: ../../G/glitch.rst:17
 msgid "vi\\. To commit a glitch. See :ref:`gritch`\\."
-msgstr ""
+msgstr "自動詞 glitchを犯すこと。\\ :ref:`gritch`\\ を参照。"
 
 #: ../../G/glitch.rst:21
 msgid ""
-"vt\\. [Stanford] To scroll a display screen, esp. several lines at a "
-"time. :ref:`WAITS` terminals used to do this in order to avoid continuous"
-" scrolling, which is distracting to the eye."
+"vt\\. [Stanford] To scroll a display screen, esp. several lines at a time. "
+":ref:`WAITS` terminals used to do this in order to avoid continuous "
+"scrolling, which is distracting to the eye."
 msgstr ""
+"他動詞 [Stanford] 表示画面を、特に一度に数行スクロールすること。\\ :ref:`WAITS`\\ "
+"端末は、目に煩わしい連続スクロールを避けるためにこれを行っていた。"
 
 #: ../../G/glitch.rst:26
 msgid "obs. Same as :ref:`magic-cookie`\\, sense 2."
-msgstr ""
+msgstr "廃語 \\ :ref:`magic-cookie`\\ の語義2と同じ。"
 
 #: ../../G/glitch.rst:29
 msgid ""
-"All these uses of glitch derive from the specific technical meaning the "
-"term has in the electronic hardware world, where it is now techspeak. A "
-"glitch can occur when the inputs of a circuit change, and the outputs "
-"change to some :ref:`random` value for some very brief time before they "
-"settle down to the correct value. If another circuit inspects the output "
-"at just the wrong time, reading the random value, the results can be very"
-" wrong and very hard to debug (a glitch is one of many causes of "
-"electronic :ref:`heisenbug`\\s)."
+"All these uses of glitch derive from the specific technical meaning the term"
+" has in the electronic hardware world, where it is now techspeak. A glitch "
+"can occur when the inputs of a circuit change, and the outputs change to "
+"some :ref:`random` value for some very brief time before they settle down to"
+" the correct value. If another circuit inspects the output at just the wrong"
+" time, reading the random value, the results can be very wrong and very hard"
+" to debug (a glitch is one of many causes of electronic "
+":ref:`heisenbug`\\s)."
 msgstr ""
+"glitchのこれらすべての用法は、この用語が電子ハードウェアの世界で持つ特定の技術的意味に由来する。そこでは今やテックスピークである。glitchは、回路の入力が変化し、出力が正しい値に落ち着くまでのごく短い間、何らかの\\"
+" :ref:`random`\\ "
+"な値に変化するときに起こりうる。もし別の回路がちょうど悪いタイミングで出力を検査し、そのランダムな値を読むと、結果は非常に誤ったものになり、デバッグが非常に困難になりうる(glitchは電子的\\"
+" :ref:`heisenbug`\\ の多くの原因の一つである)。"
 
 #: ../../G/glitch.rst:37
 msgid "Coping with a hydraulic  :ref:`glitch`\\."
-msgstr ""
+msgstr "油圧の\\ :ref:`glitch`\\ に対処する。"
 
 #: ../../G/glitch.rst:39
 msgid ""
@@ -82,4 +91,5 @@ msgid ""
 ":ref:`73-07-24<crunchly73-07-24>`\\. The previous one is         "
 ":ref:`73-05-28<crunchly73-05-28>`\\.)"
 msgstr ""
-
+"(Crunchlyサーガの次の漫画は\\ :ref:`73-07-24<crunchly73-07-24>`\\ 。前のものは\\ "
+":ref:`73-05-28<crunchly73-05-28>`\\ 。)"

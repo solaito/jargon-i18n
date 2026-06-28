@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/gubbish.rst:5
 msgid "gubbish"
-msgstr ""
+msgstr "gubbish"
 
 #: ../../G/gubbish.rst:7
 msgid "/guhb'\\@sh/, n\\."
-msgstr ""
+msgstr "/guhb'\\@sh/, 名詞"
 
 #: ../../G/gubbish.rst:9
 msgid ""
 "[a portmanteau of ‘garbage’ and ‘rubbish’; may have originated with SF "
 "author Philip K. Dick] Garbage; crap; nonsense. \"What is all this "
-"gubbish?\" The opposite portmanteau ‘rubbage’ is also reported; in fact, "
-"it was British slang during the 19th century and appears in Dickens."
+"gubbish?\" The opposite portmanteau ‘rubbage’ is also reported; in fact, it "
+"was British slang during the 19th century and appears in Dickens."
 msgstr ""
-
+"[‘garbage’と‘rubbish’のかばん語。SF作家Philip K. Dickに由来するかもしれない] "
+"ゴミ、くだらないもの、ナンセンス。「このgubbishは全部何だ?」逆のかばん語‘rubbage’も報告されている。実際、それは19世紀のイギリスのスラングで、Dickensにも現れる。"

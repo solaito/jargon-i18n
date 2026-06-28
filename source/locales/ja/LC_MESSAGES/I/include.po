@@ -8,30 +8,30 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../I/include.rst:5
 msgid "include"
-msgstr ""
+msgstr "include"
 
 #: ../../I/include.rst:7
 msgid "vt\\."
-msgstr ""
+msgstr "他動詞"
 
 #: ../../I/include.rst:9
 msgid "[Usenet]"
-msgstr ""
+msgstr "[Usenet]"
 
 #: ../../I/include.rst:12
 msgid ""
@@ -40,10 +40,13 @@ msgid ""
 "context of one's response. See the discussion of inclusion styles under "
 "*Hacker Writing Style*\\."
 msgstr ""
+"自分の応答の文脈を明確にするために、返信やフォローアップの中で他者のメッセージの一部(または全体)を(典型的には出典を明記して)複製すること。『\\ "
+"*Hacker Writing Style*\\ 』の引用スタイルの議論を参照。"
 
 #: ../../I/include.rst:16
 msgid ""
-"[from :ref:`C`\\] :code:`#include <disclaimer.h>` has appeared in :ref"
-":`sig-block`\\s to refer to a notional standard disclaimer file."
+"[from :ref:`C`\\] :code:`#include <disclaimer.h>` has appeared in :ref:`sig-"
+"block`\\s to refer to a notional standard disclaimer file."
 msgstr ""
-
+"[\\ :ref:`C`\\ から] :code:`#include <disclaimer.h>`\\ "
+"は、想定上の標準的な免責事項ファイルを指すために\\ :ref:`sig-block`\\ に現れたことがある。"

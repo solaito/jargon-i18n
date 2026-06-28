@@ -8,22 +8,22 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../I/intertwingled.rst:5
 msgid "intertwingled"
-msgstr ""
+msgstr "intertwingled"
 
 #: ../../I/intertwingled.rst:7
 msgid ""
@@ -31,4 +31,5 @@ msgid ""
 "\"intertwined\".] Connected together in a complex way; specifically, "
 "composed of one another's components."
 msgstr ""
-
+"形容詞。[Theodor Holm Nelsonによる造語。おそらく「mingled」と「intertwined」の混成語。] "
+"複雑な仕方でつなぎ合わされていること。具体的には、互いの構成要素から成っていること。"

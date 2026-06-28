@@ -8,36 +8,37 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/guiltware.rst:5
 msgid "guiltware"
-msgstr ""
+msgstr "guiltware"
 
 #: ../../G/guiltware.rst:7
 msgid "/gilt´weir/, n\\."
-msgstr ""
+msgstr "/gilt´weir/, 名詞"
 
 #: ../../G/guiltware.rst:10
 msgid ""
-"A piece of :ref:`freeware` decorated with a message telling one how long "
-"and hard the author worked on it and intimating that one is a no-good "
-"freeloader if one does not immediately send the poor suffering martyr "
-"gobs of money."
+"A piece of :ref:`freeware` decorated with a message telling one how long and"
+" hard the author worked on it and intimating that one is a no-good "
+"freeloader if one does not immediately send the poor suffering martyr gobs "
+"of money."
 msgstr ""
+"作者がそれにどれほど長く懸命に取り組んだかを伝え、すぐに気の毒な殉教者に大金を送らなければあなたは碌でなしのただ乗り野郎だとほのめかすメッセージで飾られた\\"
+" :ref:`freeware`\\ の一種。"
 
 #: ../../G/guiltware.rst:13
 msgid "A piece of :ref:`shareware` that works."
-msgstr ""
-
+msgstr "ちゃんと動作する\\ :ref:`shareware`\\ の一種。"

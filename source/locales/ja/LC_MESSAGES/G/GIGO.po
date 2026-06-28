@@ -8,40 +8,44 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/GIGO.rst:5
 msgid "GIGO"
-msgstr ""
+msgstr "GIGO"
 
 #: ../../G/GIGO.rst:7
 msgid "/gi:´goh/"
-msgstr ""
+msgstr "/gi:´goh/"
 
 #: ../../G/GIGO.rst:10
 msgid ""
-"‘Garbage In, Garbage Out’ — usually said in response to :ref:`luser`\\s "
-"who complain that a program didn't \"do the right thing\" when given "
-"imperfect input or otherwise mistreated in some way. Also commonly used "
-"to describe failures in human decision making due to faulty, incomplete, "
-"or imprecise data."
+"‘Garbage In, Garbage Out’ — usually said in response to :ref:`luser`\\s who "
+"complain that a program didn't \"do the right thing\" when given imperfect "
+"input or otherwise mistreated in some way. Also commonly used to describe "
+"failures in human decision making due to faulty, incomplete, or imprecise "
+"data."
 msgstr ""
+"‘Garbage In, Garbage Out(ゴミを入れればゴミが出る)’ — "
+"通常、不完全な入力を与えられたり何らかの形で誤った扱いを受けたりしたときにプログラムが「正しいことをしなかった」と文句を言う\\ "
+":ref:`luser`\\ への返答として言われる。また、誤った、不完全な、あるいは不正確なデータによる人間の意思決定の失敗を表すのにもよく使われる。"
 
 #: ../../G/GIGO.rst:14
 msgid ""
-"Garbage In, Gospel Out: this more recent expansion is a sardonic comment "
-"on the tendency human beings have to put excessive trust in "
-"‘computerized’ data."
+"Garbage In, Gospel Out: this more recent expansion is a sardonic comment on "
+"the tendency human beings have to put excessive trust in ‘computerized’ "
+"data."
 msgstr ""
-
+"Garbage In, Gospel "
+"Out(ゴミを入れれば福音が出る):このより新しい拡張は、人間が‘コンピュータ化された’データを過度に信頼する傾向への皮肉なコメントである。"
