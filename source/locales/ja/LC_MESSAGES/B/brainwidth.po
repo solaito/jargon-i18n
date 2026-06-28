@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/brainwidth.rst:5
 msgid "brainwidth"
-msgstr ""
+msgstr "brainwidth"
 
 #: ../../B/brainwidth.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../B/brainwidth.rst:9
 msgid ""
-"[Great Britain] Analagous to :ref:`bandwidth` but used strictly for human"
-" capacity to process information and especially to multitask. \"Writing "
-"email is taking up most of my brainwidth right now, I can't look at that "
-"Flash animation.\""
+"[Great Britain] Analagous to :ref:`bandwidth` but used strictly for human "
+"capacity to process information and especially to multitask. \"Writing email"
+" is taking up most of my brainwidth right now, I can't look at that Flash "
+"animation.\""
 msgstr ""
-
+"[英国]\\ :ref:`bandwidth`\\ "
+"に似ているが、情報を処理する、特にマルチタスクをこなす人間の能力に厳密に使う。「メールを書くのに今brainwidthの大半を使っているから、あのFlashアニメーションは見られない」。"

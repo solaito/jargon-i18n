@@ -8,35 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/boustrophedon.rst:5
 msgid "boustrophedon"
-msgstr ""
+msgstr "boustrophedon"
 
 #: ../../B/boustrophedon.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../B/boustrophedon.rst:9
 msgid ""
-"[from a Greek word for turning like an ox while plowing] An ancient "
-"method of writing using alternate left-to-right and right-to-left lines. "
-"This term is actually philologists' techspeak and typesetters' jargon. "
-"Erudite hackers use it for an optimization performed by some computer "
-"typesetting software and moving-head printers. The adverbial form "
-"‘boustrophedonically’ is also found (hackers purely love constructions "
-"like this)."
+"[from a Greek word for turning like an ox while plowing] An ancient method "
+"of writing using alternate left-to-right and right-to-left lines. This term "
+"is actually philologists' techspeak and typesetters' jargon. Erudite hackers"
+" use it for an optimization performed by some computer typesetting software "
+"and moving-head printers. The adverbial form ‘boustrophedonically’ is also "
+"found (hackers purely love constructions like this)."
 msgstr ""
-
+"[耕作中の牛のように向きを変えることを意味するギリシャ語から]左から右への行と右から左への行を交互に使う古代の書法。この用語は実は文献学者の専門用語であり、組版者の隠語である。博識なハッカーは、一部のコンピューター組版ソフトウェアやヘッド移動式プリンターが行う最適化を指してこれを使う。副詞形‘boustrophedonically’も見られる(ハッカーはこの種の造語をこよなく愛する)。"

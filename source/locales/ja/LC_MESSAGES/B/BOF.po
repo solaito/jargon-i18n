@@ -8,39 +8,40 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/BOF.rst:5
 msgid "BOF"
-msgstr ""
+msgstr "BOF"
 
 #: ../../B/BOF.rst:7
 msgid "/B·O·F/, /bof/, n\\."
-msgstr ""
+msgstr "/B·O·F/, /bof/, 名詞"
 
 #: ../../B/BOF.rst:10
 msgid ""
 "[common] Abbreviation for the phrase \"Birds Of a Feather\" (flocking "
-"together), an informal discussion group and/or bull session scheduled on "
-"a conference program. It is not clear where or when this term originated,"
-" but it is now associated with the USENIX conferences for Unix techies "
-"and was already established there by 1984. It was used earlier than that "
-"at DECUS conferences and is reported to have been common at SHARE "
-"meetings as far back as the early 1960s."
+"together), an informal discussion group and/or bull session scheduled on a "
+"conference program. It is not clear where or when this term originated, but "
+"it is now associated with the USENIX conferences for Unix techies and was "
+"already established there by 1984. It was used earlier than that at DECUS "
+"conferences and is reported to have been common at SHARE meetings as far "
+"back as the early 1960s."
 msgstr ""
+"[一般的]「Birds Of a "
+"Feather(同じ羽の鳥、すなわち類は友を呼ぶ)」という語句の略。会議のプログラムに組まれた、非公式の討論グループや雑談の場。この用語がどこでいつ生まれたかは定かでないが、今ではUnix技術者向けのUSENIX会議と結びついており、1984年までにはそこで定着していた。それ以前にもDECUS会議で使われており、SHAREの会合では1960年代初頭までさかのぼって一般的だったと報告されている。"
 
 #: ../../B/BOF.rst:15
 msgid "Acronym, \"Beginning of File\"."
-msgstr ""
-
+msgstr "頭字語、「Beginning of File(ファイルの先頭)」。"

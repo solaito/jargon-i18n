@@ -8,45 +8,51 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/boink.rst:5
 msgid "boink"
-msgstr ""
+msgstr "boink"
 
 #: ../../B/boink.rst:7
 msgid "/boynk/"
-msgstr ""
+msgstr "/boynk/"
 
 #: ../../B/boink.rst:10
 msgid ""
-"[Usenet: variously ascribed to the TV series *Cheers*\\, "
-"*Moonlighting*\\, and *Soap*\\]v. To have sex with; compare "
-":ref:`bounce`\\, sense 2. (This is mainstream slang.) In Commonwealth "
-"hackish the variant ‘bonk’ is more common."
+"[Usenet: variously ascribed to the TV series *Cheers*\\, *Moonlighting*\\, "
+"and *Soap*\\]v. To have sex with; compare :ref:`bounce`\\, sense 2. (This is"
+" mainstream slang.) In Commonwealth hackish the variant ‘bonk’ is more "
+"common."
 msgstr ""
+"[Usenet。テレビシリーズ\\ *Cheers*\\ 、\\ *Moonlighting*\\ 、\\ *Soap*\\ "
+"に様々に帰せられる]動詞。性交すること。\\ :ref:`bounce`\\ "
+"の語義2と比較せよ。(これは主流のスラングである。)Commonwealth hackishでは異形‘bonk’のほうが一般的。"
 
 #: ../../B/boink.rst:14
 msgid ""
-"n\\. After the original Peter Korn ‘Boinkon’ :ref:`Usenet` parties, used "
-"for almost any net social gathering, e.g., Miniboink, a small boink held "
-"by Nancy Gillett in 1988; Minniboink, a Boinkcon in Minnesota in 1989; "
-"Humpdayboinks, Wednesday get-togethers held in the San Francisco Bay "
-"Area. Compare :ref:`at-party`\\."
+"n\\. After the original Peter Korn ‘Boinkon’ :ref:`Usenet` parties, used for"
+" almost any net social gathering, e.g., Miniboink, a small boink held by "
+"Nancy Gillett in 1988; Minniboink, a Boinkcon in Minnesota in 1989; "
+"Humpdayboinks, Wednesday get-togethers held in the San Francisco Bay Area. "
+"Compare :ref:`at-party`\\."
 msgstr ""
+"名詞。元のPeter Kornによる‘Boinkon’\\ :ref:`Usenet`\\ "
+"パーティーにちなんで、ほぼあらゆるネットの社交的集まりに使う。たとえば、Miniboink(1988年にNancy "
+"Gillettが開いた小さなboink)、Minniboink(1989年にミネソタで開かれたBoinkcon)、Humpdayboinks(サンフランシスコ・ベイエリアで開かれた水曜の集まり)。\\"
+" :ref:`at-party`\\ と比較せよ。"
 
 #: ../../B/boink.rst:19
 msgid "Var of bonk; see :ref:`bonk-oif`\\."
-msgstr ""
-
+msgstr "bonkの異形。\\ :ref:`bonk-oif`\\ を参照。"

@@ -8,41 +8,40 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/backreference.rst:5
 msgid "backreference"
-msgstr ""
+msgstr "backreference"
 
 #: ../../B/backreference.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../B/backreference.rst:10
 msgid ""
-"In a regular expression or pattern match, the text which was matched "
-"within grouping parentheses"
-msgstr ""
+"In a regular expression or pattern match, the text which was matched within "
+"grouping parentheses"
+msgstr "正規表現やパターンマッチにおいて、グループ化の括弧内でマッチしたテキスト。"
 
 #: ../../B/backreference.rst:13
 msgid "The part of the pattern which refers back to the matched text."
-msgstr ""
+msgstr "マッチしたテキストを参照し返すパターンの部分。"
 
 #: ../../B/backreference.rst:16
 msgid ""
-"By extension, anything which refers back to something which has been seen"
-" or discussed before. \"When you said ‘she’ just now, who were you "
+"By extension, anything which refers back to something which has been seen or"
+" discussed before. \"When you said ‘she’ just now, who were you "
 "backreferencing?\""
-msgstr ""
-
+msgstr "転じて、以前に見たり論じたりした何かを参照し返すもの全般。「さっき‘彼女’と言ったとき、誰をbackreferenceしていたの?」"

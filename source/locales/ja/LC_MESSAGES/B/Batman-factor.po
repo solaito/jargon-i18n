@@ -8,42 +8,46 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/Batman-factor.rst:5
 msgid "Batman factor"
-msgstr ""
+msgstr "Batman factor"
 
 #: ../../B/Batman-factor.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../B/Batman-factor.rst:10
 msgid ""
 "An integer number representing the number of items hanging from a "
-":ref:`batbelt`\\. In most settings, a Batman factor of more than 3 is not"
-" acceptable without odd stares and whispering. This encourages the hacker"
-" in question to choose items for the batbelt carefully to avoid awkward "
-"social situations, usually amongst non-hackers."
+":ref:`batbelt`\\. In most settings, a Batman factor of more than 3 is not "
+"acceptable without odd stares and whispering. This encourages the hacker in "
+"question to choose items for the batbelt carefully to avoid awkward social "
+"situations, usually amongst non-hackers."
 msgstr ""
+"\\ :ref:`batbelt`\\ からぶら下がっている品物の数を表す整数。たいていの場面では、Batman "
+"factorが3を超えると、奇異な視線とひそひそ話なしには受け入れられない。これにより当のハッカーは、気まずい社会的状況(たいていは非ハッカーの間での)を避けるべく、batbeltに付ける品物を慎重に選ぶよう促される。"
 
 #: ../../B/Batman-factor.rst:15
 msgid ""
-"A somewhat more vaguely defined index of contribution to sense 1. Devices"
-" that are especially obtrusive, such as large, older model cell phones, "
+"A somewhat more vaguely defined index of contribution to sense 1. Devices "
+"that are especially obtrusive, such as large, older model cell phones, "
 "\"Pocket\" PC devices and walkie talkies are said to have a high batman "
 "factor. Sleeker devices such as a later-model Palm or StarTac phone are "
 "prized for their low batman factor and lessened obtrusiveness and weight."
 msgstr ""
-
+"語義1への寄与度を、いくぶんあいまいに定義した指標。大きく旧型の携帯電話、「ポケット」PC機器、トランシーバーなど、特に目立つ機器はbatman "
+"factorが高いと言われる。後期型のPalmやStarTac電話のようなすっきりした機器は、batman "
+"factorが低く、目立たず軽いことで重宝される。"

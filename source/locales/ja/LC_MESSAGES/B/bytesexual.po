@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/bytesexual.rst:5
 msgid "bytesexual"
-msgstr ""
+msgstr "bytesexual"
 
 #: ../../B/bytesexual.rst:7
 msgid "/bi:t\\`sek´shu·\\@l/, adj\\."
-msgstr ""
+msgstr "/bi:t\\`sek´shu·\\@l/, 形容詞"
 
 #: ../../B/bytesexual.rst:9
 msgid ""
 "[rare] Said of hardware, denotes willingness to compute or pass data in "
 "either :ref:`big-endian` or :ref:`little-endian` format (depending, "
-"presumably, on a :ref:`mode-bit` somewhere). See also :ref:`NUXI-"
-"problem`\\."
+"presumably, on a :ref:`mode-bit` somewhere). See also :ref:`NUXI-problem`\\."
 msgstr ""
-
+"[まれ]ハードウェアについて言い、(おそらくどこかの\\ :ref:`mode-bit`\\ に応じて)\\ :ref:`big-endian`\\ "
+"か\\ :ref:`little-endian`\\ のいずれの形式でもデータを計算・受け渡しする用意があることを表す。\\ :ref:`NUXI-"
+"problem`\\ も参照。"

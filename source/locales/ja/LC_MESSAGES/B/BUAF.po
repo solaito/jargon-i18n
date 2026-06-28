@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/BUAF.rst:5
 msgid "BUAF"
-msgstr ""
+msgstr "BUAF"
 
 #: ../../B/BUAF.rst:7
 msgid "//, n\\."
-msgstr ""
+msgstr "//, 名詞"
 
 #: ../../B/BUAF.rst:9
 msgid ""
@@ -39,4 +39,8 @@ msgid ""
 "used to render one's name in a :ref:`sig-block`\\, and are critically "
 "referred to as BUAFs. See :ref:`warlording`\\."
 msgstr ""
-
+"[略語。\\ :samp:`alt.fan.warlord`\\ から]Big Ugly ASCII Font(大きく醜いASCIIフォント)——\\ "
+":ref:`ASCII-art`\\ "
+"の特殊な一形態。文字列を、一辺4〜6文字セル分のセル内のブロック体、ぶよぶよ体、擬似筆記体フォントに描画するプログラムがいくつか存在する。これは古い\\"
+" :ref:`banner`\\ (語義2)プログラムが生成する文字より小さい。これらは\\ :ref:`sig-block`\\ "
+"で自分の名前を描くのに使われることがあり、批判的にBUAFと呼ばれる。\\ :ref:`warlording`\\ を参照。"

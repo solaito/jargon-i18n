@@ -8,34 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/benchmark.rst:5
 msgid "benchmark"
-msgstr ""
+msgstr "benchmark"
 
 #: ../../B/benchmark.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../B/benchmark.rst:9
 msgid ""
-"[techspeak] An inaccurate measure of computer performance. \"In the "
-"computer industry, there are three kinds of lies: lies, damn lies, and "
-"benchmarks.\" Well-known ones include Whetstone, Dhrystone, Rhealstone "
-"(see :ref:`h`\\), the Gabriel LISP benchmarks, the SPECmark suite, and "
-"LINPACK. See also :ref:`machoflops`\\, :ref:`MIPS`\\, :ref:`smoke-and-"
-"mirrors`\\."
+"[techspeak] An inaccurate measure of computer performance. \"In the computer"
+" industry, there are three kinds of lies: lies, damn lies, and benchmarks.\""
+" Well-known ones include Whetstone, Dhrystone, Rhealstone (see :ref:`h`\\), "
+"the Gabriel LISP benchmarks, the SPECmark suite, and LINPACK. See also "
+":ref:`machoflops`\\, :ref:`MIPS`\\, :ref:`smoke-and-mirrors`\\."
 msgstr ""
-
+"[専門用語]コンピューター性能の不正確な尺度。「コンピューター業界には3種類の嘘がある。嘘、大嘘、そしてベンチマークだ」。よく知られたものに、Whetstone、Dhrystone、Rhealstone(\\"
+" :ref:`h`\\ を参照)、Gabriel LISPベンチマーク、SPECmark一式、LINPACKがある。\\ "
+":ref:`machoflops`\\ 、\\ :ref:`MIPS`\\ 、\\ :ref:`smoke-and-mirrors`\\ も参照。"

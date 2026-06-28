@@ -8,32 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/broadcast-storm.rst:5
 msgid "broadcast storm"
-msgstr ""
+msgstr "broadcast storm"
 
 #: ../../B/broadcast-storm.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../B/broadcast-storm.rst:9
 msgid ""
-"[common] An incorrect packet broadcast on a network that causes most "
-"hosts to respond all at once, typically with wrong answers that start the"
-" process over again. See :ref:`network-meltdown`\\; compare :ref:`mail-"
-"storm`\\."
+"[common] An incorrect packet broadcast on a network that causes most hosts "
+"to respond all at once, typically with wrong answers that start the process "
+"over again. See :ref:`network-meltdown`\\; compare :ref:`mail-storm`\\."
 msgstr ""
-
+"[一般的]ネットワーク上でブロードキャストされた誤ったパケットが、たいていのホストを一斉に応答させ、通常は誤った答えで過程を最初からやり直させるもの。\\"
+" :ref:`network-meltdown`\\ を参照。\\ :ref:`mail-storm`\\ と比較せよ。"

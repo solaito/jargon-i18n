@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/biff.rst:5
 msgid "biff"
-msgstr ""
+msgstr "biff"
 
 #: ../../B/biff.rst:7
 msgid "/bif/, vt\\."
-msgstr ""
+msgstr "/bif/, 他動詞"
 
 #: ../../B/biff.rst:9
 msgid ""
 "[now rare] To notify someone of incoming mail. From the BSD utility "
-":manpage:`biff(1)`\\, which was in turn named after a friendly dog who "
-"used to chase frisbees in the halls at UCB while 4.2BSD was in "
-"development. There was a legend that it had a habit of barking whenever "
-"the mailman came, but the author of :code:`biff` says this is not true. "
-"No relation to :ref:`B1FF`\\."
+":manpage:`biff(1)`\\, which was in turn named after a friendly dog who used "
+"to chase frisbees in the halls at UCB while 4.2BSD was in development. There"
+" was a legend that it had a habit of barking whenever the mailman came, but "
+"the author of :code:`biff` says this is not true. No relation to "
+":ref:`B1FF`\\."
 msgstr ""
-
+"[今はまれ]新着メールを誰かに通知すること。BSDのユーティリティ\\ :manpage:`biff(1)`\\ "
+"に由来する。これは、4.2BSDの開発中にUCBの廊下でフリスビーを追いかけていた人懐っこい犬にちなんで名付けられた。郵便配達員が来るたびに吠える癖があったという伝説があるが、\\"
+" :code:`biff`\\ の作者によればこれは事実ではないという。\\ :ref:`B1FF`\\ とは無関係。"

@@ -8,74 +8,77 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/blivet.rst:5
 msgid "blivet"
-msgstr ""
+msgstr "blivet"
 
 #: ../../B/blivet.rst:7
 msgid "/bliv'\\@t/, n\\."
-msgstr ""
+msgstr "/bliv'\\@t/, 名詞"
 
 #: ../../B/blivet.rst:9
 msgid ""
-"[allegedly from a World War II military term meaning \"ten pounds of "
-"manure in a five-pound bag\"]"
-msgstr ""
+"[allegedly from a World War II military term meaning \"ten pounds of manure "
+"in a five-pound bag\"]"
+msgstr "[「5ポンド袋に10ポンドの肥やし」を意味する第二次大戦の軍事用語に由来するとされる]"
 
 #: ../../B/blivet.rst:12
 msgid "An intractable problem."
-msgstr ""
+msgstr "手に負えない問題。"
 
 #: ../../B/blivet.rst:15
-msgid "A crucial piece of hardware that can't be fixed or replaced if it breaks."
-msgstr ""
+msgid ""
+"A crucial piece of hardware that can't be fixed or replaced if it breaks."
+msgstr "壊れても修理も交換もできない、決定的に重要なハードウェア。"
 
 #: ../../B/blivet.rst:18
 msgid ""
-"A tool that has been hacked over by so many incompetent programmers that "
-"it has become an unmaintainable tissue of hacks."
-msgstr ""
+"A tool that has been hacked over by so many incompetent programmers that it "
+"has become an unmaintainable tissue of hacks."
+msgstr "あまりに多くの無能なプログラマーにハックされ続けた結果、保守不能なハックの寄せ集めになってしまったツール。"
 
 #: ../../B/blivet.rst:21
 msgid "An out-of-control but unkillable development effort."
-msgstr ""
+msgstr "制御不能だが殺せない開発の取り組み。"
 
 #: ../../B/blivet.rst:24
 msgid "An embarrassing bug that pops up during a customer demo."
-msgstr ""
+msgstr "顧客デモの最中に飛び出す、ばつの悪いバグ。"
 
 #: ../../B/blivet.rst:27
 msgid ""
 "In the subjargon of computer security specialists, a denial-of-service "
-"attack performed by hogging limited resources that have no access "
-"controls (for example, shared spool space on a multi-user system)."
+"attack performed by hogging limited resources that have no access controls "
+"(for example, shared spool space on a multi-user system)."
 msgstr ""
+"コンピューターセキュリティ専門家の下位隠語では、アクセス制御のない限られた資源(たとえば複数ユーザーシステム上の共有スプール領域)を占有することで行われるサービス拒否攻撃。"
 
 #: ../../B/blivet.rst:29
 msgid ""
-"This term has other meanings in other technical cultures; among "
-"experimental physicists and hardware engineers of various kinds it seems "
-"to mean any random object of unknown purpose (similar to hackish use of "
-":ref:`frob`\\). It has also been used to describe an amusing trick-the-"
-"eye drawing resembling a three-pronged fork that appears to depict a "
-"three-dimensional object until one realizes that the parts fit together "
-"in an impossible way."
+"This term has other meanings in other technical cultures; among experimental"
+" physicists and hardware engineers of various kinds it seems to mean any "
+"random object of unknown purpose (similar to hackish use of :ref:`frob`\\). "
+"It has also been used to describe an amusing trick-the-eye drawing "
+"resembling a three-pronged fork that appears to depict a three-dimensional "
+"object until one realizes that the parts fit together in an impossible way."
 msgstr ""
+"この用語は他の技術文化では別の意味を持つ。様々な分野の実験物理学者やハードウェア技術者の間では、用途不明のあらゆる雑多な物(ハッカー語の\\ "
+":ref:`frob`\\ "
+"の用法に似ている)を意味するようだ。三本の又に見えるだまし絵で、立体物を描いているように見えるが、各部がありえない形でつながっていることに気づくまでそう見える、というものを表すのにも使われてきた。"
 
 #: ../../B/blivet.rst:34
 msgid "This is a blivet"
-msgstr ""
-
+msgstr "これはblivetである"

@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/bogue-out.rst:5
 msgid "bogue out"
-msgstr ""
+msgstr "bogue out"
 
 #: ../../B/bogue-out.rst:7
 msgid "/bohg owt/, vi\\."
-msgstr ""
+msgstr "/bohg owt/, 自動詞"
 
 #: ../../B/bogue-out.rst:9
 msgid ""
-"To become bogus, suddenly and unexpectedly. \"His talk was relatively "
-"sane until somebody asked him a trick question; then he bogued out and "
-"did nothing but :ref:`flame` afterwards.\" See also :ref:`bogosity`\\, "
+"To become bogus, suddenly and unexpectedly. \"His talk was relatively sane "
+"until somebody asked him a trick question; then he bogued out and did "
+"nothing but :ref:`flame` afterwards.\" See also :ref:`bogosity`\\, "
 ":ref:`bogus`\\."
 msgstr ""
-
+"突然、予期せずbogusになること。「彼の話は比較的まともだったが、誰かがひっかけ質問をしたとたん、彼はbogue outして、以後\\ "
+":ref:`flame`\\ するばかりだった」。\\ :ref:`bogosity`\\ 、\\ :ref:`bogus`\\ も参照。"
