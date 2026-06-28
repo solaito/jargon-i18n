@@ -8,28 +8,27 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/selvage.rst:5
 msgid "selvage"
-msgstr ""
+msgstr "selvage"
 
 #: ../../S/selvage.rst:7
 msgid "/sel´v\\@j/, n\\."
-msgstr ""
+msgstr "/sel´v\\@j/, 名詞"
 
 #: ../../S/selvage.rst:9
 msgid "[from sewing and weaving] See :ref:`chad` (sense 1)."
-msgstr ""
-
+msgstr "[裁縫と織物から] :ref:`chad`\\ (語義1)を参照。"

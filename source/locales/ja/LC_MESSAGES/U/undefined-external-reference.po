@@ -8,30 +8,29 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../U/undefined-external-reference.rst:5
 msgid "undefined external reference"
-msgstr ""
+msgstr "undefined external reference"
 
 #: ../../U/undefined-external-reference.rst:7
 msgid "excl\\."
-msgstr ""
+msgstr "感嘆詞"
 
 #: ../../U/undefined-external-reference.rst:9
 msgid ""
-"[Unix] A message from Unix's linker. Used in speech to flag loose ends or"
-" dangling references in an argument or discussion."
-msgstr ""
-
+"[Unix] A message from Unix's linker. Used in speech to flag loose ends or "
+"dangling references in an argument or discussion."
+msgstr "[Unix] Unixのリンカからのメッセージ。議論や討論における未解決の点や宙ぶらりんの参照を指摘するために口頭で使われる。"

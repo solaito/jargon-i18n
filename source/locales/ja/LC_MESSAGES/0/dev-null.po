@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../0/dev-null.rst:5
 msgid "/dev/null"
-msgstr ""
+msgstr "/dev/null"
 
 #: ../../0/dev-null.rst:7
 msgid "/dev·nuhl/, n\\."
-msgstr ""
+msgstr "/dev·nuhl/, 名詞"
 
 #: ../../0/dev-null.rst:9
 msgid ""
-"[from the Unix null device, used as a data sink] A notional ‘black hole’ "
-"in any information space being discussed, used, or referred to. A "
-"controversial posting, for example, might end \"Kudos to "
-"rasputin\\@kremlin.org, flames to /dev/null\". See :ref:`bit-bucket`\\."
+"[from the Unix null device, used as a data sink] A notional ‘black hole’ in "
+"any information space being discussed, used, or referred to. A controversial"
+" posting, for example, might end \"Kudos to rasputin\\@kremlin.org, flames "
+"to /dev/null\". See :ref:`bit-bucket`\\."
 msgstr ""
-
+"[データの捨て場として使われるUnixのnullデバイスから]議論、使用、または言及されている任意の情報空間における、観念上の‘ブラックホール’。たとえば、物議を醸す投稿は「Kudos"
+" to rasputin\\@kremlin.org, flames to /dev/null」で締めくくられるかもしれない。\\ :ref:`bit-"
+"bucket`\\ を参照。"

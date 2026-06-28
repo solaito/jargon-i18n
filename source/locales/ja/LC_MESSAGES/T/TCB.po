@@ -8,37 +8,38 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/TCB.rst:5
 msgid "TCB"
-msgstr ""
+msgstr "TCB"
 
 #: ../../T/TCB.rst:7
 msgid "/T·C·B/, n\\."
-msgstr ""
+msgstr "/T·C·B/, 名詞"
 
 #: ../../T/TCB.rst:9
 msgid ""
 "[IBM] 1. Trouble Came Back. An intermittent or difficult-to-reproduce "
-"problem that has failed to respond to neglect or :ref:`shotgun-"
-"debugging`\\. Compare :ref:`heisenbug`\\. Not to be confused with:"
+"problem that has failed to respond to neglect or :ref:`shotgun-debugging`\\."
+" Compare :ref:`heisenbug`\\. Not to be confused with:"
 msgstr ""
+"[IBM]1. Trouble Came Back(トラブルが戻ってきた)。放置や\\ :ref:`shotgun-debugging`\\ "
+"に反応しなかった、断続的または再現の難しい問題。\\ :ref:`heisenbug`\\ と比較せよ。次のものと混同しないこと。"
 
 #: ../../T/TCB.rst:16
 msgid ""
 "Trusted Computing Base, an ‘official’ jargon term from the :ref:`Orange-"
 "Book`\\."
-msgstr ""
-
+msgstr "Trusted Computing Base。\\ :ref:`Orange-Book`\\ 由来の‘公式の’ジャーゴン用語。"

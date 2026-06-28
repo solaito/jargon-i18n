@@ -8,38 +8,41 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../N/nugry.rst:5
 msgid "nugry"
-msgstr ""
+msgstr "nugry"
 
 #: ../../N/nugry.rst:7
 msgid "/n[y]oo´gree/"
-msgstr ""
+msgstr "/n[y]oo´gree/"
 
 #: ../../N/nugry.rst:9
 msgid ""
-"[Usenet, ‘newbie’ + ‘-gry’] n. A :ref:`newbie` who posts a :ref:`FAQ` in "
-"the rec.puzzles newsgroup, especially if it is a variant of the notorious"
-" trick question: \"Think of words ending in ‘gry’. Angry and hungry are "
-"two of them. There are three words in the English language. What is the "
-"third word?\" In the newsgroup, the canonical answer is of course ‘nugry’"
-" itself. Plural is nusgry /n[y]oos´gree/."
+"[Usenet, ‘newbie’ + ‘-gry’] n. A :ref:`newbie` who posts a :ref:`FAQ` in the"
+" rec.puzzles newsgroup, especially if it is a variant of the notorious trick"
+" question: \"Think of words ending in ‘gry’. Angry and hungry are two of "
+"them. There are three words in the English language. What is the third "
+"word?\" In the newsgroup, the canonical answer is of course ‘nugry’ itself. "
+"Plural is nusgry /n[y]oos´gree/."
 msgstr ""
+"[Usenet、‘newbie’ + ‘-gry’] 名詞。rec.puzzlesニュースグループに\\ :ref:`FAQ`\\ を投稿する\\ "
+":ref:`newbie`\\ "
+"。特にそれが有名なひっかけ問題の変種である場合。「‘gry’で終わる単語を考えよ。angryとhungryはそのうちの二つだ。英語には三つの単語がある。三つ目の単語は何か?」ニュースグループでの定番の答えは、もちろん‘nugry’それ自体である。複数形はnusgry"
+" /n[y]oos´gree/。"
 
 #: ../../N/nugry.rst:16
 msgid "adj. Having the qualities of a nugry."
-msgstr ""
-
+msgstr "形容詞。nugryの性質を持つ。"

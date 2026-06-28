@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../L/locked-and-loaded.rst:5
 msgid "locked and loaded"
-msgstr ""
+msgstr "locked and loaded"
 
 #: ../../L/locked-and-loaded.rst:7
 msgid "adj\\.,obs\\."
-msgstr ""
+msgstr "形容詞・廃語"
 
 #: ../../L/locked-and-loaded.rst:9
 msgid ""
-"[from military slang for an M-16 rifle with magazine inserted and "
-"prepared for firing] Said of a removable disk volume properly prepared "
-"for use — that is, locked into the drive and with the heads loaded. "
-"Ironically, because their heads are ‘loaded’ whenever the power is up, "
-"this description is never used of :ref:`Winchester` drives (which are "
-"named after a rifle)."
+"[from military slang for an M-16 rifle with magazine inserted and prepared "
+"for firing] Said of a removable disk volume properly prepared for use — that"
+" is, locked into the drive and with the heads loaded. Ironically, because "
+"their heads are ‘loaded’ whenever the power is up, this description is never"
+" used of :ref:`Winchester` drives (which are named after a rifle)."
 msgstr ""
-
+"[弾倉を挿入し発射準備を整えたM-16ライフルを表す軍隊俗語から] "
+"使用のために適切に準備された取り外し可能なディスクボリューム——すなわち、ドライブにロックされ、ヘッドがロードされたもの——について言う。皮肉なことに、\\"
+" :ref:`Winchester`\\ "
+"ドライブ(ライフルにちなんで名付けられた)は電源が入っていればいつでもヘッドが‘ロード’されているため、この表現は決して使われない。"

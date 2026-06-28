@@ -8,34 +8,38 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/forum.rst:5
 msgid "forum"
-msgstr ""
+msgstr "forum"
 
 #: ../../F/forum.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../F/forum.rst:9
 msgid ""
 "[Usenet, GEnie, CI$; pl. fora or forums] Any discussion group accessible "
 "through a dial-in :ref:`BBS`\\, a :ref:`mailing-list`\\, or a "
-":ref:`newsgroup` (see :ref:`the-network`\\). A forum functions much like "
-"a bulletin board; users submit :ref:`posting`\\s for all to read and "
-"discussion ensues. Contrast real-time chat via :ref:`talk-mode` or point-"
-"to-point personal :ref:`email`\\."
+":ref:`newsgroup` (see :ref:`the-network`\\). A forum functions much like a "
+"bulletin board; users submit :ref:`posting`\\s for all to read and "
+"discussion ensues. Contrast real-time chat via :ref:`talk-mode` or point-to-"
+"point personal :ref:`email`\\."
 msgstr ""
-
+"[Usenet、GEnie、CI$。複数形 foraまたはforums]ダイヤルインの\\ :ref:`BBS`\\ 、\\ "
+":ref:`mailing-list`\\ 、または\\ :ref:`newsgroup`\\ "
+"を通じてアクセスできる、あらゆるディスカッショングループ(\\ :ref:`the-network`\\ "
+"を参照)。forumは掲示板によく似た働きをする。ユーザーは皆が読めるように\\ :ref:`posting`\\ を投稿し、議論が続く。\\ "
+":ref:`talk-mode`\\ を介したリアルタイムのチャットや、一対一の個人的な\\ :ref:`email`\\ と対比される。"

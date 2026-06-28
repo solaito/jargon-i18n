@@ -8,34 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/postcardware.rst:5
 msgid "postcardware"
-msgstr ""
+msgstr "postcardware"
 
 #: ../../P/postcardware.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../P/postcardware.rst:9
 msgid ""
-"A kind of :ref:`shareware` that borders on :ref:`freeware`\\, in that the"
-" author requests only that satisfied users send a postcard of their home "
-"town or something. (This practice, silly as it might seem, serves to "
-"remind users that they are otherwise getting something for nothing, and "
-"may also be psychologically related to real estate ‘sales’ in which $1 "
-"changes hands just to keep the transaction from being a gift.)"
+"A kind of :ref:`shareware` that borders on :ref:`freeware`\\, in that the "
+"author requests only that satisfied users send a postcard of their home town"
+" or something. (This practice, silly as it might seem, serves to remind "
+"users that they are otherwise getting something for nothing, and may also be"
+" psychologically related to real estate ‘sales’ in which $1 changes hands "
+"just to keep the transaction from being a gift.)"
 msgstr ""
-
+"\\ :ref:`freeware`\\ すれすれの\\ :ref:`shareware`\\ "
+"の一種で、作者は満足したユーザに自分の故郷の絵はがきか何かを送ってくれと頼むだけ、というもの。(この慣行は、馬鹿げて見えるかもしれないが、ユーザにそうでなければ何かをただで手に入れていることを思い出させる役に立ち、また、贈与にならないように1ドルが手から手へ渡る不動産の‘売買’と心理的に関連しているかもしれない。)"

@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/GNUMACS.rst:5
 msgid "GNUMACS"
-msgstr ""
+msgstr "GNUMACS"
 
 #: ../../G/GNUMACS.rst:7
 msgid "/gnoo´maks/, n\\."
-msgstr ""
+msgstr "/gnoo´maks/, 名詞"
 
 #: ../../G/GNUMACS.rst:9
 msgid ""
-"[contraction of ‘GNU EMACS’] Often-heard abbreviated name for the "
-":ref:`GNU` project's flagship tool, :ref:`EMACS`\\. StallMACS, referring "
-"to Richard Stallman, is less common but also heard. Used esp. in contrast"
-" with :ref:`GOSMACS` and X Emacs."
+"[contraction of ‘GNU EMACS’] Often-heard abbreviated name for the :ref:`GNU`"
+" project's flagship tool, :ref:`EMACS`\\. StallMACS, referring to Richard "
+"Stallman, is less common but also heard. Used esp. in contrast with "
+":ref:`GOSMACS` and X Emacs."
 msgstr ""
-
+"[‘GNU EMACS’の短縮形] \\ :ref:`GNU`\\ プロジェクトの旗艦ツールである\\ :ref:`EMACS`\\ "
+"について、しばしば耳にする省略名。Richard Stallmanにちなんだ StallMACS はあまり一般的ではないが、これも耳にする。特に\\ "
+":ref:`GOSMACS`\\ やX Emacsとの対比で使われる。"

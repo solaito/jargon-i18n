@@ -8,42 +8,43 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/flap.rst:5
 msgid "flap"
-msgstr ""
+msgstr "flap"
 
 #: ../../F/flap.rst:7
 msgid "vt\\."
-msgstr ""
+msgstr "他動詞"
 
 #: ../../F/flap.rst:10
 msgid ""
 "[obs.] To unload a DECtape (so it goes flap, flap, flap...). Old-time "
 "hackers at MIT tell of the days when the disk was device 0 and DEC "
-"microtapes were 1, 2,... and attempting to flap device 0 would instead "
-"start a motor banging inside a cabinet near the disk."
+"microtapes were 1, 2,... and attempting to flap device 0 would instead start"
+" a motor banging inside a cabinet near the disk."
 msgstr ""
+"[廃語]DECtapeをアンロードすること(flap, flap, "
+"flapと音を立てるので)。MITの古参ハッカーは、ディスクがデバイス0で、DECのマイクロテープが1、2……だった時代の話をする。デバイス0をflapしようとすると、代わりにディスクの近くのキャビネットの中でモーターがガンガン鳴り始めたものだった。"
 
 #: ../../F/flap.rst:15
 msgid ""
-"By extension, to unload any magnetic tape. Modern cartridge tapes no "
-"longer actually flap, but the usage has remained. (The term could well be"
-" re-applied to DEC's TK50 cartridge tape drive, a spectacularly "
-"misengineered contraption which makes a loud flapping sound, almost like "
-"an old reel-type lawnmower, in one of its many tape-eating failure "
-"modes.)"
+"By extension, to unload any magnetic tape. Modern cartridge tapes no longer "
+"actually flap, but the usage has remained. (The term could well be re-"
+"applied to DEC's TK50 cartridge tape drive, a spectacularly misengineered "
+"contraption which makes a loud flapping sound, almost like an old reel-type "
+"lawnmower, in one of its many tape-eating failure modes.)"
 msgstr ""
-
+"拡張して、あらゆる磁気テープをアンロードすること。現代のカートリッジテープはもはや実際にはflapしないが、この用法は残っている。(この用語は、DECのTK50カートリッジテープドライブにうまく再適用できそうだ。これはひどく設計を誤った代物で、テープを食べる多くの故障モードの一つでは、ほとんど旧式のリール式芝刈り機のような、大きなパタパタという音を立てる。)"

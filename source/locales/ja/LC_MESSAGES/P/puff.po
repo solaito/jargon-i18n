@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/puff.rst:5
 msgid "puff"
-msgstr ""
+msgstr "puff"
 
 #: ../../P/puff.rst:7
 msgid "vt\\."
-msgstr ""
+msgstr "他動詞"
 
 #: ../../P/puff.rst:9
 msgid ""
-"To decompress data that has been crunched by Huffman coding. At least one"
-" widely distributed Huffman decoder program was actually *named* ‘PUFF’, "
-"but these days it is usually packaged with the encoder. Oppose "
-":ref:`huff`\\, see :ref:`inflate`\\."
+"To decompress data that has been crunched by Huffman coding. At least one "
+"widely distributed Huffman decoder program was actually *named* ‘PUFF’, but "
+"these days it is usually packaged with the encoder. Oppose :ref:`huff`\\, "
+"see :ref:`inflate`\\."
 msgstr ""
-
+"ハフマン符号化によってcrunchされたデータを解凍すること。少なくとも一つの広く配布されたハフマンデコーダプログラムは、実際に‘PUFF’と "
+"*名付けられて* いたが、最近ではたいていエンコーダと一緒にパッケージされている。\\ :ref:`huff`\\ と対をなす。\\ "
+":ref:`inflate`\\ を参照。"

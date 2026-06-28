@@ -8,35 +8,38 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/gray-goo.rst:5
 msgid "gray goo"
-msgstr ""
+msgstr "gray goo"
 
 #: ../../G/gray-goo.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../G/gray-goo.rst:9
 msgid ""
 "A hypothetical substance composed of :ref:`sagan`\\s of sub-micron-sized "
 "self-replicating robots programmed to make copies of themselves out of "
 "whatever is available. The image that goes with the term is one of the "
-"entire biosphere of Earth being eventually converted to robot goo. This "
-"is the simplest of the :ref:`nanotechnology` disaster scenarios, easily "
-"refuted by arguments from energy requirements and elemental abundances. "
-"Compare :ref:`blue-goo`\\."
+"entire biosphere of Earth being eventually converted to robot goo. This is "
+"the simplest of the :ref:`nanotechnology` disaster scenarios, easily refuted"
+" by arguments from energy requirements and elemental abundances. Compare "
+":ref:`blue-goo`\\."
 msgstr ""
-
+"入手可能なものなら何からでも自分のコピーを作るようにプログラムされた、サブミクロンサイズの自己複製ロボットの\\ :ref:`sagan`\\ "
+"で構成される仮説上の物質。この用語に伴うイメージは、地球の生物圏全体が最終的にロボットのどろどろに変換されるというものである。これは\\ "
+":ref:`nanotechnology`\\ 災害シナリオの最も単純なもので、エネルギー要件と元素の存在比からの議論によって容易に論駁される。\\ "
+":ref:`blue-goo`\\ と比較せよ。"

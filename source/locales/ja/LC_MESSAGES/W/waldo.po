@@ -8,45 +8,47 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/waldo.rst:5
 msgid "waldo"
-msgstr ""
+msgstr "waldo"
 
 #: ../../W/waldo.rst:7
 msgid "/wol´doh/, n\\."
-msgstr ""
+msgstr "/wol´doh/, 名詞"
 
 #: ../../W/waldo.rst:9
 msgid "[From Robert A. Heinlein's story *Waldo*\\]"
-msgstr ""
+msgstr "[Robert A. Heinleinの物語\\ *Waldo*\\ から]"
 
 #: ../../W/waldo.rst:12
 msgid ""
-"A mechanical agent, such as a gripper arm, controlled by a human limb. "
-"When these were developed for the nuclear industry in the mid-1940s they "
-"were named after the invention described by Heinlein in the story, which "
-"he wrote in 1942. Now known by the more generic term telefactoring, this "
-"technology is of intense interest to NASA for tasks like space station "
-"maintenance."
+"A mechanical agent, such as a gripper arm, controlled by a human limb. When "
+"these were developed for the nuclear industry in the mid-1940s they were "
+"named after the invention described by Heinlein in the story, which he wrote"
+" in 1942. Now known by the more generic term telefactoring, this technology "
+"is of intense interest to NASA for tasks like space station maintenance."
 msgstr ""
+"グリッパーアームのような、人間の手足によって制御される機械的なエージェント。これらが1940年代半ばに原子力産業向けに開発されたとき、Heinleinが1942年に書いた物語の中で描写した発明にちなんで名づけられた。今ではより一般的な用語でテレファクタリングとして知られるこの技術は、宇宙ステーションの保守のようなタスクのためにNASAにとって強い関心の対象となっている。"
 
 #: ../../W/waldo.rst:17
 msgid ""
-"At Harvard (particularly by Tom Cheatham and students), this is used "
-"instead of :ref:`foobar` as a metasyntactic variable and general nonsense"
-" word. See :ref:`foo`\\, :ref:`bar`\\, :ref:`foobar`\\, :ref:`quux`\\."
+"At Harvard (particularly by Tom Cheatham and students), this is used instead"
+" of :ref:`foobar` as a metasyntactic variable and general nonsense word. See"
+" :ref:`foo`\\, :ref:`bar`\\, :ref:`foobar`\\, :ref:`quux`\\."
 msgstr ""
-
+"Harvard(特にTom Cheathamと学生たち)では、これが\\ :ref:`foobar`\\ "
+"の代わりにメタ構文変数や一般的なナンセンス語として使われる。\\ :ref:`foo`\\ 、\\ :ref:`bar`\\ 、\\ "
+":ref:`foobar`\\ 、\\ :ref:`quux`\\ を参照。"

@@ -8,48 +8,52 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/FAQ.rst:5
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #: ../../F/FAQ.rst:7
 msgid "/F·A·Q/, /fak/, n\\."
-msgstr ""
+msgstr "/F·A·Q/, /fak/, 名詞"
 
 #: ../../F/FAQ.rst:9
 msgid "[Usenet]"
-msgstr ""
+msgstr "[Usenet]"
 
 #: ../../F/FAQ.rst:12
 msgid "A Frequently Asked Question."
-msgstr ""
+msgstr "Frequently Asked Question(よくある質問)。"
 
 #: ../../F/FAQ.rst:15
 msgid ""
 "A compendium of accumulated lore, posted periodically to high-volume "
-"newsgroups in an attempt to forestall such questions. Some people prefer "
-"the term ‘FAQ list’ or ‘FAQL’ /fa´kl/, reserving ‘FAQ’ for sense 1."
+"newsgroups in an attempt to forestall such questions. Some people prefer the"
+" term ‘FAQ list’ or ‘FAQL’ /fa´kl/, reserving ‘FAQ’ for sense 1."
 msgstr ""
+"そうした質問を未然に防ごうと、流量の多いニュースグループに定期的に投稿される、蓄積された知識の集成。‘FAQ "
+"list’や‘FAQL’/fa´kl/という語を好む人もおり、その場合‘FAQ’は語義1のために取っておく。"
 
 #: ../../F/FAQ.rst:18
 msgid ""
-"This lexicon itself serves as a good example of a collection of one kind "
-"of lore, although it is far too big for a regular FAQ posting. Examples: "
-"\"What is the proper type of NULL?\" and \"What's that funny name for the"
-" ``#`` character?\" are both Frequently Asked Questions. Several FAQs "
-"refer readers to the Jargon File."
+"This lexicon itself serves as a good example of a collection of one kind of "
+"lore, although it is far too big for a regular FAQ posting. Examples: \"What"
+" is the proper type of NULL?\" and \"What's that funny name for the ``#`` "
+"character?\" are both Frequently Asked Questions. Several FAQs refer readers"
+" to the Jargon File."
 msgstr ""
-
+"この用語集自体が、ある種の知識を集めたものの好例だが、通常のFAQ投稿としてはあまりに大きすぎる。例：「適切なNULLの型は何か?」や「あの ``#``"
+" という文字の変わった名前は何か?」はどちらもFrequently Asked Questionである。いくつかのFAQは読者をJargon "
+"Fileへと案内している。"

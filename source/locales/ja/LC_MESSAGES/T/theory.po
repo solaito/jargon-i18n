@@ -8,35 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/theory.rst:5
 msgid "theory"
-msgstr ""
+msgstr "theory"
 
 #: ../../T/theory.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../T/theory.rst:9
 msgid ""
-"The consensus, idea, plan, story, or set of rules that is currently being"
-" used to inform a behavior. This usage is a generalization and "
-"(deliberate) abuse of the technical meaning. \"What's the theory on "
-"fixing this TECO loss?\" \"What's the theory on dinner tonight?\" "
-"(\"Chinatown, I guess.\") \"What's the current theory on letting lusers "
-"on during the day?\" \"The theory behind this change is to fix the "
-"following well-known screw....\""
+"The consensus, idea, plan, story, or set of rules that is currently being "
+"used to inform a behavior. This usage is a generalization and (deliberate) "
+"abuse of the technical meaning. \"What's the theory on fixing this TECO "
+"loss?\" \"What's the theory on dinner tonight?\" (\"Chinatown, I guess.\") "
+"\"What's the current theory on letting lusers on during the day?\" \"The "
+"theory behind this change is to fix the following well-known screw....\""
 msgstr ""
-
+"ある振る舞いの指針とするために現在使われている、合意、考え、計画、筋書き、または規則の集合。この用法は技術的な意味の一般化であり(意図的な)乱用である。「このTECOの不具合を直す理論は?」「今夜の夕食の理論は?」(「チャイナタウンかな」)「日中にluserを入れることについての現在の理論は?」「この変更の背後にある理論は、以下のよく知られた失態を直すことだ…」。"

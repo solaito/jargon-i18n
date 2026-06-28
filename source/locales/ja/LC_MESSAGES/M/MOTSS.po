@@ -8,32 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/MOTSS.rst:5
 msgid "MOTSS"
-msgstr ""
+msgstr "MOTSS"
 
 #: ../../M/MOTSS.rst:7
 msgid "/mots/, /M·O·T·S·S/, n\\."
-msgstr ""
+msgstr "/mots/, /M·O·T·S·S/, 名詞"
 
 #: ../../M/MOTSS.rst:9
 msgid ""
-"[from the 1970 U.S. census forms via Usenet] Member Of The Same Sex, esp."
-" one considered as a possible sexual partner. The gay-issues newsgroup on"
-" Usenet is called :samp:`soc.motss`\\. See :ref:`MOTOS` and "
-":ref:`MOTAS`\\, which derive from it. See also :ref:`SO`\\."
+"[from the 1970 U.S. census forms via Usenet] Member Of The Same Sex, esp. "
+"one considered as a possible sexual partner. The gay-issues newsgroup on "
+"Usenet is called :samp:`soc.motss`\\. See :ref:`MOTOS` and :ref:`MOTAS`\\, "
+"which derive from it. See also :ref:`SO`\\."
 msgstr ""
-
+"[1970年の米国国勢調査票からUsenet経由]Member Of The Same "
+"Sex(同性のメンバー)。特に性的パートナーになりうると見なされる者。Usenetのゲイ問題のニュースグループは\\ "
+":samp:`soc.motss`\\ と呼ばれる。これに由来する\\ :ref:`MOTOS`\\ と\\ :ref:`MOTAS`\\ を参照。\\"
+" :ref:`SO`\\ も参照。"

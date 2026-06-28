@@ -8,22 +8,22 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../conventions.rst:5
 msgid "Other Lexicon Conventions"
-msgstr ""
+msgstr "その他のレキシコン上の慣例"
 
 #: ../../conventions.rst:7
 msgid ""
@@ -33,242 +33,252 @@ msgid ""
 "characters are sorted before A, except that leading dash is ignored. The "
 "case-blindness is a feature, not a bug."
 msgstr ""
+"エントリは、大文字小文字を区別しないASCIIの照合順序でソートされている(一般的な辞書でよく見られる、語間のスペースを無視した一字ずつの順序ではなく)。ただし、非アルファベット文字で始まるエントリはすべてAより前にソートされ、また先頭のダッシュは無視される。大文字小文字を区別しないのは仕様であって、バグではない。"
 
 #: ../../conventions.rst:10
 msgid ""
-"Prefix \\*\\* is used as linguists do; to mark examples of incorrect "
-"usage."
-msgstr ""
+"Prefix \\*\\* is used as linguists do; to mark examples of incorrect usage."
+msgstr "接頭辞\\ \\*\\*\\ は、言語学者がそうするように、誤用の例を示すために使われる。"
 
 #: ../../conventions.rst:12
 msgid ""
-"We follow the ‘logical’ quoting convention described in the Writing Style"
-" section above. In addition, we reserve double quotes for actual excerpts"
-" of text or (sometimes invented) speech. Scare quotes (which mark a word "
-"being used in a nonstandard way), and philosopher's quotes (which turn an"
-" utterance into the string of letters or words that name it) are both "
+"We follow the ‘logical’ quoting convention described in the Writing Style "
+"section above. In addition, we reserve double quotes for actual excerpts of "
+"text or (sometimes invented) speech. Scare quotes (which mark a word being "
+"used in a nonstandard way), and philosopher's quotes (which turn an "
+"utterance into the string of letters or words that name it) are both "
 "rendered with single quotes."
 msgstr ""
+"上記のWriting "
+"Styleの節で述べた‘論理的’な引用符の慣例に従う。加えて、二重引用符は実際のテキストの抜粋、あるいは(時に作り出された)発話のために取っておく。スケア・クォート(ある語が標準的でない用法で使われていることを示すもの)と哲学者の引用符(発話を、それを名指す文字列または語の列に変えるもの)は、いずれも一重引用符で表す。"
 
 #: ../../conventions.rst:16
 msgid ""
-"References such as :manpage:`malloc(3)` and :manpage:`patch(1)` are to "
-"Unix facilities (some of which, such as :manpage:`patch(1)`\\, are "
-"actually open source distributed over Usenet). The Unix manuals use "
-"``foo(n)`` to refer to item foo in section (``n``\\) of the manual, where"
-" ``n=1`` is utilities, ``n=2`` is system calls, ``n=3`` is C library "
-"routines, ``n=6`` is games, and ``n=8`` (where present) is system "
-"administration utilities. Sections 4, 5, and 7 of the manuals have "
-"changed roles frequently and in any case are not referred to in any of "
-"the entries."
+"References such as :manpage:`malloc(3)` and :manpage:`patch(1)` are to Unix "
+"facilities (some of which, such as :manpage:`patch(1)`\\, are actually open "
+"source distributed over Usenet). The Unix manuals use ``foo(n)`` to refer to"
+" item foo in section (``n``\\) of the manual, where ``n=1`` is utilities, "
+"``n=2`` is system calls, ``n=3`` is C library routines, ``n=6`` is games, "
+"and ``n=8`` (where present) is system administration utilities. Sections 4, "
+"5, and 7 of the manuals have changed roles frequently and in any case are "
+"not referred to in any of the entries."
 msgstr ""
+"\\ :manpage:`malloc(3)`\\ や\\ :manpage:`patch(1)`\\ "
+"のような参照は、Unixの機能を指す(そのうちのいくつか、たとえば\\ :manpage:`patch(1)`\\ "
+"などは、実際にUsenet上で配布されているオープンソースである)。Unixのマニュアルは、マニュアルのセクション(\\ ``n``\\ "
+")の項目fooを指すのに\\ ``foo(n)``\\ を用いる。ここで\\ ``n=1``\\ はユーティリティ、\\ ``n=2``\\ "
+"はシステムコール、\\ ``n=3``\\ はCライブラリルーチン、\\ ``n=6``\\ はゲーム、そして\\ ``n=8``\\ "
+"(存在する場合)はシステム管理ユーティリティである。マニュアルのセクション4、5、7は役割が頻繁に変わっており、いずれにせよどのエントリでも参照されていない。"
 
 #: ../../conventions.rst:20
-msgid "Various abbreviations used frequently in the lexicon are summarized here:"
-msgstr ""
+msgid ""
+"Various abbreviations used frequently in the lexicon are summarized here:"
+msgstr "レキシコンで頻繁に使われるさまざまな略語をここにまとめる。"
 
 #: ../../conventions.rst:22
 msgid "Abbreviations"
-msgstr ""
+msgstr "略語"
 
 #: ../../conventions.rst:25
 msgid "abbrev."
-msgstr ""
+msgstr "abbrev."
 
 #: ../../conventions.rst:26
 msgid "abbreviation"
-msgstr ""
+msgstr "abbreviation(略語)"
 
 #: ../../conventions.rst:27
 msgid "adj."
-msgstr ""
+msgstr "adj."
 
 #: ../../conventions.rst:28
 msgid "adjective"
-msgstr ""
+msgstr "adjective(形容詞)"
 
 #: ../../conventions.rst:29
 msgid "adv."
-msgstr ""
+msgstr "adv."
 
 #: ../../conventions.rst:30
 msgid "adverb"
-msgstr ""
+msgstr "adverb(副詞)"
 
 #: ../../conventions.rst:31
 msgid "alt."
-msgstr ""
+msgstr "alt."
 
 #: ../../conventions.rst:32
 msgid "alternate"
-msgstr ""
+msgstr "alternate(代替)"
 
 #: ../../conventions.rst:33
 msgid "cav."
-msgstr ""
+msgstr "cav."
 
 #: ../../conventions.rst:34
 msgid "caveat"
-msgstr ""
+msgstr "caveat(注意)"
 
 #: ../../conventions.rst:35
 msgid "conj."
-msgstr ""
+msgstr "conj."
 
 #: ../../conventions.rst:36
 msgid "conjunction"
-msgstr ""
+msgstr "conjunction(接続詞)"
 
 #: ../../conventions.rst:37
 msgid "esp."
-msgstr ""
+msgstr "esp."
 
 #: ../../conventions.rst:38
 msgid "especially"
-msgstr ""
+msgstr "especially(特に)"
 
 #: ../../conventions.rst:39
 msgid "excl."
-msgstr ""
+msgstr "excl."
 
 #: ../../conventions.rst:40
 msgid "exclamation"
-msgstr ""
+msgstr "exclamation(感嘆詞)"
 
 #: ../../conventions.rst:41
 msgid "imp."
-msgstr ""
+msgstr "imp."
 
 #: ../../conventions.rst:42
 msgid "imperative"
-msgstr ""
+msgstr "imperative(命令法)"
 
 #: ../../conventions.rst:43
 msgid "interj."
-msgstr ""
+msgstr "interj."
 
 #: ../../conventions.rst:44
 msgid "interjection"
-msgstr ""
+msgstr "interjection(間投詞)"
 
 #: ../../conventions.rst:45
 msgid "n\\."
-msgstr ""
+msgstr "n\\."
 
 #: ../../conventions.rst:46
 msgid "noun"
-msgstr ""
+msgstr "noun(名詞)"
 
 #: ../../conventions.rst:47
 msgid "obs."
-msgstr ""
+msgstr "obs."
 
 #: ../../conventions.rst:48
 msgid "obsolete"
-msgstr ""
+msgstr "obsolete(廃語)"
 
 #: ../../conventions.rst:49
 msgid "pl\\."
-msgstr ""
+msgstr "pl\\."
 
 #: ../../conventions.rst:50
 msgid "plural"
-msgstr ""
+msgstr "plural(複数)"
 
 #: ../../conventions.rst:51
 msgid "poss."
-msgstr ""
+msgstr "poss."
 
 #: ../../conventions.rst:52
 msgid "possibly"
-msgstr ""
+msgstr "possibly(おそらく)"
 
 #: ../../conventions.rst:53
 msgid "pref."
-msgstr ""
+msgstr "pref."
 
 #: ../../conventions.rst:54
 msgid "prefix"
-msgstr ""
+msgstr "prefix(接頭辞)"
 
 #: ../../conventions.rst:55
 msgid "prob."
-msgstr ""
+msgstr "prob."
 
 #: ../../conventions.rst:56
 msgid "probably"
-msgstr ""
+msgstr "probably(たぶん)"
 
 #: ../../conventions.rst:57
 msgid "prov."
-msgstr ""
+msgstr "prov."
 
 #: ../../conventions.rst:58
 msgid "proverbial"
-msgstr ""
+msgstr "proverbial(ことわざ的)"
 
 #: ../../conventions.rst:59
 msgid "quant."
-msgstr ""
+msgstr "quant."
 
 #: ../../conventions.rst:60
 msgid "quantifier"
-msgstr ""
+msgstr "quantifier(量化詞)"
 
 #: ../../conventions.rst:61
 msgid "suff."
-msgstr ""
+msgstr "suff."
 
 #: ../../conventions.rst:62
 msgid "suffix"
-msgstr ""
+msgstr "suffix(接尾辞)"
 
 #: ../../conventions.rst:63
 msgid "syn."
-msgstr ""
+msgstr "syn."
 
 #: ../../conventions.rst:64
 msgid "synonym (or synonymous with)"
-msgstr ""
+msgstr "synonym(同義語、または同義)"
 
 #: ../../conventions.rst:65
 msgid "v\\."
-msgstr ""
+msgstr "v\\."
 
 #: ../../conventions.rst:66
 msgid "verb (may be transitive or intransitive)"
-msgstr ""
+msgstr "verb(他動詞または自動詞でありうる)"
 
 #: ../../conventions.rst:67
 msgid "var."
-msgstr ""
+msgstr "var."
 
 #: ../../conventions.rst:68
 msgid "variant"
-msgstr ""
+msgstr "variant(変種)"
 
 #: ../../conventions.rst:69
 msgid "vi\\."
-msgstr ""
+msgstr "vi\\."
 
 #: ../../conventions.rst:70
 msgid "intransitive verb"
-msgstr ""
+msgstr "intransitive verb(自動詞)"
 
 #: ../../conventions.rst:71
 msgid "vt\\."
-msgstr ""
+msgstr "vt\\."
 
 #: ../../conventions.rst:72
 msgid "transitive verb"
-msgstr ""
+msgstr "transitive verb(他動詞)"
 
 #: ../../conventions.rst:74
 msgid ""
-"Where alternate spellings or pronunciations are given, *alt.* separates "
-"two possibilities with nearly equal distribution, while *var.* prefixes "
-"one that is markedly less common than the primary."
+"Where alternate spellings or pronunciations are given, *alt.* separates two "
+"possibilities with nearly equal distribution, while *var.* prefixes one that"
+" is markedly less common than the primary."
 msgstr ""
+"代替の綴りや発音が示されている場合、\\ *alt.*\\ はほぼ等しい分布をもつ二つの可能性を区切り、一方\\ *var.*\\ "
+"は主たるものよりも著しくありふれていない方の前に付く。"
 
 #: ../../conventions.rst:76
 msgid ""
@@ -276,261 +286,271 @@ msgid ""
 "have originated there, we have tried to so indicate. Here is a list of "
 "abbreviations used in etymologies:"
 msgstr ""
+"ある語が特定のサブカルチャーに帰せられる、あるいはそこで生まれたと知られている場合は、できるかぎりそれを示すように努めた。以下は語源の記述で使われる略語の一覧である。"
 
 #: ../../conventions.rst:79
 msgid "Origins"
-msgstr ""
+msgstr "起源"
 
 #: ../../conventions.rst:81
 msgid "Amateur Packet Radio"
-msgstr ""
+msgstr "Amateur Packet Radio"
 
 #: ../../conventions.rst:82
 msgid ""
-"A technical culture of ham-radio sites using AX.25 and TCP/IP for wide-"
-"area networking and BBS systems."
-msgstr ""
+"A technical culture of ham-radio sites using AX.25 and TCP/IP for wide-area "
+"networking and BBS systems."
+msgstr "広域ネットワークやBBSシステムのためにAX.25とTCP/IPを使う、アマチュア無線局の技術文化。"
 
 #: ../../conventions.rst:83
 msgid "Berkeley"
-msgstr ""
+msgstr "Berkeley"
 
 #: ../../conventions.rst:84
 msgid "University of California at Berkeley"
-msgstr ""
+msgstr "カリフォルニア大学バークレー校"
 
 #: ../../conventions.rst:85
 msgid "BBN"
-msgstr ""
+msgstr "BBN"
 
 #: ../../conventions.rst:86
 msgid "Bolt, Beranek & Newman"
-msgstr ""
+msgstr "Bolt, Beranek & Newman"
 
 #: ../../conventions.rst:87
 msgid "Cambridge"
-msgstr ""
+msgstr "Cambridge"
 
 #: ../../conventions.rst:88
 msgid ""
-"the university in England (*not* the city in Massachusetts where MIT "
-"happens to be located!)"
-msgstr ""
+"the university in England (*not* the city in Massachusetts where MIT happens"
+" to be located!)"
+msgstr "イングランドにある大学(MITがたまたま所在するマサチューセッツの都市の方では\\ *ない*\\ !)"
 
 #: ../../conventions.rst:89
 msgid "CMU"
-msgstr ""
+msgstr "CMU"
 
 #: ../../conventions.rst:90
 msgid "Carnegie-Mellon University"
-msgstr ""
+msgstr "カーネギーメロン大学"
 
 #: ../../conventions.rst:91
 msgid "Commodore"
-msgstr ""
+msgstr "Commodore"
 
 #: ../../conventions.rst:92
 msgid "Commodore Business Machines"
-msgstr ""
+msgstr "Commodore Business Machines"
 
 #: ../../conventions.rst:93
 msgid "DEC"
-msgstr ""
+msgstr "DEC"
 
 #: ../../conventions.rst:94
 msgid "The Digital Equipment Corporation (now HP)."
-msgstr ""
+msgstr "Digital Equipment Corporation(現在のHP)。"
 
 #: ../../conventions.rst:95
 msgid "Fairchild"
-msgstr ""
+msgstr "Fairchild"
 
 #: ../../conventions.rst:96
 msgid "The Fairchild Instruments Palo Alto development group"
-msgstr ""
+msgstr "Fairchild InstrumentsのPalo Alto開発グループ"
 
 #: ../../conventions.rst:97
 msgid "FidoNet"
-msgstr ""
+msgstr "FidoNet"
 
 #: ../../conventions.rst:98
 msgid "See the :ref:`FidoNet` entry"
-msgstr ""
+msgstr "\\ :ref:`FidoNet`\\ のエントリを参照"
 
 #: ../../conventions.rst:99
 msgid "IBM"
-msgstr ""
+msgstr "IBM"
 
 #: ../../conventions.rst:100
 msgid "International Business Machines"
-msgstr ""
+msgstr "International Business Machines"
 
 #: ../../conventions.rst:101
 msgid "MIT"
-msgstr ""
+msgstr "MIT"
 
 #: ../../conventions.rst:102
 msgid ""
-"Massachusetts Institute of Technology; esp. the legendary MIT AI Lab "
-"culture of roughly 1971 to 1983 and its feeder groups, including the Tech"
-" Model Railroad Club"
+"Massachusetts Institute of Technology; esp. the legendary MIT AI Lab culture"
+" of roughly 1971 to 1983 and its feeder groups, including the Tech Model "
+"Railroad Club"
 msgstr ""
+"マサチューセッツ工科大学。特におよそ1971年から1983年にかけての伝説的なMIT AI Labの文化と、Tech Model Railroad "
+"Clubを含むその母体となったグループ群"
 
 #: ../../conventions.rst:104
 msgid "NRL"
-msgstr ""
+msgstr "NRL"
 
 #: ../../conventions.rst:105
 msgid "Naval Research Laboratories"
-msgstr ""
+msgstr "海軍研究所"
 
 #: ../../conventions.rst:106
 msgid "NYU"
-msgstr ""
+msgstr "NYU"
 
 #: ../../conventions.rst:107
 msgid "New York University"
-msgstr ""
+msgstr "ニューヨーク大学"
 
 #: ../../conventions.rst:108
 msgid "OED"
-msgstr ""
+msgstr "OED"
 
 #: ../../conventions.rst:109
 msgid "The Oxford English Dictionary"
-msgstr ""
+msgstr "オックスフォード英語辞典"
 
 #: ../../conventions.rst:110
 msgid "Purdue"
-msgstr ""
+msgstr "Purdue"
 
 #: ../../conventions.rst:111
 msgid "Purdue University"
-msgstr ""
+msgstr "パデュー大学"
 
 #: ../../conventions.rst:112
 msgid "SAIL"
-msgstr ""
+msgstr "SAIL"
 
 #: ../../conventions.rst:113
 msgid "Stanford Artificial Intelligence Laboratory (at Stanford University)"
-msgstr ""
+msgstr "スタンフォード人工知能研究所(スタンフォード大学内)"
 
 #: ../../conventions.rst:114
 msgid "SI"
-msgstr ""
+msgstr "SI"
 
 #: ../../conventions.rst:115
 msgid ""
 "From Système International, the name for the standard abbreviations of "
 "metric nomenclature used in the sciences"
-msgstr ""
+msgstr "Système International、科学で使われるメートル法命名の標準略号の名称に由来"
 
 #: ../../conventions.rst:116
 msgid "Stanford"
-msgstr ""
+msgstr "Stanford"
 
 #: ../../conventions.rst:117
 msgid "Stanford University"
-msgstr ""
+msgstr "スタンフォード大学"
 
 #: ../../conventions.rst:118
 msgid "Sun"
-msgstr ""
+msgstr "Sun"
 
 #: ../../conventions.rst:119
 msgid "Sun Microsystems"
-msgstr ""
+msgstr "Sun Microsystems"
 
 #: ../../conventions.rst:120
 msgid "TMRC"
-msgstr ""
+msgstr "TMRC"
 
 #: ../../conventions.rst:121
 msgid ""
-"Some MITisms go back as far as the Tech Model Railroad Club (TMRC) at MIT"
-" c. 1960. Material marked TMRC is from *An Abridged Dictionaryof the TMRC"
-" Language*\\, originally compiled by Pete Samson in 1959"
+"Some MITisms go back as far as the Tech Model Railroad Club (TMRC) at MIT c."
+" 1960. Material marked TMRC is from *An Abridged Dictionaryof the TMRC "
+"Language*\\, originally compiled by Pete Samson in 1959"
 msgstr ""
+"一部のMIT流の言い回しは、1960年頃のMITのTech Model Railroad "
+"Club(TMRC)にまで遡る。TMRCと記された資料は、1959年にPete Samsonによってもともと編まれた\\ *An Abridged "
+"Dictionary of the TMRC Language*\\ に由来する"
 
 #: ../../conventions.rst:123
 msgid "UCLA"
-msgstr ""
+msgstr "UCLA"
 
 #: ../../conventions.rst:124
 msgid "University of California, Los Angeles"
-msgstr ""
+msgstr "カリフォルニア大学ロサンゼルス校"
 
 #: ../../conventions.rst:125
 msgid "UK"
-msgstr ""
+msgstr "UK"
 
 #: ../../conventions.rst:126
 msgid "the United Kingdom (England, Wales, Scotland, Northern Ireland)"
-msgstr ""
+msgstr "連合王国(イングランド、ウェールズ、スコットランド、北アイルランド)"
 
 #: ../../conventions.rst:127
 msgid "Usenet"
-msgstr ""
+msgstr "Usenet"
 
 #: ../../conventions.rst:128
 msgid "See the :ref:`Usenet` entry"
-msgstr ""
+msgstr "\\ :ref:`Usenet`\\ のエントリを参照"
 
 #: ../../conventions.rst:129
 msgid "WPI"
-msgstr ""
+msgstr "WPI"
 
 #: ../../conventions.rst:130
 msgid ""
-"Worcester Polytechnic Institute, site of a very active community of "
-"PDP-10 hackers during the 1970s"
-msgstr ""
+"Worcester Polytechnic Institute, site of a very active community of PDP-10 "
+"hackers during the 1970s"
+msgstr "ウースター工科大学。1970年代に非常に活発なPDP-10ハッカーのコミュニティがあった場所"
 
 #: ../../conventions.rst:131
 msgid "WWW"
-msgstr ""
+msgstr "WWW"
 
 #: ../../conventions.rst:132
 msgid "The World-Wide-Web."
-msgstr ""
+msgstr "World-Wide-Web。"
 
 #: ../../conventions.rst:133
 msgid "XEROX PARC"
-msgstr ""
+msgstr "XEROX PARC"
 
 #: ../../conventions.rst:134
 msgid ""
-"XEROX's Palo Alto Research Center, site of much pioneering research in "
-"user interface design and networking"
+"XEROX's Palo Alto Research Center, site of much pioneering research in user "
+"interface design and networking"
 msgstr ""
+"XEROXのPalo Alto Research Center、ユーザーインターフェース設計とネットワーキングにおける多くの先駆的研究が行われた場所"
 
 #: ../../conventions.rst:135
 msgid "Yale"
-msgstr ""
+msgstr "Yale"
 
 #: ../../conventions.rst:136
 msgid "Yale University"
-msgstr ""
+msgstr "イェール大学"
 
 #: ../../conventions.rst:138
 msgid ""
-"Other etymology abbreviations such as :ref:`Unix` and :ref:`PDP-10` refer"
-" to technical cultures surrounding specific operating systems, "
-"processors, or other environments. The fact that a term is labelled with "
-"any one of these abbreviations does not necessarily mean its use is "
-"confined to that culture. In particular, many terms labelled ‘MIT’ and "
-"‘Stanford’ are in quite general use. We have tried to give some "
-"indication of the distribution of speakers in the usage notes; however, a"
-" number of factors mentioned in the introduction conspire to make these "
-"indications less definite than might be desirable."
+"Other etymology abbreviations such as :ref:`Unix` and :ref:`PDP-10` refer to"
+" technical cultures surrounding specific operating systems, processors, or "
+"other environments. The fact that a term is labelled with any one of these "
+"abbreviations does not necessarily mean its use is confined to that culture."
+" In particular, many terms labelled ‘MIT’ and ‘Stanford’ are in quite "
+"general use. We have tried to give some indication of the distribution of "
+"speakers in the usage notes; however, a number of factors mentioned in the "
+"introduction conspire to make these indications less definite than might be "
+"desirable."
 msgstr ""
+"\\ :ref:`Unix`\\ や\\ :ref:`PDP-10`\\ "
+"といったその他の語源略語は、特定のオペレーティングシステム、プロセッサ、あるいはその他の環境を取り巻く技術文化を指す。ある語がこれらの略語のいずれかで標識されているからといって、その用法がその文化に限られるとは必ずしも限らない。とりわけ、‘MIT’や‘Stanford’と標識された多くの語は、かなり一般的に使われている。話者の分布についてはできるかぎり用法注で示そうとしたが、序論で触れたいくつかの要因が重なって、これらの示唆は望ましいほどには明確でなくなっている。"
 
 #: ../../conventions.rst:143
 msgid ""
-"A few new definitions attached to entries are marked [proposed]. These "
-"are usually generalizations suggested by editors or Usenet respondents in"
-" the process of commenting on previous definitions of those entries. "
-"These are *not* represented as established jargon."
+"A few new definitions attached to entries are marked [proposed]. These are "
+"usually generalizations suggested by editors or Usenet respondents in the "
+"process of commenting on previous definitions of those entries. These are "
+"*not* represented as established jargon."
 msgstr ""
-
+"エントリに付された新しい定義のいくつかには[proposed]と記されている。これらはたいてい、それらのエントリの以前の定義に注釈を付ける過程で、編集者やUsenetの回答者によって提案された一般化である。これらは確立されたジャーゴンとして表されているわけでは\\"
+" *ない*\\ 。"

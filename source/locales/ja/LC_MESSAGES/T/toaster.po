@@ -8,35 +8,37 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/toaster.rst:5
 msgid "toaster"
-msgstr ""
+msgstr "toaster"
 
 #: ../../T/toaster.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../T/toaster.rst:10
 msgid ""
 "The archetypal really stupid application for an embedded microprocessor "
-"controller; often used in comments that imply that a scheme is "
-"inappropriate technology (but see :ref:`elevator-controller`\\). \" "
-":ref:`DWIM` for an assembler? That'd be as silly as running Unix on your "
-"toaster!\""
+"controller; often used in comments that imply that a scheme is inappropriate"
+" technology (but see :ref:`elevator-controller`\\). \" :ref:`DWIM` for an "
+"assembler? That'd be as silly as running Unix on your toaster!\""
 msgstr ""
+"組み込みマイクロプロセッサコントローラの、典型的な本当に馬鹿げた応用。あるやり方が不適切な技術であることをほのめかすコメントでしばしば使われる(ただし\\"
+" :ref:`elevator-controller`\\ 参照)。「アセンブラのための\\ :ref:`DWIM`\\ "
+"?それはトースターでUnixを動かすのと同じくらい馬鹿げているだろう!」。"
 
 #: ../../T/toaster.rst:15
 msgid ""
@@ -44,22 +46,24 @@ msgid ""
 "toaster.\" See :ref:`bitty-box`\\, :ref:`Get-a-real-computer-`\\, "
 ":ref:`toy`\\, :ref:`beige-toaster`\\."
 msgstr ""
+"非常に、非常に頭の悪いコンピュータ。「このプログラムならどんな頭の悪いトースターでも動かせる」。\\ :ref:`bitty-box`\\ 、\\ "
+":ref:`Get-a-real-computer-`\\ 、\\ :ref:`toy`\\ 、\\ :ref:`beige-toaster`\\ "
+"参照。"
 
 #: ../../T/toaster.rst:20
 msgid ""
-"A Macintosh, esp. a Mac in the original unitary case. Some hold that this"
-" is implied by sense 2."
-msgstr ""
+"A Macintosh, esp. a Mac in the original unitary case. Some hold that this is"
+" implied by sense 2."
+msgstr "Macintosh、特に元の一体型ケースのMac。これは語義2に含意されると考える者もいる。"
 
 #: ../../T/toaster.rst:25
 msgid ""
-"A peripheral device. \"I bought my box without toasters, but since then "
-"I've added two boards and a second disk drive.\""
-msgstr ""
+"A peripheral device. \"I bought my box without toasters, but since then I've"
+" added two boards and a second disk drive.\""
+msgstr "周辺装置。「箱をトースターなしで買ったが、それ以来ボードを二枚と二台目のディスクドライブを追加した」。"
 
 #: ../../T/toaster.rst:29
 msgid ""
 "A specialized computer used as an appliance. See :ref:`web-toaster`\\, "
 ":ref:`video-toaster`\\."
-msgstr ""
-
+msgstr "家電として使われる専用コンピュータ。\\ :ref:`web-toaster`\\ 、\\ :ref:`video-toaster`\\ 参照。"

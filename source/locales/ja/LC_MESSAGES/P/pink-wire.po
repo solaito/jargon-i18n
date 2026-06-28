@@ -8,34 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/pink-wire.rst:5
 msgid "pink wire"
-msgstr ""
+msgstr "pink wire"
 
 #: ../../P/pink-wire.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../P/pink-wire.rst:9
 msgid ""
-"[from the pink PTFE wire used in military equipment] As :ref:`blue-"
-"wire`\\, but used in military applications."
-msgstr ""
+"[from the pink PTFE wire used in military equipment] As :ref:`blue-wire`\\, "
+"but used in military applications."
+msgstr "[軍用機器で使われるピンク色のPTFE線から]\\ :ref:`blue-wire`\\ と同様だが、軍事用途で使われるもの。"
 
 #: ../../P/pink-wire.rst:11
 msgid "vi\\. To add a pink wire to a board."
-msgstr ""
-
+msgstr "自動詞 ボードにpink wireを追加すること。"

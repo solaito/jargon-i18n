@@ -8,145 +8,150 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../koans.rst:5
 msgid "Some AI Koans"
-msgstr ""
+msgstr "いくつかのAI公案"
 
 #: ../../koans.rst:7
 msgid ""
-"These are some of the funniest examples of a genre of jokes told at the "
-"MIT AI Lab about various noted hackers. The original koans were composed "
-"by Danny Hillis, who would later found Connection Machines, Inc. In "
-"reading these, it is at least useful to know that Minsky, Sussman, and "
-"Drescher are AI researchers of note, that Tom Knight was one of the Lisp "
-"machine's principal designers, and that David Moon wrote much of Lisp "
-"Machine Lisp."
+"These are some of the funniest examples of a genre of jokes told at the MIT "
+"AI Lab about various noted hackers. The original koans were composed by "
+"Danny Hillis, who would later found Connection Machines, Inc. In reading "
+"these, it is at least useful to know that Minsky, Sussman, and Drescher are "
+"AI researchers of note, that Tom Knight was one of the Lisp machine's "
+"principal designers, and that David Moon wrote much of Lisp Machine Lisp."
 msgstr ""
+"これらは、MITのAI研究所で様々な著名なハッカーについて語られた、あるジャンルのジョークの中でも特におかしな例である。元の公案はDanny "
+"Hillisが作ったもので、彼は後にConnection Machines, "
+"Inc.を設立した。これらを読むにあたっては、少なくとも、Minsky、Sussman、Drescherが著名なAI研究者であること、Tom "
+"KnightがLispマシンの主要な設計者の一人であったこと、そしてDavid MoonがLisp Machine "
+"Lispの多くを書いたことを知っておくと役に立つ。"
 
 #: ../../koans.rst:13
 msgid "Tom Knight and the Lisp Machine"
-msgstr ""
+msgstr "Tom KnightとLispマシン"
 
 #: ../../koans.rst:15
 msgid ""
-"A novice was trying to fix a broken Lisp machine by turning the power off"
-" and on."
-msgstr ""
+"A novice was trying to fix a broken Lisp machine by turning the power off "
+"and on."
+msgstr "ある初心者が、電源を切ったり入れたりして、壊れたLispマシンを直そうとしていた。"
 
 #: ../../koans.rst:17
 msgid ""
-"Knight, seeing what the student was doing, spoke sternly: \"You cannot "
-"fix a machine by just power-cycling it with no understanding of what is "
-"going wrong.\""
+"Knight, seeing what the student was doing, spoke sternly: \"You cannot fix a"
+" machine by just power-cycling it with no understanding of what is going "
+"wrong.\""
 msgstr ""
+"Knightは、その学生が何をしているかを見て、厳しく言った。「何が悪いのかを理解せずに、ただ電源を入れ直すだけで機械を直すことはできない。」"
 
 #: ../../koans.rst:19
 msgid "Knight turned the machine off and on."
-msgstr ""
+msgstr "Knightは機械の電源を切り、また入れた。"
 
 #: ../../koans.rst:21
 msgid "The machine worked."
-msgstr ""
+msgstr "機械は動いた。"
 
 #: ../../koans.rst:25
 msgid "Moon instructs a student"
-msgstr ""
+msgstr "Moonが学生を諭す"
 
 #: ../../koans.rst:27
 msgid ""
-"One day a student came to Moon and said: \"I understand how to make a "
-"better garbage collector. We must keep a reference count of the pointers "
-"to each cons.\""
+"One day a student came to Moon and said: \"I understand how to make a better"
+" garbage collector. We must keep a reference count of the pointers to each "
+"cons.\""
 msgstr ""
+"ある日、一人の学生がMoonのところに来て言った。「より良いガベージコレクタの作り方が分かりました。それぞれのconsへのポインタの参照カウントを保持すればよいのです。」"
 
 #: ../../koans.rst:30
 msgid "Moon patiently told the student the following story:"
-msgstr ""
+msgstr "Moonは辛抱強く、その学生に次の話をした。"
 
 #: ../../koans.rst:38
 msgid ""
 "[Ed. note: Pure reference-count garbage collectors have problems with "
 "circular structures that point to themselves.]"
-msgstr ""
+msgstr "[編注:純粋な参照カウント方式のガベージコレクタは、自分自身を指す循環構造に問題を抱える。]"
 
 #: ../../koans.rst:43
 msgid "Sussman attains enlightenment"
-msgstr ""
+msgstr "Sussman、悟りを開く"
 
 #: ../../koans.rst:45
 msgid ""
 "In the days when Sussman was a novice, Minsky once came to him as he sat "
 "hacking at the PDP-6."
-msgstr ""
+msgstr "Sussmanがまだ初心者だったころ、彼がPDP-6でハッキングをしていたところへ、あるときMinskyがやって来た。"
 
 #: ../../koans.rst:47
 msgid "\"What are you doing? \", asked Minsky."
-msgstr ""
+msgstr "「何をしているのかね?」とMinskyは尋ねた。"
 
 #: ../../koans.rst:50
 msgid ""
-"\"I am training a randomly wired neural net to play Tic-Tac-Toe\" Sussman"
-" replied."
-msgstr ""
+"\"I am training a randomly wired neural net to play Tic-Tac-Toe\" Sussman "
+"replied."
+msgstr "「ランダムに配線したニューラルネットに、三目並べを覚えさせています」とSussmanは答えた。"
 
 #: ../../koans.rst:52
 msgid "\"Why is the net wired randomly? \", asked Minsky."
-msgstr ""
+msgstr "「なぜネットをランダムに配線するのかね?」とMinskyは尋ねた。"
 
 #: ../../koans.rst:55
 msgid ""
 "\"I do not want it to have any preconceptions of how to play\", Sussman "
 "said."
-msgstr ""
+msgstr "「打ち方について何の先入観も持たせたくないのです」とSussmanは言った。"
 
 #: ../../koans.rst:57
 msgid "Minsky then shut his eyes."
-msgstr ""
+msgstr "するとMinskyは目を閉じた。"
 
 #: ../../koans.rst:59
 msgid "\"Why do you close your eyes? \", Sussman asked his teacher."
-msgstr ""
+msgstr "「なぜ目を閉じるのですか?」とSussmanは師に尋ねた。"
 
 #: ../../koans.rst:62
 msgid "\"So that the room will be empty.\""
-msgstr ""
+msgstr "「部屋を空にするためだ。」"
 
 #: ../../koans.rst:64
 msgid "At that moment, Sussman was enlightened."
-msgstr ""
+msgstr "その瞬間、Sussmanは悟りを開いた。"
 
 #: ../../koans.rst:68
 msgid "Drescher and the toaster"
-msgstr ""
+msgstr "Drescherとトースター"
 
 #: ../../koans.rst:70
 msgid ""
 "A disciple of another sect once came to Drescher as he was eating his "
 "morning meal."
-msgstr ""
+msgstr "別の宗派の弟子が、あるときDrescherが朝食をとっているところへやって来た。"
 
 #: ../../koans.rst:72
 msgid ""
 "\"I would like to give you this personality test\", said the outsider, "
 "\"because I want you to be happy.\""
-msgstr ""
+msgstr "「あなたにこの性格テストを受けてほしいのです」とその部外者は言った。「あなたに幸せになってほしいからです。」"
 
 #: ../../koans.rst:74
 msgid ""
-"Drescher took the paper that was offered him and put it into the toaster,"
-" saying: \"I wish the toaster to be happy, too.\""
-msgstr ""
-
+"Drescher took the paper that was offered him and put it into the toaster, "
+"saying: \"I wish the toaster to be happy, too.\""
+msgstr "Drescherは差し出された紙を受け取り、それをトースターに入れて言った。「トースターにも幸せになってほしいものだ。」"

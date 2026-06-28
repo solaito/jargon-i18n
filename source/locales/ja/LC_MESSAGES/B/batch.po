@@ -8,43 +8,46 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/batch.rst:5
 msgid "batch"
-msgstr ""
+msgstr "batch"
 
 #: ../../B/batch.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../B/batch.rst:10
 msgid ""
-"Non-interactive. Hackers use this somewhat more loosely than the "
-"traditional technical definitions justify; in particular, switches on a "
-"normally interactive program that prepare it to receive non-interactive "
-"command input are often referred to as batch mode switches. A batch file "
-"is a series of instructions written to be handed to an interactive "
-"program running in batch mode."
+"Non-interactive. Hackers use this somewhat more loosely than the traditional"
+" technical definitions justify; in particular, switches on a normally "
+"interactive program that prepare it to receive non-interactive command input"
+" are often referred to as batch mode switches. A batch file is a series of "
+"instructions written to be handed to an interactive program running in batch"
+" mode."
 msgstr ""
+"非対話的。ハッカーはこれを伝統的な技術的定義が正当化する以上にいくぶん緩く使う。特に、通常は対話型のプログラムを非対話的なコマンド入力を受け取れるようにするスイッチは、しばしばbatch"
+" modeスイッチと呼ばれる。batchファイルは、batchモードで動く対話型プログラムに渡されるべく書かれた一連の命令である。"
 
 #: ../../B/batch.rst:15
 msgid ""
 "Performance of dreary tasks all at one sitting. \"I finally sat down in "
-"batch mode and wrote out checks for all those bills; I guess they'll turn"
-" the electricity back on next week...\""
+"batch mode and wrote out checks for all those bills; I guess they'll turn "
+"the electricity back on next week...\""
 msgstr ""
+"退屈な作業を一度に全部こなすこと。「ついに腰を据えてbatchモードであの請求書すべての小切手を書き上げた。来週には電気を再開してくれるだろう……」。"
 
 #: ../../B/batch.rst:18
 msgid ""
@@ -52,6 +55,8 @@ msgid ""
 "together for greater efficiency. \"I'm batching up those letters to send "
 "sometime\" \"I'm batching up bottles to take to the recycling center.\""
 msgstr ""
+"batching "
+"up(ためておく):効率を上げるためにまとめられる多数の小さな作業の蓄積。「いつか送る手紙をbatchしている」「リサイクルセンターに持っていく瓶をbatchしている」。"
 
 #: ../../B/batch.rst:26
 msgid ""
@@ -59,4 +64,5 @@ msgid ""
 ":ref:`76-03-17:5-8<crunchly-5678>`\\. The previous one is         "
 ":ref:`76-02-14<crunchly76-02-14>`\\.)"
 msgstr ""
-
+"(Crunchlyの物語の次の漫画は\\ :ref:`76-03-17:5-8<crunchly-5678>`\\ 。前の漫画は\\ "
+":ref:`76-02-14<crunchly76-02-14>`\\ 。)"

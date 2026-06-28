@@ -8,33 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../H/hack-up.rst:5
 msgid "hack up"
-msgstr ""
+msgstr "hack up"
 
 #: ../../H/hack-up.rst:7
 msgid "vt\\."
-msgstr ""
+msgstr "他動詞"
 
 #: ../../H/hack-up.rst:9
 msgid ""
-"To :ref:`hack`\\, but generally implies that the result is a hack in "
-"sense 1 (a quick hack). Contrast this with :ref:`hack-on`\\. To hack up "
-"on implies a :ref:`quick-and-dirty` modification to an existing system. "
-"Contrast :ref:`hacked-up`\\; compare :ref:`kluge-up`\\, :ref:`monkey-"
-"up`\\, :ref:`cruft-together`\\."
+"To :ref:`hack`\\, but generally implies that the result is a hack in sense 1"
+" (a quick hack). Contrast this with :ref:`hack-on`\\. To hack up on implies "
+"a :ref:`quick-and-dirty` modification to an existing system. Contrast "
+":ref:`hacked-up`\\; compare :ref:`kluge-up`\\, :ref:`monkey-up`\\, "
+":ref:`cruft-together`\\."
 msgstr ""
-
+"\\ :ref:`hack`\\ することだが、一般に結果が語義1のハック(手早いハック)であることを含意する。これを\\ :ref:`hack-"
+"on`\\ と対比せよ。To hack up onは既存のシステムへの\\ :ref:`quick-and-dirty`\\ な変更を含意する。\\ "
+":ref:`hacked-up`\\ と対照せよ。\\ :ref:`kluge-up`\\ 、\\ :ref:`monkey-up`\\ 、\\ "
+":ref:`cruft-together`\\ と比較せよ。"

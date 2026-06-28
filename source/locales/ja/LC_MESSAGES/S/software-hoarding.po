@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/software-hoarding.rst:5
 msgid "software hoarding"
-msgstr ""
+msgstr "software hoarding"
 
 #: ../../S/software-hoarding.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/software-hoarding.rst:9
 msgid ""
-"Pejorative term employed by members and adherents of the :ref:`GNU` "
-"project to describe the act of holding software proprietary, keeping it "
-"under trade secret or license terms which prohibit free redistribution "
-"and modification. Used primarily in Free Software Foundation propaganda. "
-"For a summary of related issues, see :ref:`GNU` and :ref:`free-"
-"software`\\."
+"Pejorative term employed by members and adherents of the :ref:`GNU` project "
+"to describe the act of holding software proprietary, keeping it under trade "
+"secret or license terms which prohibit free redistribution and modification."
+" Used primarily in Free Software Foundation propaganda. For a summary of "
+"related issues, see :ref:`GNU` and :ref:`free-software`\\."
 msgstr ""
-
+":ref:`GNU`\\ "
+"プロジェクトのメンバーや支持者が、ソフトウェアを独占的に保持し、自由な再頒布と改変を禁じる企業秘密やライセンス条項の下に置く行為を表すために用いる蔑称。主にFree"
+" Software Foundationのプロパガンダで使われる。関連する論点の要約については、\\ :ref:`GNU`\\ と\\ "
+":ref:`free-software`\\ を参照。"

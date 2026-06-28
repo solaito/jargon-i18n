@@ -8,37 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/ding.rst:5
 msgid "ding"
-msgstr ""
+msgstr "ding"
 
 #: ../../D/ding.rst:7
 msgid "n\\.,vi\\."
-msgstr ""
+msgstr "名詞・自動詞"
 
 #: ../../D/ding.rst:10
 msgid ""
-"Synonym for :ref:`feep`\\. Usage: rare among hackers, but more common in "
-"the :ref:`Real-World`\\."
-msgstr ""
+"Synonym for :ref:`feep`\\. Usage: rare among hackers, but more common in the"
+" :ref:`Real-World`\\."
+msgstr "\\ :ref:`feep`\\ の同義語。用法はハッカーの間ではまれだが、\\ :ref:`Real-World`\\ ではより一般的。"
 
 #: ../../D/ding.rst:13
 msgid ""
-"dinged: What happens when someone in authority gives you a minor bitching"
-" about something, esp. something trivial. \"I was dinged for having a "
-"messy desk.\""
-msgstr ""
-
+"dinged: What happens when someone in authority gives you a minor bitching "
+"about something, esp. something trivial. \"I was dinged for having a messy "
+"desk.\""
+msgstr "dinged：権威ある立場の誰かが、何か、特に些細なことについて軽い小言を言うときに起こること。「机が散らかっているとdingされた。」"

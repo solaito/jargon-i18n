@@ -8,45 +8,51 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../R/regexp.rst:5
 msgid "regexp"
-msgstr ""
+msgstr "regexp"
 
 #: ../../R/regexp.rst:7
 msgid "/reg´eksp/, n\\."
-msgstr ""
+msgstr "/reg´eksp/, 名詞"
 
 #: ../../R/regexp.rst:9
 msgid "[Unix] (alt. : regex or reg-ex)"
-msgstr ""
+msgstr "[Unix] (別表記: regexまたはreg-ex)"
 
 #: ../../R/regexp.rst:13
 msgid ""
-"Common written and spoken abbreviation for regular expression, one of the"
-" wildcard patterns used, e.g., by Unix utilities such as "
-":manpage:`grep(1)`\\, :manpage:`sed(1)`\\, and :manpage:`awk(1)`\\. These"
-" use conventions similar to but more elaborate than those described under"
-" :ref:`glob`\\. For purposes of this lexicon, it is sufficient to note "
-"that regexps also allow complemented character sets using ``^``\\; thus, "
-"one can specify ‘any non-alphabetic character’ with :code:`[^A-Za-z]`\\."
+"Common written and spoken abbreviation for regular expression, one of the "
+"wildcard patterns used, e.g., by Unix utilities such as "
+":manpage:`grep(1)`\\, :manpage:`sed(1)`\\, and :manpage:`awk(1)`\\. These "
+"use conventions similar to but more elaborate than those described under "
+":ref:`glob`\\. For purposes of this lexicon, it is sufficient to note that "
+"regexps also allow complemented character sets using ``^``\\; thus, one can "
+"specify ‘any non-alphabetic character’ with :code:`[^A-Za-z]`\\."
 msgstr ""
+"regular expression(正規表現)の、書き言葉と話し言葉でよく使われる略語。たとえば\\ :manpage:`grep(1)`\\ 、\\"
+" :manpage:`sed(1)`\\ 、\\ :manpage:`awk(1)`\\ "
+"といったUnixユーティリティが使うワイルドカードパターンの一つ。これらは\\ :ref:`glob`\\ "
+"の下で説明されているものと似ているが、より精巧な慣習を使う。この語彙集の目的には、regexpが\\ ``^``\\ "
+"を使って補集合の文字集合も可能にすることを指摘すれば十分である。したがって、\\ :code:`[^A-Za-z]`\\ "
+"で‘あらゆる非アルファベット文字’を指定できる。"
 
 #: ../../R/regexp.rst:18
 msgid ""
-"Name of a well-known PD regexp-handling package in portable C, written by"
-" revered Usenetter Henry Spencer."
+"Name of a well-known PD regexp-handling package in portable C, written by "
+"revered Usenetter Henry Spencer."
 msgstr ""
-
+"携帯性のあるCで書かれた、よく知られたPDのregexp処理パッケージの名前。崇敬されるUsenetterのHenry Spencerによって書かれた。"

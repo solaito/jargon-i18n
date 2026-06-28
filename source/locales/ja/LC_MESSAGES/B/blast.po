@@ -8,22 +8,22 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/blast.rst:5
 msgid "blast"
-msgstr ""
+msgstr "blast"
 
 #: ../../B/blast.rst:7
 msgid ""
@@ -31,11 +31,14 @@ msgid ""
 "network or comm line. Opposite of :ref:`snarf`\\. Usage: uncommon. The "
 "variant ‘blat’ has been reported."
 msgstr ""
+"動詞・名詞。\\ :ref:`BLT`\\ の同義語。特にネットワークや通信回線上での大きなデータ送信に使う。\\ :ref:`snarf`\\ "
+"の反対。用法:まれ。異形‘blat’も報告されている。"
 
 #: ../../B/blast.rst:14
 msgid ""
 "vt\\. [HP/Apollo] Synonymous with :ref:`nuke` (sense 3). Sometimes the "
-"message :code:`Unable to kill all processes. Blast them (y/n)?` would "
-"appear in the command window upon logout."
+"message :code:`Unable to kill all processes. Blast them (y/n)?` would appear"
+" in the command window upon logout."
 msgstr ""
-
+"他動詞。[HP/Apollo]\\ :ref:`nuke`\\ (語義3)と同義。ログアウト時に\\ :code:`Unable to kill all"
+" processes. Blast them (y/n)?`\\ というメッセージがコマンドウィンドウに現れることがあった。"

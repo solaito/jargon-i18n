@@ -8,34 +8,37 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/tune.rst:5
 msgid "tune"
-msgstr ""
+msgstr "tune"
 
 #: ../../T/tune.rst:7
 msgid "vt\\."
-msgstr ""
+msgstr "他動詞"
 
 #: ../../T/tune.rst:9
 msgid ""
 "[from automotive or musical usage] To optimize a program or system for a "
-"particular environment, esp. by adjusting numerical parameters designed "
-"as :ref:`hook`\\s for tuning, e.g., by changing :code:`#define` lines in "
-"C. One may tune for time (fastest execution), tune for space (least "
-"memory use), or tune for configuration (most efficient use of hardware). "
-"See :ref:`hot-spot`\\, :ref:`hand-hacking`\\."
+"particular environment, esp. by adjusting numerical parameters designed as "
+":ref:`hook`\\s for tuning, e.g., by changing :code:`#define` lines in C. One"
+" may tune for time (fastest execution), tune for space (least memory use), "
+"or tune for configuration (most efficient use of hardware). See :ref:`hot-"
+"spot`\\, :ref:`hand-hacking`\\."
 msgstr ""
-
+"[自動車や音楽の用法から]特定の環境向けにプログラムやシステムを最適化すること。特にチューニング用の\\ :ref:`hook`\\ "
+"として設計された数値パラメータを調整することによって。たとえばCの\\ :code:`#define`\\ "
+"行を変えることによって。時間のためにtuneする(最速の実行)、空間のためにtuneする(最小のメモリ使用)、または構成のためにtuneする(最も効率的なハードウェアの使用)ことができる。\\"
+" :ref:`hot-spot`\\ 、\\ :ref:`hand-hacking`\\ 参照。"

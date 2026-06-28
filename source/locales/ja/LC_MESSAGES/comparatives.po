@@ -8,36 +8,39 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../comparatives.rst:5
 msgid "Comparatives"
-msgstr ""
+msgstr "比較級"
 
 #: ../../comparatives.rst:7
 msgid ""
 "Finally, note that many words in hacker jargon have to be understood as "
-"members of sets of comparatives. This is especially true of the "
-"adjectives and nouns used to describe the beauty and functional quality "
-"of code. Here is an approximately correct spectrum:"
+"members of sets of comparatives. This is especially true of the adjectives "
+"and nouns used to describe the beauty and functional quality of code. Here "
+"is an approximately correct spectrum:"
 msgstr ""
+"最後に、ハッカージャーゴンの多くの語は、比較級の集合の一員として理解されねばならないことに注意せよ。これはコードの美しさと機能的な品質を記述するために使われる形容詞や名詞について特に当てはまる。ここにおおむね正しいスペクトルがある。"
 
 #: ../../comparatives.rst:11
 msgid ""
 "monstrosity brain-damage screw bug lose misfeature crock kluge hack win "
 "feature elegance perfection"
 msgstr ""
+"monstrosity brain-damage screw bug lose misfeature crock kluge hack win "
+"feature elegance perfection"
 
 #: ../../comparatives.rst:13
 msgid ""
@@ -45,23 +48,29 @@ msgid ""
 "actually attained. Another similar scale is used for describing the "
 "reliability of software:"
 msgstr ""
+"最後のものは、近似されるが実際には決して到達されない神話的な絶対として語られる。もう一つの似た尺度がソフトウェアの信頼性を記述するために使われる。"
 
 #: ../../comparatives.rst:16
-msgid "broken flaky dodgy fragile brittle solid robust bulletproof armor-plated"
+msgid ""
+"broken flaky dodgy fragile brittle solid robust bulletproof armor-plated"
 msgstr ""
+"broken flaky dodgy fragile brittle solid robust bulletproof armor-plated"
 
 #: ../../comparatives.rst:18
 msgid ""
-"Note, however, that ‘dodgy’ is primarily Commonwealth Hackish (it is rare"
-" in the U.S., where ‘squirrelly’ may be more common) and may change "
-"places with ‘flaky’ for some speakers."
+"Note, however, that ‘dodgy’ is primarily Commonwealth Hackish (it is rare in"
+" the U.S., where ‘squirrelly’ may be more common) and may change places with"
+" ‘flaky’ for some speakers."
 msgstr ""
+"ただし、‘dodgy’は主にCommonwealth "
+"Hackish(アメリカではまれで、そこでは‘squirrelly’のほうが一般的かもしれない)であり、一部の話者にとっては‘flaky’と入れ替わることがあることに注意せよ。"
 
 #: ../../comparatives.rst:20
 msgid ""
-"Coinages for describing :ref:`lossage` seem to call forth the very finest"
-" in hackish linguistic inventiveness; it has been truly said that hackers"
-" have even more words for equipment failures than Yiddish has for "
-"obnoxious people."
+"Coinages for describing :ref:`lossage` seem to call forth the very finest in"
+" hackish linguistic inventiveness; it has been truly said that hackers have "
+"even more words for equipment failures than Yiddish has for obnoxious "
+"people."
 msgstr ""
-
+"\\ :ref:`lossage`\\ "
+"を記述するための造語は、ハッカーの言語的創意の最も優れたものを呼び起こすようである。ハッカーは、イディッシュ語が不快な人々に対して持つよりも多くの語を、機器の故障に対して持っている、と本当に言われてきた。"

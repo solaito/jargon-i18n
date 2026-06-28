@@ -8,34 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/fairings.rst:5
 msgid "fairings"
-msgstr ""
+msgstr "fairings"
 
 #: ../../F/fairings.rst:7
 msgid "n\\., /fer´ingz/"
-msgstr ""
+msgstr "名詞, /fer´ingz/"
 
 #: ../../F/fairings.rst:9
 msgid ""
 "[FreeBSD; orig. a typo for fairness] A term thrown out in discussion "
 "whenever a completely and transparently nonsensical argument in one's "
-"favor(?) seems called for, e,g. at the end of a really long thread for "
-"which the outcome is no longer even cared about since everyone is now so "
-"sick of it; or in rebuttal to another nonsensical argument (\"Change the "
-"loader to look for /kernel.pl? What about fairings?\")"
+"favor(?) seems called for, e,g. at the end of a really long thread for which"
+" the outcome is no longer even cared about since everyone is now so sick of "
+"it; or in rebuttal to another nonsensical argument (\"Change the loader to "
+"look for /kernel.pl? What about fairings?\")"
 msgstr ""
-
+"[FreeBSD。元はfairnessのタイポ]自分に有利な、完全かつ明白に無意味な議論がどういうわけか求められるときに、議論の中に放り込まれる用語。たとえば、もう誰もが心底うんざりして結果などどうでもよくなった、本当に長いスレッドの終わりや、別の無意味な議論への反論として使われる(「ローダを変えて/kernel.plを探すようにする?fairingsはどうなんだ?」)。"

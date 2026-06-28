@@ -8,26 +8,27 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/bodge.rst:5
 msgid "bodge"
-msgstr ""
+msgstr "bodge"
 
 #: ../../B/bodge.rst:7
 msgid ""
-"[Commonwealth hackish] Syn. :ref:`kludge` or :ref:`hack` (sense 1). "
-"\"I'll bodge this in now and fix it later\"."
+"[Commonwealth hackish] Syn. :ref:`kludge` or :ref:`hack` (sense 1). \"I'll "
+"bodge this in now and fix it later\"."
 msgstr ""
-
+"[Commonwealth hackish]\\ :ref:`kludge`\\ または\\ :ref:`hack`\\ "
+"(語義1)の同義語。「今はこれをbodgeしておいて、あとで直すよ」。"

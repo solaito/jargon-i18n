@@ -8,33 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/Formosas-Law.rst:5
 msgid "Formosa's Law"
-msgstr ""
+msgstr "Formosa's Law"
 
 #: ../../F/Formosas-Law.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../F/Formosas-Law.rst:9
 msgid ""
-"\"The truly insane have enough on their plates without us adding to it.\""
-" That is, flaming someone with an obvious mental problem can't make it "
-"any better. Most often cited on `alt.usenet.kooks "
-"<news:alt.usenet.kooks>`_\\  as a reason *not* to issue a Kook-of the-"
-"Month Award; often cited as a companion to :ref:`Godwins-Law`\\."
+"\"The truly insane have enough on their plates without us adding to it.\" "
+"That is, flaming someone with an obvious mental problem can't make it any "
+"better. Most often cited on `alt.usenet.kooks <news:alt.usenet.kooks>`_\\  "
+"as a reason *not* to issue a Kook-of the-Month Award; often cited as a "
+"companion to :ref:`Godwins-Law`\\."
 msgstr ""
-
+"「本物の狂人は、我々が付け加えるまでもなく、すでに十分に手いっぱいなのだ」。つまり、明らかに精神に問題がある人を炎上させても、事態はちっとも良くならない、ということ。最もよく引用されるのは"
+" `alt.usenet.kooks <news:alt.usenet.kooks>`_\\ で、Kook-of-the-Month Awardを\\ "
+"*出さない*\\ 理由として挙げられる。\\ :ref:`Godwins-Law`\\ の相棒としてもよく引用される。"

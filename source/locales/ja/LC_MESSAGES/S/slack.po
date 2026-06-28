@@ -8,44 +8,47 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/slack.rst:5
 msgid "slack"
-msgstr ""
+msgstr "slack"
 
 #: ../../S/slack.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/slack.rst:10
 msgid ""
 "Space allocated to a disk file but not actually used to store useful "
-"information. The techspeak equivalent is ‘internal fragmentation’. "
-"Antonym: :ref:`hole`\\."
+"information. The techspeak equivalent is ‘internal fragmentation’. Antonym: "
+":ref:`hole`\\."
 msgstr ""
+"ディスクファイルに割り当てられているが、実際には有用な情報を格納するのに使われていない領域。techspeakでの等価表現は‘internal "
+"fragmentation(内部断片化)’。反意語: :ref:`hole`\\ 。"
 
 #: ../../S/slack.rst:15
 msgid ""
 "In the theology of the :ref:`Church-of-the-SubGenius`\\, a mystical "
 "substance or quality that is the prerequisite of all human happiness."
-msgstr ""
+msgstr ":ref:`Church-of-the-SubGenius`\\ の神学において、あらゆる人間の幸福の前提条件である神秘的な物質または性質。"
 
 #: ../../S/slack.rst:17
 msgid ""
-"Since Unix files are stored compactly, except for the unavoidable wastage"
-" in the last block or fragment, it might be said that \"Unix has no "
-"slack\". See :ref:`ha-ha-only-serious`\\."
+"Since Unix files are stored compactly, except for the unavoidable wastage in"
+" the last block or fragment, it might be said that \"Unix has no slack\". "
+"See :ref:`ha-ha-only-serious`\\."
 msgstr ""
-
+"Unixのファイルは、最後のブロックやフラグメントでの避けられない無駄を除けばコンパクトに格納されるので、「Unixにはslackがない」と言えるかもしれない。\\"
+" :ref:`ha-ha-only-serious`\\ を参照。"

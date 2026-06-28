@@ -8,47 +8,51 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../U/Unix-weenie.rst:5
 msgid "Unix weenie"
-msgstr ""
+msgstr "Unix weenie"
 
 #: ../../U/Unix-weenie.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../U/Unix-weenie.rst:9
 msgid "[ITS]"
-msgstr ""
+msgstr "[ITS]"
 
 #: ../../U/Unix-weenie.rst:12
 msgid ""
 "A derogatory play on ‘Unix wizard’, common among hackers who use Unix by "
-"necessity but would prefer alternatives. The implication is that although"
-" the person in question may consider mastery of Unix arcana to be a "
-"wizardly skill, the only real skill involved is the ability to tolerate "
-"(and the bad taste to wallow in) the incoherence and needless complexity "
-"that is alleged to infest many Unix programs. \"This shell script tries "
-"to parse its arguments in 69 bletcherous ways. It must have been written "
-"by a real Unix weenie.\""
+"necessity but would prefer alternatives. The implication is that although "
+"the person in question may consider mastery of Unix arcana to be a wizardly "
+"skill, the only real skill involved is the ability to tolerate (and the bad "
+"taste to wallow in) the incoherence and needless complexity that is alleged "
+"to infest many Unix programs. \"This shell script tries to parse its "
+"arguments in 69 bletcherous ways. It must have been written by a real Unix "
+"weenie.\""
 msgstr ""
+"‘Unix "
+"wizard’をもじった軽蔑的な言い回しで、必要に迫られてUnixを使うが代替手段を好むであろうハッカーの間で一般的。その含意は、当人はUnixの難解な知識の習得を魔法使い的な技能と見なしているかもしれないが、実際に関わっている唯一の技能は、多くのUnixプログラムにはびこっているとされる支離滅裂さや無用な複雑さに耐える(そしてその中で転げ回る悪趣味な)能力だけだ、というものである。「このシェルスクリプトは引数を69通りの不快なやり方で解析しようとする。本物のUnix"
+" weenieが書いたに違いない。」"
 
 #: ../../U/Unix-weenie.rst:18
 msgid ""
-"A derogatory term for anyone who engages in uncritical praise of Unix. "
-"Often appearing in the context \"stupid Unix weenie\". See "
-":ref:`Weenix`\\, :ref:`Unix-conspiracy`\\. See also :ref:`weenie`\\."
+"A derogatory term for anyone who engages in uncritical praise of Unix. Often"
+" appearing in the context \"stupid Unix weenie\". See :ref:`Weenix`\\, "
+":ref:`Unix-conspiracy`\\. See also :ref:`weenie`\\."
 msgstr ""
-
+"Unixを無批判に賞賛する者すべてを指す軽蔑的な語。しばしば「stupid Unix weenie」という文脈で現れる。\\ "
+":ref:`Weenix`\\ 、\\ :ref:`Unix-conspiracy`\\ を参照。\\ :ref:`weenie`\\ も参照。"

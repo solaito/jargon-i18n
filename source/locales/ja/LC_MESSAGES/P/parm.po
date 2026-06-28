@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/parm.rst:5
 msgid "parm"
-msgstr ""
+msgstr "parm"
 
 #: ../../P/parm.rst:7
 msgid "/parm/, n\\."
-msgstr ""
+msgstr "/parm/, 名詞"
 
 #: ../../P/parm.rst:9
 msgid ""
@@ -36,4 +36,6 @@ msgid ""
 "widely distributed, but the synonym :ref:`arg` is favored among hackers. "
 "Compare :ref:`arg`\\, :ref:`var`\\."
 msgstr ""
-
+"\\ :ref:`param`\\ "
+"をさらに圧縮した形。この用語はIBM語法であり、IBMの職場の外で書かれて使われることはほとんど知られていない。話し言葉の/parm/はもっと広く分布しているが、ハッカーの間では同義語の\\"
+" :ref:`arg`\\ のほうが好まれる。\\ :ref:`arg`\\ 、\\ :ref:`var`\\ と比較せよ。"

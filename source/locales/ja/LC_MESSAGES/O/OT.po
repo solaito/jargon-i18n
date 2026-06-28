@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../O/OT.rst:5
 msgid "OT"
-msgstr ""
+msgstr "OT"
 
 #: ../../O/OT.rst:7
 msgid "//"
-msgstr ""
+msgstr "//"
 
 #: ../../O/OT.rst:9
 msgid ""
-"[Usenet: common] Abbreviation for \"off-topic\". This is used to respond "
-"to a question that is inappropriate for the newsgroup that the questioner"
-" posted to. Often used in an HTML-style modifier or with adverbs. See "
-"also :ref:`TAN`\\."
+"[Usenet: common] Abbreviation for \"off-topic\". This is used to respond to "
+"a question that is inappropriate for the newsgroup that the questioner "
+"posted to. Often used in an HTML-style modifier or with adverbs. See also "
+":ref:`TAN`\\."
 msgstr ""
-
+"[Usenet: 一般的] \"off-"
+"topic\"の略語。質問者が投稿したニュースグループにふさわしくない質問に応えるのに使われる。しばしばHTML風の修飾子の中で、または副詞とともに使われる。\\"
+" :ref:`TAN`\\ も参照。"

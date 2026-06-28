@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/source-of-all-good-bits.rst:5
 msgid "source of all good bits"
-msgstr ""
+msgstr "source of all good bits"
 
 #: ../../S/source-of-all-good-bits.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/source-of-all-good-bits.rst:9
 msgid ""
 "A person from whom (or a place from which) useful information may be "
-"obtained. If you need to know about a program, a :ref:`guru` might be the"
-" source of all good bits. The title is often applied to a particularly "
+"obtained. If you need to know about a program, a :ref:`guru` might be the "
+"source of all good bits. The title is often applied to a particularly "
 "competent secretary."
 msgstr ""
-
+"有用な情報が得られる人物(または場所)。あるプログラムについて知る必要があるなら、\\ :ref:`guru`\\ が source of all "
+"good bits かもしれない。この称号は、とくに有能な秘書にしばしば当てはめられる。"

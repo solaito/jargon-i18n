@@ -8,53 +8,55 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/ponytail.rst:5
 msgid "ponytail"
-msgstr ""
+msgstr "ponytail"
 
 #: ../../P/ponytail.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../P/ponytail.rst:10
 msgid ""
-"A hairstyle in which long hair is held back so as to hang down like a "
-"pony's tail."
-msgstr ""
+"A hairstyle in which long hair is held back so as to hang down like a pony's"
+" tail."
+msgstr "長い髪をポニーの尾のように後ろに垂らして留めた髪型。"
 
 #: ../../P/ponytail.rst:13
 msgid ""
-"A descriptive term for a man having a ponytail hairstyle, or such "
-"character traits as might be associated with having a ponytail, eg: "
-"effeminacy, narcissism, undue concern with fashion etc."
+"A descriptive term for a man having a ponytail hairstyle, or such character "
+"traits as might be associated with having a ponytail, eg: effeminacy, "
+"narcissism, undue concern with fashion etc."
 msgstr ""
+"ポニーテールの髪型をした男、あるいは女々しさ、ナルシシズム、過度のファッションへの関心など、ポニーテールに関連づけられそうな性格的特徴を持つ男を表す言葉。"
 
 #: ../../P/ponytail.rst:16
 msgid ""
 "A general term used by hackers for 'creatives': advertising copywriters, "
-"graphic designers, video compositors, users characterised by a preference"
-" for the Macintosh, recreational drug use, and better sex lives than "
+"graphic designers, video compositors, users characterised by a preference "
+"for the Macintosh, recreational drug use, and better sex lives than "
 "programmers."
 msgstr ""
+"広告のコピーライター、グラフィックデザイナー、ビデオ合成担当者など、‘クリエイティブ’な人々をハッカーが指して使う一般的な言葉。Macintoshへの好み、嗜好品としての薬物使用、そしてプログラマよりよい性生活を特徴とするユーザ。"
 
 #: ../../P/ponytail.rst:19
 msgid ""
 "A derogatory term for web designers and other persons peripherally "
-"associated with IT projects, devoid of programming skills and dismissed "
-"as being concerned with visual presentation to the exclusion of actual "
+"associated with IT projects, devoid of programming skills and dismissed as "
+"being concerned with visual presentation to the exclusion of actual "
 "technical reality."
 msgstr ""
-
+"ITプロジェクトに周辺的に関わり、プログラミングのスキルを欠き、実際の技術的現実を除外して視覚的な見栄えにかまけているとして退けられる、ウェブデザイナーやその他の人々への侮蔑的な言葉。"

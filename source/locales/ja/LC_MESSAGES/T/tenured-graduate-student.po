@@ -8,34 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/tenured-graduate-student.rst:5
 msgid "tenured graduate student"
-msgstr ""
+msgstr "tenured graduate student"
 
 #: ../../T/tenured-graduate-student.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../T/tenured-graduate-student.rst:9
 msgid ""
-"One who has been in graduate school for 10 years (the usual maximum is 5 "
-"or 6): a ‘ten-yeared’ student (get it?). Actually, this term may be used "
-"of any grad student beginning in his seventh year. Students don't really "
-"get tenure, of course, the way professors do, but a tenth-year graduate "
-"student has probably been around the university longer than any untenured"
-" professor."
+"One who has been in graduate school for 10 years (the usual maximum is 5 or "
+"6): a ‘ten-yeared’ student (get it?). Actually, this term may be used of any"
+" grad student beginning in his seventh year. Students don't really get "
+"tenure, of course, the way professors do, but a tenth-year graduate student "
+"has probably been around the university longer than any untenured professor."
 msgstr ""
-
+"大学院に10年いる者(通常の上限は5年か6年):‘ten-"
+"yeared’学生(分かるかい?)。実際には、この用語は7年目に入ったあらゆる大学院生に使われることがある。もちろん学生は、教授がそうするようには本当にtenure(終身在職権)を得るわけではないが、10年目の大学院生はおそらく、終身在職権のないどの教授よりも長く大学にいたことになる。"

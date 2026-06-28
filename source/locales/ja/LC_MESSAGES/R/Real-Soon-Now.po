@@ -8,43 +8,44 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../R/Real-Soon-Now.rst:5
 msgid "Real Soon Now"
-msgstr ""
+msgstr "Real Soon Now"
 
 #: ../../R/Real-Soon-Now.rst:7
 msgid "adv\\."
-msgstr ""
+msgstr "副詞"
 
 #: ../../R/Real-Soon-Now.rst:9
 msgid ""
-"[orig. from SF's fanzine community, popularized by Jerry Pournelle's "
-"column in *BYTE*\\]"
-msgstr ""
+"[orig. from SF's fanzine community, popularized by Jerry Pournelle's column "
+"in *BYTE*\\]"
+msgstr "[元はSFのファンジンコミュニティから。Jerry PournelleのBYTE誌(\\ *BYTE*\\)のコラムによって広まった]"
 
 #: ../../R/Real-Soon-Now.rst:13
 msgid ""
 "Supposed to be available (or fixed, or cheap, or whatever) real soon now "
 "according to somebody, but the speaker is quite skeptical."
-msgstr ""
+msgstr "誰かによれば本当にもうすぐ利用可能になる(あるいは修正される、安くなる、その他何であれ)はずだが、話し手はかなり懐疑的である、という意。"
 
 #: ../../R/Real-Soon-Now.rst:16
 msgid ""
-"When one's gods, fates, or other time commitments permit one to get to it"
-" (in other words, don't hold your breath). Often abbreviated RSN. Compare"
-" :ref:`copious-free-time`\\."
+"When one's gods, fates, or other time commitments permit one to get to it "
+"(in other words, don't hold your breath). Often abbreviated RSN. Compare "
+":ref:`copious-free-time`\\."
 msgstr ""
-
+"自分の神々、運命、その他の時間的責務がそれに取りかかることを許したとき(言い換えれば、期待しないで待て)。しばしばRSNと略される。\\ "
+":ref:`copious-free-time`\\ と比較せよ。"

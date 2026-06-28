@@ -8,34 +8,37 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/dentro.rst:5
 msgid "dentro"
-msgstr ""
+msgstr "dentro"
 
 #: ../../D/dentro.rst:7
 msgid "/den´troh/"
-msgstr ""
+msgstr "/den´troh/"
 
 #: ../../D/dentro.rst:9
 msgid ""
 "[ :ref:`demoscene`\\] Combination of :ref:`demo` (sense 4) and "
-":ref:`intro`\\. Other name mixings include intmo, dentmo etc. and are "
-"used usually when the authors are not quite sure whether the program is a"
-" :ref:`demo` or an :ref:`intro`\\. Special-purpose coinages like wedtro "
-"(some member of a group got married), invtro (invitation intro) etc. have"
-" also been sighted."
+":ref:`intro`\\. Other name mixings include intmo, dentmo etc. and are used "
+"usually when the authors are not quite sure whether the program is a "
+":ref:`demo` or an :ref:`intro`\\. Special-purpose coinages like wedtro (some"
+" member of a group got married), invtro (invitation intro) etc. have also "
+"been sighted."
 msgstr ""
-
+"[\\ :ref:`demoscene`\\ ] \\ :ref:`demo`\\ (語義4)と\\ :ref:`intro`\\ "
+"の組み合わせ。他の名前の混合にはintmo、dentmoなどがあり、通常は作者がそのプログラムが\\ :ref:`demo`\\ なのか\\ "
+":ref:`intro`\\ "
+"なのか確信が持てないときに使われる。wedtro(グループのメンバーの誰かが結婚した)、invtro(招待用のintro)などの特殊用途の造語も目撃されている。"

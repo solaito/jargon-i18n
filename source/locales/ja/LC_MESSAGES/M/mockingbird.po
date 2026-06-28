@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/mockingbird.rst:5
 msgid "mockingbird"
-msgstr ""
+msgstr "mockingbird"
 
 #: ../../M/mockingbird.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../M/mockingbird.rst:9
 msgid ""
@@ -36,4 +36,5 @@ msgid ""
 "while saving their responses (especially account IDs and passwords). A "
 "special case of :ref:`Trojan-horse`\\."
 msgstr ""
-
+"ユーザーとホストの間の通信(特にログイン処理)を傍受し、ユーザーにシステムのような応答を提供しつつ、彼らの応答(特にアカウントIDとパスワード)を保存するソフトウェア。\\"
+" :ref:`Trojan-horse`\\ の特殊なケース。"

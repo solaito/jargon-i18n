@@ -8,29 +8,28 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/blogrolling.rst:5
 msgid "blogrolling"
-msgstr ""
+msgstr "blogrolling"
 
 #: ../../B/blogrolling.rst:7
 msgid ""
-"[From the American political term ‘logrolling’, for supporting another's "
-"pet bill in the legislature in exchange for reciprocal support,] When you"
-" hotlink to other bloggers' blogs (and-or other bloggers' specific blog "
-"entries) in your blog, you are blogrolling. This is frequently "
-"reciprocal."
+"[From the American political term ‘logrolling’, for supporting another's pet"
+" bill in the legislature in exchange for reciprocal support,] When you "
+"hotlink to other bloggers' blogs (and-or other bloggers' specific blog "
+"entries) in your blog, you are blogrolling. This is frequently reciprocal."
 msgstr ""
-
+"[互いに支持し合う見返りに、議会で他人の肝いりの法案を支持することを指すアメリカの政治用語‘logrolling’から]自分のblogの中で、他のブロガーのblog(および/または他のブロガーの特定のblogエントリ)にホットリンクを張るとき、あなたはblogrollingしている。これはしばしば相互的である。"

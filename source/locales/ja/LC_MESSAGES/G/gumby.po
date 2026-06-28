@@ -8,50 +8,51 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/gumby.rst:5
 msgid "gumby"
-msgstr ""
+msgstr "gumby"
 
 #: ../../G/gumby.rst:7
 msgid "/guhm´bee/, n\\."
-msgstr ""
+msgstr "/guhm´bee/, 名詞"
 
 #: ../../G/gumby.rst:9
 msgid ""
-"[from a class of Monty Python characters, poss. with some influence from "
-"the 1960s claymation character]"
-msgstr ""
+"[from a class of Monty Python characters, poss. with some influence from the"
+" 1960s claymation character]"
+msgstr "[Monty Pythonのあるクラスのキャラクターより。おそらく1960年代のクレイアニメのキャラクターからの影響もある]"
 
 #: ../../G/gumby.rst:13
 msgid ""
-"An act of minor but conspicuous stupidity, often in gumby maneuver or "
-"pull a gumby."
-msgstr ""
+"An act of minor but conspicuous stupidity, often in gumby maneuver or pull a"
+" gumby."
+msgstr "ささいだが目立つ愚行。しばしばgumby maneuver(gumby作戦)やpull a gumby(gumbyをやらかす)の形で。"
 
 #: ../../G/gumby.rst:16
 msgid ""
 "[NRL] n. A bureaucrat, or other technical incompetent who impedes the "
 "progress of real work."
-msgstr ""
+msgstr "[NRL] 名詞 官僚、あるいは本物の仕事の進行を妨げる、その他の技術的に無能な人。"
 
 #: ../../G/gumby.rst:18
 msgid ""
-"adj. Relating to things typically associated with people in sense 2. "
-"(e.g. \"Ran would be writing code, but Richard gave him gumby work that's"
-" due on Friday\", or, \"Dammit! Travel screwed up my plane tickets. I "
-"have to go out on gumby patrol.\")"
+"adj. Relating to things typically associated with people in sense 2. (e.g. "
+"\"Ran would be writing code, but Richard gave him gumby work that's due on "
+"Friday\", or, \"Dammit! Travel screwed up my plane tickets. I have to go out"
+" on gumby patrol.\")"
 msgstr ""
-
+"形容詞 "
+"語義2の人々と典型的に結びつくものに関連する。(たとえば「Ranはコードを書いているはずなんだが、Richardが金曜締め切りのgumbyな仕事を彼に与えた」とか、「くそっ!出張部門が私の航空券をめちゃくちゃにした。gumbyパトロールに出なきゃならん」)"

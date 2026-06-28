@@ -8,30 +8,30 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../L/lase.rst:5
 msgid "lase"
-msgstr ""
+msgstr "lase"
 
 #: ../../L/lase.rst:7
 msgid "/layz/, vt\\."
-msgstr ""
+msgstr "/layz/, 他動詞"
 
 #: ../../L/lase.rst:9
 msgid ""
-"To print a given document via a laser printer. \"OK, let's lase that "
-"sucker and see if all those graphics-macro calls did the right things.\""
+"To print a given document via a laser printer. \"OK, let's lase that sucker "
+"and see if all those graphics-macro calls did the right things.\""
 msgstr ""
-
+"ある文書をレーザープリンタで印刷すること。「よし、あいつをlaseして、あのグラフィックスマクロ呼び出しが全部ちゃんと動いたか見てみよう。」"

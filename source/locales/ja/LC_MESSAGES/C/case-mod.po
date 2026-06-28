@@ -8,42 +8,43 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/case-mod.rst:5
 msgid "case mod"
-msgstr ""
+msgstr "case mod"
 
 #: ../../C/case-mod.rst:7
 msgid "[from ‘case modification’]"
-msgstr ""
+msgstr "[‘case modification(ケース改造)’から]"
 
 #: ../../C/case-mod.rst:10
 msgid ""
 "Originally a kind of hardware hack on a PC intended to support "
-":ref:`overclock` (e.g. with cutouts for oversized fans, or a freon-based "
-"or water-cooling system)."
+":ref:`overclock` (e.g. with cutouts for oversized fans, or a freon-based or "
+"water-cooling system)."
 msgstr ""
+"元々は、\\ :ref:`overclock`\\ "
+"をサポートすることを意図したPC上のハードウェアハックの一種(たとえば特大ファン用の切り抜き、フロンベースや水冷システムを伴う)。"
 
 #: ../../C/case-mod.rst:14
 msgid ""
-"Nowadays, similar drastic surgery that's done just to make a machine look"
-" nifty. The commonest case mods combine acrylic case windows with LEDs to"
-" give the machine an eerie interior glow like a B-movie flying saucer. "
-"More advanced forms of case modding involve building machines into weird "
-"and unlikely shapes. The effect can be quite artistic, but one of the "
-"unwritten rules is that the machine must continue to function as a "
-"computer."
+"Nowadays, similar drastic surgery that's done just to make a machine look "
+"nifty. The commonest case mods combine acrylic case windows with LEDs to "
+"give the machine an eerie interior glow like a B-movie flying saucer. More "
+"advanced forms of case modding involve building machines into weird and "
+"unlikely shapes. The effect can be quite artistic, but one of the unwritten "
+"rules is that the machine must continue to function as a computer."
 msgstr ""
-
+"今日では、単にマシンを格好よく見せるためだけに行われる同様の思い切った手術。最も一般的なケース改造は、アクリルのケース窓とLEDを組み合わせて、B級映画の空飛ぶ円盤のような不気味な内部の輝きをマシンに与えるものです。より高度な形のケース改造には、マシンを奇妙でありえない形に作り込むことが含まれます。その効果はかなり芸術的になりえますが、暗黙の規則の一つは、マシンがコンピューターとして機能し続けなければならないということです。"

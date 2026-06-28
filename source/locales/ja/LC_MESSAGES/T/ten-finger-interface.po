@@ -8,31 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/ten-finger-interface.rst:5
 msgid "ten-finger interface"
-msgstr ""
+msgstr "ten-finger interface"
 
 #: ../../T/ten-finger-interface.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../T/ten-finger-interface.rst:9
 msgid ""
 "The interface between two networks that cannot be directly connected for "
-"security reasons; refers to the practice of placing two terminals side by"
-" side and having an operator read from one and type into the other."
+"security reasons; refers to the practice of placing two terminals side by "
+"side and having an operator read from one and type into the other."
 msgstr ""
-
+"セキュリティ上の理由で直接接続できない二つのネットワークの間のインターフェース。二台の端末を並べて置き、オペレーターが一方から読んで他方に打ち込むという慣行を指す。"

@@ -8,34 +8,37 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/control-S.rst:5
 msgid "control-S"
-msgstr ""
+msgstr "control-S"
 
 #: ../../C/control-S.rst:7
 msgid "vi\\."
-msgstr ""
+msgstr "自動詞"
 
 #: ../../C/control-S.rst:9
 msgid ""
 "\"Stop talking for a second.\" From the ASCII DC3 or XOFF character (the "
 "pronunciation /X-of/ is therefore also used). Control-S differs from "
 ":ref:`control-O` in that the person is asked to stop talking (perhaps "
-"because you are on the phone) but will be allowed to continue when you're"
-" ready to listen to him — as opposed to control-O, which has more of the "
+"because you are on the phone) but will be allowed to continue when you're "
+"ready to listen to him — as opposed to control-O, which has more of the "
 "meaning of \"Shut up.\" Considered silly."
 msgstr ""
-
+"「ちょっとしゃべるのをやめて」。ASCII DC3またはXOFF文字から(したがって発音/X-of/も使われます)。Control-Sが\\ "
+":ref:`control-O`\\ "
+"と異なるのは、(たぶんあなたが電話中だからという理由で)その人にしゃべるのをやめるよう頼むが、あなたが聞く準備ができたら続けてよいという点です——「黙れ」という意味合いがより強いcontrol-"
+"Oとは対照的です。おどけたものとみなされます。"

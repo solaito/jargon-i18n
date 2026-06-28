@@ -8,30 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/POM.rst:5
 msgid "POM"
-msgstr ""
+msgstr "POM"
 
 #: ../../P/POM.rst:7
 msgid "/P·O·M/, n\\."
-msgstr ""
+msgstr "/P·O·M/, 名詞"
 
 #: ../../P/POM.rst:9
 msgid ""
-"Common abbreviation for :ref:`phase-of-the-moon`\\. Usage: usually in the"
-" phrase POM-dependent, which means :ref:`flaky`\\."
+"Common abbreviation for :ref:`phase-of-the-moon`\\. Usage: usually in the "
+"phrase POM-dependent, which means :ref:`flaky`\\."
 msgstr ""
-
+"\\ :ref:`phase-of-the-moon`\\ の一般的な略語。用例:通常POM-dependentという句で使われ、\\ "
+":ref:`flaky`\\ であることを意味する。"

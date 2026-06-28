@@ -8,35 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/gopher-hole.rst:5
 msgid "gopher hole"
-msgstr ""
+msgstr "gopher hole"
 
 #: ../../G/gopher-hole.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../G/gopher-hole.rst:10
 msgid "Any access to a :ref:`gopher`\\."
-msgstr ""
+msgstr "\\ :ref:`gopher`\\ への任意のアクセス。"
 
 #: ../../G/gopher-hole.rst:13
 msgid ""
-"[Amateur Packet Radio] The terrestrial analog of a :ref:`wormhole` (sense"
-" 2), from which this term was coined. A gopher hole links two amateur "
-"packet relays through some non-ham radio medium."
+"[Amateur Packet Radio] The terrestrial analog of a :ref:`wormhole` (sense "
+"2), from which this term was coined. A gopher hole links two amateur packet "
+"relays through some non-ham radio medium."
 msgstr ""
-
+"[アマチュアパケット無線] \\ :ref:`wormhole`\\ (語義2)の地上版で、この用語はそこから造られた。gopher "
+"holeは、非アマチュア無線の媒体を通じて二つのアマチュアパケット中継をつなぐ。"

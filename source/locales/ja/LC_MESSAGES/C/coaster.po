@@ -8,42 +8,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/coaster.rst:5
 msgid "coaster"
-msgstr ""
+msgstr "coaster"
 
 #: ../../C/coaster.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../C/coaster.rst:10
 msgid ""
-"Unuseable CD produced during failed attempt at writing to writeable or "
-"re-writeable CD media. Certainly related to the coaster-like shape of a "
-"CD, and the relative value of these failures. \"I made a lot of coasters "
-"before I got a good CD.\""
+"Unuseable CD produced during failed attempt at writing to writeable or re-"
+"writeable CD media. Certainly related to the coaster-like shape of a CD, and"
+" the relative value of these failures. \"I made a lot of coasters before I "
+"got a good CD.\""
 msgstr ""
+"書き込み可能または書き換え可能なCDメディアへの書き込みの失敗中に生み出された使用不能なCD。間違いなく、CDのコースターのような形状と、これらの失敗作の相対的な価値に関係しています。「いいCDを焼くまでにたくさんのコースターを作った」。"
 
 #: ../../C/coaster.rst:15
 msgid ""
-"Useless CDs received in the mail from the likes of AOL, MSN, CI$, "
-"Prodigy, ad nauseam."
-msgstr ""
+"Useless CDs received in the mail from the likes of AOL, MSN, CI$, Prodigy, "
+"ad nauseam."
+msgstr "AOL、MSN、CI$、Prodigyなどなどから郵便で送られてくる役立たずのCD。"
 
 #: ../../C/coaster.rst:17
 msgid "In the U.K., beermat is often used in these senses."
-msgstr ""
-
+msgstr "英国では、これらの意味でbeermat(ビールマット)がよく使われます。"

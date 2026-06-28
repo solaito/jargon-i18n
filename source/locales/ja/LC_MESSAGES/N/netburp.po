@@ -8,34 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../N/netburp.rst:5
 msgid "netburp"
-msgstr ""
+msgstr "netburp"
 
 #: ../../N/netburp.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../N/netburp.rst:9
 msgid ""
-"[IRC] When :ref:`netlag` gets really bad, and delays between servers "
-"exceed a certain threshold, the :ref:`IRC` network effectively becomes "
-"partitioned for a period of time, and large numbers of people seem to be "
-"signing off at the same time and then signing back on again when things "
-"get better. An instance of this is called a netburp (or, sometimes, "
-":ref:`netsplit`\\)."
+"[IRC] When :ref:`netlag` gets really bad, and delays between servers exceed "
+"a certain threshold, the :ref:`IRC` network effectively becomes partitioned "
+"for a period of time, and large numbers of people seem to be signing off at "
+"the same time and then signing back on again when things get better. An "
+"instance of this is called a netburp (or, sometimes, :ref:`netsplit`\\)."
 msgstr ""
-
+"[IRC] \\ :ref:`netlag`\\ が本当にひどくなり、サーバー間の遅延がある閾値を超えると、\\ :ref:`IRC`\\ "
+"ネットワークが一定期間事実上分断され、多数の人々が同時にサインオフし、状況が改善するとまた一斉にサインオンし直すように見える。この一例をnetburp(あるいは時に\\"
+" :ref:`netsplit`\\ )と呼ぶ。"

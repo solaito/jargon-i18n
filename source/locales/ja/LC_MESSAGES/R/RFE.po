@@ -8,35 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../R/RFE.rst:5
 msgid "RFE"
-msgstr ""
+msgstr "RFE"
 
 #: ../../R/RFE.rst:7
 msgid "/R·F·E/, n\\."
-msgstr ""
+msgstr "/R·F·E/, 名詞"
 
 #: ../../R/RFE.rst:10
 msgid "[techspeak] Request For Enhancement (compare :ref:`RFC`\\)."
-msgstr ""
+msgstr "[techspeak] Request For Enhancement(\\ :ref:`RFC`\\ と比較せよ)。"
 
 #: ../../R/RFE.rst:13
 msgid ""
-"[from ‘Radio Free Europe’, Bellcore and Sun] Radio Free Ethernet, a "
-"system (originated by Peter Langston) for broadcasting audio among Sun "
+"[from ‘Radio Free Europe’, Bellcore and Sun] Radio Free Ethernet, a system "
+"(originated by Peter Langston) for broadcasting audio among Sun "
 "SPARCstations over the ethernet."
 msgstr ""
-
+"[‘Radio Free Europe’から。BellcoreとSun] Radio Free Ethernet。Sun "
+"SPARCstation間でethernet越しに音声を放送する(Peter Langstonが考案した)システム。"

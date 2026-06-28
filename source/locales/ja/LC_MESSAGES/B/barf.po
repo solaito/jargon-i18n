@@ -8,36 +8,38 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/barf.rst:5
 msgid "barf"
-msgstr ""
+msgstr "barf"
 
 #: ../../B/barf.rst:7
 msgid "/barf/, n\\.,v\\."
-msgstr ""
+msgstr "/barf/, 名詞・動詞"
 
 #: ../../B/barf.rst:9
 msgid "[common; from mainstream slang meaning ‘vomit’]"
-msgstr ""
+msgstr "[一般的。‘嘔吐する’を意味する一般のスラングから]"
 
 #: ../../B/barf.rst:11
 msgid ""
 "interj. Term of disgust. This is the closest hackish equivalent of the "
 "Valspeak \"gag me with a spoon\". (Like, euwww!) See :ref:`bletch`\\."
 msgstr ""
+"間投詞。嫌悪を表す言葉。これはValspeak(谷ことば)の「gag me with a "
+"spoon(スプーンで吐かせて)」に最も近いハッカー語の相当語である。(うえっ、きしょ!)\\ :ref:`bletch`\\ を参照。"
 
 #: ../../B/barf.rst:17
 msgid ""
@@ -45,22 +47,26 @@ msgid ""
 "showed him my latest hack and he barfed\" means only that he complained "
 "about it, not that he literally vomited."
 msgstr ""
+"自動詞。「Barf!」と言う、あるいは同様の嫌悪の表現を発すること。「最新のハックを見せたら彼はbarfした」とは、彼が文句を言ったというだけのことで、文字どおり嘔吐したわけではない。"
 
 #: ../../B/barf.rst:22
 msgid ""
-"vi\\. To fail to work because of unacceptable input, perhaps with a "
-"suitable error message, perhaps not. Examples: \"The division operation "
-"barfs if you try to divide by 0.\" (That is, the division operation "
-"checks for an attempt to divide by zero, and if one is encountered it "
-"causes the operation to fail in some unspecified, but generally obvious, "
-"manner.) \"The text editor barfs if you try to read in a new file before "
-"writing out the old one.\""
+"vi\\. To fail to work because of unacceptable input, perhaps with a suitable"
+" error message, perhaps not. Examples: \"The division operation barfs if you"
+" try to divide by 0.\" (That is, the division operation checks for an "
+"attempt to divide by zero, and if one is encountered it causes the operation"
+" to fail in some unspecified, but generally obvious, manner.) \"The text "
+"editor barfs if you try to read in a new file before writing out the old "
+"one.\""
 msgstr ""
+"自動詞。受け入れがたい入力のせいで動作しなくなること。適切なエラーメッセージを伴うこともあれば、伴わないこともある。例:「除算操作は0で割ろうとするとbarfする」(すなわち、除算操作はゼロ除算の試みを検査し、見つかればその操作を、未指定だが概して明白な何らかの形で失敗させる)。「このテキストエディタは、古いファイルを書き出す前に新しいファイルを読み込もうとするとbarfする」。"
 
 #: ../../B/barf.rst:28
 msgid ""
-"See :ref:`choke`\\. In Commonwealth Hackish, barf is generally replaced "
-"by ‘puke’ or ‘vom’. :ref:`barf` is sometimes also used as a :ref"
-":`metasyntactic-variable`\\, like :ref:`foo` or :ref:`bar`\\."
+"See :ref:`choke`\\. In Commonwealth Hackish, barf is generally replaced by "
+"‘puke’ or ‘vom’. :ref:`barf` is sometimes also used as a "
+":ref:`metasyntactic-variable`\\, like :ref:`foo` or :ref:`bar`\\."
 msgstr ""
-
+"\\ :ref:`choke`\\ を参照。Commonwealth Hackishでは、barfは概して‘puke’や‘vom’に置き換えられる。\\"
+" :ref:`barf`\\ は時に、\\ :ref:`foo`\\ や\\ :ref:`bar`\\ のように\\ "
+":ref:`metasyntactic-variable`\\ としても使われる。"

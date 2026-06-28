@@ -8,37 +8,41 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../R/real-user.rst:5
 msgid "real user"
-msgstr ""
+msgstr "real user"
 
 #: ../../R/real-user.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../R/real-user.rst:10
-msgid "A commercial user. One who is paying *real* money for his computer usage."
-msgstr ""
+msgid ""
+"A commercial user. One who is paying *real* money for his computer usage."
+msgstr "商業ユーザー。自分のコンピュータ利用に\\ *本物の*\\ 金を払っている者。"
 
 #: ../../R/real-user.rst:14
 msgid ""
-"A non-hacker. Someone using the system for an explicit purpose (a "
-"research project, a course, etc.) other than pure exploration. See "
-":ref:`user`\\. Hackers who are also students may also be real users. \"I "
-"need this fixed so I can do a problem set. I'm not complaining out of "
-"randomness, but as a real user.\" See also :ref:`luser`\\."
+"A non-hacker. Someone using the system for an explicit purpose (a research "
+"project, a course, etc.) other than pure exploration. See :ref:`user`\\. "
+"Hackers who are also students may also be real users. \"I need this fixed so"
+" I can do a problem set. I'm not complaining out of randomness, but as a "
+"real user.\" See also :ref:`luser`\\."
 msgstr ""
-
+"非ハッカー。純粋な探求以外の明確な目的(研究プロジェクト、講座など)のためにシステムを使っている者。\\ :ref:`user`\\ "
+"を参照。学生でもあるハッカーは、real "
+"userでもありうる。「問題セットをこなせるように、これを直してもらう必要があるんだ。randomnessから文句を言っているんじゃない、real "
+"userとしてだ」。\\ :ref:`luser`\\ も参照。"

@@ -8,40 +8,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/condom.rst:5
 msgid "condom"
-msgstr ""
+msgstr "condom"
 
 #: ../../C/condom.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../C/condom.rst:10
 msgid ""
-"The protective plastic bag that accompanies 3.5-inch microfloppy "
-"diskettes. Rarely, also used of (paper) disk envelopes. Unlike the write "
-"protect tab, the condom (when left on) not only impedes the practice of "
-":ref:`SEX` but has also been shown to have a high failure rate as drive "
-"mechanisms attempt to access the disk — and can even fatally frustrate "
-"insertion."
+"The protective plastic bag that accompanies 3.5-inch microfloppy diskettes. "
+"Rarely, also used of (paper) disk envelopes. Unlike the write protect tab, "
+"the condom (when left on) not only impedes the practice of :ref:`SEX` but "
+"has also been shown to have a high failure rate as drive mechanisms attempt "
+"to access the disk — and can even fatally frustrate insertion."
 msgstr ""
+"3.5インチのマイクロフロッピーディスクに付属する保護用のプラスチック袋。まれに(紙の)ディスク封筒についても使われます。書き込み禁止タブと違い、condomは(付けたままだと)\\"
+" :ref:`SEX`\\ "
+"の実践を妨げるだけでなく、ドライブ機構がディスクにアクセスしようとする際に高い失敗率を示すことも証明されており、挿入を致命的に妨げることさえあります。"
 
 #: ../../C/condom.rst:15
 msgid "The protective cladding on a :ref:`light-pipe`\\."
-msgstr ""
+msgstr "\\ :ref:`light-pipe`\\ の保護被覆。"
 
 #: ../../C/condom.rst:17
 msgid ""
@@ -49,19 +51,24 @@ msgid ""
 "designed to provide some protection against dust and :ref:`programming-"
 "fluid` without impeding typing."
 msgstr ""
+"keyboard condom:キーボード用の柔軟で透明なプラスチックカバーで、タイピングを妨げずにほこりや\\ :ref:`programming-"
+"fluid`\\ からある程度保護するように設計されています。"
 
 #: ../../C/condom.rst:19
 msgid ""
-"elephant condom: the plastic shipping bags used inside cardboard boxes to"
-" protect hardware in transit."
-msgstr ""
+"elephant condom: the plastic shipping bags used inside cardboard boxes to "
+"protect hardware in transit."
+msgstr "elephant condom:輸送中にハードウェアを保護するために段ボール箱の中で使われるプラスチックの輸送用袋。"
 
 #: ../../C/condom.rst:21
 msgid ""
 "n\\. obs. A dummy directory /usr/tmp/sh, created to foil the :ref:`Great-"
-"Worm` by exploiting a portability bug in one of its parts. So named in "
-"the title of a :samp:`comp.risks` article by Gene Spafford during the "
-"Worm crisis, and again in the text of *The Internet Worm Program: An "
-"Analysis*\\, Purdue Technical Report CSD-TR-823."
+"Worm` by exploiting a portability bug in one of its parts. So named in the "
+"title of a :samp:`comp.risks` article by Gene Spafford during the Worm "
+"crisis, and again in the text of *The Internet Worm Program: An Analysis*\\,"
+" Purdue Technical Report CSD-TR-823."
 msgstr ""
-
+"名詞 廃語 \\ :ref:`Great-Worm`\\ "
+"を、その部品の一つにある移植性のバグを突いて阻止するために作られたダミーディレクトリ/usr/tmp/sh。Worm危機の最中にGene "
+"Spaffordが書いた :samp:`comp.risks`\\ の記事のタイトルで、また『The Internet Worm Program: An"
+" Analysis』(Purdue技術報告書CSD-TR-823)の本文でそう名付けられました。"

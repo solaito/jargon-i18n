@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/pessimizing-compiler.rst:5
 msgid "pessimizing compiler"
-msgstr ""
+msgstr "pessimizing compiler"
 
 #: ../../P/pessimizing-compiler.rst:7
 msgid "/pes'\\@·mi:z\\`ing k\\@m·pi:l´r/, n\\."
-msgstr ""
+msgstr "/pes'\\@·mi:z\\`ing k\\@m·pi:l´r/, 名詞"
 
 #: ../../P/pessimizing-compiler.rst:9
 msgid ""
-"[antonym of techspeak ‘optimizing compiler’] A compiler that produces "
-"object code that is worse than the straightforward or obvious hand "
-"translation. The implication is that the compiler is actually trying to "
-"optimize the program, but through excessive cleverness is doing the "
-"opposite. A few pessimizing compilers have been written on purpose, "
-"however, as pranks or burlesques."
+"[antonym of techspeak ‘optimizing compiler’] A compiler that produces object"
+" code that is worse than the straightforward or obvious hand translation. "
+"The implication is that the compiler is actually trying to optimize the "
+"program, but through excessive cleverness is doing the opposite. A few "
+"pessimizing compilers have been written on purpose, however, as pranks or "
+"burlesques."
 msgstr ""
-
+"[技術用語‘optimizing "
+"compiler’の反意語]素直で自明な手作業の翻訳より悪いオブジェクトコードを生成するコンパイラ。コンパイラは実際にはプログラムを最適化しようとしているのに、過度の小賢しさによって逆のことをしている、という含みがある。とはいえ、いくつかのpessimizing"
+" compilerは、悪ふざけや茶番として、わざと書かれた。"

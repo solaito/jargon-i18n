@@ -8,30 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../p-convention.rst:5
 msgid "The -P Convention"
-msgstr ""
+msgstr "-Pの慣例"
 
 #: ../../p-convention.rst:7
 msgid ""
-"Turning a word into a question by appending the syllable ‘P’; from the "
-"LISP convention of appending the letter ‘P’ to denote a predicate (a "
-"boolean-valued function). The question should expect a yes/no answer, "
-"though it needn't. (See :ref:`T` and :ref:`NIL`\\.)"
+"Turning a word into a question by appending the syllable ‘P’; from the LISP "
+"convention of appending the letter ‘P’ to denote a predicate (a boolean-"
+"valued function). The question should expect a yes/no answer, though it "
+"needn't. (See :ref:`T` and :ref:`NIL`\\.)"
 msgstr ""
+"音節‘P’を付け加えることで、語を疑問に変えること。述語(ブール値の関数)を表すために文字‘P’を付け加えるLISPの慣例に由来する。問いはyes/noの答えを期待すべきだが、そうでなくてもよい。(\\"
+" :ref:`T`\\ と\\ :ref:`NIL`\\ を参照。)"
 
 #: ../../p-convention.rst:27
 msgid ""
@@ -39,4 +41,6 @@ msgid ""
 "whether someone would like to share with him a two-person-sized bowl of "
 "soup. His inquiry was: \"Split-p soup?\" — GLS]"
 msgstr ""
-
+"[あるとき、私たちが中華料理店にいたとき、Bill "
+"Gosperは、二人前サイズのスープを自分と分け合いたい人がいるかどうかを知りたがった。彼の問い合わせはこうだった。「Split-p "
+"soup?(分けるか-pスープ?)」——GLS]"

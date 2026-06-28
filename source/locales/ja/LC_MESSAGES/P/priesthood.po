@@ -8,33 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/priesthood.rst:5
 msgid "priesthood"
-msgstr ""
+msgstr "priesthood"
 
 #: ../../P/priesthood.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../P/priesthood.rst:9
 msgid ""
 "[TMRC; obs.] The select group of system managers responsible for the "
-"operation and maintenance of a batch computer system. On these computers,"
-" a user never had direct access to a computer, but had to submit his/her "
-"data and programs to a priest for execution. Results were returned days "
-"or even weeks later."
+"operation and maintenance of a batch computer system. On these computers, a "
+"user never had direct access to a computer, but had to submit his/her data "
+"and programs to a priest for execution. Results were returned days or even "
+"weeks later."
 msgstr ""
-
+"[TMRC。廃語]バッチコンピュータシステムの運用と保守を担当する、選ばれたシステム管理者の集団。これらのコンピュータでは、ユーザはコンピュータに直接アクセスすることは決してなく、実行のために自分のデータとプログラムを司祭に提出しなければならなかった。結果は数日、あるいは数週間後に返された。"

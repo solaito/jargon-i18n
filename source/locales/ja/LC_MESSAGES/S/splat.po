@@ -8,53 +8,56 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/splat.rst:5
 msgid "splat"
-msgstr ""
+msgstr "splat"
 
 #: ../../S/splat.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/splat.rst:10
 msgid ""
-"Name used in many places (DEC, IBM, and others) for the asterisk "
-"(``*``\\) character (ASCII 0101010). This may derive from the ‘squashed-"
-"bug’ appearance of the asterisk on many early line printers."
+"Name used in many places (DEC, IBM, and others) for the asterisk (``*``\\) "
+"character (ASCII 0101010). This may derive from the ‘squashed-bug’ "
+"appearance of the asterisk on many early line printers."
 msgstr ""
+"アスタリスク(\\ ``*``\\ )文字(ASCII "
+"0101010)を指して、多くの場所(DEC、IBMなど)で使われる名前。これはおそらく、多くの初期のラインプリンタでのアスタリスクの‘押しつぶされた虫’のような見た目に由来する。"
 
 #: ../../S/splat.rst:14
-msgid "[MIT] Name used by some people for the ``#`` character (ASCII 0100011)."
-msgstr ""
+msgid ""
+"[MIT] Name used by some people for the ``#`` character (ASCII 0100011)."
+msgstr "[MIT] ``#``\\ 文字(ASCII 0100011)を指して一部の人々が使う名前。"
 
 #: ../../S/splat.rst:17
 msgid "The :ref:`feature-key` on a Mac (same as :ref:`alt`\\, sense 2)."
-msgstr ""
+msgstr "Macの\\ :ref:`feature-key`\\ (\\ :ref:`alt`\\ 、語義2と同じ)。"
 
 #: ../../S/splat.rst:19
 msgid ""
 "obs. Name used by some people for the Stanford/ITS extended ASCII ⊗ "
-"character. This character is also called blobby and frob, among other "
-"names; it is sometimes used by mathematicians as a notation for tensor "
-"product."
+"character. This character is also called blobby and frob, among other names;"
+" it is sometimes used by mathematicians as a notation for tensor product."
 msgstr ""
+"廃語 "
+"Stanford/ITSの拡張ASCIIの⊗文字を指して一部の人々が使う名前。この文字はblobbyやfrobなどとも呼ばれる。数学者がテンソル積の記法として使うこともある。"
 
 #: ../../S/splat.rst:23
 msgid ""
 "obs. Name for the semi-mythical Stanford extended ASCII ⊕ character. See "
 "also :ref:`ASCII`\\."
-msgstr ""
-
+msgstr "廃語 半ば神話的なStanfordの拡張ASCIIの⊕文字の名前。\\ :ref:`ASCII`\\ も参照。"

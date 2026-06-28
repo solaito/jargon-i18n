@@ -8,53 +8,55 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/gritch.rst:5
 msgid "gritch"
-msgstr ""
+msgstr "gritch"
 
 #: ../../G/gritch.rst:7
 msgid "/grich/"
-msgstr ""
+msgstr "/grich/"
 
 #: ../../G/gritch.rst:9
 msgid "[MIT]"
-msgstr ""
+msgstr "[MIT]"
 
 #: ../../G/gritch.rst:11
 msgid "n\\. A complaint (often caused by a :ref:`glitch`\\)."
-msgstr ""
+msgstr "名詞 不満(しばしば\\ :ref:`glitch`\\ によって引き起こされる)。"
 
 #: ../../G/gritch.rst:14
 msgid "vi\\. To complain. Often verb-doubled: \"Gritch gritch\"."
-msgstr ""
+msgstr "自動詞 不満を言うこと。しばしば動詞が重ねられる:「Gritch gritch」。"
 
 #: ../../G/gritch.rst:19
 msgid "A synonym for :ref:`glitch` (as verb or noun)."
-msgstr ""
+msgstr "\\ :ref:`glitch`\\ の同義語(動詞または名詞として)。"
 
 #: ../../G/gritch.rst:21
 msgid ""
 "Interestingly, this word seems to have a separate history from "
-":ref:`glitch`\\, with which it is often confused. Back in the early "
-"1960s, when ‘glitch’ was strictly a hardware-tech's term of art, the "
-"Burton House dorm at M.I.T. maintained a \"Gritch Book\", a blank volume,"
-" into which the residents hand-wrote complaints, suggestions, and "
-"witticisms. Previous years' volumes of this tradition were maintained, "
-"dating back to antiquity. The word \"gritch\" was described as a "
-"portmanteau of \"gripe\" and \"bitch\". Thus, sense 3 above is at least "
-"historically incorrect."
+":ref:`glitch`\\, with which it is often confused. Back in the early 1960s, "
+"when ‘glitch’ was strictly a hardware-tech's term of art, the Burton House "
+"dorm at M.I.T. maintained a \"Gritch Book\", a blank volume, into which the "
+"residents hand-wrote complaints, suggestions, and witticisms. Previous "
+"years' volumes of this tradition were maintained, dating back to antiquity. "
+"The word \"gritch\" was described as a portmanteau of \"gripe\" and "
+"\"bitch\". Thus, sense 3 above is at least historically incorrect."
 msgstr ""
-
+"興味深いことに、この語は\\ :ref:`glitch`\\ "
+"とは別の歴史を持つようだが、しばしば混同される。1960年代初頭、‘glitch’がまだもっぱらハードウェア技術者の専門用語だった頃、M.I.T.のBurton"
+" House寮は「Gritch "
+"Book」という空白の冊子を維持していた。そこに住人たちが不満、提案、機知に富んだ言葉を手書きした。この伝統の以前の年の巻も維持され、太古までさかのぼった。「gritch」という語は「gripe」と「bitch」のかばん語だと説明された。したがって、上記の語義3は少なくとも歴史的には正しくない。"

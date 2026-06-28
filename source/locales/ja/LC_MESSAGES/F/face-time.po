@@ -8,31 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/face-time.rst:5
 msgid "face time"
-msgstr ""
+msgstr "face time"
 
 #: ../../F/face-time.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../F/face-time.rst:9
 msgid ""
-"[common] Time spent interacting with somebody face-to-face (as opposed to"
-" via electronic links). \"Oh, yeah, I spent some face time with him at "
-"the last Usenix.\""
+"[common] Time spent interacting with somebody face-to-face (as opposed to "
+"via electronic links). \"Oh, yeah, I spent some face time with him at the "
+"last Usenix.\""
 msgstr ""
-
+"[一般的](電子的なリンクを介してではなく)誰かと面と向かってやり取りして過ごす時間。「ああ、そうだ、前回のUsenixで彼とちょっとface "
+"timeを過ごしたよ」。"

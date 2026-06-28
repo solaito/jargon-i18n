@@ -8,31 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../X/XXX.rst:5
 msgid "XXX"
-msgstr ""
+msgstr "XXX"
 
 #: ../../X/XXX.rst:7
 msgid "/X·X·X/, n\\."
-msgstr ""
+msgstr "/X·X·X/, 名詞"
 
 #: ../../X/XXX.rst:9
 msgid ""
 "A marker that attention is needed. Commonly used in program comments to "
-"indicate areas that are kluged up or need to be. Some hackers liken ‘XXX’"
-" to the notional heavy-porn movie rating. Compare :ref:`FIXME`\\."
+"indicate areas that are kluged up or need to be. Some hackers liken ‘XXX’ to"
+" the notional heavy-porn movie rating. Compare :ref:`FIXME`\\."
 msgstr ""
-
+"注意が必要であることを示す目印。プログラムのコメントで、いいかげんに継ぎ接ぎされた箇所、あるいはそうする必要がある箇所を示すのによく使われる。ハッカーの中には‘XXX’を、いわゆる過激ポルノ映画のレーティングになぞらえる者もいる。\\"
+" :ref:`FIXME`\\ と比較せよ。"

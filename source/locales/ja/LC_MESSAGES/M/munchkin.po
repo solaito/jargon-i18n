@@ -8,34 +8,37 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/munchkin.rst:5
 msgid "munchkin"
-msgstr ""
+msgstr "munchkin"
 
 #: ../../M/munchkin.rst:7
 msgid "/muhnch´kin/, n\\."
-msgstr ""
+msgstr "/muhnch´kin/, 名詞"
 
 #: ../../M/munchkin.rst:9
 msgid ""
 "[from the squeaky-voiced little people in L. Frank Baum's *The Wizard of "
-"Oz*\\] A teenage-or-younger micro enthusiast hacking BASIC or something "
-"else equally constricted. A term of mild derision — munchkins are "
-"annoying but some grow up to be hackers after passing through a :ref"
-":`larval-stage`\\. The term :ref:`urchin` is also used. See also "
-":ref:`wannabee`\\, :ref:`bitty-box`\\."
+"Oz*\\] A teenage-or-younger micro enthusiast hacking BASIC or something else"
+" equally constricted. A term of mild derision — munchkins are annoying but "
+"some grow up to be hackers after passing through a :ref:`larval-stage`\\. "
+"The term :ref:`urchin` is also used. See also :ref:`wannabee`\\, "
+":ref:`bitty-box`\\."
 msgstr ""
-
+"[L. Frank Baumの\\ *The Wizard of Oz*\\ "
+"のかん高い声の小さな人々から]BASICか、同じくらい制約された何かをハックするティーンエイジ以下のマイコン愛好家。軽い嘲りの語——munchkinは煩わしいが、一部は\\"
+" :ref:`larval-stage`\\ を経てハッカーに成長する。\\ :ref:`urchin`\\ という語も使われる。\\ "
+":ref:`wannabee`\\ 、\\ :ref:`bitty-box`\\ も参照。"

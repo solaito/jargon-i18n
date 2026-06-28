@@ -8,31 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../N/nanofortnight.rst:5
 msgid "nanofortnight"
-msgstr ""
+msgstr "nanofortnight"
 
 #: ../../N/nanofortnight.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../N/nanofortnight.rst:9
 msgid ""
-"[Adelaide University] 1 fortnight :math:`× 10^{-9}`\\, or about 1.2 msec."
-" This unit was used largely by students doing undergraduate practicals. "
-"See :ref:`microfortnight`\\, :ref:`attoparsec`\\, and :ref:`micro-`\\."
+"[Adelaide University] 1 fortnight :math:`× 10^{-9}`\\, or about 1.2 msec. "
+"This unit was used largely by students doing undergraduate practicals. See "
+":ref:`microfortnight`\\, :ref:`attoparsec`\\, and :ref:`micro-`\\."
 msgstr ""
-
+"[Adelaide大学] 1フォートナイト(2週間)\\ :math:`× 10^{-9}`\\ "
+"、つまり約1.2ミリ秒。この単位は主に学部生の実習を行う学生によって使われた。\\ :ref:`microfortnight`\\ 、\\ "
+":ref:`attoparsec`\\ 、\\ :ref:`micro-`\\ を参照。"

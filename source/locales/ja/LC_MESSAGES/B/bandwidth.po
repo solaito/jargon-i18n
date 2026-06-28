@@ -8,46 +8,49 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/bandwidth.rst:5
 msgid "bandwidth"
-msgstr ""
+msgstr "bandwidth"
 
 #: ../../B/bandwidth.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../B/bandwidth.rst:10
 msgid ""
-"[common] Used by hackers (in a generalization of its technical meaning) "
-"as the volume of information per unit time that a computer, person, or "
-"transmission medium can handle. \"Those are amazing graphics, but I "
-"missed some of the detail — not enough bandwidth, I guess.\" Compare :ref"
-":`low-bandwidth`\\; see also :ref:`brainwidth`\\. This generalized usage "
-"began to go mainstream after the Internet population explosion of "
-"1993-1994."
+"[common] Used by hackers (in a generalization of its technical meaning) as "
+"the volume of information per unit time that a computer, person, or "
+"transmission medium can handle. \"Those are amazing graphics, but I missed "
+"some of the detail — not enough bandwidth, I guess.\" Compare :ref:`low-"
+"bandwidth`\\; see also :ref:`brainwidth`\\. This generalized usage began to "
+"go mainstream after the Internet population explosion of 1993-1994."
 msgstr ""
+"[一般的]ハッカーが(その技術的意味を一般化して)、コンピューター・人・伝送媒体が扱える単位時間あたりの情報量として使う。「すごいグラフィックスだけど、細部をいくつか見落とした——bandwidthが足りなかったんだろうな」。\\"
+" :ref:`low-bandwidth`\\ と比較せよ。\\ :ref:`brainwidth`\\ "
+"も参照。この一般化された用法は、1993〜1994年のインターネット人口爆発の後、主流に入り始めた。"
 
 #: ../../B/bandwidth.rst:16
 msgid "Attention span."
-msgstr ""
+msgstr "注意の持続時間(attention span)。"
 
 #: ../../B/bandwidth.rst:19
 msgid ""
-"On :ref:`Usenet`\\, a measure of network capacity that is often wasted by"
-" people complaining about how items posted by others are a waste of "
+"On :ref:`Usenet`\\, a measure of network capacity that is often wasted by "
+"people complaining about how items posted by others are a waste of "
 "bandwidth."
 msgstr ""
-
+"\\ :ref:`Usenet`\\ "
+"における、ネットワーク容量の尺度。これは、他人が投稿した品物がいかにbandwidthの無駄かと文句を言う人々によって、しばしば無駄にされる。"

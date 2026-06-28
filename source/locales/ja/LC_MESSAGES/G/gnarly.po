@@ -8,31 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/gnarly.rst:5
 msgid "gnarly"
-msgstr ""
+msgstr "gnarly"
 
 #: ../../G/gnarly.rst:7
 msgid "/nar´lee/, adj\\."
-msgstr ""
+msgstr "/nar´lee/, 形容詞"
 
 #: ../../G/gnarly.rst:9
 msgid ""
-"Both :ref:`obscure` and :ref:`hairy` (sense 1). \" :ref:`Yow-` — the "
-"tuned assembler implementation of BitBlt is really gnarly!\" From a "
-"similar but less specific usage in surfer slang."
+"Both :ref:`obscure` and :ref:`hairy` (sense 1). \" :ref:`Yow-` — the tuned "
+"assembler implementation of BitBlt is really gnarly!\" From a similar but "
+"less specific usage in surfer slang."
 msgstr ""
-
+"\\ :ref:`obscure`\\ かつ\\ :ref:`hairy`\\ (語義1)の両方。「\\ :ref:`Yow-`\\ — "
+"BitBltのチューニングされたアセンブラ実装は本当にgnarlyだ!」サーファースラングの似たような、だがそれほど特定的でない用法から。"

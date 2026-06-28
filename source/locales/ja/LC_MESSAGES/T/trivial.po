@@ -8,54 +8,59 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/trivial.rst:5
 msgid "trivial"
-msgstr ""
+msgstr "trivial"
 
 #: ../../T/trivial.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../T/trivial.rst:10
 msgid "Too simple to bother detailing."
-msgstr ""
+msgstr "詳述するまでもなく単純すぎること。"
 
 #: ../../T/trivial.rst:13
 msgid "Not worth the speaker's time."
-msgstr ""
+msgstr "話し手の時間を費やす価値がないこと。"
 
 #: ../../T/trivial.rst:16
 msgid ""
 "Complex, but solvable by methods so well known that anyone not utterly "
 ":ref:`cretinous` would have thought of them already."
 msgstr ""
+"複雑だが、あまりに完全に\\ :ref:`cretinous`\\ でない者なら誰でもすでに思いついていたであろうほどよく知られた方法で解けること。"
 
 #: ../../T/trivial.rst:19
 msgid ""
-"Any problem one has already solved (some claim that hackish trivial "
-"usually evaluates to \"I've seen it before\"). Hackers' notions of "
-"triviality may be quite at variance with those of non-hackers. See "
-":ref:`nontrivial`\\, :ref:`uninteresting`\\."
+"Any problem one has already solved (some claim that hackish trivial usually "
+"evaluates to \"I've seen it before\"). Hackers' notions of triviality may be"
+" quite at variance with those of non-hackers. See :ref:`nontrivial`\\, "
+":ref:`uninteresting`\\."
 msgstr ""
+"すでに解いた問題(ハッカー的なtrivialはたいてい「前に見たことがある」と評価されると主張する者もいる)。ハッカーの些末さの観念は、非ハッカーのそれとはかなり食い違うことがある。\\"
+" :ref:`nontrivial`\\ 、\\ :ref:`uninteresting`\\ 参照。"
 
 #: ../../T/trivial.rst:23
 msgid ""
 "The physicist Richard Feynman, who had the hacker nature to an amazing "
-"degree (see his essay \"Los Alamos From Below\" in *Surely You're Joking,"
-" Mr. Feynman!*\\), defined trivial theorem as \"one that has already been"
-" proved\"."
+"degree (see his essay \"Los Alamos From Below\" in *Surely You're Joking, "
+"Mr. Feynman!*\\), defined trivial theorem as \"one that has already been "
+"proved\"."
 msgstr ""
-
+"驚くべき程度にハッカーの性質を持っていた物理学者Richard Feynman(\\ *Surely You're Joking, Mr. "
+"Feynman!*\\ の中のエッセイ\"Los Alamos From "
+"Below\"参照)は、trivialな定理を「すでに証明された定理」と定義した。"

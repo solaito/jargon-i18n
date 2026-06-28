@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../Q/quote-chapter-and-verse.rst:5
 msgid "quote chapter and verse"
-msgstr ""
+msgstr "quote chapter and verse"
 
 #: ../../Q/quote-chapter-and-verse.rst:7
 msgid "v\\."
-msgstr ""
+msgstr "動詞"
 
 #: ../../Q/quote-chapter-and-verse.rst:9
 msgid ""
-"[by analogy with the mainstream phrase] To cite a relevant excerpt from "
-"an appropriate :ref:`bible`\\. \"I don't care if :code:`rn` gets it "
-"wrong; ‘Followup-To: poster’ is explicitly permitted by "
-":ref:`RFC`\\-1036. I'll quote chapter and verse if you don't believe "
-"me.\" See also :ref:`legalese`\\, :ref:`language-lawyer`\\, :ref:`RTFS` "
-"(sense 2)."
+"[by analogy with the mainstream phrase] To cite a relevant excerpt from an "
+"appropriate :ref:`bible`\\. \"I don't care if :code:`rn` gets it wrong; "
+"‘Followup-To: poster’ is explicitly permitted by :ref:`RFC`\\-1036. I'll "
+"quote chapter and verse if you don't believe me.\" See also "
+":ref:`legalese`\\, :ref:`language-lawyer`\\, :ref:`RTFS` (sense 2)."
 msgstr ""
-
+"[主流の言い回しとの類推から] 適切な\\ :ref:`bible`\\ から関連する抜粋を引用すること。「\\ :code:`rn`\\ "
+"が間違えるのは構わないが、‘Followup-To: poster’は\\ :ref:`RFC`\\ "
+"-1036で明示的に許可されている。信じないなら一節一句引用してやるよ」 \\ :ref:`legalese`\\ 、\\ "
+":ref:`language-lawyer`\\ 、\\ :ref:`RTFS`\\ (語義2)も参照。"

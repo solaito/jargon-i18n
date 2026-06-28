@@ -8,51 +8,57 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/finger.rst:5
 msgid "finger"
-msgstr ""
+msgstr "finger"
 
 #: ../../F/finger.rst:7
 msgid "[WAITS, via BSD Unix]"
-msgstr ""
+msgstr "[WAITS、BSD Unix経由]"
 
 #: ../../F/finger.rst:9
 msgid ""
 "n\\. A program that displays information about a particular user or all "
-"users logged on the system, or a remote system. Typically shows full "
-"name, last login time, idle time, terminal line, and terminal location "
-"(where applicable). May also display a :ref:`plan-file` left by the user "
-"(see also :ref:`Hacking-X-for-Y`\\)."
+"users logged on the system, or a remote system. Typically shows full name, "
+"last login time, idle time, terminal line, and terminal location (where "
+"applicable). May also display a :ref:`plan-file` left by the user (see also "
+":ref:`Hacking-X-for-Y`\\)."
 msgstr ""
+"名詞 "
+"特定のユーザー、システムにログオンしている全ユーザー、あるいはリモートシステムについての情報を表示するプログラム。たいていフルネーム、最終ログイン時刻、アイドル時間、端末回線、(該当する場合は)端末の場所を表示する。ユーザーが残した\\"
+" :ref:`plan-file`\\ を表示することもある(\\ :ref:`Hacking-X-for-Y`\\ も参照)。"
 
 #: ../../F/finger.rst:14
 msgid "vt\\. To apply finger to a username."
-msgstr ""
+msgstr "他動詞 ユーザー名にfingerを適用すること。"
 
 #: ../../F/finger.rst:17
 msgid ""
 "vt\\. By extension, to check a human's current state by any means. "
 "\"Foodp?\" \"T!\" \"OK, finger Lisa and see if she's idle.\""
 msgstr ""
+"他動詞 拡張して、何らかの手段で人間の現在の状態を調べること。「Foodp?」「T!」「OK、Lisaをfingerして、彼女が暇かどうか見てみよう」。"
 
 #: ../../F/finger.rst:24
 msgid ""
 "Any picture (composed of ASCII characters) depicting ‘the finger’, see "
-":ref:`See-figure-1`\\. Originally a humorous component of one's plan file"
-" to deter the curious fingerer (sense 2), it has entered the arsenal of "
-"some :ref:`flamer`\\s."
+":ref:`See-figure-1`\\. Originally a humorous component of one's plan file to"
+" deter the curious fingerer (sense 2), it has entered the arsenal of some "
+":ref:`flamer`\\s."
 msgstr ""
-
+"‘the finger(中指を立てる仕草)’を描いた(ASCII文字で構成された)絵。\\ :ref:`See-figure-1`\\ "
+"を参照。元々は、好奇心旺盛なfingerする者(語義2)を思いとどまらせるための、自分のplanファイルのユーモラスな要素だったが、一部の\\ "
+":ref:`flamer`\\ の武器庫に入った。"

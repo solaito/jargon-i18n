@@ -8,32 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/prestidigitization.rst:5
 msgid "prestidigitization"
-msgstr ""
+msgstr "prestidigitization"
 
 #: ../../P/prestidigitization.rst:7
 msgid "/pres\\`t\\@·di\\`j\\@·ti:·zay´sh\\@n/, n\\."
-msgstr ""
+msgstr "/pres\\`t\\@·di\\`\\ j\\@·ti:·zay´sh\\@n/, 名詞"
 
 #: ../../P/prestidigitization.rst:10
-msgid "The act of putting something into digital notation via sleight of hand."
-msgstr ""
+msgid ""
+"The act of putting something into digital notation via sleight of hand."
+msgstr "手品によって何かをデジタル表記にする行為。"
 
 #: ../../P/prestidigitization.rst:13
 msgid "Data entry through legerdemain."
-msgstr ""
-
+msgstr "手練手管によるデータ入力。"

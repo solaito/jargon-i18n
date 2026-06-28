@@ -8,50 +8,55 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/MEGO.rst:5
 msgid "MEGO"
-msgstr ""
+msgstr "MEGO"
 
 #: ../../M/MEGO.rst:7
 msgid "/me´goh/, /mee´goh/"
-msgstr ""
+msgstr "/me´goh/, /mee´goh/"
 
 #: ../../M/MEGO.rst:9
 msgid ""
-"[\"My Eyes Glaze Over\", often \"Mine Eyes Glazeth (sic) Over\", "
-"attributed to the futurologist Herman Kahn] Also MEGO factor."
+"[\"My Eyes Glaze Over\", often \"Mine Eyes Glazeth (sic) Over\", attributed "
+"to the futurologist Herman Kahn] Also MEGO factor."
 msgstr ""
+"[「My Eyes Glaze Over(私の目はどんよりする)」、しばしば「Mine Eyes Glazeth (sic) "
+"Over」とも。未来学者Herman Kahnに帰せられる]MEGO factorとも。"
 
 #: ../../M/MEGO.rst:11
 msgid ""
-"n\\. A :ref:`handwave` intended to confuse the listener and hopefully "
-"induce agreement because the listener does not want to admit to not "
-"understanding what is going on. MEGO is usually directed at senior "
-"management by engineers and contains a high proportion of :ref:`TLA`\\s."
+"n\\. A :ref:`handwave` intended to confuse the listener and hopefully induce"
+" agreement because the listener does not want to admit to not understanding "
+"what is going on. MEGO is usually directed at senior management by engineers"
+" and contains a high proportion of :ref:`TLA`\\s."
 msgstr ""
+"名詞 聞き手を混乱させ、できれば同意を引き出すことを意図した\\ :ref:`handwave`\\ "
+"。聞き手は何が起きているのか理解していないことを認めたがらないからである。MEGOはたいてい技術者が上級管理職に向けて行うもので、高い割合で\\ "
+":ref:`TLA`\\ を含む。"
 
 #: ../../M/MEGO.rst:15
 msgid "excl. An appropriate response to MEGO tactics."
-msgstr ""
+msgstr "感嘆詞 MEGO戦術に対する適切な応答。"
 
 #: ../../M/MEGO.rst:19
 msgid ""
 "Among non-hackers, often refers not to behavior that causes the eyes to "
-"glaze, but to the eye-glazing reaction itself, which may be triggered by "
-"the mere threat of excessive technical detail as effectively as by an "
-"actual excess of it."
+"glaze, but to the eye-glazing reaction itself, which may be triggered by the"
+" mere threat of excessive technical detail as effectively as by an actual "
+"excess of it."
 msgstr ""
-
+"ハッカー以外の間では、目をどんよりさせる振る舞いではなく、目をどんよりさせる反応そのものを指すことが多い。その反応は、実際に過剰な技術的細部があるのと同じくらい、過剰な技術的細部の脅しだけでも引き起こされうる。"

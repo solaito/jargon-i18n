@@ -8,30 +8,30 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/SCNR.rst:5
 msgid "SCNR"
-msgstr ""
+msgstr "SCNR"
 
 #: ../../S/SCNR.rst:7
 msgid "abbrev"
-msgstr ""
+msgstr "略語"
 
 #: ../../S/SCNR.rst:9
 msgid ""
 "[common] Sorry, Could Not Resist. Normally used to semi-apologize for an "
 "obvious wisecrack."
 msgstr ""
-
+"[一般的] Sorry, Could Not Resist(すまない、我慢できなかった)。通常、あからさまな駄洒落を半ば詫びるために使われる。"

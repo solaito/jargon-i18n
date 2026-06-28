@@ -8,27 +8,28 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/spider.rst:5
 msgid "spider"
-msgstr ""
+msgstr "spider"
 
 #: ../../S/spider.rst:7
 msgid ""
-"The Web-walking part of a search engine that collects pages for indexing "
-"in the search engine's database. Also called a :ref:`bot`\\. The best-"
-"known spider is Scooter, the web-walker for the Alta Vista search engine."
+"The Web-walking part of a search engine that collects pages for indexing in "
+"the search engine's database. Also called a :ref:`bot`\\. The best-known "
+"spider is Scooter, the web-walker for the Alta Vista search engine."
 msgstr ""
-
+"検索エンジンのデータベースでインデックスするためにページを集める、検索エンジンのWebを歩き回る部分。\\ :ref:`bot`\\ "
+"とも呼ばれる。最もよく知られたspiderは、Alta Vista検索エンジンのWeb歩行者であるScooterだ。"

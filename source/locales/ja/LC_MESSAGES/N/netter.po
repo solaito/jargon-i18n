@@ -8,35 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../N/netter.rst:5
 msgid "netter"
-msgstr ""
+msgstr "netter"
 
 #: ../../N/netter.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../N/netter.rst:10
 msgid "Loosely, anyone with a :ref:`network-address`\\."
-msgstr ""
+msgstr "緩く言えば、\\ :ref:`network-address`\\ を持つ誰か。"
 
 #: ../../N/netter.rst:13
 msgid ""
-"More specifically, a :ref:`Usenet` regular. Most often found in the "
-"plural. \"If you post that in a technical group, you're going to be "
-"flamed by angry netters for the rest of time!\""
+"More specifically, a :ref:`Usenet` regular. Most often found in the plural. "
+"\"If you post that in a technical group, you're going to be flamed by angry "
+"netters for the rest of time!\""
 msgstr ""
-
+"より具体的には、\\ :ref:`Usenet`\\ "
+"の常連。たいてい複数形で見られる。「それを技術系のグループに投稿したら、永遠に怒れるnetterたちにflameされるぞ!」"

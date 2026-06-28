@@ -8,66 +8,67 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/punt.rst:5
 msgid "punt"
-msgstr ""
+msgstr "punt"
 
 #: ../../P/punt.rst:7
 msgid "v\\."
-msgstr ""
+msgstr "動詞"
 
 #: ../../P/punt.rst:9
 msgid ""
-"[from the punch line of an old joke referring to American football: "
-"\"Drop back 15 yards and punt!\"]"
-msgstr ""
+"[from the punch line of an old joke referring to American football: \"Drop "
+"back 15 yards and punt!\"]"
+msgstr "[アメリカンフットボールに言及する古いジョークの落ちから:「15ヤード下がってパントしろ!」]"
 
 #: ../../P/punt.rst:12
 msgid ""
-"To give up, typically without any intention of retrying. \"Let's punt the"
-" movie tonight.\" \"I was going to hack all night to get this feature in,"
-" but I decided to punt\" may mean that you've decided not to stay up all "
-"night, and may also mean you're not ever even going to put in the "
-"feature."
+"To give up, typically without any intention of retrying. \"Let's punt the "
+"movie tonight.\" \"I was going to hack all night to get this feature in, but"
+" I decided to punt\" may mean that you've decided not to stay up all night, "
+"and may also mean you're not ever even going to put in the feature."
 msgstr ""
+"たいてい再試行のつもりもなく、あきらめること。「今夜の映画はpuntしよう」「この機能を入れるために徹夜でハックするつもりだったが、puntすることにした」は、徹夜しないことにしたという意味かもしれないし、その機能を入れることすらもう一切やめるという意味かもしれない。"
 
 #: ../../P/punt.rst:17
 msgid ""
-"More specifically, to give up on figuring out what the :ref:`Right-Thing`"
-" is and resort to an inefficient hack."
-msgstr ""
+"More specifically, to give up on figuring out what the :ref:`Right-Thing` is"
+" and resort to an inefficient hack."
+msgstr "より具体的には、\\ :ref:`Right-Thing`\\ が何かを見極めるのをあきらめ、非効率なハックに頼ること。"
 
 #: ../../P/punt.rst:20
 msgid ""
-"A design decision to defer solving a problem, typically because one "
-"cannot define what is desirable sufficiently well to frame an algorithmic"
-" solution. \"No way to know what the right form to dump the graph in is —"
-" we'll punt that for now.\""
+"A design decision to defer solving a problem, typically because one cannot "
+"define what is desirable sufficiently well to frame an algorithmic solution."
+" \"No way to know what the right form to dump the graph in is — we'll punt "
+"that for now.\""
 msgstr ""
+"問題を解くのを延期するという設計上の決定で、たいていは何が望ましいかをアルゴリズム的解決を組み立てられるほど十分に定義できないため。「グラフをどんな形でダンプするのが正しいか知る術がない。今のところそれはpuntしよう」"
 
 #: ../../P/punt.rst:24
 msgid ""
 "To hand a tricky implementation problem off to some other section of the "
-"design. \"It's too hard to get the compiler to do that; let's punt to the"
-" runtime system.\""
+"design. \"It's too hard to get the compiler to do that; let's punt to the "
+"runtime system.\""
 msgstr ""
+"やっかいな実装上の問題を、設計の他のどこかのセクションに押し付けること。「コンパイラにそれをやらせるのは難しすぎる。ランタイムシステムにpuntしよう」"
 
 #: ../../P/punt.rst:28
 msgid ""
 "To knock someone off an Internet or chat connection; a punter thus, is a "
 "person or program that does this."
-msgstr ""
-
+msgstr "誰かをインターネットやチャットの接続から弾き出すこと。したがってpunterは、これをする人やプログラムである。"

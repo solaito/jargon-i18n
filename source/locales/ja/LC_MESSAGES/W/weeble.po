@@ -8,30 +8,30 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/weeble.rst:5
 msgid "weeble"
-msgstr ""
+msgstr "weeble"
 
 #: ../../W/weeble.rst:7
 msgid "/weeb´l/, interj\\."
-msgstr ""
+msgstr "/weeb´l/, 間投詞"
 
 #: ../../W/weeble.rst:9
 msgid ""
-"[Cambridge] Used to denote frustration, usually at amazing stupidity. \"I"
-" stuck the disk in upside down.\" \"Weeble....\"."
+"[Cambridge] Used to denote frustration, usually at amazing stupidity. \"I "
+"stuck the disk in upside down.\" \"Weeble....\"."
 msgstr ""
-
+"[Cambridge] 苛立ちを表すのに使われる。たいていは驚くべき愚かさに対して。「ディスクを上下逆さまに入れちゃった」「Weeble……」。"

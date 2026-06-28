@@ -8,42 +8,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/bignum.rst:5
 msgid "bignum"
-msgstr ""
+msgstr "bignum"
 
 #: ../../B/bignum.rst:7
 msgid "/big´nuhm/, n\\."
-msgstr ""
+msgstr "/big´nuhm/, 名詞"
 
 #: ../../B/bignum.rst:9
 msgid "[common; orig. from MIT MacLISP]"
-msgstr ""
+msgstr "[一般的。元はMIT MacLISPから]"
 
 #: ../../B/bignum.rst:13
 msgid ""
 "[techspeak] A multiple-precision computer representation for very large "
 "integers."
-msgstr ""
+msgstr "[専門用語]非常に大きな整数のための多倍長のコンピューター表現。"
 
 #: ../../B/bignum.rst:16
 msgid ""
-"More generally, any very large number. \"Have you ever looked at the "
-"United States Budget? There's bignums for you!\""
-msgstr ""
+"More generally, any very large number. \"Have you ever looked at the United "
+"States Budget? There's bignums for you!\""
+msgstr "より一般的には、任意の非常に大きな数。「アメリカ合衆国の予算を見たことがあるか? あれこそbignumだ!」"
 
 #: ../../B/bignum.rst:21
 msgid ""
@@ -51,18 +51,21 @@ msgid ""
 "double fives or double sixes (compare :ref:`moby`\\, sense 4). See also "
 ":ref:`El-Camino-Bignum`\\."
 msgstr ""
+"[スタンフォード]バックギャモンで、サイコロの大きな目、特にゾロ目の5や6(\\ :ref:`moby`\\ の語義4と比較せよ)。\\ "
+":ref:`El-Camino-Bignum`\\ も参照。"
 
 #: ../../B/bignum.rst:24
 msgid ""
-"Sense 1 may require some explanation. Most computer languages provide a "
-"kind of data called integer, but such computer integers are usually very "
-"limited in size; usually they must be smaller than :math:`2^{31}` "
-"(2,147,483,648). If you want to work with numbers larger than that, you "
-"have to use floating-point numbers, which are usually accurate to only "
-"six or seven decimal places. Computer languages that provide bignums can "
-"perform exact calculations on very large numbers, such as 1000! (the "
-"factorial of 1000, which is 1000 times 999 times 998 times ... times 2 "
-"times 1). For example, this value for 1000! was computed by the MacLISP "
-"system using bignums:"
+"Sense 1 may require some explanation. Most computer languages provide a kind"
+" of data called integer, but such computer integers are usually very limited"
+" in size; usually they must be smaller than :math:`2^{31}` (2,147,483,648). "
+"If you want to work with numbers larger than that, you have to use floating-"
+"point numbers, which are usually accurate to only six or seven decimal "
+"places. Computer languages that provide bignums can perform exact "
+"calculations on very large numbers, such as 1000! (the factorial of 1000, "
+"which is 1000 times 999 times 998 times ... times 2 times 1). For example, "
+"this value for 1000! was computed by the MacLISP system using bignums:"
 msgstr ""
-
+"語義1には少し説明が要るかもしれない。たいていのコンピューター言語はintegerと呼ばれるデータを提供するが、そうしたコンピューターの整数は通常、大きさが非常に限られている。たいていは\\"
+" :math:`2^{31}`\\ "
+"(2,147,483,648)より小さくなければならない。それより大きな数を扱いたければ浮動小数点数を使うしかなく、それは通常、十進で6〜7桁の精度しかない。bignumを提供するコンピューター言語は、1000!(1000の階乗、すなわち1000×999×998×……×2×1)のような非常に大きな数に対して正確な計算ができる。たとえば、この1000!の値はMacLISPシステムがbignumを使って計算したものである。"

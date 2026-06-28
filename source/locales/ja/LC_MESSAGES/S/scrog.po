@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/scrog.rst:5
 msgid "scrog"
-msgstr ""
+msgstr "scrog"
 
 #: ../../S/scrog.rst:7
 msgid "/skrog/, vt\\."
-msgstr ""
+msgstr "/skrog/, 他動詞"
 
 #: ../../S/scrog.rst:9
 msgid ""
-"[Bell Labs] To damage, trash, or corrupt a data structure. \"The list "
-"header got scrogged.\" Also reported as skrog, and ascribed to the comic "
-"strip *The Wizard of Id*\\. Compare :ref:`scag`\\; possibly the two are "
-"related. Equivalent to :ref:`scribble` or :ref:`mangle`\\."
+"[Bell Labs] To damage, trash, or corrupt a data structure. \"The list header"
+" got scrogged.\" Also reported as skrog, and ascribed to the comic strip "
+"*The Wizard of Id*\\. Compare :ref:`scag`\\; possibly the two are related. "
+"Equivalent to :ref:`scribble` or :ref:`mangle`\\."
 msgstr ""
-
+"[Bell Labs] データ構造を損傷、破壊、または破損させること。「リストヘッダがscrogされた。」skrogとしても報告されており、漫画\\ "
+"*The Wizard of Id*\\ に由来するとされる。\\ :ref:`scag`\\ と比較せよ。おそらく両者は関連している。\\ "
+":ref:`scribble`\\ や\\ :ref:`mangle`\\ と等価。"

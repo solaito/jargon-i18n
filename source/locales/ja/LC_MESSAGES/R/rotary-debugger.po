@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../R/rotary-debugger.rst:5
 msgid "rotary debugger"
-msgstr ""
+msgstr "rotary debugger"
 
 #: ../../R/rotary-debugger.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../R/rotary-debugger.rst:9
 msgid ""
 "[Commodore] Essential equipment for those late-night or early-morning "
-"debugging sessions. Mainly used as sustenance for the hacker. Comes in "
-"many decorator colors, such as Sausage, Pepperoni, and Garbage. See :ref"
-":`ANSI-standard-pizza`\\."
+"debugging sessions. Mainly used as sustenance for the hacker. Comes in many "
+"decorator colors, such as Sausage, Pepperoni, and Garbage. See :ref:`ANSI-"
+"standard-pizza`\\."
 msgstr ""
-
+"[Commodore] "
+"深夜あるいは早朝のデバッグセッションに不可欠な装備。主にハッカーの糧として使われる。Sausage、Pepperoni、Garbageなど、多くの装飾的な色で来る。\\"
+" :ref:`ANSI-standard-pizza`\\ を参照。"

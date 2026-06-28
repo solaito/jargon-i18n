@@ -8,43 +8,45 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/gib.rst:5
 msgid "gib"
-msgstr ""
+msgstr "gib"
 
 #: ../../G/gib.rst:7
 msgid "/jib/"
-msgstr ""
+msgstr "/jib/"
 
 #: ../../G/gib.rst:9
 msgid ""
 "vi\\. To destroy utterly. Like :ref:`frag`\\, but much more violent and "
 "final. \"There's no trace left. You definitely gibbed that bug\"."
 msgstr ""
+"自動詞 完全に破壊すること。\\ :ref:`frag`\\ "
+"に似ているが、はるかに暴力的で最終的である。「跡形も残っていない。あのバグは間違いなくgibしたな。」"
 
 #: ../../G/gib.rst:15
 msgid "n\\. Remnants after total obliteration."
-msgstr ""
+msgstr "名詞 完全な消滅の後に残るもの。"
 
 #: ../../G/gib.rst:18
 msgid ""
-"Popilarized by id software in the game Quake, but actually goes back to "
-"an earlier game called *Rise of the Triad*\\. It's short for giblets "
-"(thus pronounced \"jib\"), and referred to the bloody remains of slain "
-"opponents. Eventually the word was verbed, and leaked into general usage "
-"afterward."
+"Popilarized by id software in the game Quake, but actually goes back to an "
+"earlier game called *Rise of the Triad*\\. It's short for giblets (thus "
+"pronounced \"jib\"), and referred to the bloody remains of slain opponents. "
+"Eventually the word was verbed, and leaked into general usage afterward."
 msgstr ""
-
+"id softwareがゲームQuakeで広めたが、実際にはそれ以前の *Rise of the Triad* "
+"というゲームにさかのぼる。giblets(臓物)の略で(そのため「jib」と発音される)、倒した相手の血みどろの残骸を指した。やがてこの語は動詞化され、その後一般的な用法に漏れ出した。"

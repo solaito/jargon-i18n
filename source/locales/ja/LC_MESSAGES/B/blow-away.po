@@ -8,30 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/blow-away.rst:5
 msgid "blow away"
-msgstr "blow away（吹き飛ばす）"
+msgstr "blow away"
 
 #: ../../B/blow-away.rst:7
 msgid "vt\\."
-msgstr ""
+msgstr "他動詞"
 
 #: ../../B/blow-away.rst:9
 msgid ""
 "To remove (files and directories) from permanent storage, generally by "
-"accident. \"He reformatted the wrong partition and blew away last night's"
-" netnews.\" Oppose :ref:`nuke`\\."
-msgstr "たいていはミスで、固定記憶装置から（ファイルやディレクトリを）削除すること。「彼は間違ったパーティションを再フォーマットして、昨夜のネットニュースを吹き飛ばした」。 :ref:`nuke` と対比せよ。" 
+"accident. \"He reformatted the wrong partition and blew away last night's "
+"netnews.\" Oppose :ref:`nuke`\\."
+msgstr ""
+"(ファイルやディレクトリを)永続記憶から、概して誤って取り除くこと。「彼は間違ったパーティションを再フォーマットして、昨夜のネットニュースをblow "
+"awayした」。\\ :ref:`nuke`\\ と対をなす。"

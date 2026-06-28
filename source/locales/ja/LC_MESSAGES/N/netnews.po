@@ -8,34 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../N/netnews.rst:5
 msgid "netnews"
-msgstr ""
+msgstr "netnews"
 
 #: ../../N/netnews.rst:7
 msgid "/net´n[y]ooz/, n\\."
-msgstr ""
+msgstr "/net´n[y]ooz/, 名詞"
 
 #: ../../N/netnews.rst:10
 msgid "The software that makes :ref:`Usenet` run."
-msgstr ""
+msgstr ":ref:`Usenet`\\ を動かすソフトウェア。"
 
 #: ../../N/netnews.rst:13
 msgid ""
-"The content of Usenet. \"I read netnews right after my mail most "
-"mornings.\""
-msgstr ""
-
+"The content of Usenet. \"I read netnews right after my mail most mornings.\""
+msgstr "Usenetの内容。「たいていの朝、メールのすぐ後にnetnewsを読む」。"

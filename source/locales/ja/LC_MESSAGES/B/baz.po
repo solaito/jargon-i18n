@@ -8,44 +8,46 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/baz.rst:5
 msgid "baz"
-msgstr ""
+msgstr "baz"
 
 #: ../../B/baz.rst:7
 msgid "/baz/, n\\."
-msgstr ""
+msgstr "/baz/, 名詞"
 
 #: ../../B/baz.rst:10
 msgid ""
 "[common] The third :ref:`metasyntactic-variable` \"Suppose we have three "
-"functions: FOO, BAR, and BAZ. FOO calls BAR, which calls BAZ....\" (See "
-"also :ref:`fum`\\)"
+"functions: FOO, BAR, and BAZ. FOO calls BAR, which calls BAZ....\" (See also"
+" :ref:`fum`\\)"
 msgstr ""
+"[一般的]三番目の\\ :ref:`metasyntactic-variable`\\ "
+"。「3つの関数があるとしよう。FOO、BAR、BAZだ。FOOがBARを呼び、BARがBAZを呼ぶ……」(\\ :ref:`fum`\\ も参照)。"
 
 #: ../../B/baz.rst:13
 msgid ""
-"interj. A term of mild annoyance. In this usage the term is often drawn "
-"out for 2 or 3 seconds, producing an effect not unlike the bleating of a "
-"sheep; /baaaaaaz/."
-msgstr ""
+"interj. A term of mild annoyance. In this usage the term is often drawn out "
+"for 2 or 3 seconds, producing an effect not unlike the bleating of a sheep; "
+"/baaaaaaz/."
+msgstr "間投詞。軽いいらだちの言葉。この用法では、しばしば2〜3秒引き延ばされ、羊の鳴き声にも似た効果を生む。/baaaaaaz/。"
 
 #: ../../B/baz.rst:18
 msgid "Occasionally appended to :ref:`foo` to produce ‘foobaz’."
-msgstr ""
+msgstr "‘foobaz’を作るために\\ :ref:`foo`\\ に付け足されることがある。"
 
 #: ../../B/baz.rst:20
 msgid ""
@@ -53,8 +55,11 @@ msgid ""
 ":ref:`bar`\\. However, Pete Samson (compiler of the :ref:`TMRC` lexicon) "
 "reports it was already current when he joined TMRC in 1958. He says \"It "
 "came from *Pogo*\\. Albert the Alligator, when vexed or outraged, would "
-"shout \"Bazz Fazz!\" or \"Rowrbazzle!\" The club layout was said to model"
-" the (mythical) New England counties of Rowrfolk and Bassex (Rowrbazzle "
+"shout \"Bazz Fazz!\" or \"Rowrbazzle!\" The club layout was said to model "
+"the (mythical) New England counties of Rowrfolk and Bassex (Rowrbazzle "
 "mingled with (Norfolk/Suffolk/Middlesex/Essex).\""
 msgstr ""
-
+"この用語集の以前の版は、bazを\\ :ref:`bar`\\ のスタンフォード式の訛りに由来するとしていた。だがPete Samson(\\ "
+":ref:`TMRC`\\ 用語集の編纂者)によれば、彼が1958年にTMRCに加わったときにはすでに使われていたという。彼いわく「\\ "
+"*Pogo*\\ から来たんだ。ワニのアルバートは、いらだったり激怒したりすると『Bazz "
+"Fazz!』や『Rowrbazzle!』と叫んだ。クラブのレイアウトは(神話上の)ニューイングランドのRowrfolk郡とBassex郡を模したものとされた(Rowrbazzleは(Norfolk/Suffolk/Middlesex/Essex)が混じったものだ)」。"

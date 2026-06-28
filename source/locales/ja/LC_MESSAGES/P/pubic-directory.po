@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/pubic-directory.rst:5
 msgid "pubic directory"
-msgstr ""
+msgstr "pubic directory"
 
 #: ../../P/pubic-directory.rst:7
 msgid "/pyoob´ik d\\@·rek´t\\@·ree/, n\\."
-msgstr ""
+msgstr "/pyoob´ik d\\@·rek´t\\@·ree/, 名詞"
 
 #: ../../P/pubic-directory.rst:9
 msgid ""
 "[NYU] (also pube directory /pyoob' d\\@·rek´t\\@·ree/) The pub (public) "
-"directory on a machine that allows FTP access. So called because it is "
-"the default location for :ref:`SEX` (sense 1). \"I'll have the source in "
-"the pube directory by Friday.\""
+"directory on a machine that allows FTP access. So called because it is the "
+"default location for :ref:`SEX` (sense 1). \"I'll have the source in the "
+"pube directory by Friday.\""
 msgstr ""
-
+"[NYU](pube directory /pyoob' d\\@·rek´t\\@·ree/ "
+"とも)FTPアクセスを許可する機械上のpub(public)ディレクトリ。\\ :ref:`SEX`\\ "
+"(語義1)のデフォルトの場所なので、そう呼ばれる。「金曜までにソースをpubeディレクトリに置いておくよ」"

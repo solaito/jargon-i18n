@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/boxen.rst:5
 msgid "boxen"
-msgstr ""
+msgstr "boxen"
 
 #: ../../B/boxen.rst:7
 msgid "/bok´sn/, pl\\.n\\."
-msgstr ""
+msgstr "/bok´sn/, 複数名詞"
 
 #: ../../B/boxen.rst:9
 msgid ""
-"[very common; by analogy with :ref:`VAXen`\\] Fanciful plural of "
-":ref:`box` often encountered in the phrase ‘Unix boxen’, used to describe"
-" commodity :ref:`Unix` hardware. The connotation is that any two Unix "
-"boxen are interchangeable."
+"[very common; by analogy with :ref:`VAXen`\\] Fanciful plural of :ref:`box` "
+"often encountered in the phrase ‘Unix boxen’, used to describe commodity "
+":ref:`Unix` hardware. The connotation is that any two Unix boxen are "
+"interchangeable."
 msgstr ""
-
+"[非常に一般的。\\ :ref:`VAXen`\\ との類推から]\\ :ref:`box`\\ の空想的な複数形で、しばしば‘Unix "
+"boxen’という句で見られ、汎用品の\\ :ref:`Unix`\\ ハードウェアを表すのに使う。どのUnix "
+"boxenも互いに交換可能だ、という含みがある。"

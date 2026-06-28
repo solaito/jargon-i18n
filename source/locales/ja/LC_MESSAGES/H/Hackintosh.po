@@ -8,36 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../H/Hackintosh.rst:5
 msgid "Hackintosh"
-msgstr ""
+msgstr "Hackintosh"
 
 #: ../../H/Hackintosh.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../H/Hackintosh.rst:10
 msgid ""
-"An Apple Lisa that has been hacked into emulating a Macintosh (also "
-"called a ‘Mac XL’)."
-msgstr ""
+"An Apple Lisa that has been hacked into emulating a Macintosh (also called a"
+" ‘Mac XL’)."
+msgstr "MacintoshをエミュレートするようにハックされたApple Lisa(‘Mac XL’とも呼ばれる)。"
 
 #: ../../H/Hackintosh.rst:13
 msgid ""
-"A Macintosh assembled from parts theoretically belonging to different "
-"models in the line."
-msgstr ""
-
+"A Macintosh assembled from parts theoretically belonging to different models"
+" in the line."
+msgstr "製品ラインの異なるモデルに理論上属する部品から組み立てられたMacintosh。"

@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/marbles.rst:5
 msgid "marbles"
-msgstr ""
+msgstr "marbles"
 
 #: ../../M/marbles.rst:7
 msgid "pl\\.n\\."
-msgstr ""
+msgstr "複数名詞"
 
 #: ../../M/marbles.rst:9
 msgid ""
-"[from mainstream \"lost all his/her marbles\"] The minimum needed to "
-"build your way further up some hierarchy of tools or abstractions. After "
-"a bad system crash, you need to determine if the machine has enough "
-"marbles to come up on its own, or enough marbles to allow a rebuild from "
-"backups, or if you need to rebuild from scratch. \"This compiler doesn't "
-"even have enough marbles to compile :ref:`hello-world`\\.\""
+"[from mainstream \"lost all his/her marbles\"] The minimum needed to build "
+"your way further up some hierarchy of tools or abstractions. After a bad "
+"system crash, you need to determine if the machine has enough marbles to "
+"come up on its own, or enough marbles to allow a rebuild from backups, or if"
+" you need to rebuild from scratch. \"This compiler doesn't even have enough "
+"marbles to compile :ref:`hello-world`\\.\""
 msgstr ""
-
+"[主流の「lost all his/her "
+"marbles(正気を失った)」から]道具や抽象の階層をさらに上へ築き上げるのに最低限必要なもの。ひどいシステムクラッシュのあと、機械が自力で立ち上がるのに十分なmarblesを持つか、バックアップからの再構築を許すのに十分なmarblesを持つか、それともゼロから再構築する必要があるかを判断する必要がある。「このコンパイラは\\"
+" :ref:`hello-world`\\ をコンパイルするのに十分なmarblesすら持っていない」。"

@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/pretty-pictures.rst:5
 msgid "pretty pictures"
-msgstr ""
+msgstr "pretty pictures"
 
 #: ../../P/pretty-pictures.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../P/pretty-pictures.rst:9
 msgid ""
-"[scientific computation] The next step up from :ref:`numbers`\\. "
-"Interesting graphical output from a program that may not have any "
-"sensible relationship to the system the program is intended to model. "
-"Good for showing to :ref:`management`\\."
+"[scientific computation] The next step up from :ref:`numbers`\\. Interesting"
+" graphical output from a program that may not have any sensible relationship"
+" to the system the program is intended to model. Good for showing to "
+":ref:`management`\\."
 msgstr ""
-
+"[科学計算]\\ :ref:`numbers`\\ "
+"の次の段階。プログラムが模型化することを意図しているシステムとは何の意味のある関係もないかもしれない、プログラムからの興味深いグラフィカル出力。\\ "
+":ref:`management`\\ に見せるのによい。"

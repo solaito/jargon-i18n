@@ -8,46 +8,50 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/wabbit.rst:5
 msgid "wabbit"
-msgstr ""
+msgstr "wabbit"
 
 #: ../../W/wabbit.rst:7
 msgid "/wab´it/, n\\."
-msgstr ""
+msgstr "/wab´it/, 名詞"
 
 #: ../../W/wabbit.rst:9
 msgid ""
-"[almost certainly from Elmer Fudd's immortal line \"You wascawwy "
-"wabbit!\"]"
-msgstr ""
+"[almost certainly from Elmer Fudd's immortal line \"You wascawwy wabbit!\"]"
+msgstr "[ほぼ確実に、Elmer Fuddの不朽の台詞\"You wascawwy wabbit!\"から]"
 
 #: ../../W/wabbit.rst:12
 msgid ""
-"A legendary early hack reported on a System/360 at RPI and elsewhere "
-"around 1978; this may have descended (if only by inspiration) from a hack"
-" called RABBITS reported from 1969 on a Burroughs 5500 at the University "
-"of Washington Computer Center. The program would make two copies of "
-"itself every time it was run, eventually crashing the system."
+"A legendary early hack reported on a System/360 at RPI and elsewhere around "
+"1978; this may have descended (if only by inspiration) from a hack called "
+"RABBITS reported from 1969 on a Burroughs 5500 at the University of "
+"Washington Computer Center. The program would make two copies of itself "
+"every time it was run, eventually crashing the system."
 msgstr ""
+"1978年頃にRPIなどでSystem/360上で報告された伝説的な初期のハック。これは1969年にWashington大学コンピュータセンターのBurroughs"
+" "
+"5500上で報告されたRABBITSというハックから(着想だけにせよ)派生したのかもしれない。このプログラムは実行されるたびに自分自身のコピーを二つ作り、最終的にはシステムをクラッシュさせた。"
 
 #: ../../W/wabbit.rst:16
 msgid ""
-"By extension, any hack that includes infinite self-replication but is not"
-" a :ref:`virus` or :ref:`worm`\\. See :ref:`fork-bomb` and :ref:`rabbit-"
-"job`\\, see also :ref:`cookie-monster`\\."
+"By extension, any hack that includes infinite self-replication but is not a "
+":ref:`virus` or :ref:`worm`\\. See :ref:`fork-bomb` and :ref:`rabbit-job`\\,"
+" see also :ref:`cookie-monster`\\."
 msgstr ""
-
+"拡張して、無限の自己複製を含むが\\ :ref:`virus`\\ でも\\ :ref:`worm`\\ でもないあらゆるハック。\\ "
+":ref:`fork-bomb`\\ と\\ :ref:`rabbit-job`\\ を参照。\\ :ref:`cookie-monster`\\ "
+"も参照。"

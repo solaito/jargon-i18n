@@ -8,45 +8,46 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/working-as-designed.rst:5
 msgid "working as designed"
-msgstr ""
+msgstr "working as designed"
 
 #: ../../W/working-as-designed.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../W/working-as-designed.rst:9
 msgid "[IBM]"
-msgstr ""
+msgstr "[IBM]"
 
 #: ../../W/working-as-designed.rst:12
 msgid ""
 "In conformance to a wrong or inappropriate specification; useful, but "
 "misdesigned."
-msgstr ""
+msgstr "誤ったまたは不適切な仕様に準拠していること。役には立つが、設計を誤っている。"
 
 #: ../../W/working-as-designed.rst:15
 msgid "Frequently used as a sardonic comment on a program's utility."
-msgstr ""
+msgstr "プログラムの有用性に対する皮肉なコメントとしてよく使われる。"
 
 #: ../../W/working-as-designed.rst:18
 msgid ""
-"Unfortunately also used as a bogus reason for not accepting a criticism "
-"or suggestion. At :ref:`IBM`\\, this sense is used in official documents!"
-" See :ref:`BAD`\\."
+"Unfortunately also used as a bogus reason for not accepting a criticism or "
+"suggestion. At :ref:`IBM`\\, this sense is used in official documents! See "
+":ref:`BAD`\\."
 msgstr ""
-
+"あいにく、批判や提案を受け入れない偽の理由としても使われる。\\ :ref:`IBM`\\ では、この語義は公式文書で使われている! \\ "
+":ref:`BAD`\\ を参照。"

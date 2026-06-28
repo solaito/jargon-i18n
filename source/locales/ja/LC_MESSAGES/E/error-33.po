@@ -8,34 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../E/error-33.rst:5
 msgid "error 33"
-msgstr ""
+msgstr "error 33"
 
 #: ../../E/error-33.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../E/error-33.rst:10
-msgid "[XEROX PARC] Predicating one research effort upon the success of another."
-msgstr ""
+msgid ""
+"[XEROX PARC] Predicating one research effort upon the success of another."
+msgstr "[XEROX PARC] ある研究努力を、別の研究努力の成功の上に立脚させること。"
 
 #: ../../E/error-33.rst:13
 msgid ""
-"Allowing your own research effort to be placed on the critical path of "
-"some other project (be it a research effort or not)."
-msgstr ""
-
+"Allowing your own research effort to be placed on the critical path of some "
+"other project (be it a research effort or not)."
+msgstr "自分自身の研究努力を、何か他のプロジェクト(研究努力であろうとなかろうと)のクリティカルパス上に置かせること。"

@@ -8,34 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/firehose-syndrome.rst:5
 msgid "firehose syndrome"
-msgstr ""
+msgstr "firehose syndrome"
 
 #: ../../F/firehose-syndrome.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../F/firehose-syndrome.rst:9
 msgid ""
-"In mainstream folklore it is observed that trying to drink from a "
-"firehose can be a good way to rip your lips off. On computer networks, "
-"the absence or failure of flow control mechanisms can lead to situations "
-"in which the sending system sprays a massive flood of packets at an "
-"unfortunate receiving system, more than it can handle. Compare "
-":ref:`overrun`\\, :ref:`buffer-overflow`\\."
+"In mainstream folklore it is observed that trying to drink from a firehose "
+"can be a good way to rip your lips off. On computer networks, the absence or"
+" failure of flow control mechanisms can lead to situations in which the "
+"sending system sprays a massive flood of packets at an unfortunate receiving"
+" system, more than it can handle. Compare :ref:`overrun`\\, :ref:`buffer-"
+"overflow`\\."
 msgstr ""
-
+"一般の言い伝えでは、消火ホースから水を飲もうとすると唇を引きちぎる良い方法になりかねない、と言われている。コンピュータネットワークでは、フロー制御機構の欠如や失敗が、送信側システムが不運な受信側システムに、処理できる量を超える大量のパケットを浴びせかける状況につながることがある。\\"
+" :ref:`overrun`\\ 、\\ :ref:`buffer-overflow`\\ と比較せよ。"

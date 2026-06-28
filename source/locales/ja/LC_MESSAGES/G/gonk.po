@@ -8,38 +8,40 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/gonk.rst:5
 msgid "gonk"
-msgstr ""
+msgstr "gonk"
 
 #: ../../G/gonk.rst:7
 msgid "/gonk/, vi\\.,n\\."
-msgstr ""
+msgstr "/gonk/, 自動詞・名詞"
 
 #: ../../G/gonk.rst:10
 msgid ""
-"[prob. back-formed from :ref:`gonkulator`\\.] To prevaricate or to "
-"embellish the truth beyond any reasonable recognition. In German the term"
-" is (mythically) gonken; in Spanish the verb becomes gonkar. \"You're "
-"gonking me. That story you just told me is a bunch of gonk.\" In German, "
-"for example, \"Du gonkst mich\" (You're pulling my leg). See also "
+"[prob. back-formed from :ref:`gonkulator`\\.] To prevaricate or to embellish"
+" the truth beyond any reasonable recognition. In German the term is "
+"(mythically) gonken; in Spanish the verb becomes gonkar. \"You're gonking "
+"me. That story you just told me is a bunch of gonk.\" In German, for "
+"example, \"Du gonkst mich\" (You're pulling my leg). See also "
 ":ref:`gonkulator`\\."
 msgstr ""
+"[おそらく\\ :ref:`gonkulator`\\ からの逆成。] "
+"嘘をつくこと、または真実を合理的に認識できる範囲を超えて潤色すること。ドイツ語では(神話的には)この用語はgonkenで、スペイン語では動詞はgonkarになる。「君は私をgonkしている。今話したその話はgonkの塊だ。」たとえばドイツ語で「Du"
+" gonkst mich」(君は私をからかっている)。\\ :ref:`gonkulator`\\ も参照。"
 
 #: ../../G/gonk.rst:20
 msgid "[British] To grab some sleep at an odd time; compare :ref:`gronk-out`\\."
-msgstr ""
-
+msgstr "[イギリス] 妙な時間にひと眠りすること。\\ :ref:`gronk-out`\\ と比較せよ。"

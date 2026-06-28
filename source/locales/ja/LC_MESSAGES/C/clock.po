@@ -8,45 +8,50 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/clock.rst:5
 msgid "clock"
-msgstr ""
+msgstr "clock"
 
 #: ../../C/clock.rst:7
 msgid "n.,v."
-msgstr ""
+msgstr "名詞・動詞"
 
 #: ../../C/clock.rst:10
 msgid ""
-"[techspeak] The master oscillator that steps a CPU or other digital "
-"circuit through its paces. This has nothing to do with the time of day, "
-"although the software counter that keeps track of the latter may be "
-"derived from the former."
+"[techspeak] The master oscillator that steps a CPU or other digital circuit "
+"through its paces. This has nothing to do with the time of day, although the"
+" software counter that keeps track of the latter may be derived from the "
+"former."
 msgstr ""
+"[専門用語] "
+"CPUや他のデジタル回路をその歩みに沿って一歩ずつ進める主発振器。これは時刻とは何の関係もありませんが、後者を管理するソフトウェアカウンターは前者から導出されるかもしれません。"
 
 #: ../../C/clock.rst:13
 msgid ""
-"vt\\. To run a CPU or other digital circuit at a particular rate. \"If "
-"you clock it at 1000MHz, it gets warm.\". See :ref:`overclock`\\."
+"vt\\. To run a CPU or other digital circuit at a particular rate. \"If you "
+"clock it at 1000MHz, it gets warm.\". See :ref:`overclock`\\."
 msgstr ""
+"他動詞 CPUや他のデジタル回路を特定のレートで走らせること。「1000MHzでクロックすると熱くなる」。\\ :ref:`overclock`\\ "
+"を参照。"
 
 #: ../../C/clock.rst:18
 msgid ""
-"vt\\. To force a digital circuit from one state to the next by applying a"
-" single clock pulse. \"The data must be stable 10ns before you clock the "
+"vt\\. To force a digital circuit from one state to the next by applying a "
+"single clock pulse. \"The data must be stable 10ns before you clock the "
 "latch.\""
 msgstr ""
-
+"他動詞 "
+"単一のクロックパルスを与えることで、デジタル回路をある状態から次の状態へ強制すること。「ラッチをクロックする前に、データは10ナノ秒間安定していなければならない」。"

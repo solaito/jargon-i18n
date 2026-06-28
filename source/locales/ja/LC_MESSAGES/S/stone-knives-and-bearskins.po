@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/stone-knives-and-bearskins.rst:5
 msgid "stone knives and bearskins"
-msgstr ""
+msgstr "stone knives and bearskins"
 
 #: ../../S/stone-knives-and-bearskins.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/stone-knives-and-bearskins.rst:9
 msgid ""
-"[from the Star Trek Classic episode *The City on the Edge of Forever*\\] "
-"A term traditionally used to describe (and deprecate) computing "
-"environments that are grotesquely primitive in light of what is known "
-"about good ways to design things. As in \"Don't get too used to the "
-"facilities here. Once you leave SAIL it's stone knives and bearskins as "
-"far as the eye can see\". Compare :ref:`steam-powered`\\."
+"[from the Star Trek Classic episode *The City on the Edge of Forever*\\] A "
+"term traditionally used to describe (and deprecate) computing environments "
+"that are grotesquely primitive in light of what is known about good ways to "
+"design things. As in \"Don't get too used to the facilities here. Once you "
+"leave SAIL it's stone knives and bearskins as far as the eye can see\". "
+"Compare :ref:`steam-powered`\\."
 msgstr ""
-
+"[Star Trekのクラシックエピソード\\ *The City on the Edge of Forever*\\ から] "
+"物事をうまく設計する方法について知られていることに照らして、ぞっとするほど原始的なコンピューティング環境を表す(そしてけなす)ために伝統的に使われる用語。「ここの設備にあまり慣れるな。いったんSAILを離れれば、見渡す限りstone"
+" knives and bearskinsだ」のように。\\ :ref:`steam-powered`\\ と比較せよ。"

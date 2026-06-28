@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../I/interrupt.rst:5
 msgid "interrupt"
-msgstr ""
+msgstr "interrupt"
 
 #: ../../I/interrupt.rst:8
 msgid ""
-"[techspeak] n. On a computer, an event that interrupts normal processing "
-"and temporarily diverts flow-of-control through an \"interrupt handler\" "
+"[techspeak] n. On a computer, an event that interrupts normal processing and"
+" temporarily diverts flow-of-control through an \"interrupt handler\" "
 "routine. See also :ref:`trap`\\."
 msgstr ""
+"[テックスピーク] 名詞。コンピュータ上で、通常の処理を中断し、「割り込みハンドラ」ルーチンを通じて制御の流れを一時的に逸らすイベント。\\ "
+":ref:`trap`\\ も参照。"
 
 #: ../../I/interrupt.rst:11
 msgid ""
 "interj. A request for attention from a hacker. Often explicitly spoken. "
-"\"Interrupt — have you seen Joe recently?\" See :ref:`priority-"
-"interrupt`\\."
+"\"Interrupt — have you seen Joe recently?\" See :ref:`priority-interrupt`\\."
 msgstr ""
-
+"間投詞。ハッカーからの注意の要求。しばしば明示的に口に出される。「Interrupt — 最近Joeを見たかい?」\\ :ref:`priority-"
+"interrupt`\\ を参照。"

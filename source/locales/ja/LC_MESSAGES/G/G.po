@@ -8,52 +8,58 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/G.rst:5
 msgid "G"
-msgstr ""
+msgstr "G"
 
 #: ../../G/G.rst:7
 msgid "pref\\.,suff\\."
-msgstr ""
+msgstr "接頭辞・接尾辞"
 
 #: ../../G/G.rst:10
 msgid "[SI] See :ref:`quantifiers`\\."
-msgstr ""
+msgstr "[SI] \\ :ref:`quantifiers`\\ を参照。"
 
 #: ../../G/G.rst:13
 msgid ""
 "The letter G has special significance in the hacker community, largely "
 "thanks to the GNU project and the GPL."
-msgstr ""
+msgstr "文字Gはハッカーコミュニティにおいて特別な意味を持つ。これは主にGNUプロジェクトとGPLのおかげである。"
 
 #: ../../G/G.rst:15
 msgid ""
-"Many :ref:`free-software` projects have names that names that begin with "
-"G. The GNU project gave many of its projects names that were acronyms "
-"beginning with the word \"GNU\", such as \"GNU C Compiler\" (gcc) and "
-"\"GNU Debugger\" (gdb), and this launched a tradition. Just as many Java "
-"developers will begin their projects with J, many free software "
-"developers will begin theirs with G. It is often the case that a program "
-"with a G-prefixed name is licensed under the GNU GPL."
+"Many :ref:`free-software` projects have names that names that begin with G. "
+"The GNU project gave many of its projects names that were acronyms beginning"
+" with the word \"GNU\", such as \"GNU C Compiler\" (gcc) and \"GNU "
+"Debugger\" (gdb), and this launched a tradition. Just as many Java "
+"developers will begin their projects with J, many free software developers "
+"will begin theirs with G. It is often the case that a program with a "
+"G-prefixed name is licensed under the GNU GPL."
 msgstr ""
+"多くの\\ :ref:`free-software`\\ "
+"プロジェクトはGで始まる名前を持つ。GNUプロジェクトは自身の多くのプロジェクトに「GNU」という語で始まる頭字語の名前、たとえば「GNU C "
+"Compiler」(gcc)や「GNU "
+"Debugger」(gdb)を与え、これが一つの伝統を生んだ。多くのJava開発者がプロジェクトをJで始めるのと同じように、多くのフリーソフトウェア開発者はGで始める。Gで始まる名前のプログラムがGNU"
+" GPLの下でライセンスされていることはよくある。"
 
 #: ../../G/G.rst:18
 msgid ""
-"For example, someone may write a free Enterprise Engineering Kludge "
-"package (EEK technology is all the rage in the technical journals) and "
-"name it \"geek\" to imply that it is a GPL'd EEK package."
+"For example, someone may write a free Enterprise Engineering Kludge package "
+"(EEK technology is all the rage in the technical journals) and name it "
+"\"geek\" to imply that it is a GPL'd EEK package."
 msgstr ""
-
+"たとえば、誰かがフリーのEnterprise Engineering "
+"Kludgeパッケージ(EEK技術は技術系雑誌で大流行している)を書いて、それがGPL化されたEEKパッケージであることを示すために「geek」と名付けるかもしれない。"

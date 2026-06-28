@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/wave-a-dead-chicken.rst:5
 msgid "wave a dead chicken"
-msgstr ""
+msgstr "wave a dead chicken"
 
 #: ../../W/wave-a-dead-chicken.rst:7
 msgid "v\\."
-msgstr ""
+msgstr "動詞"
 
 #: ../../W/wave-a-dead-chicken.rst:9
 msgid ""
-"To perform a ritual in the direction of crashed software or hardware that"
-" one believes to be futile but is nevertheless necessary so that others "
-"are satisfied that an appropriate degree of effort has been expended. "
-"\"I'll wave a dead chicken over the source code, but I really think we've"
-" run into an OS bug.\" Compare :ref:`voodoo-programming`\\, :ref:`rain-"
-"dance`\\; see also :ref:`casting-the-runes`\\."
+"To perform a ritual in the direction of crashed software or hardware that "
+"one believes to be futile but is nevertheless necessary so that others are "
+"satisfied that an appropriate degree of effort has been expended. \"I'll "
+"wave a dead chicken over the source code, but I really think we've run into "
+"an OS bug.\" Compare :ref:`voodoo-programming`\\, :ref:`rain-dance`\\; see "
+"also :ref:`casting-the-runes`\\."
 msgstr ""
-
+"クラッシュしたソフトウェアやハードウェアに向かって、無駄だと信じてはいるが、それでも適切な度合いの努力が費やされたと他人が満足するために必要な儀式を執り行うこと。「ソースコードの上で死んだ鶏を振ってみるが、本当はOSのバグにぶつかったんだと思う」。\\"
+" :ref:`voodoo-programming`\\ 、\\ :ref:`rain-dance`\\ と比較せよ。\\ :ref:`casting-"
+"the-runes`\\ も参照。"

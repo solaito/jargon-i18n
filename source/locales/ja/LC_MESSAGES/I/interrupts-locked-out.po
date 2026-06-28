@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../I/interrupts-locked-out.rst:5
 msgid "interrupts locked out"
-msgstr ""
+msgstr "interrupts locked out"
 
 #: ../../I/interrupts-locked-out.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../I/interrupts-locked-out.rst:9
 msgid ""
 "When someone is ignoring you. In a restaurant, after several fruitless "
-"attempts to get the waitress's attention, a hacker might well observe "
-"\"She must have interrupts locked out\". The synonym interrupts disabled "
-"is also common. Variations abound; \"to have one's interrupt mask bit "
-"set\" and \"interrupts masked out\" are also heard. See also "
-":ref:`spl`\\."
+"attempts to get the waitress's attention, a hacker might well observe \"She "
+"must have interrupts locked out\". The synonym interrupts disabled is also "
+"common. Variations abound; \"to have one's interrupt mask bit set\" and "
+"\"interrupts masked out\" are also heard. See also :ref:`spl`\\."
 msgstr ""
-
+"誰かがあなたを無視しているとき。レストランで、ウェイトレスの注意を引こうと何度も無駄な試みをした後、ハッカーは「彼女はinterrupts locked"
+" outにしているに違いない」と言うかもしれない。同義語のinterrupts disabledもよく使われる。変種は数多い。「to have "
+"one's interrupt mask bit set(割り込みマスクビットを立てている)」や「interrupts masked "
+"out」も耳にする。\\ :ref:`spl`\\ も参照。"

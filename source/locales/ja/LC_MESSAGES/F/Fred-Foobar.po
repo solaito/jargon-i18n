@@ -8,34 +8,37 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/Fred-Foobar.rst:5
 msgid "Fred Foobar"
-msgstr ""
+msgstr "Fred Foobar"
 
 #: ../../F/Fred-Foobar.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../F/Fred-Foobar.rst:9
 msgid ""
-":ref:`J--Random-Hacker`\\'s cousin. Any typical human being, more or less"
-" synonymous with ‘someone’ except that Fred Foobar can be "
-":ref:`backreference`\\d by name later on. \"So Fred Foobar will enter his"
-" phone number into the database, and it'll be archived with the others. "
+":ref:`J--Random-Hacker`\\'s cousin. Any typical human being, more or less "
+"synonymous with ‘someone’ except that Fred Foobar can be "
+":ref:`backreference`\\d by name later on. \"So Fred Foobar will enter his "
+"phone number into the database, and it'll be archived with the others. "
 "Months later, when Fred searches...\" See also :ref:`Bloggs-Family` and "
 ":ref:`Dr--Fred-Mbogo`"
 msgstr ""
-
+"\\ :ref:`J--Random-Hacker`\\ のいとこ。任意のごく一般的な人間で、‘someone(誰か)’とほぼ同義だが、Fred "
+"Foobarは後で名前によって\\ :ref:`backreference`\\ できる点が異なる。「それでFred "
+"Foobarが自分の電話番号をデータベースに入力すると、それは他のものと一緒にアーカイブされる。何ヶ月か後、Fredが検索すると……」。\\ "
+":ref:`Bloggs-Family`\\ と\\ :ref:`Dr--Fred-Mbogo`\\ も参照。"

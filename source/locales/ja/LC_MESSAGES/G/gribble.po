@@ -8,32 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/gribble.rst:5
 msgid "gribble"
-msgstr ""
+msgstr "gribble"
 
 #: ../../G/gribble.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../G/gribble.rst:9
 msgid ""
-"Random binary data rendered as unreadable text. Noise characters in a "
-"data stream are displayed as gribble. Dumping a binary file to the screen"
-" is an excellent source of gribble, and (if the bell/speaker is active) "
-"headaches."
+"Random binary data rendered as unreadable text. Noise characters in a data "
+"stream are displayed as gribble. Dumping a binary file to the screen is an "
+"excellent source of gribble, and (if the bell/speaker is active) headaches."
 msgstr ""
-
+"読めないテキストとして表示されるランダムなバイナリデータ。データストリーム中のノイズ文字はgribbleとして表示される。バイナリファイルを画面にダンプすることはgribbleの絶好の源泉であり、(ベル・スピーカーが有効なら)頭痛の種でもある。"

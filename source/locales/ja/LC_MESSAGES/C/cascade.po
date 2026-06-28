@@ -8,40 +8,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/cascade.rst:5
 msgid "cascade"
-msgstr ""
+msgstr "cascade"
 
 #: ../../C/cascade.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../C/cascade.rst:10
 msgid ""
-"A huge volume of spurious error-message output produced by a compiler "
-"with poor error recovery. Too frequently, one trivial syntax error (such "
-"as a missing ‘)’ or ‘}’) throws the parser out of synch so that much of "
-"the remaining program text is interpreted as garbaged or ill-formed."
+"A huge volume of spurious error-message output produced by a compiler with "
+"poor error recovery. Too frequently, one trivial syntax error (such as a "
+"missing ‘)’ or ‘}’) throws the parser out of synch so that much of the "
+"remaining program text is interpreted as garbaged or ill-formed."
 msgstr ""
+"エラー回復の貧弱なコンパイラが生成する、大量の無意味なエラーメッセージ出力。あまりに頻繁に、一つのつまらない構文エラー(たとえば‘)’や‘}’の欠落)がパーサーの同期を狂わせ、残りのプログラムテキストの多くが文字化けや不正形式と解釈されてしまうのです。"
 
 #: ../../C/cascade.rst:14
 msgid ""
-"A chain of Usenet followups, each adding some trivial variation or "
-"riposte to the text of the previous one, all of which is reproduced in "
-"the new message; an :ref:`include-war` in which the object is to create a"
-" sort of communal graffito."
+"A chain of Usenet followups, each adding some trivial variation or riposte "
+"to the text of the previous one, all of which is reproduced in the new "
+"message; an :ref:`include-war` in which the object is to create a sort of "
+"communal graffito."
 msgstr ""
-
+"Usenetのフォローアップの連鎖で、それぞれが前のテキストにつまらない変化や反論を加え、その全文が新しいメッセージに再録されているもの。一種の共同の落書きを作ることを目的とした\\"
+" :ref:`include-war`\\ 。"

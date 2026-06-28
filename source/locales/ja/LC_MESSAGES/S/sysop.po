@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/sysop.rst:5
 msgid "sysop"
-msgstr ""
+msgstr "sysop"
 
 #: ../../S/sysop.rst:7
 msgid "/sis´op/, n\\."
-msgstr ""
+msgstr "/sis´op/, 名詞"
 
 #: ../../S/sysop.rst:9
 msgid ""
-"[esp. in the BBS world] The operator (and usually the owner) of a "
-"bulletin-board system. A common neophyte mistake on :ref:`FidoNet` is to "
-"address a message to sysop in an international FidoNet board, thus "
-"sending it to hundreds of sysops around the world."
+"[esp. in the BBS world] The operator (and usually the owner) of a bulletin-"
+"board system. A common neophyte mistake on :ref:`FidoNet` is to address a "
+"message to sysop in an international FidoNet board, thus sending it to "
+"hundreds of sysops around the world."
 msgstr ""
-
+"[とくにBBSの世界で] 電子掲示板システムのオペレータ(そして通常は所有者)。\\ :ref:`FidoNet`\\ "
+"でよくある初心者の間違いは、国際的なFidoNetの掲示板でsysop宛にメッセージを送り、それによって世界中の何百人ものsysopにそれを送ってしまうことだ。"

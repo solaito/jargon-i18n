@@ -8,30 +8,29 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/gronk-out.rst:5
 msgid "gronk out"
-msgstr ""
+msgstr "gronk out"
 
 #: ../../G/gronk-out.rst:7
 msgid "vi\\."
-msgstr ""
+msgstr "自動詞"
 
 #: ../../G/gronk-out.rst:9
 msgid ""
-"To cease functioning. Of people, to go home and go to sleep. \"I guess "
-"I'll gronk out now; see you all tomorrow.\""
-msgstr ""
-
+"To cease functioning. Of people, to go home and go to sleep. \"I guess I'll "
+"gronk out now; see you all tomorrow.\""
+msgstr "機能を停止すること。人について、家に帰って眠ること。「もうgronk outしようと思う。みんな、また明日。」"

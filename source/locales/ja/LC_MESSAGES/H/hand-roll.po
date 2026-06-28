@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../H/hand-roll.rst:5
 msgid "hand-roll"
-msgstr ""
+msgstr "hand-roll"
 
 #: ../../H/hand-roll.rst:7
 msgid "v\\."
-msgstr ""
+msgstr "動詞"
 
 #: ../../H/hand-roll.rst:9
 msgid ""
@@ -39,4 +39,6 @@ msgid ""
 "being a gateway between four different nets is having to hand-roll a new "
 "sendmail configuration every time any of them upgrades.\""
 msgstr ""
-
+"[既製品に対する手巻きを指す、タバコに関する廃れた主流スラングhand-rolledより]通常は自動化されたソフトウェアのインストールや設定の処理を\\"
+" :ref:`by-hand`\\ "
+"で実行すること。通常の処理が設定ツールのバグで失敗したか、ローカル環境の何か例外的なものによって阻まれたことを含意する。「4つの異なるネットの間のゲートウェイであることの最悪の点は、そのどれかがアップグレードするたびに新しいsendmail設定を手で巻かなければならないことだ」。"

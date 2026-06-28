@@ -8,41 +8,44 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/cybercrud.rst:5
 msgid "cybercrud"
-msgstr ""
+msgstr "cybercrud"
 
 #: ../../C/cybercrud.rst:7
 msgid "/si:´ber·kruhd/, n\\."
-msgstr ""
+msgstr "/si:´ber·kruhd/, 名詞"
 
 #: ../../C/cybercrud.rst:10
 msgid ""
 "[coined by Ted Nelson] Obfuscatory tech-talk. Verbiage with a high "
 ":ref:`MEGO` factor. The computer equivalent of bureaucratese."
-msgstr ""
+msgstr "[Ted Nelsonが造った] 不明瞭にする技術用語。高い\\ :ref:`MEGO`\\ 度の言葉遣い。お役所言葉のコンピューター版。"
 
 #: ../../C/cybercrud.rst:15
 msgid ""
-"Incomprehensible stuff embedded in email. First there were the "
-"\"Received\" headers that show how mail flows through systems, then MIME "
-"(Multi-purpose Internet Mail Extensions) headers and part boundaries, and"
-" now huge blocks of radix-64 for PEM (Privacy Enhanced Mail) or PGP "
-"(Pretty Good Privacy) digital signatures and certificates of "
-"authenticity. This stuff all serves a purpose and good user interfaces "
-"should hide it, but all too often users are forced to wade through it."
+"Incomprehensible stuff embedded in email. First there were the \"Received\" "
+"headers that show how mail flows through systems, then MIME (Multi-purpose "
+"Internet Mail Extensions) headers and part boundaries, and now huge blocks "
+"of radix-64 for PEM (Privacy Enhanced Mail) or PGP (Pretty Good Privacy) "
+"digital signatures and certificates of authenticity. This stuff all serves a"
+" purpose and good user interfaces should hide it, but all too often users "
+"are forced to wade through it."
 msgstr ""
-
+"eメールに埋め込まれた理解不能なもの。最初はメールがシステムをどう流れるかを示す「Received」ヘッダがあり、次にMIME(Multi-"
+"purpose Internet Mail Extensions)ヘッダとパート境界、そして今やPEM(Privacy Enhanced "
+"Mail)やPGP(Pretty Good "
+"Privacy)のデジタル署名と真正性証明書のための巨大なradix-64のブロックがあります。これらはすべて目的を果たすものであり、優れたユーザーインターフェースはそれを隠すべきですが、あまりに頻繁にユーザーはそれをかき分けて進むことを強いられます。"

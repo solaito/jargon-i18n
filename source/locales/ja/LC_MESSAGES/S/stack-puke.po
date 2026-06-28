@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/stack-puke.rst:5
 msgid "stack puke"
-msgstr ""
+msgstr "stack puke"
 
 #: ../../S/stack-puke.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/stack-puke.rst:9
 msgid ""
-"Some processor architectures are said to ‘puke their guts onto the stack’"
-" to save their internal state during exception processing. The Motorola "
-"68020, for example, regurgitates up to 92 bytes on a bus fault. On a "
-"pipelined machine, this can take a while."
+"Some processor architectures are said to ‘puke their guts onto the stack’ to"
+" save their internal state during exception processing. The Motorola 68020, "
+"for example, regurgitates up to 92 bytes on a bus fault. On a pipelined "
+"machine, this can take a while."
 msgstr ""
-
+"一部のプロセッサアーキテクチャは、例外処理の間に内部状態を保存するために‘はらわたをスタックにぶちまける’と言われる。たとえばMotorola "
+"68020は、バスフォールトで最大92バイトを吐き戻す。パイプライン化されたマシンでは、これにしばらくかかることがある。"

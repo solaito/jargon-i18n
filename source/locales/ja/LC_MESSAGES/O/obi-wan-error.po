@@ -8,40 +8,40 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../O/obi-wan-error.rst:5
 msgid "obi-wan error"
-msgstr ""
+msgstr "obi-wan error"
 
 #: ../../O/obi-wan-error.rst:7
 msgid "/oh´bee·won\\` er'\\@r/, n\\."
-msgstr ""
+msgstr "/oh´bee·won\\` er'\\@r/, 名詞"
 
 #: ../../O/obi-wan-error.rst:9
 msgid ""
-"[RPI, from off-by-one and the Obi-Wan Kenobi character in *Star Wars*\\] "
-"A loop of some sort in which the index is off by one."
+"[RPI, from off-by-one and the Obi-Wan Kenobi character in *Star Wars*\\] A "
+"loop of some sort in which the index is off by one."
 msgstr ""
+"[RPI、off-by-oneと\\ *Star Wars*\\ のObi-Wan "
+"Kenobiというキャラクターから]添字が1だけずれている、何らかのループ。"
 
 #: ../../O/obi-wan-error.rst:12
 msgid ""
-"Common when the index should have started from 0 but instead started from"
-" 1."
-msgstr ""
+"Common when the index should have started from 0 but instead started from 1."
+msgstr "添字が0から始まるべきところを1から始めてしまったときによく起こる。"
 
 #: ../../O/obi-wan-error.rst:15
 msgid "A kind of :ref:`off-by-one-error`\\. See also :ref:`zeroth`\\."
-msgstr ""
-
+msgstr ":ref:`off-by-one-error`\\ の一種。\\ :ref:`zeroth`\\ も参照。"

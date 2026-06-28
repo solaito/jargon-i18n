@@ -8,38 +8,41 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/copybroke.rst:5
 msgid "copybroke"
-msgstr ""
+msgstr "copybroke"
 
 #: ../../C/copybroke.rst:7
 msgid "/kop´ee·brohk/, adj\\."
-msgstr ""
+msgstr "/kop´ee·brohk/, 形容詞"
 
 #: ../../C/copybroke.rst:10
 msgid ""
-"[play on copyright] Used to describe an instance of a copy-protected "
-"program that has been ‘broken’; that is, a copy with the copy-protection "
-"scheme disabled. Syn. :ref:`copywronged`\\."
+"[play on copyright] Used to describe an instance of a copy-protected program"
+" that has been ‘broken’; that is, a copy with the copy-protection scheme "
+"disabled. Syn. :ref:`copywronged`\\."
 msgstr ""
+"[copyrightのもじり] "
+"コピープロテクトされたプログラムの、‘破られた’、つまりコピープロテクトの仕組みが無効化されたコピーの実例を表すのに使われます。同義語は\\ "
+":ref:`copywronged`\\ 。"
 
 #: ../../C/copybroke.rst:15
 msgid ""
 "Copy-protected software which is unusable because of some bit-rot or bug "
-"that has confused the anti-piracy check. See also :ref:`copy-"
-"protection`\\."
+"that has confused the anti-piracy check. See also :ref:`copy-protection`\\."
 msgstr ""
-
+"何らかのビット腐敗やバグが海賊版防止チェックを混乱させたために使用不能になっている、コピープロテクトされたソフトウェア。\\ :ref:`copy-"
+"protection`\\ も参照。"

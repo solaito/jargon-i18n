@@ -8,40 +8,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../R/RTM.rst:5
 msgid "RTM"
-msgstr ""
+msgstr "RTM"
 
 #: ../../R/RTM.rst:7
 msgid "/R·T·M/"
-msgstr ""
+msgstr "/R·T·M/"
 
 #: ../../R/RTM.rst:10
 msgid ""
 "[Usenet: abbreviation for ‘Read The Manual’] Politer variant of "
 ":ref:`RTFM`\\."
-msgstr ""
+msgstr "[Usenet: ‘Read The Manual’の略] \\ :ref:`RTFM`\\ のより丁寧な変種。"
 
 #: ../../R/RTM.rst:13
 msgid ""
-"Robert Tappan Morris, perpetrator of the great Internet worm of 1988 (see"
-" :ref:`Great-Worm`\\); villain to many, naive hacker gone wrong to a few."
-" Morris claimed that the worm that brought the Internet to its knees was "
-"a benign experiment that got out of control as the result of a coding "
-"error. After the storm of negative publicity that followed this blunder, "
-"Morris's username on ITS was hacked from RTM to :ref:`RTFM`\\."
+"Robert Tappan Morris, perpetrator of the great Internet worm of 1988 (see "
+":ref:`Great-Worm`\\); villain to many, naive hacker gone wrong to a few. "
+"Morris claimed that the worm that brought the Internet to its knees was a "
+"benign experiment that got out of control as the result of a coding error. "
+"After the storm of negative publicity that followed this blunder, Morris's "
+"username on ITS was hacked from RTM to :ref:`RTFM`\\."
 msgstr ""
-
+"Robert Tappan Morris。1988年の大インターネットワームの実行者(\\ :ref:`Great-Worm`\\ "
+"を参照)。多くの者には悪役、一部の者には道を誤った純真なハッカー。Morrisは、インターネットを麻痺させたワームはコーディングの誤りの結果として制御不能になった善意の実験だったと主張した。この大失態に続く否定的な報道の嵐の後、MorrisのITS上のユーザー名はRTMから\\"
+" :ref:`RTFM`\\ へとハックされた。"

@@ -8,33 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../R/roach.rst:5
 msgid "roach"
-msgstr ""
+msgstr "roach"
 
 #: ../../R/roach.rst:7
 msgid "vt\\."
-msgstr ""
+msgstr "他動詞"
 
 #: ../../R/roach.rst:9
 msgid ""
 "[Bell Labs] To destroy, esp. of a data structure. Hardware gets "
-":ref:`toast`\\ed or :ref:`fried`\\, software gets roached. Probably "
-"derived from '70s and '80s drug slang; marijuana smokers used ‘roach’ to "
-"refer to the unsmokable remnant of a joint, and to ‘roach’ a joint was "
-"therefore to destroy it."
+":ref:`toast`\\ed or :ref:`fried`\\, software gets roached. Probably derived "
+"from '70s and '80s drug slang; marijuana smokers used ‘roach’ to refer to "
+"the unsmokable remnant of a joint, and to ‘roach’ a joint was therefore to "
+"destroy it."
 msgstr ""
-
+"[Bell Labs] 破壊すること。特にデータ構造について。ハードウェアは\\ :ref:`toast`\\ されたり\\ "
+":ref:`fried`\\ "
+"されたりし、ソフトウェアはroachされる。おそらく70年代と80年代のドラッグ俗語に由来する。マリファナの喫煙者は、ジョイントの吸えない残りを指すのに‘roach’を使い、したがってジョイントを‘roach’するとは、それを破壊することだった。"

@@ -8,127 +8,142 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/space-cadet-keyboard.rst:5
 msgid "space-cadet keyboard"
-msgstr ""
+msgstr "space-cadet keyboard"
 
 #: ../../S/space-cadet-keyboard.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/space-cadet-keyboard.rst:9
 msgid ""
 "A now-legendary device used on MIT LISP machines, which inspired several "
-"still-current jargon terms and influenced the design of :ref:`EMACS`\\. "
-"It was equipped with no fewer than *seven* shift keys: four keys for :ref"
-":`bucky-bits` (‘control’, ‘meta’, ‘hyper’, and ‘super’) and three regular"
-" shift keys, called ‘shift’, ‘top’, and ‘front’. Many keys had three "
-"symbols on them: a letter and a symbol on the top, and a Greek letter on "
-"the front. For example, the ‘L’ key had an ‘L’ and a two-way arrow on the"
-" top, and the Greek letter lambda on the front. By pressing this key with"
-" the right hand while playing an appropriate ‘chord’ with the left hand "
-"on the shift keys, you could get the following results:"
+"still-current jargon terms and influenced the design of :ref:`EMACS`\\. It "
+"was equipped with no fewer than *seven* shift keys: four keys for "
+":ref:`bucky-bits` (‘control’, ‘meta’, ‘hyper’, and ‘super’) and three "
+"regular shift keys, called ‘shift’, ‘top’, and ‘front’. Many keys had three "
+"symbols on them: a letter and a symbol on the top, and a Greek letter on the"
+" front. For example, the ‘L’ key had an ‘L’ and a two-way arrow on the top, "
+"and the Greek letter lambda on the front. By pressing this key with the "
+"right hand while playing an appropriate ‘chord’ with the left hand on the "
+"shift keys, you could get the following results:"
 msgstr ""
+"MITのLISPマシンで使われた、いまや伝説的なデバイス。いくつかの今なお現役のジャーゴン用語を生み出し、\\ :ref:`EMACS`\\ "
+"の設計に影響を与えた。それには\\ *7つ*\\ ものシフトキーが装備されていた。\\ :ref:`bucky-bits`\\ "
+"用の4つのキー(‘control’、‘meta’、‘hyper’、‘super’)と、‘shift’、‘top’、‘front’と呼ばれる3つの通常のシフトキーである。多くのキーには3つの記号があった。文字と、上部の記号、そして前面のギリシャ文字だ。たとえば‘L’キーには、上部に‘L’と双方向の矢印があり、前面にギリシャ文字のラムダがあった。このキーを右手で押しながら、左手でシフトキーの上の適切な‘コード’を弾くことで、次の結果が得られた。"
 
 #: ../../S/space-cadet-keyboard.rst:17
 msgid "L"
-msgstr ""
+msgstr "L"
 
 #: ../../S/space-cadet-keyboard.rst:18
 msgid "lowercase l"
-msgstr ""
+msgstr "小文字のl"
 
 #: ../../S/space-cadet-keyboard.rst:19
 msgid "shift-L"
-msgstr ""
+msgstr "shift-L"
 
 #: ../../S/space-cadet-keyboard.rst:20
 msgid "uppercase L"
-msgstr ""
+msgstr "大文字のL"
 
 #: ../../S/space-cadet-keyboard.rst:21
 msgid "front-L"
-msgstr ""
+msgstr "front-L"
 
 #: ../../S/space-cadet-keyboard.rst:22
 msgid "λ"
-msgstr ""
+msgstr "λ"
 
 #: ../../S/space-cadet-keyboard.rst:23
 msgid "front-shift-L"
-msgstr ""
+msgstr "front-shift-L"
 
 #: ../../S/space-cadet-keyboard.rst:24
 msgid "Λ"
-msgstr ""
+msgstr "Λ"
 
 #: ../../S/space-cadet-keyboard.rst:25
 msgid "top-L"
-msgstr ""
+msgstr "top-L"
 
 #: ../../S/space-cadet-keyboard.rst:26
 msgid "⇔ (front and shift are ignored)"
-msgstr ""
+msgstr "⇔ (frontとshiftは無視される)"
 
 #: ../../S/space-cadet-keyboard.rst:28
 msgid ""
-"And of course each of these might also be typed with any combination of "
-"the control, meta, hyper, and super keys. On this keyboard, you could "
-"type over 8000 different characters! This allowed the user to type very "
-"complicated mathematical text, and also to have thousands of single-"
-"character commands at his disposal. The keyboard of the Symbolics Lisp "
-"machine was a simplified version, lacking Top and Front keys, that could "
-"only send about 2000 characters."
+"And of course each of these might also be typed with any combination of the "
+"control, meta, hyper, and super keys. On this keyboard, you could type over "
+"8000 different characters! This allowed the user to type very complicated "
+"mathematical text, and also to have thousands of single-character commands "
+"at his disposal. The keyboard of the Symbolics Lisp machine was a simplified"
+" version, lacking Top and Front keys, that could only send about 2000 "
+"characters."
 msgstr ""
+"そしてもちろん、これらの各々は、control、meta、hyper、superキーの任意の組み合わせとともにタイプすることもできた。このキーボードでは、8000を超える異なる文字をタイプできた!"
+" これにより、ユーザーは非常に複雑な数学的テキストをタイプでき、また何千もの一文字コマンドを自由に使えた。Symbolics "
+"Lispマシンのキーボードは、TopキーとFrontキーを欠く簡略版で、約2000文字しか送れなかった。"
 
 #: ../../S/space-cadet-keyboard.rst:33
 msgid ""
-"Many hackers were actually willing to memorize the command meanings of "
-"that many characters if it reduced typing time (this attitude obviously "
-"shaped the interface of EMACS). Other hackers, however, thought having "
-"that many bucky bits was overkill, and objected that such a keyboard can "
-"require three or four hands to operate. See :ref:`bucky-bits`\\, "
-":ref:`cokebottle`\\, :ref:`double-bucky`\\, :ref:`meta-bit`\\, :ref"
-":`quadruple-bucky`\\."
+"Many hackers were actually willing to memorize the command meanings of that "
+"many characters if it reduced typing time (this attitude obviously shaped "
+"the interface of EMACS). Other hackers, however, thought having that many "
+"bucky bits was overkill, and objected that such a keyboard can require three"
+" or four hands to operate. See :ref:`bucky-bits`\\, :ref:`cokebottle`\\, "
+":ref:`double-bucky`\\, :ref:`meta-bit`\\, :ref:`quadruple-bucky`\\."
 msgstr ""
+"多くのハッカーは、タイプ時間を減らせるなら、それほど多くの文字のコマンドの意味を実際に暗記する気があった(この態度は明らかにEMACSのインターフェースを形作った)。だが他のハッカーは、それほど多くのbucky"
+" bitを持つのはやりすぎだと考え、そんなキーボードは操作に3本や4本の手が要りうると反論した。\\ :ref:`bucky-bits`\\ 、\\ "
+":ref:`cokebottle`\\ 、\\ :ref:`double-bucky`\\ 、\\ :ref:`meta-bit`\\ 、\\ "
+":ref:`quadruple-bucky`\\ を参照。"
 
 #: ../../S/space-cadet-keyboard.rst:39
 msgid "Simplified Symbolics version of the space-cadet keyboard"
-msgstr ""
+msgstr "space-cadetキーボードの簡略化されたSymbolics版"
 
 #: ../../S/space-cadet-keyboard.rst:42
 msgid ""
-"(Some relatively bad photographs of the earlier, more elaborate version "
-"are `available on the Web.) "
+"(Some relatively bad photographs of the earlier, more elaborate version are "
+"`available on the Web.) "
 "<http://screenshots.sourceforge.net/misc/SpaceCadet.html>`_."
 msgstr ""
+"(以前の、より凝った版の比較的出来の悪い写真がいくつか\\ `Web上で入手できる。) "
+"<http://screenshots.sourceforge.net/misc/SpaceCadet.html>`_\\ 。"
 
 #: ../../S/space-cadet-keyboard.rst:45
 msgid ""
-"Note: early versions of this entry incorrectly identified the space-cadet"
-" keyboard with the Knight keyboard. Though both were designed by Tom "
-"Knight, the latter term was properly applied only to a keyboard used for "
-"ITS on the PDP-10 and modeled on the Stanford keyboard (as described "
-"under :ref:`bucky-bits`\\). The true space-cadet keyboard evolved from "
-"the first Knight keyboard."
+"Note: early versions of this entry incorrectly identified the space-cadet "
+"keyboard with the Knight keyboard. Though both were designed by Tom Knight, "
+"the latter term was properly applied only to a keyboard used for ITS on the "
+"PDP-10 and modeled on the Stanford keyboard (as described under :ref:`bucky-"
+"bits`\\). The true space-cadet keyboard evolved from the first Knight "
+"keyboard."
 msgstr ""
+"注: この項の初期の版は、space-cadetキーボードをKnightキーボードと誤って同一視していた。両方ともTom "
+"Knightによって設計されたが、後者の用語が正しく当てはまるのは、PDP-10のITSで使われ、Stanfordのキーボードをモデルにした(\\ "
+":ref:`bucky-bits`\\ で述べられているとおりの)キーボードに対してのみだった。真のspace-"
+"cadetキーボードは、最初のKnightキーボードから進化した。"
 
 #: ../../S/space-cadet-keyboard.rst:53
 msgid "An early  :ref:`space-cadet-keyboard`"
-msgstr ""
+msgstr "初期の\\ :ref:`space-cadet-keyboard`\\"
 
 #: ../../S/space-cadet-keyboard.rst:55
 msgid ""
@@ -136,4 +151,5 @@ msgid ""
 ":ref:`73-05-20<crunchly73-05-20>`\\. The previous one is         "
 ":ref:`73-05-18<crunchly73-05-18>`\\.)"
 msgstr ""
-
+"(Crunchlyサーガの次の漫画は\\ :ref:`73-05-20<crunchly73-05-20>`\\ 。前のは\\ "
+":ref:`73-05-18<crunchly73-05-18>`\\ 。)"

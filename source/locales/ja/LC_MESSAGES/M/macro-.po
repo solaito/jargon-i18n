@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/macro-.rst:5
 msgid "macro-"
-msgstr ""
+msgstr "macro-"
 
 #: ../../M/macro-.rst:7
 msgid "pref\\."
-msgstr ""
+msgstr "接頭辞"
 
 #: ../../M/macro-.rst:9
 msgid ""
@@ -36,4 +36,5 @@ msgid ""
 "prefix :ref:`mega-`\\, but hackers tend to restrict the latter to "
 "quantification."
 msgstr ""
-
+"大きい。\\ :ref:`micro-`\\ の反対。主流の中や他の技術文化(たとえば医療関係者)の間では、これは接頭辞\\ "
+":ref:`mega-`\\ と競合するが、ハッカーは後者を数量化に限定する傾向がある。"

@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/showstopper.rst:5
 msgid "showstopper"
-msgstr ""
+msgstr "showstopper"
 
 #: ../../S/showstopper.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/showstopper.rst:9
 msgid ""
 "A hardware or (especially) software bug that makes an implementation "
-"effectively unusable; one that absolutely has to be fixed before "
-"development can go on. Opposite in connotation from its original "
-"theatrical use, which refers to something stunningly *good*\\."
+"effectively unusable; one that absolutely has to be fixed before development"
+" can go on. Opposite in connotation from its original theatrical use, which "
+"refers to something stunningly *good*\\."
 msgstr ""
-
+"実装を事実上使い物にならなくするハードウェアまたは(とくに)ソフトウェアのバグ。開発を進められるようになる前に、どうしても直さなければならないもの。何かが驚くほど\\"
+" *素晴らしい*\\ ことを指す、元の演劇上の用法とは含みが逆である。"

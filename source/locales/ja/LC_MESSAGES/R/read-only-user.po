@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../R/read-only-user.rst:5
 msgid "read-only user"
-msgstr ""
+msgstr "read-only user"
 
 #: ../../R/read-only-user.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../R/read-only-user.rst:9
 msgid ""
-"Describes a :ref:`luser` who uses computers almost exclusively for "
-"reading Usenet, bulletin boards, and/or email, rather than writing code "
-"or purveying useful information. See :ref:`twink`\\, :ref:`terminal-"
-"junkie`\\, :ref:`lurker`\\."
+"Describes a :ref:`luser` who uses computers almost exclusively for reading "
+"Usenet, bulletin boards, and/or email, rather than writing code or purveying"
+" useful information. See :ref:`twink`\\, :ref:`terminal-junkie`\\, "
+":ref:`lurker`\\."
 msgstr ""
-
+"コードを書いたり有用な情報を提供したりするのではなく、ほとんど専らUsenet、掲示板、および/または電子メールを読むためにコンピュータを使う\\ "
+":ref:`luser`\\ を表す。\\ :ref:`twink`\\ 、\\ :ref:`terminal-junkie`\\ 、\\ "
+":ref:`lurker`\\ を参照。"

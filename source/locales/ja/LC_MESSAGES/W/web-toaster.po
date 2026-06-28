@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/web-toaster.rst:5
 msgid "web toaster"
-msgstr ""
+msgstr "web toaster"
 
 #: ../../W/web-toaster.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../W/web-toaster.rst:9
 msgid ""
@@ -37,4 +37,6 @@ msgid ""
 "example the Cobalt Qube) are often about the size of a toaster. See "
 ":ref:`toaster`\\; compare :ref:`video-toaster`\\."
 msgstr ""
-
+"モニターもキーボードもその他の外部周辺機器も付属せずに出荷され、Ethernetポート経由で制御してWWWサーバーとして機能するよう事前設定された、小さな専用コンピュータ。この種の製品(たとえばCobalt"
+" Qube)は、しばしばトースターほどの大きさである。\\ :ref:`toaster`\\ を参照。\\ :ref:`video-toaster`\\"
+" と比較せよ。"

@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/swab.rst:5
 msgid "swab"
-msgstr ""
+msgstr "swab"
 
 #: ../../S/swab.rst:7
 msgid "/swob/"
-msgstr ""
+msgstr "/swob/"
 
 #: ../../S/swab.rst:9
 msgid ""
@@ -35,15 +35,19 @@ msgid ""
 "immortalized in the :manpage:`dd(1)` option :code:`conv=swab` (see "
 ":ref:`dd`\\)]"
 msgstr ""
+"[\\ :ref:`PDP-11`\\ の‘SWAp Byte’命令のニーモニックから。\\ :manpage:`dd(1)`\\ のオプション\\ "
+":code:`conv=swab`\\ で不朽となった(\\ :ref:`dd`\\ を参照)]"
 
 #: ../../S/swab.rst:11
 msgid "vt\\. To solve the :ref:`NUXI-problem` by swapping bytes in a file"
-msgstr ""
+msgstr "他動詞 ファイル中のバイトを入れ替えて\\ :ref:`NUXI-problem`\\ を解決すること"
 
 #: ../../S/swab.rst:14
 msgid ""
 "n\\. The program in V7 Unix used to perform this action, or anything "
-"functionally equivalent to it. See also :ref:`big-endian`\\, :ref"
-":`little-endian`\\, :ref:`middle-endian`\\, :ref:`bytesexual`\\."
+"functionally equivalent to it. See also :ref:`big-endian`\\, :ref:`little-"
+"endian`\\, :ref:`middle-endian`\\, :ref:`bytesexual`\\."
 msgstr ""
-
+"名詞 V7 Unixでこの動作を行うのに使われたプログラム、または機能的にそれと等価なもの。\\ :ref:`big-endian`\\ 、\\ "
+":ref:`little-endian`\\ 、\\ :ref:`middle-endian`\\ 、\\ :ref:`bytesexual`\\ "
+"も参照。"

@@ -8,30 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/sniff.rst:5
 msgid "sniff"
-msgstr ""
+msgstr "sniff"
 
 #: ../../S/sniff.rst:7
 msgid "v\\.,n\\."
-msgstr ""
+msgstr "動詞・名詞"
 
 #: ../../S/sniff.rst:10
 msgid ""
 "To watch packets traversing a network. Most often in the phrase packet "
 "sniffer, a program for doing same. 2. Synonym for :ref:`poll`\\."
 msgstr ""
-
+"ネットワークを横切るパケットを監視すること。多くはpacket sniffer(パケットスニファ)という句で、それを行うプログラムを指す。2. "
+":ref:`poll`\\ の同義語。"

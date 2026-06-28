@@ -8,36 +8,38 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/Death-Square.rst:5
 msgid "Death Square"
-msgstr ""
+msgstr "Death Square"
 
 #: ../../D/Death-Square.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../D/Death-Square.rst:9
 msgid ""
-"The corporate logo of Novell, the people who acquired USL after AT&T let "
-"go of it (Novell eventually sold the Unix group to SCO). Coined by "
-"analogy with :ref:`Death-Star`\\, because many people believed Novell was"
-" bungling the lead in Unix systems exactly as AT&T did for many years."
+"The corporate logo of Novell, the people who acquired USL after AT&T let go "
+"of it (Novell eventually sold the Unix group to SCO). Coined by analogy with"
+" :ref:`Death-Star`\\, because many people believed Novell was bungling the "
+"lead in Unix systems exactly as AT&T did for many years."
 msgstr ""
+"AT&Tが手放した後にUSLを取得したNovellの企業ロゴ(Novellは最終的にUnixグループをSCOに売却した)。\\ :ref:`Death-"
+"Star`\\ "
+"との類推から作られた。多くの人が、NovellがAT&Tが長年そうしたのとまったく同じように、Unixシステムにおける先頭の座をしくじっていると信じていたからである。"
 
 #: ../../D/Death-Square.rst:12
 msgid "[They were right —ESR]"
-msgstr ""
-
+msgstr "[彼らは正しかった ——ESR]"

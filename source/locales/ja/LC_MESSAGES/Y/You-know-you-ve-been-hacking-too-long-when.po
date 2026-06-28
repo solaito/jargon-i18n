@@ -8,86 +8,88 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:5
 msgid "You know you've been hacking too long when"
-msgstr ""
+msgstr "You know you've been hacking too long when"
 
 #: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:7
 msgid ""
-"The set-up line for a genre of one-liners told by hackers about "
-"themselves. These include the following:"
-msgstr ""
+"The set-up line for a genre of one-liners told by hackers about themselves. "
+"These include the following:"
+msgstr "ハッカーが自分自身について語る一ジャンルの一行ネタの前振り。以下のようなものが含まれる:"
 
 #: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:10
 msgid ""
-"not only do you check your email more often than your paper mail, but you"
-" remember your :ref:`network-address` faster than your postal one."
+"not only do you check your email more often than your paper mail, but you "
+"remember your :ref:`network-address` faster than your postal one."
 msgstr ""
+"紙の郵便よりも電子メールを頻繁にチェックするばかりか、郵便の住所よりも\\ :ref:`network-address`\\ のほうを早く思い出せる。"
 
 #: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:12
 msgid ""
-"your :ref:`SO` kisses you on the neck and the first thing you think is "
-"\"Uh, oh, :ref:`priority-interrupt`\\.\""
-msgstr ""
+"your :ref:`SO` kisses you on the neck and the first thing you think is \"Uh,"
+" oh, :ref:`priority-interrupt`\\.\""
+msgstr "\\ :ref:`SO`\\ が首にキスしてきて、最初に思い浮かぶのが「おっと、\\ :ref:`priority-interrupt`\\ だ」である。"
 
 #: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:14
 msgid ""
-"you go to balance your checkbook and discover that you're doing it in "
-"octal."
-msgstr ""
+"you go to balance your checkbook and discover that you're doing it in octal."
+msgstr "小切手帳の残高を合わせようとして、自分がそれを8進数でやっていることに気づく。"
 
 #: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:16
 msgid "your computers have a higher street value than your car."
-msgstr ""
+msgstr "自分のコンピュータが、自分の車よりも高い実勢価値を持っている。"
 
 #: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:18
 msgid "in your universe, ‘round numbers’ are powers of 2, not 10."
-msgstr ""
+msgstr "自分の宇宙では、‘きりのいい数’は10ではなく2の累乗である。"
 
 #: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:20
 msgid ""
 "more than once, you have woken up recalling a dream in some programming "
 "language."
-msgstr ""
+msgstr "一度ならず、何かのプログラミング言語で見た夢を思い出しながら目を覚ましたことがある。"
 
 #: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:22
 msgid ""
-"you see the word \"Oxford\" and mentally trip over the fact that ‘r’ is "
-"not a hex digit."
-msgstr ""
+"you see the word \"Oxford\" and mentally trip over the fact that ‘r’ is not "
+"a hex digit."
+msgstr "\"Oxford\"という単語を見て、‘r’が16進数の桁ではないという事実に頭の中でつまずく。"
 
 #: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:24
 msgid "you realize you have never seen half of your best friends."
-msgstr ""
+msgstr "親友の半数に一度も会ったことがないと気づく。"
 
 #: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:26
 msgid ""
 "A `list <http://albrecht.ecn.purdue.edu/~taylor/humor/hack.html>`_\\  of "
 "these can be found by searching for this phrase on the web."
 msgstr ""
+"これらの\\ `一覧 <http://albrecht.ecn.purdue.edu/~taylor/humor/hack.html>`_\\ "
+"は、このフレーズをウェブで検索すれば見つかる。"
 
 #: ../../Y/You-know-you-ve-been-hacking-too-long-when.rst:28
 msgid ""
 "[An early version of this entry said \"All but one of these have been "
-"reliably reported as hacker traits (some of them quite often). Even "
-"hackers may have trouble spotting the ringer.\" The ringer was balancing "
-"one's checkbook in octal, which I made up out of whole cloth. Although "
-"more respondents picked that one out as fiction than any of the others, I"
-" also received multiple independent reports of its actually happening, "
-"most famously to Grace Hopper while she was working with BINAC in 1949. "
-"—ESR]"
+"reliably reported as hacker traits (some of them quite often). Even hackers "
+"may have trouble spotting the ringer.\" The ringer was balancing one's "
+"checkbook in octal, which I made up out of whole cloth. Although more "
+"respondents picked that one out as fiction than any of the others, I also "
+"received multiple independent reports of its actually happening, most "
+"famously to Grace Hopper while she was working with BINAC in 1949. —ESR]"
 msgstr ""
-
+"[この項目の初期版にはこう書かれていた。「これらのうち一つを除くすべては、ハッカーの特性として確実に報告されている(そのうちのいくつかはかなり頻繁に)。ハッカーでさえ、その紛れ込んだ偽物を見つけるのに苦労するかもしれない」。その偽物とは小切手帳の残高を8進数で合わせることで、私がまるごとでっち上げたものだった。他のどれよりも多くの回答者がそれを作り話だと見抜いたが、私はそれが実際に起こったという複数の独立した報告も受け取った。もっとも有名なのは、Grace"
+" Hopperが1949年にBINACで作業していたときのことである。—ESR]"

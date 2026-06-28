@@ -8,50 +8,52 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/go-flatline.rst:5
 msgid "go flatline"
-msgstr ""
+msgstr "go flatline"
 
 #: ../../G/go-flatline.rst:7
 msgid "v\\."
-msgstr ""
+msgstr "動詞"
 
 #: ../../G/go-flatline.rst:9
 msgid ""
 "[from cyberpunk SF, refers to flattening of EEG traces upon brain-death] "
 "(also adjectival flatlined)."
-msgstr ""
+msgstr "[サイバーパンクSFより。脳死時のEEGトレースの平坦化を指す](形容詞形のflatlinedとも)。"
 
 #: ../../G/go-flatline.rst:12
 msgid ""
-"To :ref:`die`\\, terminate, or fail, esp. irreversibly. In hacker "
-"parlance, this is used of machines only, human death being considered "
-"somewhat too serious a matter to employ jargon-jokes about."
+"To :ref:`die`\\, terminate, or fail, esp. irreversibly. In hacker parlance, "
+"this is used of machines only, human death being considered somewhat too "
+"serious a matter to employ jargon-jokes about."
 msgstr ""
+"\\ :ref:`die`\\ "
+"する、終了する、あるいは失敗すること。特に不可逆的に。ハッカーの言葉遣いでは、これはマシンについてのみ使われる。人間の死は、ジャーゴンの冗談を弄するにはいくぶん深刻すぎる事柄と考えられているからである。"
 
 #: ../../G/go-flatline.rst:17
 msgid ""
-"To go completely quiescent; said of machines undergoing controlled "
-"shutdown. \"You can suffer file damage if you shut down Unix but power "
-"off before the system has gone flatline.\""
+"To go completely quiescent; said of machines undergoing controlled shutdown."
+" \"You can suffer file damage if you shut down Unix but power off before the"
+" system has gone flatline.\""
 msgstr ""
+"完全に静止すること。制御されたシャットダウンを受けているマシンについて言う。「Unixをシャットダウンするときに、システムがflatlineになる前に電源を切ると、ファイルが損傷することがある。」"
 
 #: ../../G/go-flatline.rst:21
 msgid ""
 "Of a video tube, to fail by losing vertical scan, so all one sees is a "
 "bright horizontal line bisecting the screen."
-msgstr ""
-
+msgstr "ビデオ管について、垂直走査を失うことで故障し、画面を二分する明るい水平線だけが見えるようになること。"

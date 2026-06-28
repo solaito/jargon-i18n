@@ -8,30 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/segv.rst:5
 msgid "segv"
-msgstr ""
+msgstr "segv"
 
 #: ../../S/segv.rst:7
 msgid "/seg´vee/, n\\.,vi\\."
-msgstr ""
+msgstr "/seg´vee/, 名詞・自動詞"
 
 #: ../../S/segv.rst:9
 msgid ""
-"Yet another synonym for :ref:`segmentation-fault` (actually, in this "
-"case, ‘segmentation violation’)."
+"Yet another synonym for :ref:`segmentation-fault` (actually, in this case, "
+"‘segmentation violation’)."
 msgstr ""
-
+":ref:`segmentation-fault`\\ のさらに別の同義語(実際にはこの場合、‘segmentation "
+"violation(セグメンテーション違反)’)。"

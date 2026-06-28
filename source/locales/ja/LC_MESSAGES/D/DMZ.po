@@ -8,28 +8,30 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/DMZ.rst:5
 msgid "DMZ"
-msgstr ""
+msgstr "DMZ"
 
 #: ../../D/DMZ.rst:7
 msgid ""
 "[common] Literally, De-Militarized Zone. Figuratively, the portion of a "
-"private network that is visible through the network's firewalls (see :ref"
-":`firewall-machine`\\). Coined in the late 1990s as jargon, this term is "
-"now borderline techspeak."
+"private network that is visible through the network's firewalls (see "
+":ref:`firewall-machine`\\). Coined in the late 1990s as jargon, this term is"
+" now borderline techspeak."
 msgstr ""
-
+"[一般的] 文字どおりには非武装地帯(De-Militarized "
+"Zone)。比喩的には、ネットワークのファイアウォール越しに見える、プライベートネットワークの部分(\\ :ref:`firewall-"
+"machine`\\ を参照)。1990年代後半に俗語として作られたこの用語は、今では専門用語(techspeak)との境界線上にある。"

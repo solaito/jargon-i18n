@@ -8,30 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/flame-bait.rst:5
 msgid "flame bait"
-msgstr ""
+msgstr "flame bait"
 
 #: ../../F/flame-bait.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../F/flame-bait.rst:9
 msgid ""
 "[common] A posting intended to trigger a :ref:`flame-war`\\, or one that "
 "invites flames in reply. See also :ref:`troll`\\."
 msgstr ""
-
+"[一般的]\\ :ref:`flame-war`\\ を引き起こすことを意図した、あるいは返信で炎上を誘うような投稿。\\ :ref:`troll`\\"
+" も参照。"

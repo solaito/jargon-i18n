@@ -8,33 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../H/horked.rst:5
 msgid "horked"
-msgstr ""
+msgstr "horked"
 
 #: ../../H/horked.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../H/horked.rst:9
 msgid ""
-"Broken. Confused. Trashed. Now common; seems to be post-1995. There is an"
-" entertaining web page of `related definitions "
-"<http://www.syddware.com/hork.html>`_, few of which seem to be in live "
-"use but many of which would be in the recognition vocabulary of anyone "
-"familiar with the adjective."
+"Broken. Confused. Trashed. Now common; seems to be post-1995. There is an "
+"entertaining web page of `related definitions "
+"<http://www.syddware.com/hork.html>`_, few of which seem to be in live use "
+"but many of which would be in the recognition vocabulary of anyone familiar "
+"with the adjective."
 msgstr ""
-
+"壊れた。混乱した。台無しになった。今や一般的で、1995年以降のものらしい。\\ `関連する定義 "
+"<http://www.syddware.com/hork.html>`_\\ "
+"の楽しいウェブページがあり、その多くは実際に使われているようには見えないが、その多くはこの形容詞に馴染みのある人なら認識語彙には入っているだろう。"

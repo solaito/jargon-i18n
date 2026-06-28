@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/toy-problem.rst:5
 msgid "toy problem"
-msgstr ""
+msgstr "toy problem"
 
 #: ../../T/toy-problem.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../T/toy-problem.rst:9
 msgid ""
@@ -35,4 +35,5 @@ msgid ""
 "investigate, prototype, or test algorithms for a real problem. Sometimes "
 "used pejoratively. See also :ref:`gedanken`\\, :ref:`toy-program`\\."
 msgstr ""
-
+"[AI]本物の問題に対するアルゴリズムを調査、プロトタイプ化、または試験するために使われる、難しい問題を意図的に単純化しすぎたケース。軽蔑的に使われることもある。\\"
+" :ref:`gedanken`\\ 、\\ :ref:`toy-program`\\ も参照。"

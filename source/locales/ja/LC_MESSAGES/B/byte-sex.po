@@ -8,30 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/byte-sex.rst:5
 msgid "byte sex"
-msgstr ""
+msgstr "byte sex"
 
 #: ../../B/byte-sex.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../B/byte-sex.rst:9
 msgid ""
 "[common] The byte sex of hardware is :ref:`big-endian` or :ref:`little-"
 "endian`\\; see those entries."
 msgstr ""
-
+"[一般的]ハードウェアのbyte sex(バイトの性)は\\ :ref:`big-endian`\\ か\\ :ref:`little-"
+"endian`\\ である。それらの項を参照。"

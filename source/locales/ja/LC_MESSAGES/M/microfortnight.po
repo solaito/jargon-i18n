@@ -8,42 +8,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/microfortnight.rst:5
 msgid "microfortnight"
-msgstr ""
+msgstr "microfortnight"
 
 #: ../../M/microfortnight.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../M/microfortnight.rst:9
 msgid ""
-"1/1000000 of the fundamental unit of time in the Furlong/Firkin/Fortnight"
-" system of measurement; 1.2096 sec. (A furlong is 1/8th of a mile; a "
-"firkin is 9 imperial gallons; the mass unit of the system is taken to be "
-"a firkin of water). The VMS operating system has a lot of tuning "
-"parameters that you can set with the SYSGEN utility, and one of these is "
-"TIMEPROMPTWAIT, the time the system will wait for an operator to set the "
-"correct date and time at boot if it realizes that the current value is "
-"bogus. This time is specified in microfortnights!"
+"1/1000000 of the fundamental unit of time in the Furlong/Firkin/Fortnight "
+"system of measurement; 1.2096 sec. (A furlong is 1/8th of a mile; a firkin "
+"is 9 imperial gallons; the mass unit of the system is taken to be a firkin "
+"of water). The VMS operating system has a lot of tuning parameters that you "
+"can set with the SYSGEN utility, and one of these is TIMEPROMPTWAIT, the "
+"time the system will wait for an operator to set the correct date and time "
+"at boot if it realizes that the current value is bogus. This time is "
+"specified in microfortnights!"
 msgstr ""
+"Furlong/Firkin/Fortnight測定系における基本的な時間単位の100万分の1。1.2096秒。(furlongは1マイルの8分の1。firkinは9英ガロン。この系の質量単位はfirkin分の水とされる。)VMSオペレーティングシステムにはSYSGENユーティリティで設定できる多くのチューニングパラメータがあり、その一つがTIMEPROMPTWAITである。これは、起動時に現在の値がbogusだと気づいた場合に、システムがオペレーターに正しい日付と時刻を設定してもらうのを待つ時間である。この時間はmicrofortnightで指定される!"
 
 #: ../../M/microfortnight.rst:14
 msgid ""
 "Multiple uses of the millifortnight (about 20 minutes) and "
 ":ref:`nanofortnight` have also been reported."
-msgstr ""
-
+msgstr "millifortnight(約20分)と\\ :ref:`nanofortnight`\\ の複数の用法も報告されている。"

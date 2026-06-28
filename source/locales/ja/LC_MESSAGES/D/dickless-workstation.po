@@ -8,35 +8,37 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/dickless-workstation.rst:5
 msgid "dickless workstation"
-msgstr ""
+msgstr "dickless workstation"
 
 #: ../../D/dickless-workstation.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../D/dickless-workstation.rst:9
 msgid ""
 "Extremely pejorative hackerism for ‘diskless workstation’, a class of "
-"botches including the Sun 3/50 and other machines designed exclusively to"
-" network with an expensive central disk server. These combine all the "
+"botches including the Sun 3/50 and other machines designed exclusively to "
+"network with an expensive central disk server. These combine all the "
 "disadvantages of timesharing with all the disadvantages of distributed "
 "personal computers; typically, they cannot even :ref:`boot` themselves "
-"without help (in the form of some kind of :ref:`breath-of-life-packet`\\)"
-" from the server."
+"without help (in the form of some kind of :ref:`breath-of-life-packet`\\) "
+"from the server."
 msgstr ""
-
+"‘diskless workstation(ディスクレスワークステーション)’を表す極めて軽蔑的なハッカー語。Sun "
+"3/50や、高価な中央ディスクサーバーとネットワーク接続することだけを目的に設計された他のマシンを含む、不細工なマシンの一群。これらはタイムシェアリングのすべての欠点と分散型パーソナルコンピューターのすべての欠点を兼ね備えている。典型的には、サーバーからの助け(何らかの\\"
+" :ref:`breath-of-life-packet`\\ の形での)なしには自分自身を\\ :ref:`boot`\\ することさえできない。"

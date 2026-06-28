@@ -8,33 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/backronym.rst:5
 msgid "backronym"
-msgstr ""
+msgstr "backronym"
 
 #: ../../B/backronym.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../B/backronym.rst:9
 msgid ""
-"[portmanteau of back + acronym] A word interpreted as an acronym that was"
-" not originally so intended. This is a special case of what linguists "
-"call back formation. Examples are given under :ref:`recursive-acronym` "
-"(Cygnus), :ref:`Acme`\\, and :ref:`mung`\\. Discovering backronyms is a "
-"common form of wordplay among hackers. Compare :ref:`retcon`\\."
+"[portmanteau of back + acronym] A word interpreted as an acronym that was "
+"not originally so intended. This is a special case of what linguists call "
+"back formation. Examples are given under :ref:`recursive-acronym` (Cygnus), "
+":ref:`Acme`\\, and :ref:`mung`\\. Discovering backronyms is a common form of"
+" wordplay among hackers. Compare :ref:`retcon`\\."
 msgstr ""
-
+"[back + acronymのかばん語]もともとは頭字語として意図されていなかったのに、頭字語として解釈される語。これは言語学者が逆成(back "
+"formation)と呼ぶものの特殊な場合である。例は\\ :ref:`recursive-acronym`\\ (Cygnus)、\\ "
+":ref:`Acme`\\ 、\\ :ref:`mung`\\ "
+"の項に挙げてある。backronymを見つけるのは、ハッカーの間で一般的な言葉遊びの一形態である。\\ :ref:`retcon`\\ と比較せよ。"

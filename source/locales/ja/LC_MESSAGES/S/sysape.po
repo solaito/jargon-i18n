@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/sysape.rst:5
 msgid "sysape"
-msgstr ""
+msgstr "sysape"
 
 #: ../../S/sysape.rst:7
 msgid "/sys´ayp/, n\\."
-msgstr ""
+msgstr "/sys´ayp/, 名詞"
 
 #: ../../S/sysape.rst:9
 msgid ""
@@ -35,4 +35,5 @@ msgid ""
 "common at sites that use the banana hierarchy of problem complexity (see "
 ":ref:`one-banana-problem`\\)."
 msgstr ""
-
+"コンピュータのオペレータを指す、かなり軽蔑的な用語。\\ :ref:`sysop`\\ をもじったもので、問題の複雑さのbananaの階層(\\ "
+":ref:`one-banana-problem`\\ を参照)を使うサイトで一般的だ。"

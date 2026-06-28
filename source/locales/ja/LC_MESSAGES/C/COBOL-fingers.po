@@ -8,34 +8,37 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/COBOL-fingers.rst:5
 msgid "COBOL fingers"
-msgstr ""
+msgstr "COBOL fingers"
 
 #: ../../C/COBOL-fingers.rst:7
 msgid "/koh´bol fing´grz/, n\\."
-msgstr ""
+msgstr "/koh´bol fing´grz/, 名詞"
 
 #: ../../C/COBOL-fingers.rst:9
 msgid ""
-"Reported from Sweden, a (hypothetical) disease one might get from coding "
-"in COBOL. The language requires code verbose beyond all reason (see "
+"Reported from Sweden, a (hypothetical) disease one might get from coding in "
+"COBOL. The language requires code verbose beyond all reason (see "
 ":ref:`candygrammar`\\); thus it is alleged that programming too much in "
-"COBOL causes one's fingers to wear down to stubs by the endless typing. "
-"\"I refuse to type in all that source code again; it would give me COBOL "
+"COBOL causes one's fingers to wear down to stubs by the endless typing. \"I "
+"refuse to type in all that source code again; it would give me COBOL "
 "fingers!\""
 msgstr ""
-
+"スウェーデンから報告された、COBOLでコーディングすると罹るかもしれない(架空の)病気。この言語はあらゆる理屈を超えて冗長なコードを要求します(\\ "
+":ref:`candygrammar`\\ "
+"を参照)。したがって、COBOLでプログラミングしすぎると、果てしないタイピングで指が擦り減って切り株のようになってしまうと言われています。「あんなソースコードを全部また打ち込むのは御免だ。COBOL"
+" fingersになってしまう!」"

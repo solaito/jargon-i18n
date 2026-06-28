@@ -8,48 +8,50 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/snark.rst:5
 msgid "snark"
-msgstr ""
+msgstr "snark"
 
 #: ../../S/snark.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/snark.rst:9
 msgid "[Lewis Carroll, via the Michigan Terminal System]"
-msgstr ""
+msgstr "[Lewis Carroll、Michigan Terminal Systemを介して]"
 
 #: ../../S/snark.rst:12
 msgid ""
-"A system failure. When a user's process bombed, the operator would get "
-"the message \"Help, Help, Snark in MTS!\""
+"A system failure. When a user's process bombed, the operator would get the "
+"message \"Help, Help, Snark in MTS!\""
 msgstr ""
+"システムの障害。ユーザーのプロセスが落ちると、オペレータは「Help, Help, Snark in MTS!」というメッセージを受け取った。"
 
 #: ../../S/snark.rst:16
 msgid ""
-"More generally, any kind of unexplained or threatening event on a "
-"computer (especially if it might be a boojum). Often used to refer to an "
-"event or a log file entry that might indicate an attempted security "
-"violation."
+"More generally, any kind of unexplained or threatening event on a computer "
+"(especially if it might be a boojum). Often used to refer to an event or a "
+"log file entry that might indicate an attempted security violation."
 msgstr ""
+"より一般的には、コンピュータ上のあらゆる種類の説明のつかない、あるいは脅威となる出来事(とくにそれがboojumかもしれない場合)。セキュリティ侵害の試みを示すかもしれない出来事やログファイルのエントリを指してよく使われる。"
 
 #: ../../S/snark.rst:20
 msgid ""
 "UUCP name of :samp:`snark.thyrsus.com`\\, home site of the Jargon File "
 "versions from 2.\\*.\\* on (i.e., this lexicon)."
 msgstr ""
-
+":samp:`snark.thyrsus.com`\\ のUUCP名。2.\\*.\\*\\ 以降のJargon "
+"Fileの各版(すなわち、この辞典)の本拠地。"

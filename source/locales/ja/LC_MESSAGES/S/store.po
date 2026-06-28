@@ -8,32 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/store.rst:5
 msgid "store"
-msgstr ""
+msgstr "store"
 
 #: ../../S/store.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/store.rst:9
 msgid ""
 "[prob. : from techspeak main store] In some varieties of Commonwealth "
-"hackish, the preferred synonym for :ref:`core`\\. Thus, bringing a "
-"program into store means not that one is returning shrink-wrapped "
-"software but that a program is being :ref:`swap`\\ped in."
+"hackish, the preferred synonym for :ref:`core`\\. Thus, bringing a program "
+"into store means not that one is returning shrink-wrapped software but that "
+"a program is being :ref:`swap`\\ped in."
 msgstr ""
-
+"[おそらく : techspeakのmain storeから] 一部の英連邦のハッカー用語で、\\ :ref:`core`\\ "
+"の好まれる同義語。したがって、プログラムをstoreに持ち込む(bringing a program into "
+"store)とは、シュリンクラップされたソフトウェアを返品しているのではなく、プログラムが\\ :ref:`swap`\\ "
+"インされていることを意味する。"

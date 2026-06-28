@@ -8,46 +8,46 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/gronk.rst:5
 msgid "gronk"
-msgstr ""
+msgstr "gronk"
 
 #: ../../G/gronk.rst:7
 msgid "/gronk/, vt\\."
-msgstr ""
+msgstr "/gronk/, 他動詞"
 
 #: ../../G/gronk.rst:9
 msgid ""
-"[popularized by Johnny Hart's comic strip *B.C. :* but the word "
-"apparently predates that]"
-msgstr ""
+"[popularized by Johnny Hart's comic strip *B.C. :* but the word apparently "
+"predates that]"
+msgstr "[Johnny Hartの漫画 *B.C.* によって広まったが、この語はそれより前からあったようだ]"
 
 #: ../../G/gronk.rst:13
 msgid ""
-"To clear the state of a wedged device and restart it. More severe than "
-"‘to :ref:`frob`\\’ (sense 2)."
-msgstr ""
+"To clear the state of a wedged device and restart it. More severe than ‘to "
+":ref:`frob`\\’ (sense 2)."
+msgstr "ハングしたデバイスの状態をクリアして再起動すること。‘\\ :ref:`frob`\\ する’(語義2)よりも厳しい。"
 
 #: ../../G/gronk.rst:17
 msgid "[TMRC] To cut, sever, smash, or similarly disable."
-msgstr ""
+msgstr "[TMRC] 切る、断つ、壊す、あるいは同様に無効にすること。"
 
 #: ../../G/gronk.rst:20
 msgid ""
 "The sound made by many 3.5-inch diskette drives. In particular, the "
 "microfloppies on a Commodore Amiga go \"grink, gronk\"."
 msgstr ""
-
+"多くの3.5インチフロッピーディスクドライブが立てる音。特に、Commodore Amigaのマイクロフロッピーは「grink, gronk」と鳴る。"

@@ -8,34 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../L/Life-is-hard.rst:5
 msgid "Life is hard"
-msgstr ""
+msgstr "Life is hard"
 
 #: ../../L/Life-is-hard.rst:7
 msgid "prov\\."
-msgstr ""
+msgstr "ことわざ"
 
 #: ../../L/Life-is-hard.rst:9
 msgid ""
-"[XEROX PARC] This phrase has two possible interpretations: (1) \"While "
-"your suggestion may have some merit, I will behave as though I hadn't "
-"heard it.\" (2) \"While your suggestion has obvious merit, equally "
-"obvious circumstances prevent it from being seriously considered.\" The "
-"charm of the phrase lies precisely in this subtle but important "
-"ambiguity."
+"[XEROX PARC] This phrase has two possible interpretations: (1) \"While your "
+"suggestion may have some merit, I will behave as though I hadn't heard it.\""
+" (2) \"While your suggestion has obvious merit, equally obvious "
+"circumstances prevent it from being seriously considered.\" The charm of the"
+" phrase lies precisely in this subtle but important ambiguity."
 msgstr ""
-
+"[XEROX PARC] "
+"この句には二通りの解釈がありうる。(1)「君の提案には多少の利点があるかもしれないが、私はそれを聞かなかったかのように振る舞うつもりだ。」(2)「君の提案には明白な利点があるが、同じく明白な事情がそれを真剣に検討することを妨げている。」この句の魅力は、まさにこの微妙だが重要な曖昧さにある。"

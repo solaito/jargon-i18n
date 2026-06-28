@@ -8,34 +8,37 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../G/GOSMACS.rst:5
 msgid "GOSMACS"
-msgstr ""
+msgstr "GOSMACS"
 
 #: ../../G/GOSMACS.rst:7
 msgid "/goz´maks/, n\\."
-msgstr ""
+msgstr "/goz´maks/, 名詞"
 
 #: ../../G/GOSMACS.rst:9
 msgid ""
 "[contraction of ‘Gosling EMACS’] The first :ref:`EMACS`\\-in-C "
 "implementation, predating but now largely eclipsed by :ref:`GNUMACS`\\. "
-"Originally freeware; a commercial version was modestly popular as "
-"‘UniPress EMACS’ during the 1980s. The author, James Gosling, went on to "
-"invent :ref:`NeWS` and the programming language Java; the latter earned "
-"him :ref:`demigod` status."
+"Originally freeware; a commercial version was modestly popular as ‘UniPress "
+"EMACS’ during the 1980s. The author, James Gosling, went on to invent "
+":ref:`NeWS` and the programming language Java; the latter earned him "
+":ref:`demigod` status."
 msgstr ""
-
+"[‘Gosling EMACS’の短縮形] 最初の\\ :ref:`EMACS`\\ のC言語実装。\\ :ref:`GNUMACS`\\ "
+"より前に存在したが、今では大部分がそれに取って代わられた。元々はフリーウェアだった。1980年代には‘UniPress "
+"EMACS’という商用版がそこそこ人気だった。作者のJames Goslingはその後\\ :ref:`NeWS`\\ "
+"とプログラミング言語Javaを発明し、後者によって\\ :ref:`demigod`\\ の地位を得た。"

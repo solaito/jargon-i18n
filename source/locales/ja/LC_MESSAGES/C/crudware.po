@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/crudware.rst:5
 msgid "crudware"
-msgstr ""
+msgstr "crudware"
 
 #: ../../C/crudware.rst:7
 msgid "/kruhd´weir/, n\\."
-msgstr ""
+msgstr "/kruhd´weir/, 名詞"
 
 #: ../../C/crudware.rst:9
 msgid ""
-"Pejorative term for the hundreds of megabytes of low-quality "
-":ref:`freeware` circulated by user's groups and BBS systems in the micro-"
-"hobbyist world. \"Yet another set of disk catalog utilities for :ref:`MS-"
-"DOS`\\? What crudware!\""
+"Pejorative term for the hundreds of megabytes of low-quality :ref:`freeware`"
+" circulated by user's groups and BBS systems in the micro-hobbyist world. "
+"\"Yet another set of disk catalog utilities for :ref:`MS-DOS`\\? What "
+"crudware!\""
 msgstr ""
-
+"マイクロホビーストの世界でユーザーグループやBBSシステムによって出回る、何百メガバイトもの低品質な\\ :ref:`freeware`\\ "
+"を指す侮蔑的な用語。「\\ :ref:`MS-DOS`\\ 用のディスクカタログユーティリティのまた別のセットだって? なんてcrudwareだ!」"

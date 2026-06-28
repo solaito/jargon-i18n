@@ -8,30 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/bells-whistles-and-gongs.rst:5
 msgid "bells whistles and gongs"
-msgstr ""
+msgstr "bells whistles and gongs"
 
 #: ../../B/bells-whistles-and-gongs.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../B/bells-whistles-and-gongs.rst:9
 msgid ""
-"A standard elaborated form of :ref:`bells-and-whistles`\\; typically said"
-" with a pronounced and ironic accent on the ‘gongs’."
+"A standard elaborated form of :ref:`bells-and-whistles`\\; typically said "
+"with a pronounced and ironic accent on the ‘gongs’."
 msgstr ""
-
+"\\ :ref:`bells-and-whistles`\\ "
+"の標準的な手の込んだ形。たいてい‘gongs’のところを際立たせ、皮肉っぽいアクセントを置いて言う。"

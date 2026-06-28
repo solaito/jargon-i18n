@@ -8,52 +8,53 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/sandbox.rst:5
 msgid "sandbox"
-msgstr ""
+msgstr "sandbox"
 
 #: ../../S/sandbox.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/sandbox.rst:9
 msgid "(also ‘sandbox, the’)"
-msgstr ""
+msgstr "(‘the sandbox’とも)"
 
 #: ../../S/sandbox.rst:12
 msgid ""
-"Common term for the R&D department at many software and computer "
-"companies (where hackers in commercial environments are likely to be "
-"found). Half-derisive, but reflects the truth that research is a form of "
-"creative play. Compare :ref:`playpen`\\."
+"Common term for the R&D department at many software and computer companies "
+"(where hackers in commercial environments are likely to be found). Half-"
+"derisive, but reflects the truth that research is a form of creative play. "
+"Compare :ref:`playpen`\\."
 msgstr ""
+"多くのソフトウェア・コンピュータ企業における研究開発部門(商業環境のハッカーが見つかりやすい場所)を指す一般的な用語。半ば嘲りを含むが、研究が創造的な遊びの一形態であるという真実を反映している。\\"
+" :ref:`playpen`\\ と比較せよ。"
 
 #: ../../S/sandbox.rst:17
 msgid "Syn. :ref:`link-farm`\\."
-msgstr ""
+msgstr ":ref:`link-farm`\\ の同義語。"
 
 #: ../../S/sandbox.rst:21
 msgid ""
 "A controlled environment within which potentially dangerous programs are "
 "run. Used esp. in reference to Java implementations."
-msgstr ""
+msgstr "潜在的に危険なプログラムが実行される、制御された環境。とくにJavaの実装に関して使われる。"
 
 #: ../../S/sandbox.rst:26
 msgid ""
-"A checked-out copy of a source tree, on which one may safely perform "
-"builds without interfereing with others."
-msgstr ""
-
+"A checked-out copy of a source tree, on which one may safely perform builds "
+"without interfereing with others."
+msgstr "他者に干渉することなく安全にビルドを実行できる、チェックアウトされたソースツリーのコピー。"

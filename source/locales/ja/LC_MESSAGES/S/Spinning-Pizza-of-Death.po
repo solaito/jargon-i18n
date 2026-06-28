@@ -8,33 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/Spinning-Pizza-of-Death.rst:5
 msgid "Spinning Pizza of Death"
-msgstr ""
+msgstr "Spinning Pizza of Death"
 
 #: ../../S/Spinning-Pizza-of-Death.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/Spinning-Pizza-of-Death.rst:9
 msgid ""
 "[OS X; common] The quartered-circle busy indicator on Mac OS X versions "
 "before 10.2, after which it was replaced by a sort of rainbow pinwheel "
-"thingy. It was analogous to the Microsoft Windows hourglass, but OS X "
-"10.0's legendary slowness under the Aqua toolkit made this term rather "
-"more evocative. See :ref:`Death--X-of`\\."
+"thingy. It was analogous to the Microsoft Windows hourglass, but OS X 10.0's"
+" legendary slowness under the Aqua toolkit made this term rather more "
+"evocative. See :ref:`Death--X-of`\\."
 msgstr ""
-
+"[OS X; 一般的] Mac OS X "
+"10.2より前のバージョンにおける、四分割された円の処理中インジケータ。10.2以降は一種の虹色の風車のようなものに置き換えられた。Microsoft "
+"Windowsの砂時計に類似していたが、OS X 10.0のAquaツールキット下での伝説的な遅さが、この用語をいっそう喚起的なものにした。\\ "
+":ref:`Death--X-of`\\ を参照。"

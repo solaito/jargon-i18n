@@ -8,52 +8,54 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../N/no-op.rst:5
 msgid "no-op"
-msgstr ""
+msgstr "no-op"
 
 #: ../../N/no-op.rst:7
 msgid "/noh´op/, n\\.,v\\."
-msgstr ""
+msgstr "/noh´op/, 名詞・動詞"
 
 #: ../../N/no-op.rst:9
 msgid "alt. : NOP /nop/ [no operation]"
-msgstr ""
+msgstr "別名: NOP /nop/ [no operation]"
 
 #: ../../N/no-op.rst:13
 msgid ""
-"A machine instruction that does nothing (sometimes used in assembler-"
-"level programming as filler for data or patch areas, or to overwrite code"
-" to be removed in binaries)."
+"A machine instruction that does nothing (sometimes used in assembler-level "
+"programming as filler for data or patch areas, or to overwrite code to be "
+"removed in binaries)."
 msgstr ""
+"何もしない機械命令(時にアセンブラレベルのプログラミングで、データやパッチ領域の埋め草として、あるいはバイナリで削除すべきコードを上書きするために使われる)。"
 
 #: ../../N/no-op.rst:16
 msgid ""
 "A person who contributes nothing to a project, or has nothing going on "
 "upstairs, or both. As in \"He's a no-op.\""
-msgstr ""
+msgstr "プロジェクトに何も貢献しない、または頭の中で何も起きていない、あるいはその両方の人。「彼はno-opだ」のように。"
 
 #: ../../N/no-op.rst:20
 msgid ""
-"Any operation or sequence of operations with no effect, such as circling "
-"the block without finding a parking space, or putting money into a "
-"vending machine and having it fall immediately into the coin-return box, "
-"or asking someone for help and being told to go away. \"Oh, well, that "
-"was a no-op.\" Hot-and-sour soup (see :ref:`great-wall`\\) that is "
-"insufficiently either is no-op soup; so is wonton soup if everybody else "
-"is having hot-and-sour."
+"Any operation or sequence of operations with no effect, such as circling the"
+" block without finding a parking space, or putting money into a vending "
+"machine and having it fall immediately into the coin-return box, or asking "
+"someone for help and being told to go away. \"Oh, well, that was a no-op.\" "
+"Hot-and-sour soup (see :ref:`great-wall`\\) that is insufficiently either is"
+" no-op soup; so is wonton soup if everybody else is having hot-and-sour."
 msgstr ""
-
+"効果のないあらゆる操作または一連の操作。たとえば、駐車スペースを見つけられずにブロックをぐるぐる回ること、自販機に金を入れたのに即座にお釣り返却口に落ちること、誰かに助けを求めたのにあっちへ行けと言われることなど。「ああ、まあ、あれはno-"
+"opだった」。十分に酸っぱくも辛くもないホットアンドサワースープ(\\ :ref:`great-wall`\\ を参照)はno-"
+"opスープである。みんなが他にホットアンドサワーを食べているならワンタンスープもそうだ。"

@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/cycle-server.rst:5
 msgid "cycle server"
-msgstr ""
+msgstr "cycle server"
 
 #: ../../C/cycle-server.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../C/cycle-server.rst:9
 msgid ""
-"A powerful machine that exists primarily for running large compute-, "
-"disk-, or memory-intensive jobs (more formally called a compute server). "
-"Implies that interactive tasks such as editing are done on other machines"
-" on the network, such as workstations."
+"A powerful machine that exists primarily for running large compute-, disk-, "
+"or memory-intensive jobs (more formally called a compute server). Implies "
+"that interactive tasks such as editing are done on other machines on the "
+"network, such as workstations."
 msgstr ""
-
+"主に大規模な計算集約的、ディスク集約的、またはメモリ集約的なジョブを走らせるために存在する強力なマシン(より正式にはcompute "
+"serverと呼ばれます)。編集のような対話的な作業は、ワークステーションのようなネットワーク上の他のマシンで行われることを含意します。"

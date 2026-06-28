@@ -8,38 +8,40 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/weeds.rst:5
 msgid "weeds"
-msgstr ""
+msgstr "weeds"
 
 #: ../../W/weeds.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../W/weeds.rst:10
 msgid ""
-"Refers to development projects or algorithms that have no possible "
-"relevance or practical application. Comes from ‘off in the weeds’. Used "
-"in phrases like \"lexical analysis for microcode is serious weeds....\""
+"Refers to development projects or algorithms that have no possible relevance"
+" or practical application. Comes from ‘off in the weeds’. Used in phrases "
+"like \"lexical analysis for microcode is serious weeds....\""
 msgstr ""
+"あり得る関連性も実用的な応用もない開発プロジェクトやアルゴリズムを指す。‘off in the "
+"weeds(雑草の中で迷っている)’から来ている。「マイクロコードの字句解析はひどいweeds(やっかいごと)だ……」のような言い回しで使われる。"
 
 #: ../../W/weeds.rst:15
 msgid ""
-"At CDC/ETA before its demise, the phrase go off in the weeds was "
-"equivalent mainstream hackerdom's :ref:`jump-off-into-never-never-"
-"land`\\."
+"At CDC/ETA before its demise, the phrase go off in the weeds was equivalent "
+"mainstream hackerdom's :ref:`jump-off-into-never-never-land`\\."
 msgstr ""
-
+"消滅前のCDC/ETAでは、go off in the weedsという言い回しは、主流のハッカーダムの\\ :ref:`jump-off-into-"
+"never-never-land`\\ に相当した。"

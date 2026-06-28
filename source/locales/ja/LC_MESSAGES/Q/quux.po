@@ -8,66 +8,71 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../Q/quux.rst:5
 msgid "quux"
-msgstr ""
+msgstr "quux"
 
 #: ../../Q/quux.rst:7
 msgid "/kwuhks/, n\\."
-msgstr ""
+msgstr "/kwuhks/, 名詞"
 
 #: ../../Q/quux.rst:9
 msgid ""
 "[Mythically, from the Latin semi-deponent verb quuxo, quuxare, quuxandum "
-"iri; noun form variously ‘quux’ (plural ‘quuces’, anglicized to ‘quuxes’)"
-" and ‘quuxu’ (genitive plural is ‘quuxuum’, for four u-letters out of "
-"seven in all, using up all the ‘u’ letters in Scrabble).]"
+"iri; noun form variously ‘quux’ (plural ‘quuces’, anglicized to ‘quuxes’) "
+"and ‘quuxu’ (genitive plural is ‘quuxuum’, for four u-letters out of seven "
+"in all, using up all the ‘u’ letters in Scrabble).]"
 msgstr ""
+"[神話的に、ラテン語の半能動相動詞quuxo, quuxare, quuxandum "
+"iriに由来。名詞形はさまざまに‘quux’(複数形は‘quuces’、英語化して‘quuxes’)および‘quuxu’(属格複数は‘quuxuum’で、全7文字中4文字がuとなり、Scrabbleの‘u’の文字をすべて使い切る)。]"
 
 #: ../../Q/quux.rst:12
 msgid ""
 "Originally, a :ref:`metasyntactic-variable` like :ref:`foo` and "
-":ref:`foobar`\\. Invented by Guy Steele for precisely this purpose when "
-"he was young and naive and not yet interacting with the real computing "
-"community. Many people invent such words; this one seems simply to have "
-"been lucky enough to have spread a little. In an eloquent display of "
-"poetic justice, it has returned to the originator in the form of a "
-"nickname."
+":ref:`foobar`\\. Invented by Guy Steele for precisely this purpose when he "
+"was young and naive and not yet interacting with the real computing "
+"community. Many people invent such words; this one seems simply to have been"
+" lucky enough to have spread a little. In an eloquent display of poetic "
+"justice, it has returned to the originator in the form of a nickname."
 msgstr ""
+"もともとは、\\ :ref:`foo`\\ や\\ :ref:`foobar`\\ のような\\ :ref:`metasyntactic-"
+"variable`\\ 。Guy "
+"Steeleがまさにこの目的のために、若くて世間知らずで、まだ現実のコンピューティング・コミュニティと関わっていなかった頃に発明した。多くの人がそうした語を発明する。これは単に、少しばかり広まる幸運に恵まれただけのようだ。詩的正義の雄弁な見せ場として、それはあだ名の形で発案者のもとに戻ってきた。"
 
 #: ../../Q/quux.rst:17
 msgid ""
 "interj. See :ref:`foo`\\; however, denotes very little disgust, and is "
 "uttered mostly for the sake of the sound of it."
-msgstr ""
+msgstr "間投詞。 \\ :ref:`foo`\\ を参照。ただし、嫌悪はごくわずかしか表さず、もっぱらその響きのために発せられる。"
 
 #: ../../Q/quux.rst:21
 msgid ""
-"Guy Steele in his persona as ‘The Great Quux’, which is somewhat infamous"
-" for light verse and for the ‘Crunchly’ cartoons."
-msgstr ""
+"Guy Steele in his persona as ‘The Great Quux’, which is somewhat infamous "
+"for light verse and for the ‘Crunchly’ cartoons."
+msgstr "‘The Great Quux’という人格でのGuy Steele。軽い詩や‘Crunchly’の漫画でいささか悪名高い。"
 
 #: ../../Q/quux.rst:24
 msgid ""
-"In some circles, used as a punning opposite of ‘crux’. \"Ah, that's the "
-"quux of the matter!\" implies that the point is *not* crucial (compare "
+"In some circles, used as a punning opposite of ‘crux’. \"Ah, that's the quux"
+" of the matter!\" implies that the point is *not* crucial (compare "
 ":ref:`tip-of-the-ice-cube`\\)."
 msgstr ""
+"ある界隈では、‘crux’のもじりの反対語として使われる。「ああ、それがこの問題のquuxだ!」は、その点が\\ *重要ではない*\\ "
+"ことをほのめかす(\\ :ref:`tip-of-the-ice-cube`\\ と比較せよ)。"
 
 #: ../../Q/quux.rst:28
 msgid "quuxy: adj. Of or pertaining to a quux."
-msgstr ""
-
+msgstr "quuxy: 形容詞。 quuxの、またはquuxに関する。"

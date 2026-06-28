@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../U/userland.rst:5
 msgid "userland"
-msgstr ""
+msgstr "userland"
 
 #: ../../U/userland.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../U/userland.rst:9
 msgid ""
-"Anywhere outside the kernel. \"That code belongs in userland.\" This term"
-" has been in common use among Unix kernel hackers since at least 1985, "
-"and may have have originated in that community. The earliest sighting was"
-" reported from the usenet group net.unix-wizards."
+"Anywhere outside the kernel. \"That code belongs in userland.\" This term "
+"has been in common use among Unix kernel hackers since at least 1985, and "
+"may have have originated in that community. The earliest sighting was "
+"reported from the usenet group net.unix-wizards."
 msgstr ""
-
+"カーネルの外側のどこか。「あのコードはuserlandに属する。」この語は遅くとも1985年以来Unixカーネルハッカーの間で一般に使われており、そのコミュニティで生まれたのかもしれない。最も古い目撃例はusenetグループのnet.unix-"
+"wizardsから報告された。"
