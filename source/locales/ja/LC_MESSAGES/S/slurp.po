@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/slurp.rst:5
 msgid "slurp"
-msgstr ""
+msgstr "slurp"
 
 #: ../../S/slurp.rst:7
 msgid "vt\\."
-msgstr ""
+msgstr "他動詞"
 
 #: ../../S/slurp.rst:9
 msgid ""
-"To read a large data file entirely into :ref:`core` before working on it."
-" This may be contrasted with the strategy of reading a small piece at a "
-"time, processing it, and then reading the next piece. \"This program "
-"slurps in a 1K-by-1K matrix and does an FFT.\" See also :ref:`sponge`\\."
+"To read a large data file entirely into :ref:`core` before working on it. "
+"This may be contrasted with the strategy of reading a small piece at a time,"
+" processing it, and then reading the next piece. \"This program slurps in a "
+"1K-by-1K matrix and does an FFT.\" See also :ref:`sponge`\\."
 msgstr ""
-
+"大きなデータファイルを、それに取りかかる前に\\ :ref:`core`\\ "
+"にまるごと読み込むこと。これは、小さな断片を一度に読み、それを処理し、それから次の断片を読むという戦略と対比される。「このプログラムは1K×1Kの行列をslurpして、FFTを行う。」\\"
+" :ref:`sponge`\\ も参照。"

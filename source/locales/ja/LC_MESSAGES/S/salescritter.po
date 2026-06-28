@@ -8,39 +8,39 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/salescritter.rst:5
 msgid "salescritter"
-msgstr ""
+msgstr "salescritter"
 
 #: ../../S/salescritter.rst:7
 msgid "/sayls´kri\\`tr/, n\\."
-msgstr ""
+msgstr "/sayls´kri\\`tr/, 名詞"
 
 #: ../../S/salescritter.rst:9
 msgid ""
-"Pejorative hackerism for a computer salesperson. Hackers tell the "
-"following joke:"
-msgstr ""
+"Pejorative hackerism for a computer salesperson. Hackers tell the following "
+"joke:"
+msgstr "コンピュータの販売員を指す、ハッカーらしい蔑称。ハッカーたちは次のような冗談を語る。"
 
 #: ../../S/salescritter.rst:20
 msgid ""
 "This reflects the widespread hacker belief that salescritters are self-"
-"selected for stupidity (after all, if they had brains and the inclination"
-" to use them, they'd be in programming). The terms salesthing and "
-"salesdroid are also common. Compare :ref:`marketroid`\\, :ref:`suit`\\, "
-":ref:`droid`\\."
+"selected for stupidity (after all, if they had brains and the inclination to"
+" use them, they'd be in programming). The terms salesthing and salesdroid "
+"are also common. Compare :ref:`marketroid`\\, :ref:`suit`\\, :ref:`droid`\\."
 msgstr ""
-
+"これは、salescritterは愚かさによって自己選別されている(なにしろ、もし頭脳とそれを使う気があるなら、彼らはプログラミングをしているはずだ)という、ハッカーの間に広まった信念を反映している。salesthingやsalesdroidという用語も一般的だ。\\"
+" :ref:`marketroid`\\ 、\\ :ref:`suit`\\ 、\\ :ref:`droid`\\ と比較せよ。"

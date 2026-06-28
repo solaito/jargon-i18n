@@ -8,34 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/special-case.rst:5
 msgid "special-case"
-msgstr ""
+msgstr "special-case"
 
 #: ../../S/special-case.rst:7
 msgid "vt\\."
-msgstr ""
+msgstr "他動詞"
 
 #: ../../S/special-case.rst:9
 msgid ""
-"To write unique code to handle input to or situations arising in a "
-"program that are somehow distinguished from normal processing. This would"
-" be used for processing of mode switches or interrupt characters in an "
-"interactive interface (as opposed, say, to text entry or normal "
-"commands), or for processing of :ref:`hidden-flag`\\s in the input of a "
-"batch program or :ref:`filter`\\."
+"To write unique code to handle input to or situations arising in a program "
+"that are somehow distinguished from normal processing. This would be used "
+"for processing of mode switches or interrupt characters in an interactive "
+"interface (as opposed, say, to text entry or normal commands), or for "
+"processing of :ref:`hidden-flag`\\s in the input of a batch program or "
+":ref:`filter`\\."
 msgstr ""
-
+"プログラム中で、通常の処理から何らかの形で区別される入力や状況を扱うための独自のコードを書くこと。これは、(たとえばテキスト入力や通常のコマンドに対して)対話的なインターフェースでのモード切り替えや割り込み文字の処理や、バッチプログラムや\\"
+" :ref:`filter`\\ の入力における\\ :ref:`hidden-flag`\\ の処理に使われる。"

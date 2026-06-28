@@ -8,35 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/screen-name.rst:5
 msgid "screen name"
-msgstr ""
+msgstr "screen name"
 
 #: ../../S/screen-name.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/screen-name.rst:9
 msgid "A :ref:`handle` sense"
-msgstr ""
+msgstr ":ref:`handle`\\ の語義"
 
 #: ../../S/screen-name.rst:12
 msgid ""
-"This term has been common among users of IRC, MUDs, and commercial on-"
-"line services since the mid-1990s. Hackers recognize the term but don't "
-"generally use it."
+"This term has been common among users of IRC, MUDs, and commercial on-line "
+"services since the mid-1990s. Hackers recognize the term but don't generally"
+" use it."
 msgstr ""
-
+"この用語は1990年代半ば以来、IRC、MUD、商用オンラインサービスのユーザーの間で一般的になっている。ハッカーはこの用語を知ってはいるが、一般には使わない。"

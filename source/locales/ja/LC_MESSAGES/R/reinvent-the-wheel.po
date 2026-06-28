@@ -8,35 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../R/reinvent-the-wheel.rst:5
 msgid "reinvent the wheel"
-msgstr ""
+msgstr "reinvent the wheel"
 
 #: ../../R/reinvent-the-wheel.rst:7
 msgid "v\\."
-msgstr ""
+msgstr "動詞"
 
 #: ../../R/reinvent-the-wheel.rst:9
 msgid ""
-"To design or implement a tool equivalent to an existing one or part of "
-"one, with the implication that doing so is silly or a waste of time. This"
-" is often a valid criticism. On the other hand, automobiles don't use "
-"wooden rollers, and some kinds of wheel have to be reinvented many times "
-"before you get them right. On the third hand, people reinventing the "
-"wheel do tend to come up with the moral equivalent of a trapezoid with an"
-" offset axle."
+"To design or implement a tool equivalent to an existing one or part of one, "
+"with the implication that doing so is silly or a waste of time. This is "
+"often a valid criticism. On the other hand, automobiles don't use wooden "
+"rollers, and some kinds of wheel have to be reinvented many times before you"
+" get them right. On the third hand, people reinventing the wheel do tend to "
+"come up with the moral equivalent of a trapezoid with an offset axle."
 msgstr ""
-
+"既存の道具、またはその一部に相当する道具を、そうするのが愚かであるか時間の無駄であるという含意とともに、設計または実装すること。これはしばしば妥当な批判である。一方で、自動車は木製のローラーを使わないし、ある種の車輪は正しく作るまでに何度も再発明されなければならない。さらに別の一方で、車輪を再発明する人々は、軸がずれた台形の道徳的等価物を思いつきがちである。"

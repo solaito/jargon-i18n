@@ -8,32 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/tickle-a-bug.rst:5
 msgid "tickle a bug"
-msgstr ""
+msgstr "tickle a bug"
 
 #: ../../T/tickle-a-bug.rst:7
 msgid "vt\\."
-msgstr ""
+msgstr "他動詞"
 
 #: ../../T/tickle-a-bug.rst:9
 msgid ""
-"To cause a normally hidden bug to manifest itself through some known "
-"series of inputs or operations. \"You can tickle the bug in the Paradise "
-"VGA card's highlight handling by trying to set bright yellow reverse "
-"video.\""
+"To cause a normally hidden bug to manifest itself through some known series "
+"of inputs or operations. \"You can tickle the bug in the Paradise VGA card's"
+" highlight handling by trying to set bright yellow reverse video.\""
 msgstr ""
-
+"既知の一連の入力や操作を通じて、通常は隠れているバグを表面化させること。「Paradise "
+"VGAカードのハイライト処理のバグは、明るい黄色の反転表示を設定しようとすることでくすぐることができる」。"

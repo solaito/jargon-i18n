@@ -8,39 +8,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/Suzie-COBOL.rst:5
 msgid "Suzie COBOL"
-msgstr ""
+msgstr "Suzie COBOL"
 
 #: ../../S/Suzie-COBOL.rst:7
 msgid "/soo´zee koh´bol/"
-msgstr ""
+msgstr "/soo´zee koh´bol/"
 
 #: ../../S/Suzie-COBOL.rst:10
 msgid ""
-"[IBM: prob. : from Frank Zappa's ‘Suzy Creamcheese’] n. A coder straight "
-"out of training school who knows everything except the value of comments "
-"in plain English. Also (fashionable among personkind wishing to avoid "
+"[IBM: prob. : from Frank Zappa's ‘Suzy Creamcheese’] n. A coder straight out"
+" of training school who knows everything except the value of comments in "
+"plain English. Also (fashionable among personkind wishing to avoid "
 "accusations of sexism) ‘Sammy Cobol’ or (in some non-IBM circles) ‘Cobol "
 "Charlie’."
 msgstr ""
+"[IBM: おそらく : Frank Zappaの‘Suzy Creamcheese’から] 名詞 "
+"平易な英語によるコメントの価値以外はすべて知っている、訓練校を出たての "
+"programmer。また(性差別の非難を避けたい人々の間で流行りの)‘Sammy Cobol’や、(一部の非IBMの界隈で)‘Cobol "
+"Charlie’とも。"
 
 #: ../../S/Suzie-COBOL.rst:15
 msgid ""
-"[proposed] Meta-name for any :ref:`code-grinder`\\, analogous to :ref:`J"
-"--Random-Hacker`\\."
-msgstr ""
-
+"[proposed] Meta-name for any :ref:`code-grinder`\\, analogous to :ref:`J--"
+"Random-Hacker`\\."
+msgstr "[提案] あらゆる\\ :ref:`code-grinder`\\ のメタ名。\\ :ref:`J--Random-Hacker`\\ に類似。"

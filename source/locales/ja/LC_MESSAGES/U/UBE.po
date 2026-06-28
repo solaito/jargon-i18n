@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../U/UBE.rst:5
 msgid "UBE"
-msgstr ""
+msgstr "UBE"
 
 #: ../../U/UBE.rst:7
 msgid "//, n\\."
-msgstr ""
+msgstr "//, 名詞"
 
 #: ../../U/UBE.rst:9
 msgid ""
-"[abbrev., Unsolicited Bulk Email] A widespread, more formal term for "
-"email :ref:`spam`\\. Compare :ref:`UCE`\\. The UBE term recognizes that "
-"spam is uttered by nonprofit and advocacy groups whose motives are not "
-"commercial."
+"[abbrev., Unsolicited Bulk Email] A widespread, more formal term for email "
+":ref:`spam`\\. Compare :ref:`UCE`\\. The UBE term recognizes that spam is "
+"uttered by nonprofit and advocacy groups whose motives are not commercial."
 msgstr ""
-
+"[略語、Unsolicited Bulk Email] メールの\\ :ref:`spam`\\ を指す、広く使われるより形式ばった語。\\ "
+":ref:`UCE`\\ "
+"と比較せよ。UBEという語は、spamが商業的でない動機を持つ非営利団体や活動団体によっても発せられることを認識したものである。"

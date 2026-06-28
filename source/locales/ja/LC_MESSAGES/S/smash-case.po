@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/smash-case.rst:5
 msgid "smash case"
-msgstr ""
+msgstr "smash case"
 
 #: ../../S/smash-case.rst:7
 msgid "vi\\."
-msgstr ""
+msgstr "自動詞"
 
 #: ../../S/smash-case.rst:9
 msgid ""
@@ -35,4 +35,5 @@ msgid ""
 "\"MS-DOS will automatically smash case in the names of all the files you "
 "create.\" Compare :ref:`fold-case`\\."
 msgstr ""
-
+"テキスト入力で大文字・小文字の区別を失うか抹消すること。「MS-DOSは、あなたが作るすべてのファイルの名前で自動的にsmash caseする。」\\ "
+":ref:`fold-case`\\ と比較せよ。"

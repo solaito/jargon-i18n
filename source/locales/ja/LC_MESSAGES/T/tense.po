@@ -8,33 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/tense.rst:5
 msgid "tense"
-msgstr ""
+msgstr "tense"
 
 #: ../../T/tense.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../T/tense.rst:9
 msgid ""
-"Of programs, very clever and efficient. A tense piece of code often got "
-"that way because it was highly tuned, but sometimes it was just based on "
-"a great idea. A comment in a clever routine by Mike Kazar, once a grad-"
-"student hacker at CMU: \"This routine is so tense it will bring tears to "
-"your eyes.\" A tense programmer is one who produces tense code."
+"Of programs, very clever and efficient. A tense piece of code often got that"
+" way because it was highly tuned, but sometimes it was just based on a great"
+" idea. A comment in a clever routine by Mike Kazar, once a grad-student "
+"hacker at CMU: \"This routine is so tense it will bring tears to your "
+"eyes.\" A tense programmer is one who produces tense code."
 msgstr ""
-
+"プログラムについて、非常に巧妙で効率的なこと。tenseなコードは、高度にチューニングされた結果そうなったことが多いが、時には単に素晴らしいアイデアに基づいていることもある。かつてCMUの大学院生ハッカーだったMike"
+" "
+"Kazarによる、ある巧妙なルーチンのコメント:「このルーチンはあまりにtenseで君の目に涙を浮かべさせるだろう」。tenseなプログラマーとは、tenseなコードを生み出す者のことである。"

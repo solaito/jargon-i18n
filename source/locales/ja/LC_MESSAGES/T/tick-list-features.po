@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/tick-list-features.rst:5
 msgid "tick-list features"
-msgstr ""
+msgstr "tick-list features"
 
 #: ../../T/tick-list-features.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../T/tick-list-features.rst:9
 msgid ""
-"[Acorn Computers] Features in software or hardware that customers insist "
-"on but never use (calculators in desktop TSRs and that sort of thing). "
-"The American equivalent would be checklist features, but this jargon "
-"sense of the phrase has not been reported."
+"[Acorn Computers] Features in software or hardware that customers insist on "
+"but never use (calculators in desktop TSRs and that sort of thing). The "
+"American equivalent would be checklist features, but this jargon sense of "
+"the phrase has not been reported."
 msgstr ""
-
+"[Acorn "
+"Computers]顧客が要求するが決して使わない、ソフトウェアやハードウェアの機能(デスクトップTSRの中の電卓やその類のもの)。アメリカでの相当語はchecklist"
+" featuresだろうが、この言い回しのジャーゴン的語義は報告されていない。"

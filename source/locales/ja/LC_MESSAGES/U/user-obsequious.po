@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../U/user-obsequious.rst:5
 msgid "user-obsequious"
-msgstr ""
+msgstr "user-obsequious"
 
 #: ../../U/user-obsequious.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../U/user-obsequious.rst:9
 msgid ""
 "Emphatic form of :ref:`user-friendly`\\. Connotes a system so verbose, "
 "inflexible, and determinedly simple-minded that it is nearly unusable. "
-"\"Design a system any fool can use and only a fool will want to use it.\""
-" See :ref:`WIMP-environment`\\, :ref:`Macintrash`\\."
+"\"Design a system any fool can use and only a fool will want to use it.\" "
+"See :ref:`WIMP-environment`\\, :ref:`Macintrash`\\."
 msgstr ""
-
+"\\ :ref:`user-friendly`\\ "
+"の強調形。あまりに冗長で、融通が利かず、頑なに単純素朴で、ほとんど使い物にならないシステムを暗示する。「どんな馬鹿でも使えるシステムを設計すれば、馬鹿しか使いたがらないだろう。」\\"
+" :ref:`WIMP-environment`\\ 、\\ :ref:`Macintrash`\\ を参照。"

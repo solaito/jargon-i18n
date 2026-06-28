@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/taste.rst:5
 msgid "taste"
-msgstr ""
+msgstr "taste"
 
 #: ../../T/taste.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../T/taste.rst:10
 msgid ""
@@ -36,14 +36,19 @@ msgid ""
 "tasteful, tastefulness. \"This feature comes in ``N`` tasty flavors.\" "
 "Although tasty and flavorful are essentially synonyms, taste and "
 ":ref:`flavor` are not. Taste refers to sound judgment on the part of the "
-"creator; a program or feature can *exhibit* taste but cannot *have* "
-"taste. On the other hand, a feature can have :ref:`flavor`\\. Also, "
-":ref:`flavor` has the additional meaning of ‘kind’ or ‘variety’ not "
-"shared by taste. The marked sense of :ref:`flavor` is more popular than "
-"taste, though both are widely used. See also :ref:`elegant`\\."
+"creator; a program or feature can *exhibit* taste but cannot *have* taste. "
+"On the other hand, a feature can have :ref:`flavor`\\. Also, :ref:`flavor` "
+"has the additional meaning of ‘kind’ or ‘variety’ not shared by taste. The "
+"marked sense of :ref:`flavor` is more popular than taste, though both are "
+"widely used. See also :ref:`elegant`\\."
 msgstr ""
+"プログラムにプログラムされた機能、ハック、kludgeの数に反比例する傾向のある、そのプログラムの質。tasty、tasteful、tastefulnessとも。「この機能は\\"
+" ``N``\\ 種類のおいしいフレーバーで提供される」。tastyとflavorfulは本質的に同義語だが、tasteと\\ "
+":ref:`flavor`\\ はそうではない。tasteは作り手側の健全な判断を指す。プログラムや機能はtasteを\\ *示す*\\ "
+"ことはできても、tasteを\\ *持つ*\\ ことはできない。他方、機能は\\ :ref:`flavor`\\ を持つことができる。また、\\ "
+":ref:`flavor`\\ にはtasteが共有しない‘種類’や‘多様性’という追加の意味がある。\\ :ref:`flavor`\\ "
+"の際立った語義の方がtasteより人気があるが、どちらも広く使われている。\\ :ref:`elegant`\\ も参照。"
 
 #: ../../T/taste.rst:21
 msgid "Alt. sp. of :ref:`tayste`\\."
-msgstr ""
-
+msgstr "\\ :ref:`tayste`\\ の別綴り。"

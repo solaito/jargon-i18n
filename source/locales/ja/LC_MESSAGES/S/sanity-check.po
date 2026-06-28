@@ -8,53 +8,56 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/sanity-check.rst:5
 msgid "sanity check"
-msgstr ""
+msgstr "sanity check"
 
 #: ../../S/sanity-check.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/sanity-check.rst:9
 msgid "[very common]"
-msgstr ""
+msgstr "[非常に一般的]"
 
 #: ../../S/sanity-check.rst:12
 msgid ""
 "The act of checking a piece of code (or anything else, e.g., a Usenet "
-"posting) for completely stupid mistakes. Implies that the check is to "
-"make sure the author was sane when it was written; e.g., if a piece of "
-"scientific software relied on a particular formula and was giving "
-"unexpected results, one might first look at the nesting of parentheses or"
-" the coding of the formula, as a sanity check, before looking at the more"
-" complex I/O or data structure manipulation routines, much less the "
-"algorithm itself. Compare :ref:`reality-check`\\."
+"posting) for completely stupid mistakes. Implies that the check is to make "
+"sure the author was sane when it was written; e.g., if a piece of scientific"
+" software relied on a particular formula and was giving unexpected results, "
+"one might first look at the nesting of parentheses or the coding of the "
+"formula, as a sanity check, before looking at the more complex I/O or data "
+"structure manipulation routines, much less the algorithm itself. Compare "
+":ref:`reality-check`\\."
 msgstr ""
+"コード片(あるいは他の何か、たとえばUsenetの投稿)について、まったく愚かな間違いがないかを調べる行為。書かれたとき作者が正気だったかを確かめる、という含みがある。たとえば、ある科学計算ソフトウェアが特定の公式に依存していて予期しない結果を出している場合、より複雑な入出力やデータ構造の操作ルーチン、ましてやアルゴリズムそのものを見る前に、まずsanity"
+" checkとして括弧の入れ子や公式のコーディングを見るだろう。\\ :ref:`reality-check`\\ と比較せよ。"
 
 #: ../../S/sanity-check.rst:17
 msgid ""
-"A run-time test, either validating input or ensuring that the program "
-"hasn't screwed up internally (producing an inconsistent value or state)."
-msgstr ""
+"A run-time test, either validating input or ensuring that the program hasn't"
+" screwed up internally (producing an inconsistent value or state)."
+msgstr "実行時のテストで、入力を検証するか、プログラムが内部的にしくじっていない(矛盾した値や状態を生み出していない)ことを確かめるもの。"
 
 #: ../../S/sanity-check.rst:20
 msgid ""
-"Conversationally, saying \"sanity check\" means you are requesting a "
-"check of your assumptions. \"Wait a minute, sanity check, are we talking "
-"about the same Kevin here?\""
+"Conversationally, saying \"sanity check\" means you are requesting a check "
+"of your assumptions. \"Wait a minute, sanity check, are we talking about the"
+" same Kevin here?\""
 msgstr ""
-
+"会話では、「sanity "
+"check」と言うと、自分の前提の確認を求めていることを意味する。「ちょっと待って、確認なんだけど、ここで話してるのは同じKevinのこと?」"

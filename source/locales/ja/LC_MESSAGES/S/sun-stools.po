@@ -8,32 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/sun-stools.rst:5
 msgid "sun-stools"
-msgstr ""
+msgstr "sun-stools"
 
 #: ../../S/sun-stools.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/sun-stools.rst:9
 msgid ""
-"Unflattering hackerism for SunTools, a pre-X windowing environment "
-"notorious in its day for size, slowness, and misfeatures. :ref:`X`\\, "
-"however, is larger and (some claim) slower; see :ref:`second-system-"
-"effect`\\."
+"Unflattering hackerism for SunTools, a pre-X windowing environment notorious"
+" in its day for size, slowness, and misfeatures. :ref:`X`\\, however, is "
+"larger and (some claim) slower; see :ref:`second-system-effect`\\."
 msgstr ""
-
+"SunToolsを指す、不名誉なハッカー用語。SunToolsは、その大きさ、遅さ、misfeatureゆえに、当時悪名高かったX以前のウィンドウ環境だ。だが\\"
+" :ref:`X`\\ は、より大きく(そして一部の人が言うには)より遅い。\\ :ref:`second-system-effect`\\ を参照。"

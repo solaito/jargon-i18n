@@ -8,34 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/spaghetti-inheritance.rst:5
 msgid "spaghetti inheritance"
-msgstr ""
+msgstr "spaghetti inheritance"
 
 #: ../../S/spaghetti-inheritance.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/spaghetti-inheritance.rst:9
 msgid ""
-"[encountered among users of object-oriented languages that use "
-"inheritance, such as Smalltalk] A convoluted class-subclass graph, often "
-"resulting from carelessly deriving subclasses from other classes just for"
-" the sake of reusing their code. Coined in a (successful) attempt to "
-"discourage such practice, through guilt-by-association with :ref"
-":`spaghetti-code`\\."
+"[encountered among users of object-oriented languages that use inheritance, "
+"such as Smalltalk] A convoluted class-subclass graph, often resulting from "
+"carelessly deriving subclasses from other classes just for the sake of "
+"reusing their code. Coined in a (successful) attempt to discourage such "
+"practice, through guilt-by-association with :ref:`spaghetti-code`\\."
 msgstr ""
-
+"[Smalltalkのような、継承を使うオブジェクト指向言語のユーザーの間で見られる] "
+"入り組んだクラス・サブクラスのグラフ。しばしば、ただコードを再利用するためだけに、他のクラスから不注意にサブクラスを派生させた結果生じる。\\ "
+":ref:`spaghetti-code`\\ との連想による罪悪感を通じて、そうした慣行を思いとどまらせる(成功した)試みの中で作られた造語。"

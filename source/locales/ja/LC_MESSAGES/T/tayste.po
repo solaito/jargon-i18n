@@ -8,30 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/tayste.rst:5
 msgid "tayste"
-msgstr ""
+msgstr "tayste"
 
 #: ../../T/tayste.rst:7
 msgid "/tayst/"
-msgstr ""
+msgstr "/tayst/"
 
 #: ../../T/tayste.rst:9
 msgid ""
-"n. Two bits; also as :ref:`taste`\\. Syn. :ref:`crumb`\\, "
-":ref:`quarter`\\. See :ref:`nybble`\\."
+"n. Two bits; also as :ref:`taste`\\. Syn. :ref:`crumb`\\, :ref:`quarter`\\. "
+"See :ref:`nybble`\\."
 msgstr ""
-
+"名詞。2ビット。\\ :ref:`taste`\\ としても。同義語\\ :ref:`crumb`\\ 、\\ :ref:`quarter`\\ 。\\"
+" :ref:`nybble`\\ 参照。"

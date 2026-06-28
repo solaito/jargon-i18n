@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/snarf-down.rst:5
 msgid "snarf down"
-msgstr ""
+msgstr "snarf down"
 
 #: ../../S/snarf-down.rst:7
 msgid "v\\."
-msgstr ""
+msgstr "動詞"
 
 #: ../../S/snarf-down.rst:9
 msgid ""
 "To :ref:`snarf`\\, with the connotation of absorbing, processing, or "
-"understanding. \"I'll snarf down the latest version of the :ref:`nethack`"
-" user's guide — it's been a while since I played last and I don't know "
-"what's changed recently.\""
+"understanding. \"I'll snarf down the latest version of the :ref:`nethack` "
+"user's guide — it's been a while since I played last and I don't know what's"
+" changed recently.\""
 msgstr ""
-
+":ref:`snarf`\\ すること。吸収、処理、または理解の含みを伴う。「最新版の\\ :ref:`nethack`\\ "
+"ユーザーズガイドをsnarf downしよう——前に遊んでから久しいし、最近何が変わったか知らないんだ。」"

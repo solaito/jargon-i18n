@@ -8,31 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/touristic.rst:5
 msgid "touristic"
-msgstr ""
+msgstr "touristic"
 
 #: ../../T/touristic.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../T/touristic.rst:9
 msgid ""
-"Having the quality of a :ref:`tourist`\\. Often used as a pejorative, as "
-"in ‘losing touristic scum’. Often spelled ‘turistic’ or ‘turistik’, so "
-"that phrase might be more properly rendered ‘lusing turistic scum’."
+"Having the quality of a :ref:`tourist`\\. Often used as a pejorative, as in "
+"‘losing touristic scum’. Often spelled ‘turistic’ or ‘turistik’, so that "
+"phrase might be more properly rendered ‘lusing turistic scum’."
 msgstr ""
-
+"\\ :ref:`tourist`\\ の性質を持つこと。‘losing touristic "
+"scum’(負け犬の観光客のクズ)のように、しばしば軽蔑的に使われる。‘turistic’や‘turistik’と綴られることもよくあり、その場合その言い回しは‘lusing"
+" turistic scum’とより適切に表されるかもしれない。"

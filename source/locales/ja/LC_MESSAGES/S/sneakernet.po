@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/sneakernet.rst:5
 msgid "sneakernet"
-msgstr ""
+msgstr "sneakernet"
 
 #: ../../S/sneakernet.rst:7
 msgid "/snee´ker·net/, n\\."
-msgstr ""
+msgstr "/snee´ker·net/, 名詞"
 
 #: ../../S/sneakernet.rst:9
 msgid ""
 "Term used (generally with ironic intent) for transfer of electronic "
-"information by physically carrying tape, disks, or some other media from "
-"one machine to another. \"Never underestimate the bandwidth of a station "
-"wagon filled with magtape, or a 747 filled with CD-ROMs.\" Also called "
-"‘Tennis-Net’, ‘Armpit-Net’, ‘Floppy-Net’ or ‘Shoenet’; in the 1990s, "
-"‘Nike network’ after a well-known sneaker brand."
+"information by physically carrying tape, disks, or some other media from one"
+" machine to another. \"Never underestimate the bandwidth of a station wagon "
+"filled with magtape, or a 747 filled with CD-ROMs.\" Also called ‘Tennis-"
+"Net’, ‘Armpit-Net’, ‘Floppy-Net’ or ‘Shoenet’; in the 1990s, ‘Nike network’ "
+"after a well-known sneaker brand."
 msgstr ""
-
+"(一般に皮肉を込めて)テープ、ディスク、その他の媒体を一方のマシンから他方へ物理的に運ぶことによる電子情報の転送を指して使われる用語。「マグテープを満載したステーションワゴンや、CD-"
+"ROMを満載した747の帯域幅を決して甘く見るな。」‘Tennis-Net’、‘Armpit-Net’、‘Floppy-"
+"Net’、‘Shoenet’とも呼ばれ、1990年代にはよく知られたスニーカーブランドにちなんで‘Nike network’とも呼ばれた。"

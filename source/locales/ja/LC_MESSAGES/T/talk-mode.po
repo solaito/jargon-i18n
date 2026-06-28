@@ -8,79 +8,82 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/talk-mode.rst:5
 msgid "talk mode"
-msgstr ""
+msgstr "talk mode"
 
 #: ../../T/talk-mode.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../T/talk-mode.rst:9
 msgid ""
 "A feature supported by Unix and some other OSes that allows two or more "
-"logged-in users to set up a real-time on-line conversation. It combines "
-"the immediacy of talking with all the precision (and verbosity) that "
-"written language entails. It is difficult to communicate inflection, "
-"though conventions have arisen for some of these (see the section on "
-"writing style in the Prependices for details)."
+"logged-in users to set up a real-time on-line conversation. It combines the "
+"immediacy of talking with all the precision (and verbosity) that written "
+"language entails. It is difficult to communicate inflection, though "
+"conventions have arisen for some of these (see the section on writing style "
+"in the Prependices for details)."
 msgstr ""
+"Unixや他のいくつかのOSがサポートする機能で、二人以上のログイン中のユーザーがリアルタイムのオンライン会話を設定できるようにする。話すことの即時性と、書き言葉が伴うすべての精密さ(と冗長さ)を兼ね備えている。抑揚を伝えるのは難しいが、そのいくつかについては慣習が生まれている(詳しくはPrependicesの文体に関する節を参照)。"
 
 #: ../../T/talk-mode.rst:13
 msgid ""
-"Talk mode has a special set of jargon words, used to save typing, which "
-"are not used orally. Some of these are identical to (and probably derived"
-" from) Morse-code jargon used by ham-radio amateurs since the 1920s."
+"Talk mode has a special set of jargon words, used to save typing, which are "
+"not used orally. Some of these are identical to (and probably derived from) "
+"Morse-code jargon used by ham-radio amateurs since the 1920s."
 msgstr ""
+"talk "
+"modeにはタイプ量を減らすために使われる特別なジャーゴン語の集合があり、これらは口頭では使われない。そのいくつかは、1920年代以降アマチュア無線家が使ってきたモールス信号のジャーゴンと同一(でおそらくそこから派生したもの)である。"
 
 #: ../../T/talk-mode.rst:18
 msgid "AFAIAC"
-msgstr ""
+msgstr "AFAIAC"
 
 #: ../../T/talk-mode.rst:19
 msgid "as far as I am concerned"
-msgstr ""
+msgstr "as far as I am concerned(私に関する限り)"
 
 #: ../../T/talk-mode.rst:20
 msgid "AFAIK"
-msgstr ""
+msgstr "AFAIK"
 
 #: ../../T/talk-mode.rst:21
 msgid "as far as I know"
-msgstr ""
+msgstr "as far as I know(私の知る限り)"
 
 #: ../../T/talk-mode.rst:22
 msgid "BCNU"
-msgstr ""
+msgstr "BCNU"
 
 #: ../../T/talk-mode.rst:23
 msgid "be seeing you"
-msgstr ""
+msgstr "be seeing you(また会おう)"
 
 #: ../../T/talk-mode.rst:24
 msgid "BTW"
-msgstr ""
+msgstr "BTW"
 
 #: ../../T/talk-mode.rst:25
 msgid "by the way"
-msgstr ""
+msgstr "by the way(ところで)"
 
 #: ../../T/talk-mode.rst:26
 msgid "BYE?"
-msgstr ""
+msgstr "BYE?"
 
 #: ../../T/talk-mode.rst:27
 msgid ""
@@ -88,548 +91,563 @@ msgid ""
 "conversation; the other person types :code:`BYE` to confirm, or else "
 "continues the conversation)"
 msgstr ""
+"リンクを切る準備はいいか?(これはtalk modeの会話を終える標準的な方法。相手は\\ :code:`BYE`\\ "
+"とタイプして確認するか、さもなければ会話を続ける)"
 
 #: ../../T/talk-mode.rst:29
 msgid "CUL"
-msgstr ""
+msgstr "CUL"
 
 #: ../../T/talk-mode.rst:30 ../../T/talk-mode.rst:136
 msgid "see you later"
-msgstr ""
+msgstr "see you later(また後で)"
 
 #: ../../T/talk-mode.rst:31
 msgid "ENQ?"
-msgstr ""
+msgstr "ENQ?"
 
 #: ../../T/talk-mode.rst:32
 msgid "are you busy? (expects :code:`ACK` or :code:`NAK` in return)"
-msgstr ""
+msgstr "忙しいか?(返答に\\ :code:`ACK`\\ または\\ :code:`NAK`\\ を期待する)"
 
 #: ../../T/talk-mode.rst:34
 msgid "FOO?"
-msgstr ""
+msgstr "FOO?"
 
 #: ../../T/talk-mode.rst:35
 msgid ""
-"are you there? (often used on unexpected links, meaning also \"Sorry if I"
-" butted in &ellipsis;\" (linker) or \"What's up?\" (linkee))"
-msgstr ""
+"are you there? (often used on unexpected links, meaning also \"Sorry if I "
+"butted in &ellipsis;\" (linker) or \"What's up?\" (linkee))"
+msgstr "そこにいるか?(予期しないリンクでよく使われ、「邪魔したならごめん…」(リンクした側)や「どうした?」(リンクされた側)も意味する)"
 
 #: ../../T/talk-mode.rst:38
 msgid "FWIW"
-msgstr ""
+msgstr "FWIW"
 
 #: ../../T/talk-mode.rst:39
 msgid "for what it's worth"
-msgstr ""
+msgstr "for what it's worth(参考までに)"
 
 #: ../../T/talk-mode.rst:40
 msgid "FYI"
-msgstr ""
+msgstr "FYI"
 
 #: ../../T/talk-mode.rst:41
 msgid "for your information"
-msgstr ""
+msgstr "for your information(ご参考まで)"
 
 #: ../../T/talk-mode.rst:42
 msgid "FYA"
-msgstr ""
+msgstr "FYA"
 
 #: ../../T/talk-mode.rst:43
 msgid "for your amusement"
-msgstr ""
+msgstr "for your amusement(お楽しみのために)"
 
 #: ../../T/talk-mode.rst:44
 msgid "GA"
-msgstr ""
+msgstr "GA"
 
 #: ../../T/talk-mode.rst:45
 msgid ""
-"go ahead (used when two people have tried to type simultaneously; this "
-"cedes the right to type to the other)"
-msgstr ""
+"go ahead (used when two people have tried to type simultaneously; this cedes"
+" the right to type to the other)"
+msgstr "go ahead(どうぞ。二人が同時にタイプしようとしたときに使い、タイプする権利を相手に譲る)"
 
 #: ../../T/talk-mode.rst:46
 msgid "GRMBL"
-msgstr ""
+msgstr "GRMBL"
 
 #: ../../T/talk-mode.rst:47
 msgid "grumble (expresses disquiet or disagreement)"
-msgstr ""
+msgstr "grumble(不満や不同意を表す)"
 
 #: ../../T/talk-mode.rst:48
 msgid "HELLOP"
-msgstr ""
+msgstr "HELLOP"
 
 #: ../../T/talk-mode.rst:49
 msgid "hello? (an instance of the ‘-P’ convention)"
-msgstr ""
+msgstr "hello?(‘-P’慣習の一例)"
 
 #: ../../T/talk-mode.rst:51
 msgid "IIRC"
-msgstr ""
+msgstr "IIRC"
 
 #: ../../T/talk-mode.rst:52
 msgid "if I recall correctly"
-msgstr ""
+msgstr "if I recall correctly(私の記憶が正しければ)"
 
 #: ../../T/talk-mode.rst:53
 msgid "JAM"
-msgstr ""
+msgstr "JAM"
 
 #: ../../T/talk-mode.rst:54
 msgid "just a minute (equivalent to :code:`SEC....` )"
-msgstr ""
+msgstr "just a minute(\\ :code:`SEC....`\\ に相当)"
 
 #: ../../T/talk-mode.rst:55
 msgid "MIN"
-msgstr ""
+msgstr "MIN"
 
 #: ../../T/talk-mode.rst:56
 msgid "same as :code:`JAM`"
-msgstr ""
+msgstr "\\ :code:`JAM`\\ と同じ"
 
 #: ../../T/talk-mode.rst:57
 msgid "NIL"
-msgstr ""
+msgstr "NIL"
 
 #: ../../T/talk-mode.rst:58
 msgid "no (see :ref:`NIL`\\)"
-msgstr ""
+msgstr "no(\\ :ref:`NIL`\\ 参照)"
 
 #: ../../T/talk-mode.rst:59
 msgid "NP"
-msgstr ""
+msgstr "NP"
 
 #: ../../T/talk-mode.rst:60
 msgid "no problem"
-msgstr ""
+msgstr "no problem(問題ない)"
 
 #: ../../T/talk-mode.rst:61
 msgid "O"
-msgstr ""
+msgstr "O"
 
 #: ../../T/talk-mode.rst:62
 msgid "over to you"
-msgstr ""
+msgstr "over to you(あなたに交代)"
 
 #: ../../T/talk-mode.rst:63
 msgid "OO"
-msgstr ""
+msgstr "OO"
 
 #: ../../T/talk-mode.rst:64
 msgid "over and out"
-msgstr ""
+msgstr "over and out(通信終了)"
 
 #: ../../T/talk-mode.rst:65
 msgid "/"
-msgstr ""
+msgstr "/"
 
 #: ../../T/talk-mode.rst:66
 msgid "another form of \"over to you\" (from x/y as \"x over y\")"
-msgstr ""
+msgstr "\"over to you\"の別の形(x/yを\"x over y\"とすることから)"
 
 #: ../../T/talk-mode.rst:68
 msgid "lambda (used in discussing LISPy things)"
-msgstr ""
+msgstr "lambda(LISP的なことを論じるときに使う)"
 
 #: ../../T/talk-mode.rst:69
 msgid "OBTW"
-msgstr ""
+msgstr "OBTW"
 
 #: ../../T/talk-mode.rst:70
 msgid "oh, by the way"
-msgstr ""
+msgstr "oh, by the way(ああ、ところで)"
 
 #: ../../T/talk-mode.rst:71
 msgid "OTOH"
-msgstr ""
+msgstr "OTOH"
 
 #: ../../T/talk-mode.rst:72
 msgid "on the other hand"
-msgstr ""
+msgstr "on the other hand(他方では)"
 
 #: ../../T/talk-mode.rst:73
 msgid "R U THERE?"
-msgstr ""
+msgstr "R U THERE?"
 
 #: ../../T/talk-mode.rst:74
 msgid "are you there?"
-msgstr ""
+msgstr "そこにいるか?"
 
 #: ../../T/talk-mode.rst:75
 msgid "SEC"
-msgstr ""
+msgstr "SEC"
 
 #: ../../T/talk-mode.rst:76
 msgid "wait a second (sometimes written :code:`SEC...` )"
-msgstr ""
+msgstr "wait a second(ちょっと待って。\\ :code:`SEC...`\\ と書かれることもある)"
 
 #: ../../T/talk-mode.rst:77
 msgid "SYN"
-msgstr ""
+msgstr "SYN"
 
 #: ../../T/talk-mode.rst:78
 msgid ""
-"Are you busy? (expects ACK, SYN\\|ACK, or RST in return; this is modeled "
-"on the TCP/IP handshake sequence)"
-msgstr ""
+"Are you busy? (expects ACK, SYN\\|ACK, or RST in return; this is modeled on "
+"the TCP/IP handshake sequence)"
+msgstr "忙しいか?(返答にACK、SYN\\|ACK、またはRSTを期待する。これはTCP/IPのハンドシェイク手順に倣ったもの)"
 
 #: ../../T/talk-mode.rst:80
 msgid "T"
-msgstr ""
+msgstr "T"
 
 #: ../../T/talk-mode.rst:81
 msgid "yes (see the main entry for :ref:`T`\\)"
-msgstr ""
+msgstr "yes(\\ :ref:`T`\\ の主項目を参照)"
 
 #: ../../T/talk-mode.rst:82
 msgid "TNX"
-msgstr ""
+msgstr "TNX"
 
 #: ../../T/talk-mode.rst:83
 msgid "thanks"
-msgstr ""
+msgstr "thanks(ありがとう)"
 
 #: ../../T/talk-mode.rst:84
 msgid "TNX 1.0E6"
-msgstr ""
+msgstr "TNX 1.0E6"
 
 #: ../../T/talk-mode.rst:85
 msgid "thanks a million (humorous)"
-msgstr ""
+msgstr "thanks a million(百万回ありがとう。ユーモラス)"
 
 #: ../../T/talk-mode.rst:86
 msgid "TNXE6"
-msgstr ""
+msgstr "TNXE6"
 
 #: ../../T/talk-mode.rst:87
 msgid "another form of \"thanks a million\""
-msgstr ""
+msgstr "\"thanks a million\"の別の形"
 
 #: ../../T/talk-mode.rst:88
 msgid "TTBOMK"
-msgstr ""
+msgstr "TTBOMK"
 
 #: ../../T/talk-mode.rst:89
 msgid "to the best of my knowledge"
-msgstr ""
+msgstr "to the best of my knowledge(私の知る限りでは)"
 
 #: ../../T/talk-mode.rst:90
 msgid "WRT"
-msgstr ""
+msgstr "WRT"
 
 #: ../../T/talk-mode.rst:91
 msgid "with regard to, or with respect to."
-msgstr ""
+msgstr "with regard to、または with respect to(〜に関して)"
 
 #: ../../T/talk-mode.rst:92
 msgid "WTF"
-msgstr ""
+msgstr "WTF"
 
 #: ../../T/talk-mode.rst:93
 msgid "the universal interrogative particle; WTF knows what it means?"
-msgstr ""
+msgstr "万能の疑問の助詞。WTFが意味を知るというのか?"
 
 #: ../../T/talk-mode.rst:94
 msgid "WTH"
-msgstr ""
+msgstr "WTH"
 
 #: ../../T/talk-mode.rst:95
 msgid "what the hell?"
-msgstr ""
+msgstr "what the hell?(一体何だ?)"
 
 #: ../../T/talk-mode.rst:96
 msgid "<double newline>"
-msgstr ""
+msgstr "<二重改行>"
 
 #: ../../T/talk-mode.rst:97
 msgid ""
-"When the typing party has finished, he/she types two newlines to signal "
-"that he/she is done; this leaves a blank line between 'speeches' in the "
+"When the typing party has finished, he/she types two newlines to signal that"
+" he/she is done; this leaves a blank line between 'speeches' in the "
 "conversation, making it easier to reread the preceding text."
 msgstr ""
+"タイプしている側が終わると、終わったことを合図するために二つの改行をタイプする。これによって会話の‘発言’の間に空行が残り、先行するテキストを読み返しやすくなる。"
 
 #: ../../T/talk-mode.rst:98
 msgid "YHTBT"
-msgstr ""
+msgstr "YHTBT"
 
 #: ../../T/talk-mode.rst:99
 msgid ""
-"You Had To Be There. Used of a situation which loses significant meaning "
-"in the telling, usually because it's difficult to convey tone and timing."
+"You Had To Be There. Used of a situation which loses significant meaning in "
+"the telling, usually because it's difficult to convey tone and timing."
 msgstr ""
+"You Had To Be "
+"There(その場にいなければ分からない)。語って聞かせると重要な意味が失われる状況に使われる。たいていは、口調やタイミングを伝えるのが難しいためである。"
 
 #: ../../T/talk-mode.rst:101
 msgid "<name>:"
-msgstr ""
+msgstr "<name>:"
 
 #: ../../T/talk-mode.rst:102
 msgid ""
-"When three or more terminals are linked, it is conventional for each "
-"typist to :ref:`prepend` his/her login name or handle and a colon (or a "
-"hyphen) to each line to indicate who is typing (some conferencing "
-"facilities do this automatically). The login name is often shortened to a"
-" unique prefix (possibly a single letter) during a very long "
-"conversation."
+"When three or more terminals are linked, it is conventional for each typist "
+"to :ref:`prepend` his/her login name or handle and a colon (or a hyphen) to "
+"each line to indicate who is typing (some conferencing facilities do this "
+"automatically). The login name is often shortened to a unique prefix "
+"(possibly a single letter) during a very long conversation."
 msgstr ""
+"三つ以上の端末がリンクされているとき、誰がタイプしているかを示すために、各タイピストが各行に自分のログイン名やハンドルとコロン(またはハイフン)を\\ "
+":ref:`prepend`\\ "
+"するのが慣例である(一部の会議システムはこれを自動で行う)。非常に長い会話の間、ログイン名はしばしば一意な接頭辞(おそらく一文字)に短縮される。"
 
 #: ../../T/talk-mode.rst:104
 msgid "/\\/\\/"
-msgstr ""
+msgstr "/\\/\\/"
 
 #: ../../T/talk-mode.rst:105
 msgid "A giggle or chuckle. On a MUD, this usually means 'earthquake fault'."
-msgstr ""
+msgstr "くすくす笑いやくすりという笑い。MUDでは、これはたいてい‘地震断層’を意味する。"
 
 #: ../../T/talk-mode.rst:107
 msgid "<g>"
-msgstr ""
+msgstr "<g>"
 
 #: ../../T/talk-mode.rst:108
 msgid "grin"
-msgstr ""
+msgstr "grin(にやり)"
 
 #: ../../T/talk-mode.rst:109
 msgid "<gd&r>"
-msgstr ""
+msgstr "<gd&r>"
 
 #: ../../T/talk-mode.rst:110
 msgid "grinning, ducking, and running"
-msgstr ""
+msgstr "grinning, ducking, and running(にやりとして、身をかわして、逃げる)"
 
 #: ../../T/talk-mode.rst:111
 msgid "BBL"
-msgstr ""
+msgstr "BBL"
 
 #: ../../T/talk-mode.rst:112
 msgid "be back later"
-msgstr ""
+msgstr "be back later(また後で戻る)"
 
 #: ../../T/talk-mode.rst:113
 msgid "BRB"
-msgstr ""
+msgstr "BRB"
 
 #: ../../T/talk-mode.rst:114
 msgid "be right back"
-msgstr ""
+msgstr "be right back(すぐ戻る)"
 
 #: ../../T/talk-mode.rst:115
 msgid "HHOJ"
-msgstr ""
+msgstr "HHOJ"
 
 #: ../../T/talk-mode.rst:116
 msgid "ha ha only joking"
-msgstr ""
+msgstr "ha ha only joking(ハハ、ただの冗談)"
 
 #: ../../T/talk-mode.rst:117
 msgid "HHOK"
-msgstr ""
+msgstr "HHOK"
 
 #: ../../T/talk-mode.rst:118
 msgid "ha ha only kidding"
-msgstr ""
+msgstr "ha ha only kidding(ハハ、ただのからかい)"
 
 #: ../../T/talk-mode.rst:119
 msgid "HHOS"
-msgstr ""
+msgstr "HHOS"
 
 #: ../../T/talk-mode.rst:120
 msgid ":ref:`ha-ha-only-serious`"
-msgstr ""
+msgstr "\\ :ref:`ha-ha-only-serious`\\"
 
 #: ../../T/talk-mode.rst:121
 msgid "IMHO"
-msgstr ""
+msgstr "IMHO"
 
 #: ../../T/talk-mode.rst:122
 msgid "in my humble opinion (see :ref:`IMHO`\\)"
-msgstr ""
+msgstr "in my humble opinion(私の卑見では。\\ :ref:`IMHO`\\ 参照)"
 
 #: ../../T/talk-mode.rst:123
 msgid "LOL"
-msgstr ""
+msgstr "LOL"
 
 #: ../../T/talk-mode.rst:124
 msgid "laughing out loud"
-msgstr ""
+msgstr "laughing out loud(大笑い)"
 
 #: ../../T/talk-mode.rst:125
 msgid "NHOH"
-msgstr ""
+msgstr "NHOH"
 
 #: ../../T/talk-mode.rst:126
 msgid "Never Heard of Him/Her (often used in :ref:`initgame`\\)"
-msgstr ""
+msgstr "Never Heard of Him/Her(そいつのことは聞いたこともない。しばしば\\ :ref:`initgame`\\ で使われる)"
 
 #: ../../T/talk-mode.rst:127
 msgid "ROTF"
-msgstr ""
+msgstr "ROTF"
 
 #: ../../T/talk-mode.rst:128
 msgid "rolling on the floor"
-msgstr ""
+msgstr "rolling on the floor(床を転げ回る)"
 
 #: ../../T/talk-mode.rst:129
 msgid "ROTFL"
-msgstr ""
+msgstr "ROTFL"
 
 #: ../../T/talk-mode.rst:130
 msgid "rolling on the floor laughing"
-msgstr ""
+msgstr "rolling on the floor laughing(笑って床を転げ回る)"
 
 #: ../../T/talk-mode.rst:131
 msgid "AFK"
-msgstr ""
+msgstr "AFK"
 
 #: ../../T/talk-mode.rst:132
 msgid "away from keyboard"
-msgstr ""
+msgstr "away from keyboard(キーボードから離れている)"
 
 #: ../../T/talk-mode.rst:133
 msgid "b4"
-msgstr ""
+msgstr "b4"
 
 #: ../../T/talk-mode.rst:134
 msgid "before"
-msgstr ""
+msgstr "before(〜の前)"
 
 #: ../../T/talk-mode.rst:135
 msgid "CU l8tr"
-msgstr ""
+msgstr "CU l8tr"
 
 #: ../../T/talk-mode.rst:137
 msgid "MORF"
-msgstr ""
+msgstr "MORF"
 
 #: ../../T/talk-mode.rst:138
 msgid "male or female?"
-msgstr ""
+msgstr "male or female?(男か女か?)"
 
 #: ../../T/talk-mode.rst:139
 msgid "TTFN"
-msgstr ""
+msgstr "TTFN"
 
 #: ../../T/talk-mode.rst:140
 msgid "ta-ta for now"
-msgstr ""
+msgstr "ta-ta for now(とりあえずさようなら)"
 
 #: ../../T/talk-mode.rst:141
 msgid "TTYL"
-msgstr ""
+msgstr "TTYL"
 
 #: ../../T/talk-mode.rst:142
 msgid "talk to you later"
-msgstr ""
+msgstr "talk to you later(また後で話そう)"
 
 #: ../../T/talk-mode.rst:143
 msgid "OIC"
-msgstr ""
+msgstr "OIC"
 
 #: ../../T/talk-mode.rst:144
 msgid "oh, I see"
-msgstr ""
+msgstr "oh, I see(ああ、なるほど)"
 
 #: ../../T/talk-mode.rst:145
 msgid "rehi"
-msgstr ""
+msgstr "rehi"
 
 #: ../../T/talk-mode.rst:146
 msgid "hello again"
-msgstr ""
+msgstr "hello again(また、こんにちは)"
 
 #: ../../T/talk-mode.rst:148
 msgid ""
-"Most of these are not used at universities or in the Unix world, though "
-"ROTF and TTFN have gained some currency there and IMHO is common; "
-"conversely, most of the people who know these are unfamiliar with FOO?, "
-"BCNU, HELLOP, :ref:`NIL`\\, and :ref:`T`\\."
+"Most of these are not used at universities or in the Unix world, though ROTF"
+" and TTFN have gained some currency there and IMHO is common; conversely, "
+"most of the people who know these are unfamiliar with FOO?, BCNU, HELLOP, "
+":ref:`NIL`\\, and :ref:`T`\\."
 msgstr ""
+"これらのほとんどは大学やUnixの世界では使われないが、ROTFとTTFNはそこでもいくらか通用するようになっており、IMHOは一般的である。逆に、これらを知る人々のほとんどはFOO?、BCNU、HELLOP、\\"
+" :ref:`NIL`\\ 、\\ :ref:`T`\\ になじみがない。"
 
 #: ../../T/talk-mode.rst:150
 msgid ""
-"The :ref:`MUD` community uses a mixture of Usenet/Internet emoticons, a "
-"few of the more natural of the old-style talk-mode abbrevs, and some of "
-"the ‘social’ list above; specifically, MUD respondents report use of BBL,"
-" BRB, LOL, b4, BTW, WTF, TTFN, and WTH. The use of rehi is also common; "
-"in fact, mudders are fond of re- compounds and will frequently rehug or "
-"rebonk (see :ref:`bonk-oif`\\) people. The word re by itself is taken as "
-"‘regreet’. In general, though, MUDders express a preference for typing "
-"things out in full rather than using abbreviations; this may be due to "
-"the relative youth of the MUD cultures, which tend to include many touch "
-"typists and to assume high-speed links. The following uses specific to "
-"MUDs are reported:"
+"The :ref:`MUD` community uses a mixture of Usenet/Internet emoticons, a few "
+"of the more natural of the old-style talk-mode abbrevs, and some of the "
+"‘social’ list above; specifically, MUD respondents report use of BBL, BRB, "
+"LOL, b4, BTW, WTF, TTFN, and WTH. The use of rehi is also common; in fact, "
+"mudders are fond of re- compounds and will frequently rehug or rebonk (see "
+":ref:`bonk-oif`\\) people. The word re by itself is taken as ‘regreet’. In "
+"general, though, MUDders express a preference for typing things out in full "
+"rather than using abbreviations; this may be due to the relative youth of "
+"the MUD cultures, which tend to include many touch typists and to assume "
+"high-speed links. The following uses specific to MUDs are reported:"
 msgstr ""
+"\\ :ref:`MUD`\\ コミュニティは、Usenet/Internetの顔文字、旧式のtalk "
+"mode略語のうちより自然なもののいくつか、そして上記の‘社交的な’リストのいくつかを混ぜて使う。具体的には、MUDの回答者はBBL、BRB、LOL、b4、BTW、WTF、TTFN、WTHの使用を報告している。rehiの使用も一般的である。実際、mudderはre-"
+"の複合語を好み、しばしば人を再びrehug(再抱擁)したりrebonk(\\ :ref:`bonk-oif`\\ "
+"参照)したりする。re単独では‘regreet’(再挨拶)と受け取られる。だが一般に、MUDderは略語を使うより全部を打ち出すことを好む。これはMUD文化が比較的若く、タッチタイピストを多く含み、高速リンクを前提とする傾向があるためかもしれない。MUDに特有の以下の用法が報告されている。"
 
 #: ../../T/talk-mode.rst:158
 msgid "CU l8er"
-msgstr ""
+msgstr "CU l8er"
 
 #: ../../T/talk-mode.rst:159
 msgid "see you later (mutant of :code:`CU l8tr`\\)"
-msgstr ""
+msgstr "see you later(また後で。\\ :code:`CU l8tr`\\ の変異)"
 
 #: ../../T/talk-mode.rst:160
 msgid "FOAD"
-msgstr ""
+msgstr "FOAD"
 
 #: ../../T/talk-mode.rst:161
 msgid "fuck off and die (use of this is generally OTT)"
-msgstr ""
+msgstr "fuck off and die(失せて死ね。これの使用は一般にOTTである)"
 
 #: ../../T/talk-mode.rst:162
 msgid "OTT"
-msgstr ""
+msgstr "OTT"
 
 #: ../../T/talk-mode.rst:163
 msgid "over the top (excessive, uncalled for)"
-msgstr ""
+msgstr "over the top(度を越している。過剰で、不必要)"
 
 #: ../../T/talk-mode.rst:164
 msgid "ppl"
-msgstr ""
+msgstr "ppl"
 
 #: ../../T/talk-mode.rst:165
 msgid "abbrev for \"people\""
-msgstr ""
+msgstr "\"people\"の略語"
 
 #: ../../T/talk-mode.rst:166
 msgid "THX"
-msgstr ""
+msgstr "THX"
 
 #: ../../T/talk-mode.rst:167
 msgid ""
-"thanks (mutant of :code:`TNX`\\; clearly this comes in batches of 1138 "
-"(the Lucasian K))."
-msgstr ""
+"thanks (mutant of :code:`TNX`\\; clearly this comes in batches of 1138 (the "
+"Lucasian K))."
+msgstr "thanks(ありがとう。\\ :code:`TNX`\\ の変異。明らかにこれは1138個(LucasのK)単位でやって来る)。"
 
 #: ../../T/talk-mode.rst:168
 msgid "UOK?"
-msgstr ""
+msgstr "UOK?"
 
 #: ../../T/talk-mode.rst:169
 msgid "are you OK?"
-msgstr ""
+msgstr "are you OK?(大丈夫か?)"
 
 #: ../../T/talk-mode.rst:171
 msgid ""
-"Some :ref:`B1FF`\\isms (notably the variant spelling :code:`d00d`\\) "
-"appear to be passing into wider use among some subgroups of MUDders."
+"Some :ref:`B1FF`\\isms (notably the variant spelling :code:`d00d`\\) appear "
+"to be passing into wider use among some subgroups of MUDders."
 msgstr ""
+"一部の\\ :ref:`B1FF`\\ 風表現(特に変種綴り\\ :code:`d00d`\\ "
+")は、MUDderの一部のサブグループの間でより広く使われるようになりつつあるようだ。"
 
 #: ../../T/talk-mode.rst:173
 msgid ""
-"One final note on talk mode style: neophytes, when in talk mode, often "
-"seem to think they must produce letter-perfect prose because they are "
-"typing rather than speaking. This is not the best approach. It can be "
-"very frustrating to wait while your partner pauses to think of a word, or"
-" repeatedly makes the same spelling error and backs up to fix it. It is "
-"usually best just to leave typographical errors behind and plunge "
-"forward, unless severe confusion may result; in that case it is often "
-"fastest just to type \"xxx\" and start over from before the mistake."
+"One final note on talk mode style: neophytes, when in talk mode, often seem "
+"to think they must produce letter-perfect prose because they are typing "
+"rather than speaking. This is not the best approach. It can be very "
+"frustrating to wait while your partner pauses to think of a word, or "
+"repeatedly makes the same spelling error and backs up to fix it. It is "
+"usually best just to leave typographical errors behind and plunge forward, "
+"unless severe confusion may result; in that case it is often fastest just to"
+" type \"xxx\" and start over from before the mistake."
 msgstr ""
+"talk modeの文体に関する最後の注記:初心者はtalk "
+"modeにいるとき、話すのではなくタイプしているからという理由で、完璧な散文を生み出さねばならないと思い込むことがよくあるようだ。これは最善のやり方ではない。相手が言葉を考えるために間を置いたり、同じ綴り間違いを繰り返してそれを直すために戻ったりするのを待つのは非常にもどかしいことがある。たいていは、深刻な混乱が生じる恐れがある場合を除き、誤字はそのまま残して突き進むのが一番である。混乱の恐れがある場合は、\"xxx\"とタイプして間違いの前からやり直すのが最も速いことが多い。"
 
 #: ../../T/talk-mode.rst:178
 msgid "See also :ref:`hakspek`\\, :ref:`emoticon`\\."
-msgstr ""
-
+msgstr "\\ :ref:`hakspek`\\ 、\\ :ref:`emoticon`\\ も参照。"

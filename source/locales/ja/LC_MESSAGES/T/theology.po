@@ -8,37 +8,39 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/theology.rst:5
 msgid "theology"
-msgstr ""
+msgstr "theology"
 
 #: ../../T/theology.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../T/theology.rst:10
 msgid "Ironically or humorously used to refer to :ref:`religious-issues`\\."
-msgstr ""
+msgstr "\\ :ref:`religious-issues`\\ を指すのに皮肉ないしユーモラスに使われる。"
 
 #: ../../T/theology.rst:13
 msgid ""
-"Technical fine points of an abstruse nature, esp. those where the "
-"resolution is of theoretical interest but is relatively :ref:`marginal` "
-"with respect to actual use of a design or system. Used esp. around "
-"software issues with a heavy AI or language-design component, such as the"
-" smart-data vs. smart-programs dispute in AI."
+"Technical fine points of an abstruse nature, esp. those where the resolution"
+" is of theoretical interest but is relatively :ref:`marginal` with respect "
+"to actual use of a design or system. Used esp. around software issues with a"
+" heavy AI or language-design component, such as the smart-data vs. smart-"
+"programs dispute in AI."
 msgstr ""
-
+"難解な性質を持つ技術的な細かい点。特に、その解決が理論的には興味深いが、設計やシステムの実際の使用に関しては比較的\\ "
+":ref:`marginal`\\ "
+"なもの。特に、AIにおけるスマートデータ対スマートプログラムの論争のような、重いAIや言語設計の要素を持つソフトウェアの問題をめぐって使われる。"

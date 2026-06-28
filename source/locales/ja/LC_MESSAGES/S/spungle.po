@@ -8,32 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/spungle.rst:5
 msgid "spungle"
-msgstr ""
+msgstr "spungle"
 
 #: ../../S/spungle.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/spungle.rst:9
 msgid ""
-"[Durham, UK; portmanteau, :ref:`spangle` + bungle] A :ref:`spangle` of no"
-" actual usefulness. Example: Roger the Bent Paperclip in Microsoft Word "
-"'98. A spungle's only virtue is that it looks pretty, unless you find "
-"creeping featurism ugly."
+"[Durham, UK; portmanteau, :ref:`spangle` + bungle] A :ref:`spangle` of no "
+"actual usefulness. Example: Roger the Bent Paperclip in Microsoft Word '98. "
+"A spungle's only virtue is that it looks pretty, unless you find creeping "
+"featurism ugly."
 msgstr ""
-
+"[英国ダラム; かばん語、\\ :ref:`spangle`\\ + bungle] 実際には何の役にも立たない\\ :ref:`spangle`\\ "
+"。例: Microsoft Word '98のRoger the Bent "
+"Paperclip(曲がったクリップのRoger)。spungleの唯一の取り柄は、creeping "
+"featurismを醜いと感じないなら、見た目がきれいなことだ。"

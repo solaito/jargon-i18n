@@ -8,34 +8,38 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/social-science-number.rst:5
 msgid "social science number"
-msgstr ""
+msgstr "social science number"
 
 #: ../../S/social-science-number.rst:7
 msgid "n\\., //"
-msgstr ""
+msgstr "名詞, //"
 
 #: ../../S/social-science-number.rst:9
 msgid ""
 "[IBM] A statistic that is :ref:`content-free`\\, or nearly so. A measure "
 "derived via methods of questionable validity from data of a dubious and "
-"vague nature. Predictively, having a social science number in hand is "
-"seldom much better than nothing, and can be considerably worse. As a "
-"rule, :ref:`management` loves them. See also :ref:`numbers`\\, :ref"
-":`math-out`\\, :ref:`pretty-pictures`\\."
+"vague nature. Predictively, having a social science number in hand is seldom"
+" much better than nothing, and can be considerably worse. As a rule, "
+":ref:`management` loves them. See also :ref:`numbers`\\, :ref:`math-out`\\, "
+":ref:`pretty-pictures`\\."
 msgstr ""
-
+"[IBM] :ref:`content-free`\\ "
+"な、あるいはほぼそうな統計値。疑わしく曖昧な性質のデータから、妥当性の疑わしい方法によって導かれた尺度。予測の上では、social science "
+"numberを手にしていることは、何もないことよりましであることはめったになく、かなり悪いこともありうる。概して、\\ "
+":ref:`management`\\ はそれらが大好きだ。\\ :ref:`numbers`\\ 、\\ :ref:`math-out`\\ 、\\ "
+":ref:`pretty-pictures`\\ も参照。"

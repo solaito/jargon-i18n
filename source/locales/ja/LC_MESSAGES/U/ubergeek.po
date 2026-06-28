@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../U/ubergeek.rst:5
 msgid "ubergeek"
-msgstr ""
+msgstr "ubergeek"
 
 #: ../../U/ubergeek.rst:7
 msgid "n\\., /oo´ber·geek/"
-msgstr ""
+msgstr "名詞, /oo´ber·geek/"
 
 #: ../../U/ubergeek.rst:9
 msgid ""
 "[common; often spelled with initial ü; from German über + :ref:`geek`\\] "
 "Almost synonymous with :ref:`demigod`\\; used as a compliment of someone "
-"regarded as a paragon of :ref:`geek` achievement and virtue. Has "
-"partially replaced earlier :ref:`demigod`\\."
+"regarded as a paragon of :ref:`geek` achievement and virtue. Has partially "
+"replaced earlier :ref:`demigod`\\."
 msgstr ""
-
+"[一般的。しばしば頭文字をüと綴る。ドイツ語のüber + \\ :ref:`geek`\\ から] \\ :ref:`demigod`\\ "
+"とほぼ同義。\\ :ref:`geek`\\ の達成と美徳の鑑と見なされる者への賛辞として使われる。以前の\\ :ref:`demigod`\\ "
+"に部分的に取って代わった。"

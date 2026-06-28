@@ -8,36 +8,38 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/toad.rst:5
 msgid "toad"
-msgstr ""
+msgstr "toad"
 
 #: ../../T/toad.rst:7
 msgid "vt\\."
-msgstr ""
+msgstr "他動詞"
 
 #: ../../T/toad.rst:10
 msgid "Notionally, to change a :ref:`MUD` player into a toad."
-msgstr ""
+msgstr "観念的には、\\ :ref:`MUD`\\ のプレイヤーをヒキガエルに変えること。"
 
 #: ../../T/toad.rst:13
 msgid ""
 "To permanently and totally exile a player from the MUD. A very serious "
-"action, which can only be done by a MUD :ref:`wizard`\\; often involves a"
-" lot of debate among the other characters first. See also :ref:`frog`\\, "
+"action, which can only be done by a MUD :ref:`wizard`\\; often involves a "
+"lot of debate among the other characters first. See also :ref:`frog`\\, "
 ":ref:`FOD`\\."
 msgstr ""
-
+"プレイヤーを永久に完全にMUDから追放すること。MUDの\\ :ref:`wizard`\\ "
+"だけが行える非常に重大な行為で、しばしばまず他のキャラクターたちの間で多くの議論を伴う。\\ :ref:`frog`\\ 、\\ "
+":ref:`FOD`\\ も参照。"

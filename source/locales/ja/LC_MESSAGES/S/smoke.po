@@ -8,38 +8,38 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/smoke.rst:5
 msgid "smoke"
-msgstr ""
+msgstr "smoke"
 
 #: ../../S/smoke.rst:7
 msgid "vi\\."
-msgstr ""
+msgstr "自動詞"
 
 #: ../../S/smoke.rst:10
 msgid ""
-"To :ref:`crash` or blow up, usually spectacularly. \"The new version "
-"smoked, just like the last one.\" Used for both hardware (where it often "
-"describes an actual physical event), and software (where it's merely "
-"colorful)."
+"To :ref:`crash` or blow up, usually spectacularly. \"The new version smoked,"
+" just like the last one.\" Used for both hardware (where it often describes "
+"an actual physical event), and software (where it's merely colorful)."
 msgstr ""
+":ref:`crash`\\ "
+"するか、たいてい派手に爆発すること。「新しいバージョンは、前のと同じようにsmokeした。」ハードウェア(しばしば実際の物理的な出来事を表す)とソフトウェア(単に色彩豊かなだけ)の両方に使われる。"
 
 #: ../../S/smoke.rst:15
 msgid ""
-"[from automotive slang] To be conspicuously fast. \"That processor really"
-" smokes.\" Compare :ref:`magic-smoke`\\."
-msgstr ""
-
+"[from automotive slang] To be conspicuously fast. \"That processor really "
+"smokes.\" Compare :ref:`magic-smoke`\\."
+msgstr "[自動車の俗語から] 目立って速いこと。「あのプロセッサは本当にsmokeする。」\\ :ref:`magic-smoke`\\ と比較せよ。"

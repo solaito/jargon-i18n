@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/source.rst:5
 msgid "source"
-msgstr ""
+msgstr "source"
 
 #: ../../S/source.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/source.rst:9
 msgid ""
-"[very common] In reference to software, source is invariably shorthand "
-"for ‘source code’, the preferred human-readable and human-modifiable form"
-" of the program. This is as opposed to object code, the derived binary "
-"executable form of a program. This shorthand readily takes derivative "
-"forms; one may speak of \"the sources of a system\" or of \"having "
-"source\"."
+"[very common] In reference to software, source is invariably shorthand for "
+"‘source code’, the preferred human-readable and human-modifiable form of the"
+" program. This is as opposed to object code, the derived binary executable "
+"form of a program. This shorthand readily takes derivative forms; one may "
+"speak of \"the sources of a system\" or of \"having source\"."
 msgstr ""
-
+"[非常に一般的] ソフトウェアに関して、sourceは必ず‘source "
+"code(ソースコード)’、すなわちプログラムの、人間が読みやすく人間が改変しやすい好ましい形式の略である。これは、プログラムの派生したバイナリ実行形式であるobject"
+" "
+"code(オブジェクトコード)と対比される。この略語は派生形を容易にとる。「あるシステムのsource」とか「sourceを持っている」のように言える。"

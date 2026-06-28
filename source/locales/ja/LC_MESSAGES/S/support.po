@@ -8,34 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/support.rst:5
 msgid "support"
-msgstr ""
+msgstr "support"
 
 #: ../../S/support.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/support.rst:9
 msgid ""
 "After-sale handholding; something many software vendors promise but few "
-"deliver. To hackers, most support people are useless — because by the "
-"time a hacker calls support he or she will usually know the software and "
-"the relevant manuals better than the support people (sadly, this is *not*"
-" a joke or exaggeration). A hacker's idea of ‘support’ is a "
-"*têete-à-têete* with the software's designer."
+"deliver. To hackers, most support people are useless — because by the time a"
+" hacker calls support he or she will usually know the software and the "
+"relevant manuals better than the support people (sadly, this is *not* a joke"
+" or exaggeration). A hacker's idea of ‘support’ is a *têete-à-têete* with "
+"the software's designer."
 msgstr ""
-
+"販売後の手取り足取りの世話。多くのソフトウェアベンダーが約束するが、果たす者はほとんどいないもの。ハッカーにとって、ほとんどのサポート担当者は役に立たない——ハッカーがサポートに電話をかける頃には、たいてい彼や彼女は、サポート担当者よりもソフトウェアと関連マニュアルをよく知っているからだ(悲しいことに、これは冗談でも誇張でも\\"
+" *ない*\\ )。ハッカーにとっての‘サポート’の理想は、ソフトウェアの設計者との一対一の会話だ。"

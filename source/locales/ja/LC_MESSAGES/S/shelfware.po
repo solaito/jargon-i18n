@@ -8,32 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/shelfware.rst:5
 msgid "shelfware"
-msgstr ""
+msgstr "shelfware"
 
 #: ../../S/shelfware.rst:7
 msgid "/shelf´weir/, n\\."
-msgstr ""
+msgstr "/shelf´weir/, 名詞"
 
 #: ../../S/shelfware.rst:9
 msgid ""
-"Software purchased on a whim (by an individual user) or in accordance "
-"with policy (by a corporation or government agency), but not actually "
-"required for any particular use. Therefore, it often ends up on some "
-"shelf."
+"Software purchased on a whim (by an individual user) or in accordance with "
+"policy (by a corporation or government agency), but not actually required "
+"for any particular use. Therefore, it often ends up on some shelf."
 msgstr ""
-
+"(個人ユーザーが)気まぐれで、または(企業や政府機関が)方針に従って購入したが、実際には特定の用途に必要とされないソフトウェア。そのため、しばしばどこかの棚の上に行き着く。"

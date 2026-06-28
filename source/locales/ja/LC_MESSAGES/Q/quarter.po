@@ -8,34 +8,37 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../Q/quarter.rst:5
 msgid "quarter"
-msgstr ""
+msgstr "quarter"
 
 #: ../../Q/quarter.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../Q/quarter.rst:9
 msgid ""
 "Two bits. This in turn comes from the ‘pieces of eight’ famed in pirate "
 "movies — Spanish silver crowns that could be broken into eight pie-slice-"
-"shaped ‘bits’ to make change. Early in American history the Spanish coin "
-"was considered equal to a dollar, so each of these ‘bits’ was considered "
-"worth 12.5 cents. Syn. :ref:`tayste`\\, :ref:`crumb`\\, :ref:`quad`\\. "
-"Usage: rare. General discussion of such terms is under :ref:`nybble`\\."
+"shaped ‘bits’ to make change. Early in American history the Spanish coin was"
+" considered equal to a dollar, so each of these ‘bits’ was considered worth "
+"12.5 cents. Syn. :ref:`tayste`\\, :ref:`crumb`\\, :ref:`quad`\\. Usage: "
+"rare. General discussion of such terms is under :ref:`nybble`\\."
 msgstr ""
-
+"2ビット。これはさらに、海賊映画で有名な‘pieces of "
+"eight’に由来する——8枚のパイ片状の‘bits’に割って釣り銭にできたスペインの銀貨だ。アメリカ史の初期には、このスペイン硬貨は1ドルに等しいとみなされたので、これらの‘bits’のそれぞれは12.5セントの価値があるとされた。\\"
+" :ref:`tayste`\\ 、\\ :ref:`crumb`\\ 、\\ :ref:`quad`\\ の同義語。用法: "
+"まれ。こうした用語の一般的な議論は\\ :ref:`nybble`\\ の下にある。"
