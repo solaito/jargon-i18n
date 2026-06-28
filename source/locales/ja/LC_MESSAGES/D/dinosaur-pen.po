@@ -8,31 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/dinosaur-pen.rst:5
 msgid "dinosaur pen"
-msgstr ""
+msgstr "dinosaur pen"
 
 #: ../../D/dinosaur-pen.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../D/dinosaur-pen.rst:9
 msgid ""
-"A traditional :ref:`mainframe` computer room complete with raised "
-"flooring, special power, its own ultra-heavy-duty air conditioning, and a"
-" side order of Halon fire extinguishers. See :ref:`boa`\\."
+"A traditional :ref:`mainframe` computer room complete with raised flooring, "
+"special power, its own ultra-heavy-duty air conditioning, and a side order "
+"of Halon fire extinguishers. See :ref:`boa`\\."
 msgstr ""
-
+"二重床、特別な電源、独自の超強力な空調、そして添え物のハロン消火器を完備した、伝統的な\\ :ref:`mainframe`\\ "
+"のコンピューター室。\\ :ref:`boa`\\ を参照。"

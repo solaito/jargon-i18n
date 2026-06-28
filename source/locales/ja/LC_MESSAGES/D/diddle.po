@@ -8,36 +8,38 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/diddle.rst:5
 msgid "diddle"
-msgstr ""
+msgstr "diddle"
 
 #: ../../D/diddle.rst:7
 msgid ""
 "vt\\. To work with or modify in a not-particularly-serious manner. \"I "
-"diddled a copy of :ref:`ADVENT` so it didn't double-space all the time.\""
-" \"Let's diddle this piece of code and see if the problem goes away.\" "
-"See :ref:`tweak` and :ref:`twiddle`\\."
+"diddled a copy of :ref:`ADVENT` so it didn't double-space all the time.\" "
+"\"Let's diddle this piece of code and see if the problem goes away.\" See "
+":ref:`tweak` and :ref:`twiddle`\\."
 msgstr ""
+"他動詞。あまり真剣でない仕方で、何かをいじったり修正したりすること。「\\ :ref:`ADVENT`\\ "
+"のコピーをdiddleして、いつもダブルスペースにならないようにした。」「このコードをdiddleして、問題が消えるか見てみよう。」\\ "
+":ref:`tweak`\\ や\\ :ref:`twiddle`\\ を参照。"
 
 #: ../../D/diddle.rst:13
 msgid "n\\. The action or result of diddling."
-msgstr ""
+msgstr "名詞。diddleする行為やその結果。"
 
 #: ../../D/diddle.rst:16
 msgid "See also :ref:`tweak`\\, :ref:`twiddle`\\, :ref:`frob`\\."
-msgstr ""
-
+msgstr "\\ :ref:`tweak`\\ 、\\ :ref:`twiddle`\\ 、\\ :ref:`frob`\\ も参照。"

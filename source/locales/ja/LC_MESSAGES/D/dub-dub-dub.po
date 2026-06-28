@@ -8,27 +8,28 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/dub-dub-dub.rst:5
 msgid "dub dub dub"
-msgstr ""
+msgstr "dub dub dub"
 
 #: ../../D/dub-dub-dub.rst:7
 msgid ""
-"[common] Spoken-only shorthand for the \"www\" (double-u double-u "
-"double-u) in many web host names. Nothing to do with the style of reggae "
-"music called ‘dub’."
+"[common] Spoken-only shorthand for the \"www\" (double-u double-u double-u) "
+"in many web host names. Nothing to do with the style of reggae music called "
+"‘dub’."
 msgstr ""
-
+"[一般的] 多くのウェブホスト名にある「www」(double-u double-u "
+"double-u)を表す、話し言葉のみの略。‘dub’と呼ばれるレゲエ音楽のスタイルとは何の関係もない。"

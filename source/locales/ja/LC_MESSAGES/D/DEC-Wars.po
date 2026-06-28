@@ -8,34 +8,37 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/DEC-Wars.rst:5
 msgid "DEC Wars"
-msgstr ""
+msgstr "DEC Wars"
 
 #: ../../D/DEC-Wars.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../D/DEC-Wars.rst:9
 msgid ""
-"A 1983 :ref:`Usenet` posting by Alan Hastings and Steve Tarr spoofing the"
-" *Star Wars* movies in hackish terms. Some years later, ESR (disappointed"
-" by Hastings and Tarr's failure to exploit a great premise more "
-"thoroughly) posted a 3-times-longer complete rewrite called `Unix WARS "
+"A 1983 :ref:`Usenet` posting by Alan Hastings and Steve Tarr spoofing the "
+"*Star Wars* movies in hackish terms. Some years later, ESR (disappointed by "
+"Hastings and Tarr's failure to exploit a great premise more thoroughly) "
+"posted a 3-times-longer complete rewrite called `Unix WARS "
 "<http://www.catb.org/~esr/writings/unixwars.html>`_; the two are often "
 "confused."
 msgstr ""
-
+"Alan HastingsとSteve Tarrによる1983年の\\ :ref:`Usenet`\\ への投稿で、映画『*Star "
+"Wars*』をハッカー風の用語でパロディにしたもの。数年後、ESR(HastingsとTarrがこの素晴らしい着想をもっと徹底的に活用しなかったことに失望して)は、3倍長い完全な書き直し版を\\"
+" `Unix WARS <http://www.catb.org/~esr/writings/unixwars.html>`_\\ "
+"として投稿した。両者はしばしば混同される。"

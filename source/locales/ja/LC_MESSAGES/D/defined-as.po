@@ -8,30 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/defined-as.rst:5
 msgid "defined as"
-msgstr ""
+msgstr "defined as"
 
 #: ../../D/defined-as.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../D/defined-as.rst:9
 msgid ""
-"In the role of, usually in an organization-chart sense. \"Pete is "
-"currently defined as bug prioritizer.\" Compare :ref:`logical`\\."
+"In the role of, usually in an organization-chart sense. \"Pete is currently "
+"defined as bug prioritizer.\" Compare :ref:`logical`\\."
 msgstr ""
-
+"～の役割で。通常は組織図の意味で。「Peteは現在bug prioritizer(バグ優先順位付け担当)として定義されている。」\\ "
+":ref:`logical`\\ と比較せよ。"

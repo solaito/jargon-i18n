@@ -8,62 +8,64 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/defenestration.rst:5
 msgid "defenestration"
-msgstr ""
+msgstr "defenestration"
 
 #: ../../D/defenestration.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../D/defenestration.rst:9
 msgid ""
-"[mythically from a traditional Bohemian assassination method, via SF "
-"fandom]"
-msgstr ""
+"[mythically from a traditional Bohemian assassination method, via SF fandom]"
+msgstr "[SFファンダムを経由した、伝説的にはボヘミアの伝統的な暗殺方法から]"
 
 #: ../../D/defenestration.rst:12
 msgid ""
-"Proper karmic retribution for an incorrigible punster. \"Oh, ghod, that "
-"was awful!\" \"Quick! Defenestrate him!\""
+"Proper karmic retribution for an incorrigible punster. \"Oh, ghod, that was "
+"awful!\" \"Quick! Defenestrate him!\""
 msgstr ""
+"矯正不能な駄洒落屋に対する適切なカルマ的報い。「ああ、なんてひどい駄洒落だ!」「早く! あいつをdefenestrateしろ(窓から放り出せ)!」"
 
 #: ../../D/defenestration.rst:18
 msgid ""
 "The act of completely removing Micro$oft Windows from a PC in favor of a "
 "better OS (typically Linux)."
-msgstr ""
+msgstr "より良いOS(通常はLinux)のために、PCからMicro$oft Windowsを完全に取り除く行為。"
 
 #: ../../D/defenestration.rst:21
 msgid ""
-"The act of discarding something under the assumption that it will improve"
-" matters. \"I don't have any disk space left.\" \"Well, why don't you "
+"The act of discarding something under the assumption that it will improve "
+"matters. \"I don't have any disk space left.\" \"Well, why don't you "
 "defenestrate that 100 megs worth of old core dumps?\""
 msgstr ""
+"事態を改善するだろうという想定のもとに、何かを捨てる行為。「ディスク容量がもう残っていないんだ。」「じゃあ、その100メガ分の古いコアダンプをdefenestrateしたらどうだ?」"
 
 #: ../../D/defenestration.rst:26
 msgid ""
 "Under a GUI, the act of dragging something out of a window (onto the "
 "screen). \"Next, defenestrate the MugWump icon.\""
-msgstr ""
+msgstr "GUIのもとで、何かをウィンドウから(画面上へ)ドラッグして引き出す行為。「次に、MugWumpアイコンをdefenestrateせよ。」"
 
 #: ../../D/defenestration.rst:30
 msgid ""
-"[obs.] The act of exiting a window system in order to get better response"
-" time from a full-screen program. This comes from the dictionary meaning "
-"of defenestrate, which is to throw something out a window."
+"[obs.] The act of exiting a window system in order to get better response "
+"time from a full-screen program. This comes from the dictionary meaning of "
+"defenestrate, which is to throw something out a window."
 msgstr ""
-
+"[廃語] "
+"フルスクリーンのプログラムからより良い応答時間を得るために、ウィンドウシステムを終了する行為。これはdefenestrateの辞書的な意味、すなわち何かを窓から放り投げることに由来する。"

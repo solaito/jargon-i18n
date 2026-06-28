@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/delint.rst:5
 msgid "delint"
-msgstr ""
+msgstr "delint"
 
 #: ../../D/delint.rst:7
 msgid "/dee·lint/, v\\. obs\\."
-msgstr ""
+msgstr "/dee·lint/, 動詞。廃語。"
 
 #: ../../D/delint.rst:10
 msgid ""
 "To modify code to remove problems detected when :ref:`lint`\\ing. "
-"Confusingly, this process is also referred to as linting code. This term "
-"is no longer in general use because ANSI C compilers typically issue "
-"compile-time warnings almost as detailed as lint warnings."
+"Confusingly, this process is also referred to as linting code. This term is "
+"no longer in general use because ANSI C compilers typically issue compile-"
+"time warnings almost as detailed as lint warnings."
 msgstr ""
-
+"\\ :ref:`lint`\\ をかけたときに検出された問題を取り除くようにコードを修正すること。紛らわしいことに、このプロセスもlinting "
+"code(コードをlintする)と呼ばれる。ANSI "
+"Cコンパイラは通常、lintの警告とほぼ同じくらい詳細なコンパイル時警告を出すので、この用語はもはや一般には使われていない。"

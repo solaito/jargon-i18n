@@ -8,33 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/dictionary-flame.rst:5
 msgid "dictionary flame"
-msgstr ""
+msgstr "dictionary flame"
 
 #: ../../D/dictionary-flame.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../D/dictionary-flame.rst:9
 msgid ""
-"[Usenet] An attempt to sidetrack a debate away from issues by insisting "
-"on meanings for key terms that presuppose a desired conclusion or smuggle"
-" in an implicit premise. A common tactic of people who prefer argument "
-"over definitions to disputes about reality. Compare :ref:`spelling-"
-"flame`\\."
+"[Usenet] An attempt to sidetrack a debate away from issues by insisting on "
+"meanings for key terms that presuppose a desired conclusion or smuggle in an"
+" implicit premise. A common tactic of people who prefer argument over "
+"definitions to disputes about reality. Compare :ref:`spelling-flame`\\."
 msgstr ""
-
+"[Usenet] "
+"望ましい結論を前提とするか暗黙の前提を密輸入するような、重要な用語の意味を主張することによって、議論を論点からそらそうとする試み。現実についての論争よりも定義についての議論を好む人々のよくある戦術。\\"
+" :ref:`spelling-flame`\\ と比較せよ。"

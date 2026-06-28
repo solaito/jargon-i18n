@@ -8,47 +8,53 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/diff.rst:5
 msgid "diff"
-msgstr ""
+msgstr "diff"
 
 #: ../../D/diff.rst:7
 msgid "/dif/, n\\."
-msgstr ""
+msgstr "/dif/, 名詞"
 
 #: ../../D/diff.rst:10
 msgid ""
-"A change listing, especially giving differences between (and additions "
-"to) source code or documents (the term is often used in the plural "
-"diffs). \"Send me your diffs for the Jargon File!\" Compare "
-":ref:`vdiff`\\."
+"A change listing, especially giving differences between (and additions to) "
+"source code or documents (the term is often used in the plural diffs). "
+"\"Send me your diffs for the Jargon File!\" Compare :ref:`vdiff`\\."
 msgstr ""
+"変更のリスト。特にソースコードや文書の間の差異(と追加)を示すもの(この用語はしばしば複数形のdiffsで使われる)。「Send me your "
+"diffs for the Jargon File!」(Jargon Fileの君のdiffを送ってくれ!)。\\ :ref:`vdiff`\\ "
+"と比較せよ。"
 
 #: ../../D/diff.rst:15
 msgid ""
 "Specifically, such a listing produced by the :manpage:`diff(1)` command, "
 "esp. when used as specification input to the :manpage:`patch(1)` utility "
-"(which can actually perform the modifications; see :ref:`patch`\\). This "
-"is a common method of distributing patches and source updates in the "
-"Unix/C world."
+"(which can actually perform the modifications; see :ref:`patch`\\). This is "
+"a common method of distributing patches and source updates in the Unix/C "
+"world."
 msgstr ""
+"具体的には、\\ :manpage:`diff(1)`\\ コマンドによって生成される、特に\\ :manpage:`patch(1)`\\ "
+"ユーティリティ(実際に変更を実行できる。\\ :ref:`patch`\\ "
+"を参照)への仕様入力として使われるときの、そのようなリスト。これはUnix/Cの世界でパッチやソース更新を配布するよくある方法である。"
 
 #: ../../D/diff.rst:19
 msgid ""
 "v\\. To compare (whether or not by use of automated tools on machine-"
 "readable files); see also :ref:`vdiff`\\, :ref:`mod`\\."
 msgstr ""
-
+"動詞。比較すること(機械可読ファイルに対して自動ツールを使うか否かを問わず)。\\ :ref:`vdiff`\\ 、\\ :ref:`mod`\\ "
+"も参照。"

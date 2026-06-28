@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/dahmum.rst:5
 msgid "dahmum"
-msgstr ""
+msgstr "dahmum"
 
 #: ../../D/dahmum.rst:7
 msgid "/dah´mum/, n\\."
-msgstr ""
+msgstr "/dah´mum/, 名詞"
 
 #: ../../D/dahmum.rst:9
 msgid ""
-"[Usenet] The material of which protracted :ref:`flame-war`\\s, especially"
-" those about operating systems, is composed. Homeomorphic to "
-":ref:`spam`\\. The term dahmum is derived from the name of a militant "
-":ref:`OS-2` advocate, and originated when an extensively cross-posted "
-"OS/2-versus- :ref:`Linux` debate was fed through :ref:`Dissociated-"
-"Press`\\."
+"[Usenet] The material of which protracted :ref:`flame-war`\\s, especially "
+"those about operating systems, is composed. Homeomorphic to :ref:`spam`\\. "
+"The term dahmum is derived from the name of a militant :ref:`OS-2` advocate,"
+" and originated when an extensively cross-posted OS/2-versus- :ref:`Linux` "
+"debate was fed through :ref:`Dissociated-Press`\\."
 msgstr ""
-
+"[Usenet] 長引く\\ :ref:`flame-war`\\ 、特にオペレーティングシステムを巡るものを構成する物質。\\ "
+":ref:`spam`\\ と同相(homeomorphic)である。dahmumという用語は、ある好戦的な\\ :ref:`OS-2`\\ "
+"擁護者の名前に由来し、広範囲にクロスポストされたOS/2対\\ :ref:`Linux`\\ の論争が\\ :ref:`Dissociated-"
+"Press`\\ に通されたときに生まれた。"

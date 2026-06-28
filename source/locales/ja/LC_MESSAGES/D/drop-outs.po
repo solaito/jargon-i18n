@@ -8,51 +8,55 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/drop-outs.rst:5
 msgid "drop-outs"
-msgstr ""
+msgstr "drop-outs"
 
 #: ../../D/drop-outs.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../D/drop-outs.rst:10
 msgid ""
-"A variety of power glitch (see :ref:`glitch`\\); momentary 0 voltage on "
-"the electrical mains."
-msgstr ""
+"A variety of power glitch (see :ref:`glitch`\\); momentary 0 voltage on the "
+"electrical mains."
+msgstr "電源グリッチの一種(\\ :ref:`glitch`\\ を参照)。商用電源での瞬間的な電圧0。"
 
 #: ../../D/drop-outs.rst:13
 msgid ""
 "Missing characters in typed input due to software malfunction or system "
-"saturation (one cause of such behavior under Unix when a bad connection "
-"to a modem swamps the processor with spurious character interrupts; see "
+"saturation (one cause of such behavior under Unix when a bad connection to a"
+" modem swamps the processor with spurious character interrupts; see "
 ":ref:`screaming-tty`\\)."
 msgstr ""
+"ソフトウェアの誤動作やシステムの飽和による、タイプ入力中の文字の欠落(Unixでこうした挙動が起こる一因は、モデムへの接続不良がプロセッサを偽の文字割り込みであふれさせることである。\\"
+" :ref:`screaming-tty`\\ を参照)。"
 
 #: ../../D/drop-outs.rst:16
 msgid ""
-"Mental glitches; used as a way of describing those occasions when the "
-"mind just seems to shut down for a couple of beats. See :ref:`glitch`\\, "
+"Mental glitches; used as a way of describing those occasions when the mind "
+"just seems to shut down for a couple of beats. See :ref:`glitch`\\, "
 ":ref:`fried`\\."
 msgstr ""
+"精神的なグリッチ。心がほんの数拍の間ただ停止してしまうように見える機会を表す言い方として使われる。\\ :ref:`glitch`\\ 、\\ "
+":ref:`fried`\\ を参照。"
 
 #: ../../D/drop-outs.rst:23
 msgid "A really serious case of  :ref:`drop-outs`\\."
-msgstr ""
+msgstr "\\ :ref:`drop-outs`\\ の本当に深刻なケース。"
 
 #: ../../D/drop-outs.rst:25
 msgid ""
@@ -60,4 +64,5 @@ msgid ""
 ":ref:`73-05-21<crunchly73-05-21>`\\.  The previous one is  "
 ":ref:`73-05-19<crunchly73-05-19>`\\.)"
 msgstr ""
-
+"(Crunchlyのサーガの次の漫画は\\ :ref:`73-05-21<crunchly73-05-21>`\\ である。前のものは\\ "
+":ref:`73-05-19<crunchly73-05-19>`\\ である。)"

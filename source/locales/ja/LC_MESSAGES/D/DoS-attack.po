@@ -8,34 +8,37 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/DoS-attack.rst:5
 msgid "DoS attack"
-msgstr ""
+msgstr "DoS attack"
 
 #: ../../D/DoS-attack.rst:7
 msgid "//"
-msgstr ""
+msgstr "//"
 
 #: ../../D/DoS-attack.rst:9
 msgid ""
 "[Usenet,common; note that it's unrelated to DOS as name of an operating "
-"system] Abbreviation for Denial-Of-Service attack. This abbreviation is "
-"most often used of attempts to shut down newsgroups with floods of "
-":ref:`spam`\\, or to flood network links with large amounts of traffic, "
-"or to flood network links with large amounts of traffic, often by abusing"
-" network broadcast addresses. Compare :ref:`slashdot-effect`\\."
+"system] Abbreviation for Denial-Of-Service attack. This abbreviation is most"
+" often used of attempts to shut down newsgroups with floods of "
+":ref:`spam`\\, or to flood network links with large amounts of traffic, or "
+"to flood network links with large amounts of traffic, often by abusing "
+"network broadcast addresses. Compare :ref:`slashdot-effect`\\."
 msgstr ""
-
+"[Usenet、一般的。オペレーティングシステムの名前としてのDOSとは無関係であることに注意] Denial-Of-"
+"Service攻撃(サービス拒否攻撃)の略。この略語は、大量の\\ :ref:`spam`\\ "
+"でニュースグループを停止させようとする試みや、大量のトラフィックでネットワークリンクをあふれさせる(しばしばネットワークのブロードキャストアドレスを悪用して)試みについて最もよく使われる。\\"
+" :ref:`slashdot-effect`\\ と比較せよ。"

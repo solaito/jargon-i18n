@@ -8,32 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/deckle.rst:5
 msgid "deckle"
-msgstr ""
+msgstr "deckle"
 
 #: ../../D/deckle.rst:7
 msgid "/dek´l/, n\\."
-msgstr ""
+msgstr "/dek´l/, 名詞"
 
 #: ../../D/deckle.rst:9
 msgid ""
 "[from dec- and :ref:`nybble`\\; the original spelling seems to have been "
-"decle] Two :ref:`nickle`\\s; 10 bits. Reported among developers for "
-"Mattel's GI 1600 (the Intellivision games processor), a chip with 16-bit-"
-"wide RAM but 10-bit-wide ROM. See :ref:`nybble` for other such terms."
+"decle] Two :ref:`nickle`\\s; 10 bits. Reported among developers for Mattel's"
+" GI 1600 (the Intellivision games processor), a chip with 16-bit-wide RAM "
+"but 10-bit-wide ROM. See :ref:`nybble` for other such terms."
 msgstr ""
-
+"[dec-と\\ :ref:`nybble`\\ から。元のつづりはdecleだったようである] 2つの\\ :ref:`nickle`\\ "
+"。10ビット。Mattel社のGI "
+"1600(Intellivisionゲームプロセッサ)、すなわち16ビット幅のRAMだが10ビット幅のROMを持つチップの開発者の間で報告された。こうした他の用語については\\"
+" :ref:`nybble`\\ を参照。"

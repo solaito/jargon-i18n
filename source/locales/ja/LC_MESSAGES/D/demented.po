@@ -8,34 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/demented.rst:5
 msgid "demented"
-msgstr ""
+msgstr "demented"
 
 #: ../../D/demented.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../D/demented.rst:9
 msgid ""
-"Yet another term of disgust used to describe a malfunctioning program. "
-"The connotation in this case is that the program works as designed, but "
-"the design is bad. Said, for example, of a program that generates large "
-"numbers of meaningless error messages, implying that it is on the brink "
-"of imminent collapse. Compare :ref:`wonky`\\, :ref:`brain-damaged`\\, "
-":ref:`bozotic`\\."
+"Yet another term of disgust used to describe a malfunctioning program. The "
+"connotation in this case is that the program works as designed, but the "
+"design is bad. Said, for example, of a program that generates large numbers "
+"of meaningless error messages, implying that it is on the brink of imminent "
+"collapse. Compare :ref:`wonky`\\, :ref:`brain-damaged`\\, :ref:`bozotic`\\."
 msgstr ""
-
+"誤動作するプログラムを表すのに使われる、また別の嫌悪の用語。この場合の含意は、プログラムは設計どおりに動作するが、その設計が悪い、というものである。たとえば、大量の無意味なエラーメッセージを生成するプログラムについて、それが今にも崩壊する寸前であることを暗示して言う。\\"
+" :ref:`wonky`\\ 、\\ :ref:`brain-damaged`\\ 、\\ :ref:`bozotic`\\ と比較せよ。"

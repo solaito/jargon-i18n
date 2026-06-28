@@ -8,45 +8,48 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/derf.rst:5
 msgid "derf"
-msgstr ""
+msgstr "derf"
 
 #: ../../D/derf.rst:7
 msgid "/derf/"
-msgstr ""
+msgstr "/derf/"
 
 #: ../../D/derf.rst:9
 msgid "[PLATO]"
-msgstr ""
+msgstr "[PLATO]"
 
 #: ../../D/derf.rst:11
 msgid ""
-"v\\. The act of exploiting a terminal which someone else has "
-"absentmindedly left logged on, to use that person's account, especially "
-"to post articles intended to make an ass of the victim you're "
-"impersonating. It has been alleged that the term originated as a reversal"
-" of the name of the gentleman who most usually left himself vulnerable to"
-" it, who also happened to be the head of the department that handled "
-"PLATO at the University of Delaware. Compare :ref:`baggy-pantsing`\\."
+"v\\. The act of exploiting a terminal which someone else has absentmindedly "
+"left logged on, to use that person's account, especially to post articles "
+"intended to make an ass of the victim you're impersonating. It has been "
+"alleged that the term originated as a reversal of the name of the gentleman "
+"who most usually left himself vulnerable to it, who also happened to be the "
+"head of the department that handled PLATO at the University of Delaware. "
+"Compare :ref:`baggy-pantsing`\\."
 msgstr ""
+"動詞。誰か他の人がうっかりログオンしたままにした端末を利用して、その人のアカウントを使う行為。特に、なりすました被害者を馬鹿にすることを意図した記事を投稿するため。この用語は、最もしばしばこの脆弱な状態に自分を置いた紳士の名前を逆にしたものに由来すると言われている。その人物は、たまたまDelaware大学でPLATOを扱う部門の長でもあった。\\"
+" :ref:`baggy-pantsing`\\ と比較せよ。"
 
 #: ../../D/derf.rst:16
 msgid ""
-"n\\. The victim of an act of derfing, sense 1. The most typical posting "
-"from a derfed account read \"I am a derf. \"."
+"n\\. The victim of an act of derfing, sense 1. The most typical posting from"
+" a derfed account read \"I am a derf. \"."
 msgstr ""
-
+"名詞。語義1のderfingの行為の被害者。derfされたアカウントから最も典型的に投稿されたのは「I am a "
+"derf.」(私はderfです)だった。"

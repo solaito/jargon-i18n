@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/dongle-disk.rst:5
 msgid "dongle-disk"
-msgstr ""
+msgstr "dongle-disk"
 
 #: ../../D/dongle-disk.rst:7
 msgid "/don´gl disk/, n\\."
-msgstr ""
+msgstr "/don´gl disk/, 名詞"
 
 #: ../../D/dongle-disk.rst:9
 msgid ""
-"A special floppy disk that is required in order to perform some task. "
-"Some contain special coding that allows an application to identify it "
-"uniquely, others *are* special code that does something that normally-"
-"resident programs don't or can't. (For example, AT&T's \"Unix PC\" would "
-"only come up in :ref:`root-mode` with a special boot disk.) Also called a"
-" key disk. See :ref:`dongle`\\."
+"A special floppy disk that is required in order to perform some task. Some "
+"contain special coding that allows an application to identify it uniquely, "
+"others *are* special code that does something that normally-resident "
+"programs don't or can't. (For example, AT&T's \"Unix PC\" would only come up"
+" in :ref:`root-mode` with a special boot disk.) Also called a key disk. See "
+":ref:`dongle`\\."
 msgstr ""
-
+"何らかのタスクを実行するために必要とされる特別なフロッピーディスク。アプリケーションがそれを一意に識別できるようにする特別なコードを含むものもあれば、通常常駐するプログラムが行わないまたは行えない何かをする特別なコードそのものであるものもある。(たとえば、AT&Tの「Unix"
+" PC」は、特別なブートディスクがないと\\ :ref:`root-mode`\\ で立ち上がらなかった。)key diskとも呼ばれる。\\ "
+":ref:`dongle`\\ を参照。"
