@@ -8,40 +8,40 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/fireworks-mode.rst:5
 msgid "fireworks mode"
-msgstr ""
+msgstr "fireworks mode"
 
 #: ../../F/fireworks-mode.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../F/fireworks-mode.rst:10
 msgid ""
 "The mode a machine is sometimes said to be in when it is performing a "
 ":ref:`crash-and-burn` operation."
-msgstr ""
+msgstr "マシンが\\ :ref:`crash-and-burn`\\ の動作をしているときに、そのモードにあると言われることがあるモード。"
 
 #: ../../F/fireworks-mode.rst:13
 msgid ""
 "There is (or was) a more specific meaning of this term in the Amiga "
 "community. The word fireworks described the effects of a particularly "
-"serious crash which prevented the video pointer(s) from getting reset at "
-"the start of the vertical blank. This caused the DAC to scroll through "
-"the entire contents of CHIP (video or video+CPU) memory. Since each bit "
-"plane would scroll separately this was quite a spectacular effect."
+"serious crash which prevented the video pointer(s) from getting reset at the"
+" start of the vertical blank. This caused the DAC to scroll through the "
+"entire contents of CHIP (video or video+CPU) memory. Since each bit plane "
+"would scroll separately this was quite a spectacular effect."
 msgstr ""
-
+"Amigaコミュニティでは、この用語にはより具体的な意味があった(あるいは今もある)。fireworksという語は、垂直帰線消去の開始時にビデオポインタがリセットされるのを妨げる、特に深刻なクラッシュの効果を表していた。これによりDACがCHIP(ビデオまたはビデオ+CPU)メモリの全内容をスクロールしてしまう。各ビットプレーンが別々にスクロールするので、これはかなり壮観な効果だった。"

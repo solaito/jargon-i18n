@@ -8,30 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/friode.rst:5
 msgid "friode"
-msgstr ""
+msgstr "friode"
 
 #: ../../F/friode.rst:7
 msgid "/fri:´ohd/, n\\."
-msgstr ""
+msgstr "/fri:´ohd/, 名詞"
 
 #: ../../F/friode.rst:9
 msgid ""
-"[TMRC] A reversible (that is, fused or blown) diode. Compare "
-":ref:`fried`\\; see also :ref:`SED`\\, :ref:`LER`\\."
+"[TMRC] A reversible (that is, fused or blown) diode. Compare :ref:`fried`\\;"
+" see also :ref:`SED`\\, :ref:`LER`\\."
 msgstr ""
-
+"[TMRC]可逆な(つまり、ヒューズが飛んだ、あるいは焼き切れた)ダイオード。\\ :ref:`fried`\\ と比較せよ。\\ "
+":ref:`SED`\\ 、\\ :ref:`LER`\\ も参照。"

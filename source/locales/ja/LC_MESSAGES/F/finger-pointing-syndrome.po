@@ -8,32 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/finger-pointing-syndrome.rst:5
 msgid "finger-pointing syndrome"
-msgstr ""
+msgstr "finger-pointing syndrome"
 
 #: ../../F/finger-pointing-syndrome.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../F/finger-pointing-syndrome.rst:9
 msgid ""
-"All-too-frequent result of bugs, esp. in new or experimental "
-"configurations. The hardware vendor points a finger at the software. The "
-"software vendor points a finger at the hardware. All the poor users get "
-"is the finger."
+"All-too-frequent result of bugs, esp. in new or experimental configurations."
+" The hardware vendor points a finger at the software. The software vendor "
+"points a finger at the hardware. All the poor users get is the finger."
 msgstr ""
-
+"バグの、あまりにもよくある結果。特に新しい、あるいは実験的な構成で起こる。ハードウェアベンダーはソフトウェアに指を向ける。ソフトウェアベンダーはハードウェアに指を向ける。気の毒なユーザーが得るのは中指だけだ。"

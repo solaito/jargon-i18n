@@ -8,41 +8,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/fish.rst:5
 msgid "fish"
-msgstr ""
+msgstr "fish"
 
 #: ../../F/fish.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../F/fish.rst:9
 msgid "[Adelaide University, Australia]"
-msgstr ""
+msgstr "[Adelaide University, Australia]"
 
 #: ../../F/fish.rst:12
 msgid ""
 "Another :ref:`metasyntactic-variable`\\. See :ref:`foo`\\. Derived "
-"originally from the Monty Python skit in the middle of *The Meaning of "
-"Life* entitled *Find the Fish*\\."
+"originally from the Monty Python skit in the middle of *The Meaning of Life*"
+" entitled *Find the Fish*\\."
 msgstr ""
+"もう一つの\\ :ref:`metasyntactic-variable`\\ 。\\ :ref:`foo`\\ を参照。元々は\\ *The "
+"Meaning of Life*\\ の中ほどの\\ *Find the Fish*\\ と題されたMonty Pythonのスキットに由来する。"
 
 #: ../../F/fish.rst:17
 msgid ""
-"A pun for microfiche. A microfiche file cabinet may be referred to as a "
-"fish tank."
-msgstr ""
-
+"A pun for microfiche. A microfiche file cabinet may be referred to as a fish"
+" tank."
+msgstr "microficheの語呂合わせ。マイクロフィッシュのファイルキャビネットはfish tank(魚の水槽)と呼ばれることがある。"
