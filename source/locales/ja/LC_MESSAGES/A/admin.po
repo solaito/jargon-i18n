@@ -8,34 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../A/admin.rst:5
 msgid "admin"
-msgstr ""
+msgstr "admin"
 
 #: ../../A/admin.rst:7
 msgid "/ad·min´/, n\\."
-msgstr ""
+msgstr "/ad·min´/, 名詞"
 
 #: ../../A/admin.rst:9
 msgid ""
-"Short for ‘administrator’; very commonly used in speech or on-line to "
-"refer to the systems person in charge on a computer. Common constructions"
-" on this include sysadmin and site admin (emphasizing the administrator's"
-" role as a site contact for email and news) or newsadmin (focusing "
-"specifically on news). Compare :ref:`postmaster`\\, :ref:`sysop`\\, :ref"
-":`system-mangler`\\."
+"Short for ‘administrator’; very commonly used in speech or on-line to refer "
+"to the systems person in charge on a computer. Common constructions on this "
+"include sysadmin and site admin (emphasizing the administrator's role as a "
+"site contact for email and news) or newsadmin (focusing specifically on "
+"news). Compare :ref:`postmaster`\\, :ref:`sysop`\\, :ref:`system-mangler`\\."
 msgstr ""
-
+"‘administrator(管理者)’の略。コンピューターの責任者であるシステム担当者を指して、話し言葉やオンラインでごく一般的に使われる。これに関するよくある複合語には、sysadminやsite"
+" admin(メールやニュースのサイト連絡先としての管理者の役割を強調)、newsadmin(特にニュースに焦点を当てたもの)がある。\\ "
+":ref:`postmaster`\\ 、\\ :ref:`sysop`\\ 、\\ :ref:`system-mangler`\\ と比較せよ。"
