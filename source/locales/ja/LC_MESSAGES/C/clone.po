@@ -8,67 +8,75 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/clone.rst:5
 msgid "clone"
-msgstr ""
+msgstr "clone"
 
 #: ../../C/clone.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../C/clone.rst:10
 msgid ""
-"An exact duplicate: \"Our product is a clone of their product.\" Implies "
-"a legal reimplementation from documentation or by reverse-engineering. "
-"Also connotes lower price."
+"An exact duplicate: \"Our product is a clone of their product.\" Implies a "
+"legal reimplementation from documentation or by reverse-engineering. Also "
+"connotes lower price."
 msgstr ""
+"正確な複製。「われわれの製品は彼らの製品のクローンだ」。文書からの、またはリバースエンジニアリングによる合法的な再実装を含意します。また、より低価格であることも含意します。"
 
 #: ../../C/clone.rst:15
 msgid "A shoddy, spurious copy: \"Their product is a clone of our product.\""
-msgstr ""
+msgstr "お粗末な、まがいものの複製。「彼らの製品はわれわれの製品のクローンだ」。"
 
 #: ../../C/clone.rst:18
 msgid ""
-"A blatant ripoff, most likely violating copyright, patent, or trade "
-"secret protections: \"Your product is a clone of my product.\" This use "
-"implies legal action is pending."
+"A blatant ripoff, most likely violating copyright, patent, or trade secret "
+"protections: \"Your product is a clone of my product.\" This use implies "
+"legal action is pending."
 msgstr ""
+"あからさまな盗用で、おそらく著作権、特許、または営業秘密の保護を侵害しているもの。「君の製品は私の製品のクローンだ」。この用法は法的措置が係属中であることを含意します。"
 
 #: ../../C/clone.rst:22
 msgid ""
-"[obs] PC clone: a PC-BUS/ISA/EISA/PCI-compatible 80x86-based "
-"microcomputer (this use is sometimes spelled klone or PClone). These "
-"invariably have much more bang for the buck than the IBM archetypes they "
-"resemble. This term fell out of use in the 1990s; the class of machines "
-"it describes are now simply PCs or Intel machines."
+"[obs] PC clone: a PC-BUS/ISA/EISA/PCI-compatible 80x86-based microcomputer "
+"(this use is sometimes spelled klone or PClone). These invariably have much "
+"more bang for the buck than the IBM archetypes they resemble. This term fell"
+" out of use in the 1990s; the class of machines it describes are now simply "
+"PCs or Intel machines."
 msgstr ""
+"[廃語] PC clone:PC-"
+"BUS/ISA/EISA/PCI互換の80x86ベースのマイクロコンピューター(この用法はkloneやPCloneと綴られることもあります)。これらは決まって、それらが似せたIBMの原型よりもはるかに価格性能比が高いです。この用語は1990年代に廃れました。それが表すマシンの種類は、今では単にPCやIntelマシンと呼ばれます。"
 
 #: ../../C/clone.rst:27
 msgid ""
 "[obs.] In the construction Unix clone: An OS designed to deliver a Unix-"
 "lookalike environment without Unix license fees, or with additional "
 "‘mission-critical’ features such as support for real-time programming. "
-":ref:`Linux` and the free BSDs killed off this product category and the "
-"term with it."
+":ref:`Linux` and the free BSDs killed off this product category and the term"
+" with it."
 msgstr ""
+"[廃語] Unix "
+"cloneという構文で:Unixライセンス料なしで、またはリアルタイムプログラミングのサポートといった追加の‘ミッションクリティカル’機能を備えて、Unix風の環境を提供するように設計されたOS。\\"
+" :ref:`Linux`\\ とフリーなBSD群が、この製品カテゴリーとそれにともなう用語を消し去りました。"
 
 #: ../../C/clone.rst:31
 msgid ""
-"v\\. To make an exact copy of something. \"Let me clone that\" might mean"
-" \"I want to borrow that paper so I can make a photocopy\" or \"Let me "
-"get a copy of that file before you :ref:`mung` it\"."
+"v\\. To make an exact copy of something. \"Let me clone that\" might mean "
+"\"I want to borrow that paper so I can make a photocopy\" or \"Let me get a "
+"copy of that file before you :ref:`mung` it\"."
 msgstr ""
-
+"動詞 何かの正確なコピーを作ること。「あれをcloneさせて」は、「あの紙をコピーできるように借りたい」または「君が\\ :ref:`mung`\\ "
+"する前にあのファイルのコピーを取らせて」を意味するかもしれません。"

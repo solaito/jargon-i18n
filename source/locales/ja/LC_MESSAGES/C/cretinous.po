@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/cretinous.rst:5
 msgid "cretinous"
-msgstr ""
+msgstr "cretinous"
 
 #: ../../C/cretinous.rst:7
 msgid "/kret´n·\\@s/, /kreet´n·\\@s/, adj\\."
-msgstr ""
+msgstr "/kret´n·\\@s/, /kreet´n·\\@s/, 形容詞"
 
 #: ../../C/cretinous.rst:9
 msgid ""
-"Wrong; stupid; non-functional; very poorly designed. Also used "
-"pejoratively of people. See :ref:`dread-high-bit-disease` for an example."
-" Approximate synonyms: :ref:`bletcherous`\\, :ref:`bagbiting`\\, "
-":ref:`losing`\\, :ref:`brain-damaged`\\."
+"Wrong; stupid; non-functional; very poorly designed. Also used pejoratively "
+"of people. See :ref:`dread-high-bit-disease` for an example. Approximate "
+"synonyms: :ref:`bletcherous`\\, :ref:`bagbiting`\\, :ref:`losing`\\, "
+":ref:`brain-damaged`\\."
 msgstr ""
-
+"間違っている。愚かである。機能しない。非常に設計が悪い。人に対して軽蔑的にも使われます。例については\\ :ref:`dread-high-bit-"
+"disease`\\ を参照。近い同義語:\\ :ref:`bletcherous`\\ 、\\ :ref:`bagbiting`\\ 、\\ "
+":ref:`losing`\\ 、\\ :ref:`brain-damaged`\\ 。"

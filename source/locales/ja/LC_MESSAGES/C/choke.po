@@ -8,32 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/choke.rst:5
 msgid "choke"
-msgstr ""
+msgstr "choke"
 
 #: ../../C/choke.rst:7
 msgid "v\\."
-msgstr ""
+msgstr "動詞"
 
 #: ../../C/choke.rst:9
 msgid ""
 "[common] To reject input, often ungracefully. \"NULs make System V's "
-":manpage:`lpr(1)` choke.\" \"I tried building an :ref:`EMACS` binary to "
-"use :ref:`X`\\, but :manpage:`cpp(1)` choked on all those "
-":code:`#define`\\s.\" See :ref:`barf`\\, :ref:`vi`\\."
+":manpage:`lpr(1)` choke.\" \"I tried building an :ref:`EMACS` binary to use "
+":ref:`X`\\, but :manpage:`cpp(1)` choked on all those :code:`#define`\\s.\" "
+"See :ref:`barf`\\, :ref:`vi`\\."
 msgstr ""
-
+"[一般的] 入力を、しばしばぶざまに拒否すること。「NUL文字でSystem Vの :manpage:`lpr(1)`\\ "
+"がchokeする(詰まる)」。「\\ :ref:`X`\\ を使う\\ :ref:`EMACS`\\ "
+"バイナリをビルドしようとしたが、:manpage:`cpp(1)`\\ があの\\ :code:`#define`\\ の山でchokeした」。\\ "
+":ref:`barf`\\ 、\\ :ref:`vi`\\ を参照。"

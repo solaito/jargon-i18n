@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/CIS.rst:5
 msgid "CI$"
-msgstr ""
+msgstr "CI$"
 
 #: ../../C/CIS.rst:7
 msgid "//, n\\."
-msgstr ""
+msgstr "//, 名詞"
 
 #: ../../C/CIS.rst:9
 msgid ""
-"Hackerism for ‘CIS’, CompuServe Information Service. The dollar sign "
-"refers to CompuServe's rather steep line charges. Often used in :ref"
-":`sig-block`\\s just before a CompuServe address. Syn. "
-":ref:`CompuServe`\\."
+"Hackerism for ‘CIS’, CompuServe Information Service. The dollar sign refers "
+"to CompuServe's rather steep line charges. Often used in :ref:`sig-block`\\s"
+" just before a CompuServe address. Syn. :ref:`CompuServe`\\."
 msgstr ""
-
+"‘CIS’、すなわちCompuServe Information "
+"Serviceのハッカー流の表記。ドル記号はCompuServeのかなり高額な回線料金を指しています。CompuServeのアドレスの直前に\\ "
+":ref:`sig-block`\\ でよく使われます。同義語は\\ :ref:`CompuServe`\\ 。"

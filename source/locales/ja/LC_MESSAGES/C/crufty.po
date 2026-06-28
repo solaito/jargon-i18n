@@ -8,65 +8,73 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/crufty.rst:5
 msgid "crufty"
-msgstr ""
+msgstr "crufty"
 
 #: ../../C/crufty.rst:7
 msgid "/kruhf´tee/, adj\\."
-msgstr ""
+msgstr "/kruhf´tee/, 形容詞"
 
 #: ../../C/crufty.rst:9
 msgid "[very common; origin unknown; poss. from ‘crusty’ or ‘cruddy’]"
-msgstr ""
+msgstr "[非常に一般的。由来不明。おそらく‘crusty(かさぶたのある)’または‘cruddy(汚い)’から]"
 
 #: ../../C/crufty.rst:13
 msgid ""
-"Poorly built, possibly over-complex. The :ref:`canonical` example is "
-"\"This is standard old crufty :ref:`DEC` software\". In fact, one "
-"fanciful theory of the origin of crufty holds that was originally a "
-"mutation of ‘crusty’ applied to DEC software so old that the ‘s’ "
-"characters were tall and skinny, looking more like ‘f’ characters."
+"Poorly built, possibly over-complex. The :ref:`canonical` example is \"This "
+"is standard old crufty :ref:`DEC` software\". In fact, one fanciful theory "
+"of the origin of crufty holds that was originally a mutation of ‘crusty’ "
+"applied to DEC software so old that the ‘s’ characters were tall and skinny,"
+" looking more like ‘f’ characters."
 msgstr ""
+"お粗末に作られた、おそらく過度に複雑な。\\ :ref:`canonical`\\ な例は「これは標準的な古いcrufty \\ "
+":ref:`DEC`\\ "
+"ソフトウェアだ」です。実際、cruftyの由来についての空想的な一説では、元々はあまりに古くて‘s’の文字が背が高く細くて‘f’の文字のように見えるDECソフトウェアに適用された‘crusty’の変異だったとされています。"
 
 #: ../../C/crufty.rst:18
 msgid ""
-"Unpleasant, especially to the touch, often with encrusted junk. Like "
-"spilled coffee smeared with peanut butter and catsup."
-msgstr ""
+"Unpleasant, especially to the touch, often with encrusted junk. Like spilled"
+" coffee smeared with peanut butter and catsup."
+msgstr "不快な、特に手触りが、しばしば固まったがらくたを伴う。ピーナッツバターとケチャップを塗りたくったこぼれたコーヒーのような。"
 
 #: ../../C/crufty.rst:22
 msgid "Generally unpleasant."
-msgstr ""
+msgstr "概して不快な。"
 
 #: ../../C/crufty.rst:25
 msgid ""
-"(sometimes spelled cruftie) n. A small crufty object (see :ref:`frob`\\);"
-" often one that doesn't fit well into the scheme of things. \"A LISP "
-"property list is a good place to store crufties (or, collectively, "
-":ref:`random` cruft).\""
+"(sometimes spelled cruftie) n. A small crufty object (see :ref:`frob`\\); "
+"often one that doesn't fit well into the scheme of things. \"A LISP property"
+" list is a good place to store crufties (or, collectively, :ref:`random` "
+"cruft).\""
 msgstr ""
+"(cruftieと綴られることもある) 名詞 小さなcruftな物体(\\ :ref:`frob`\\ "
+"を参照)。しばしば物事の仕組みにうまく収まらないもの。「LISPのプロパティリストはcrufty(または、まとめて\\ :ref:`random`\\ "
+"cruft)を保存するのに良い場所だ」。"
 
 #: ../../C/crufty.rst:28
 msgid ""
 "This term is one of the oldest in the jargon and no one is sure of its "
 "etymology, but it is suggestive that there is a Cruft Hall at Harvard "
-"University which is part of the old physics building; it's said to have "
-"been the physics department's radar lab during WWII. To this day (early "
-"1993) the windows appear to be full of random techno-junk. MIT or Lincoln"
-" Labs people may well have coined the term as a knock on the competition."
+"University which is part of the old physics building; it's said to have been"
+" the physics department's radar lab during WWII. To this day (early 1993) "
+"the windows appear to be full of random techno-junk. MIT or Lincoln Labs "
+"people may well have coined the term as a knock on the competition."
 msgstr ""
-
+"この用語はジャーゴンの中で最も古いものの一つで、その語源は誰も確かには知りませんが、ハーバード大学に古い物理学棟の一部であるCruft "
+"Hallがあるのは示唆的です。それは第二次世界大戦中に物理学科のレーダー研究室だったと言われています。今日(1993年初頭)に至るまで、その窓はランダムなテクノがらくたで一杯のようです。MITやLincoln"
+" Labsの人々が、競争相手への当てこすりとしてこの用語を造ったのかもしれません。"

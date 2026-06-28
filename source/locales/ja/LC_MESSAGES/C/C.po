@@ -8,34 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/C.rst:5
 msgid "C"
-msgstr ""
+msgstr "C"
 
 #: ../../C/C.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../C/C.rst:10
 msgid "The third letter of the English alphabet."
-msgstr ""
+msgstr "英語アルファベットの3番目の文字。"
 
 #: ../../C/C.rst:13
 msgid "ASCII 1000011."
-msgstr ""
+msgstr "ASCII 1000011。"
 
 #: ../../C/C.rst:16
 msgid ""
@@ -43,19 +43,23 @@ msgid ""
 "early 1970s and immediately used to reimplement :ref:`Unix`\\; so called "
 "because many features derived from an earlier compiler named ‘B’ in "
 "commemoration of *its* parent, BCPL. (BCPL was in turn descended from an "
-"earlier Algol-derived language, CPL.) Before Bjarne Stroustrup settled "
-"the question by designing :ref:`C-plus-plus`\\, there was a humorous "
-"debate over whether C's successor should be named ‘D’ or ‘P’. C became "
-"immensely popular outside Bell Labs after about 1980 and is now the "
-"dominant language in systems and microcomputer applications programming. "
-"C is often described, with a mixture of fondness and disdain varying "
-"according to the speaker, as \"a language that combines all the elegance "
-"and power of assembly language with all the readability and "
-"maintainability of assembly language\" See also :ref:`languages-of-"
-"choice`\\, :ref:`indent-style`\\."
+"earlier Algol-derived language, CPL.) Before Bjarne Stroustrup settled the "
+"question by designing :ref:`C-plus-plus`\\, there was a humorous debate over"
+" whether C's successor should be named ‘D’ or ‘P’. C became immensely "
+"popular outside Bell Labs after about 1980 and is now the dominant language "
+"in systems and microcomputer applications programming. C is often described,"
+" with a mixture of fondness and disdain varying according to the speaker, as"
+" \"a language that combines all the elegance and power of assembly language "
+"with all the readability and maintainability of assembly language\" See also"
+" :ref:`languages-of-choice`\\, :ref:`indent-style`\\."
 msgstr ""
+"1970年代初頭にDennis Ritchieによって設計され、すぐに\\ :ref:`Unix`\\ "
+"を再実装するのに使われたプログラミング言語の名前。‘B’という名前の以前のコンパイラに由来する機能が多かったことからこう名付けられました。Bは\\ "
+"*その*\\ 親であるBCPLを記念したものです。(BCPLはさらに以前のAlgol系言語CPLの子孫でした。)Bjarne Stroustrupが\\"
+" :ref:`C-plus-plus`\\ "
+"を設計してこの問題に決着をつけるまで、Cの後継は‘D’と‘P’のどちらと名付けるべきかという冗談めいた議論がありました。Cは1980年頃以降ベル研究所の外で爆発的に普及し、今やシステムおよびマイクロコンピューターのアプリケーションプログラミングにおける支配的な言語です。Cはしばしば、話者によって愛情と侮蔑の入り混じり具合を変えながら、「アセンブリ言語のあらゆる優雅さと力強さを、アセンブリ言語のあらゆる可読性と保守性と組み合わせた言語」と評されます。\\"
+" :ref:`languages-of-choice`\\ 、\\ :ref:`indent-style`\\ も参照。"
 
 #: ../../C/C.rst:24
 msgid "The Crunchly on the left sounds a little ANSI."
-msgstr ""
-
+msgstr "左のCrunchlyは少しANSIっぽく聞こえます。"

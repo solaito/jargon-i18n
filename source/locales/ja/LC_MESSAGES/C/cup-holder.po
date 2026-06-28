@@ -8,34 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/cup-holder.rst:5
 msgid "cup holder"
-msgstr ""
+msgstr "cup holder"
 
 #: ../../C/cup-holder.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../C/cup-holder.rst:9
 msgid ""
-"The tray of a CD-ROM drive, or by extension the CD drive itself. So "
-"called because of a common tech support legend about the idiot who called"
-" to complain that the cup holder on his computer broke. A joke program "
-"was once distributed around the net called \"cupholder.exe\", which when "
-"run simply extended the CD drive tray. The humor of this was of course "
-"lost on people whose drive had a slot or a caddy instead."
+"The tray of a CD-ROM drive, or by extension the CD drive itself. So called "
+"because of a common tech support legend about the idiot who called to "
+"complain that the cup holder on his computer broke. A joke program was once "
+"distributed around the net called \"cupholder.exe\", which when run simply "
+"extended the CD drive tray. The humor of this was of course lost on people "
+"whose drive had a slot or a caddy instead."
 msgstr ""
-
+"CD-"
+"ROMドライブのトレイ、または転じてCDドライブそのもの。コンピューターのカップホルダーが壊れたと文句を言ってきた間抜けについての、よくあるテクニカルサポートの伝説にちなんでこう呼ばれます。かつて「cupholder.exe」と呼ばれるジョークプログラムがネット上に出回り、それを実行すると単にCDドライブのトレイを伸ばすというものでした。このおかしさは、もちろん、ドライブがスロットやキャディを持つ人々には通じませんでした。"

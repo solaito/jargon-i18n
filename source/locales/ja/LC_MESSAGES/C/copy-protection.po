@@ -8,30 +8,29 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/copy-protection.rst:5
 msgid "copy protection"
-msgstr ""
+msgstr "copy protection"
 
 #: ../../C/copy-protection.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../C/copy-protection.rst:9
 msgid ""
-"A class of methods for preventing incompetent pirates from stealing "
-"software and legitimate customers from using it. Considered silly."
-msgstr ""
-
+"A class of methods for preventing incompetent pirates from stealing software"
+" and legitimate customers from using it. Considered silly."
+msgstr "無能な海賊版業者がソフトウェアを盗むのを、そして正規の顧客がそれを使うのを防ぐための方法の一群。おどけたものとみなされます。"

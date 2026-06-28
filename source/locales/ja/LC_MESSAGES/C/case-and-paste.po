@@ -8,51 +8,55 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/case-and-paste.rst:5
 msgid "case and paste"
-msgstr ""
+msgstr "case and paste"
 
 #: ../../C/case-and-paste.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../C/case-and-paste.rst:9
 msgid "[from ‘cut and paste’]"
-msgstr ""
+msgstr "[‘cut and paste(カットアンドペースト)’から]"
 
 #: ../../C/case-and-paste.rst:11
 msgid ""
-"The addition of a new :ref:`feature` to an existing system by selecting "
-"the code from an existing feature and pasting it in with minor changes. "
-"Common in telephony circles because most operations in a telephone switch"
-" are selected using :code:`case` statements. Leads to :ref:`software-"
-"bloat`\\."
+"The addition of a new :ref:`feature` to an existing system by selecting the "
+"code from an existing feature and pasting it in with minor changes. Common "
+"in telephony circles because most operations in a telephone switch are "
+"selected using :code:`case` statements. Leads to :ref:`software-bloat`\\."
 msgstr ""
+"既存のフィーチャーからコードを選択してわずかな変更を加えて貼り付けることで、既存のシステムに新しい\\ :ref:`feature`\\ "
+"を追加すること。電話交換機ではほとんどの操作が\\ :code:`case`\\ 文を使って選択されるため、電話技術の界隈で一般的です。\\ "
+":ref:`software-bloat`\\ につながります。"
 
 #: ../../C/case-and-paste.rst:15
 msgid ""
 "In some circles of EMACS users this is called ‘programming by Meta-W’, "
-"because Meta-W is the EMACS command for copying a block of text to a kill"
-" buffer in preparation to pasting it in elsewhere. The term is "
-"condescending, implying that the programmer is acting mindlessly rather "
-"than thinking carefully about what is required to integrate the code for "
-"two similar cases."
+"because Meta-W is the EMACS command for copying a block of text to a kill "
+"buffer in preparation to pasting it in elsewhere. The term is condescending,"
+" implying that the programmer is acting mindlessly rather than thinking "
+"carefully about what is required to integrate the code for two similar "
+"cases."
 msgstr ""
+"EMACSユーザーの一部の界隈では、これは‘Meta-Wによるプログラミング’と呼ばれます。Meta-"
+"Wは、テキストブロックを別の場所に貼り付ける準備としてキルバッファにコピーするEMACSのコマンドだからです。この用語は見下した響きを持ち、プログラマーが2つの類似ケースのコードを統合するのに必要なことを注意深く考えるのではなく、無思慮に行動していることを暗示します。"
 
 #: ../../C/case-and-paste.rst:18
-msgid "At :ref:`DEC` (now HP), this is sometimes called clone-and-hack coding."
-msgstr ""
-
+msgid ""
+"At :ref:`DEC` (now HP), this is sometimes called clone-and-hack coding."
+msgstr "\\ :ref:`DEC`\\ (現HP)では、これはときにclone-and-hackコーディングと呼ばれます。"

@@ -8,33 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/control-O.rst:5
 msgid "control-O"
-msgstr ""
+msgstr "control-O"
 
 #: ../../C/control-O.rst:7
 msgid "vi\\."
-msgstr ""
+msgstr "自動詞"
 
 #: ../../C/control-O.rst:9
 msgid ""
-"\"Stop talking.\" From the character used on some operating systems to "
-"abort output but allow the program to keep on running. Generally means "
-"that you are not interested in hearing anything more from that person, at"
-" least on that topic; a standard response to someone who is flaming. "
-"Considered silly. Compare :ref:`control-S`\\."
+"\"Stop talking.\" From the character used on some operating systems to abort"
+" output but allow the program to keep on running. Generally means that you "
+"are not interested in hearing anything more from that person, at least on "
+"that topic; a standard response to someone who is flaming. Considered silly."
+" Compare :ref:`control-S`\\."
 msgstr ""
-
+"「しゃべるのをやめろ」。一部のオペレーティングシステムで、プログラムは走らせ続けたまま出力を中断するために使われる文字から。一般に、少なくともその話題については、その人からこれ以上何も聞きたくないという意味です。flameしている誰かへの標準的な応答。おどけたものとみなされます。\\"
+" :ref:`control-S`\\ と比較せよ。"

@@ -8,39 +8,40 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/copycenter.rst:5
 msgid "copycenter"
-msgstr ""
+msgstr "copycenter"
 
 #: ../../C/copycenter.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../C/copycenter.rst:9
 msgid "[play on ‘copyright’ and ‘copyleft’]"
-msgstr ""
+msgstr "[‘copyright’と‘copyleft’のもじり]"
 
 #: ../../C/copycenter.rst:12
 msgid ""
 "The copyright notice carried by the various flavors of freeware BSD. "
-"According to Kirk McKusick at BSDCon 1999: \"The way it was characterized"
-" politically, you had copyright, which is what the big companies use to "
-"lock everything up; you had copyleft, which is free software's way of "
-"making sure they can't lock it up; and then Berkeley had what we called "
-"‘copycenter’, which is ‘take it down to the copy center and make as many "
-"copies as you want’\"."
+"According to Kirk McKusick at BSDCon 1999: \"The way it was characterized "
+"politically, you had copyright, which is what the big companies use to lock "
+"everything up; you had copyleft, which is free software's way of making sure"
+" they can't lock it up; and then Berkeley had what we called ‘copycenter’, "
+"which is ‘take it down to the copy center and make as many copies as you "
+"want’\"."
 msgstr ""
-
+"さまざまな種類のフリーウェアBSDが掲げる著作権表示。BSDCon 1999でのKirk "
+"McKusickによれば、「政治的にどう特徴づけられたかというと、copyrightがあって、これは大企業がすべてをロックするのに使うものだ。copyleftがあって、これはフリーソフトウェアがそれをロックできないようにする方法だ。そしてBerkeleyには、われわれが‘copycenter’と呼んだものがあった。それは‘コピーセンターに持って行って好きなだけコピーを作れ’というものだ」。"
