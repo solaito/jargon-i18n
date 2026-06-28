@@ -8,31 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/terminal-brain-death.rst:5
 msgid "terminal brain death"
-msgstr ""
+msgstr "terminal brain death"
 
 #: ../../T/terminal-brain-death.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../T/terminal-brain-death.rst:9
 msgid ""
-"The extreme form of :ref:`terminal-illness` (sense 1). What someone who "
-"has obviously been hacking continuously for far too long is said to be "
-"suffering from."
+"The extreme form of :ref:`terminal-illness` (sense 1). What someone who has "
+"obviously been hacking continuously for far too long is said to be suffering"
+" from."
 msgstr ""
-
+"\\ :ref:`terminal-illness`\\ "
+"(語義1)の極端な形。あまりに長く連続してハッキングし続けていたことが明らかな者が、患っていると言われるもの。"

@@ -8,31 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/TMTOWTDI.rst:5
 msgid "TMTOWTDI"
-msgstr ""
+msgstr "TMTOWTDI"
 
 #: ../../T/TMTOWTDI.rst:7
 msgid "/tim·toh'·dee/, abbrev\\."
-msgstr ""
+msgstr "/tim·toh'·dee/, 略語"
 
 #: ../../T/TMTOWTDI.rst:9
 msgid ""
-"There's More Than One Way To Do It. This abbreviation of the official "
-"motto of :ref:`Perl` is frequently used on newsgroups and mailing lists "
-"related to that language."
+"There's More Than One Way To Do It. This abbreviation of the official motto "
+"of :ref:`Perl` is frequently used on newsgroups and mailing lists related to"
+" that language."
 msgstr ""
-
+"There's More Than One Way To Do It(やり方は一つではない)。この\\ :ref:`Perl`\\ "
+"の公式モットーの略は、その言語に関連するニュースグループやメーリングリストで頻繁に使われる。"

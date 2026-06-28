@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/silo.rst:5
 msgid "silo"
-msgstr ""
+msgstr "silo"
 
 #: ../../S/silo.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/silo.rst:9
 msgid ""
 "The FIFO input-character buffer in an RS-232 line card. So called from "
-":ref:`DEC` terminology used on DH and DZ line cards for the :ref:`VAX` "
-"and :ref:`PDP-11`\\, presumably because it was a storage space for "
-"fungible stuff that went in at the top and came out at the bottom."
+":ref:`DEC` terminology used on DH and DZ line cards for the :ref:`VAX` and "
+":ref:`PDP-11`\\, presumably because it was a storage space for fungible "
+"stuff that went in at the top and came out at the bottom."
 msgstr ""
-
+"RS-232ラインカードのFIFO入力文字バッファ。\\ :ref:`VAX`\\ や\\ :ref:`PDP-11`\\ "
+"用のDHおよびDZラインカードで使われた\\ :ref:`DEC`\\ "
+"の用語法に由来する。おそらく、上から入って下から出てくる、置き換え可能なものを入れる保管場所だったからだろう。"

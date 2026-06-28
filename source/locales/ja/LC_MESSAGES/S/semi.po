@@ -8,39 +8,43 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/semi.rst:5
 msgid "semi"
-msgstr ""
+msgstr "semi"
 
 #: ../../S/semi.rst:7
 msgid "/se´mee/, /se´mi:/"
-msgstr ""
+msgstr "/se´mee/, /se´mi:/"
 
 #: ../../S/semi.rst:9
 msgid ""
-"n\\. Abbreviation for ‘semicolon’, when speaking. \"Commands to "
-":ref:`grind` are prefixed by semi-semi-star\" means that the prefix is "
-"``;;\\*``\\, not 1/4 of a star."
+"n\\. Abbreviation for ‘semicolon’, when speaking. \"Commands to :ref:`grind`"
+" are prefixed by semi-semi-star\" means that the prefix is ``;;\\*``\\, not "
+"1/4 of a star."
 msgstr ""
+"名詞 話すときの‘semicolon(セミコロン)’の略。「\\ :ref:`grind`\\ へのコマンドはsemi-semi-"
+"starを前に付ける」とは、その接頭辞が\\ ``;;\\*``\\ であって、星の4分の1ではないという意味だ。"
 
 #: ../../S/semi.rst:14
 msgid ""
-"A prefix used with words such as ‘immediately’ as a qualifier. \"When is "
-"the system coming up?\" \"Semi-immediately.\" (That is, maybe not for an "
-"hour.) \"We did consider that possibility semi-seriously.\" See also "
+"A prefix used with words such as ‘immediately’ as a qualifier. \"When is the"
+" system coming up?\" \"Semi-immediately.\" (That is, maybe not for an hour.)"
+" \"We did consider that possibility semi-seriously.\" See also "
 ":ref:`infinite`\\."
 msgstr ""
-
+"‘immediately(直ちに)’のような語と一緒に修飾語として使われる接頭辞。「システムはいつ立ち上がるの?」「Semi-"
+"immediately(半ば直ちに)。」(つまり、ひょっとすると1時間は来ないかもしれない。)「我々はその可能性をsemi-"
+"seriously(半ば真剣に)検討した。」\\ :ref:`infinite`\\ も参照。"

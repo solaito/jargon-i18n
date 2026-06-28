@@ -8,31 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/screen.rst:5
 msgid "screen"
-msgstr ""
+msgstr "screen"
 
 #: ../../S/screen.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/screen.rst:9
 msgid ""
 "[Atari ST :ref:`demoscene`\\] One :ref:`demoeffect` or one screenful of "
-"them. Probably comes from old Sierra-style adventures or shoot-em-ups "
-"where one travels from one place to another one screenful at a time."
+"them. Probably comes from old Sierra-style adventures or shoot-em-ups where "
+"one travels from one place to another one screenful at a time."
 msgstr ""
-
+"[Atari STの\\ :ref:`demoscene`\\ ] ひとつの\\ :ref:`demoeffect`\\ "
+"、またはそれらの1画面分。おそらく、一度に1画面分ずつ別の場所へ移動する古いSierra風のアドベンチャーやシューティングに由来する。"

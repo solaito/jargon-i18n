@@ -8,40 +8,41 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/trap-door.rst:5
 msgid "trap door"
-msgstr ""
+msgstr "trap door"
 
 #: ../../T/trap-door.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../T/trap-door.rst:9
 msgid "(alt. : trapdoor)"
-msgstr ""
+msgstr "(別綴り:trapdoor)"
 
 #: ../../T/trap-door.rst:13
 msgid "Syn. :ref:`back-door` — a :ref:`Bad-Thing`\\."
-msgstr ""
+msgstr "同義語\\ :ref:`back-door`\\ ——一つの\\ :ref:`Bad-Thing`\\ 。"
 
 #: ../../T/trap-door.rst:17
 msgid ""
-"[techspeak] A trap-door function is one which is easy to compute but very"
-" difficult to compute the inverse of. Such functions are :ref:`Good-"
-"Thing`\\s with important applications in cryptography, specifically in "
-"the construction of public-key cryptosystems."
+"[techspeak] A trap-door function is one which is easy to compute but very "
+"difficult to compute the inverse of. Such functions are :ref:`Good-Thing`\\s"
+" with important applications in cryptography, specifically in the "
+"construction of public-key cryptosystems."
 msgstr ""
-
+"[techspeak]trap-door関数とは、計算するのは容易だが、その逆を計算するのは非常に難しい関数である。そうした関数は\\ "
+":ref:`Good-Thing`\\ で、暗号、特に公開鍵暗号系の構築に重要な応用を持つ。"

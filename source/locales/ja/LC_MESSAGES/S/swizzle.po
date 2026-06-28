@@ -8,34 +8,37 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/swizzle.rst:5
 msgid "swizzle"
-msgstr ""
+msgstr "swizzle"
 
 #: ../../S/swizzle.rst:7
 msgid "v\\."
-msgstr ""
+msgstr "動詞"
 
 #: ../../S/swizzle.rst:9
 msgid ""
 "To convert external names, array indices, or references within a data "
-"structure into address pointers when the data structure is brought into "
-"main memory from external storage (also called pointer swizzling); this "
-"may be done for speed in chasing references or to simplify code (e.g., by"
-" turning lots of name lookups into pointer dereferences). The converse "
-"operation is sometimes termed unswizzling. See also :ref:`snap`\\."
+"structure into address pointers when the data structure is brought into main"
+" memory from external storage (also called pointer swizzling); this may be "
+"done for speed in chasing references or to simplify code (e.g., by turning "
+"lots of name lookups into pointer dereferences). The converse operation is "
+"sometimes termed unswizzling. See also :ref:`snap`\\."
 msgstr ""
-
+"データ構造が外部ストレージから主記憶に持ち込まれるときに、その中の外部名、配列のインデックス、または参照をアドレスポインタに変換すること(pointer"
+" "
+"swizzling、ポインタのスイズリングとも呼ばれる)。これは、参照を追う速度のため、またはコードを単純化するため(たとえば、多くの名前のルックアップをポインタの間接参照に変えることによって)に行われることがある。逆の操作はunswizzling(アンスイズリング)と呼ばれることがある。\\"
+" :ref:`snap`\\ も参照。"

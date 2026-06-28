@@ -8,42 +8,43 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../R/rape.rst:5
 msgid "rape"
-msgstr ""
+msgstr "rape"
 
 #: ../../R/rape.rst:7
 msgid "vt\\."
-msgstr ""
+msgstr "他動詞"
 
 #: ../../R/rape.rst:10
 msgid ""
-"To :ref:`screw` someone or something, violently; in particular, to "
-"destroy a program or information irrecoverably. Often used in describing "
-"file-system damage. \"So-and-so was running a program that did absolute "
-"disk I/O and ended up raping the master directory.\""
+"To :ref:`screw` someone or something, violently; in particular, to destroy a"
+" program or information irrecoverably. Often used in describing file-system "
+"damage. \"So-and-so was running a program that did absolute disk I/O and "
+"ended up raping the master directory.\""
 msgstr ""
+"誰かまたは何かを暴力的に\\ :ref:`screw`\\ "
+"すること。とりわけ、プログラムや情報を回復不能なまでに破壊すること。ファイルシステムの損傷を表現する際によく使われる。「誰それが、絶対ディスクI/Oを行うプログラムを動かしていて、結局マスタディレクトリをrapeしてしまった」。"
 
 #: ../../R/rape.rst:15
 msgid "To strip a piece of hardware for parts."
-msgstr ""
+msgstr "ハードウェアを部品取りのために剥ぎ取ること。"
 
 #: ../../R/rape.rst:18
 msgid ""
 "[CMU/Pitt] To mass-copy files from an anonymous ftp site. \"Last night I "
 "raped Simtel's dskutl directory.\""
-msgstr ""
-
+msgstr "[CMU/Pitt] 匿名ftpサイトからファイルを大量にコピーすること。「昨夜、Simtelのdskutlディレクトリをrapeした」。"

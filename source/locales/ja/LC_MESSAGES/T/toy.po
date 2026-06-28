@@ -8,42 +8,45 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/toy.rst:5
 msgid "toy"
-msgstr ""
+msgstr "toy"
 
 #: ../../T/toy.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../T/toy.rst:9
 msgid "A computer system; always used with qualifiers."
-msgstr ""
+msgstr "コンピュータシステム。常に修飾語とともに使われる。"
 
 #: ../../T/toy.rst:11
 msgid "nice toy: One that supports the speaker's hacking style adequately."
-msgstr ""
+msgstr "nice toy:話し手のハッキングスタイルを十分に支える(良い)もの。"
 
 #: ../../T/toy.rst:13
 msgid ""
-"just a toy: A machine that yields insufficient :ref:`computron`\\s for "
-"the speaker's preferred uses. This is not condemnatory, as is :ref"
-":`bitty-box`\\; toys can at least be fun. It is also strongly conditioned"
-" by one's expectations; Cray XMP users sometimes consider the Cray-1 a "
-"toy, and certainly all RISC boxes and mainframes are toys by their "
-"standards. See also :ref:`Get-a-real-computer-`\\."
+"just a toy: A machine that yields insufficient :ref:`computron`\\s for the "
+"speaker's preferred uses. This is not condemnatory, as is :ref:`bitty-"
+"box`\\; toys can at least be fun. It is also strongly conditioned by one's "
+"expectations; Cray XMP users sometimes consider the Cray-1 a toy, and "
+"certainly all RISC boxes and mainframes are toys by their standards. See "
+"also :ref:`Get-a-real-computer-`\\."
 msgstr ""
-
+"just a toy:話し手の好む用途に不十分な\\ :ref:`computron`\\ しか産まないマシン。これは\\ :ref:`bitty-"
+"box`\\ のように非難するものではない。toyは少なくとも楽しくはありうるのだ。これはまた人の期待に強く左右される。Cray "
+"XMPのユーザーはCray-1をtoyとみなすことがあり、もちろんすべてのRISCの箱やメインフレームは彼らの基準ではtoyである。\\ "
+":ref:`Get-a-real-computer-`\\ も参照。"

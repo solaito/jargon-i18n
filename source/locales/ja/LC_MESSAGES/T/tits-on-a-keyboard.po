@@ -8,32 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/tits-on-a-keyboard.rst:5
 msgid "tits on a keyboard"
-msgstr ""
+msgstr "tits on a keyboard"
 
 #: ../../T/tits-on-a-keyboard.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../T/tits-on-a-keyboard.rst:9
 msgid ""
-"Small bumps on certain keycaps to keep touch-typists registered. Usually "
-"on the ``5`` of a numeric keypad, and on the ``F`` and ``J`` of a "
-":ref:`QWERTY` keyboard; but older Macs (like pre-PC electric typewriters)"
-" had them on the ``D`` and ``K`` keys (this changed in 1999)."
+"Small bumps on certain keycaps to keep touch-typists registered. Usually on "
+"the ``5`` of a numeric keypad, and on the ``F`` and ``J`` of a :ref:`QWERTY`"
+" keyboard; but older Macs (like pre-PC electric typewriters) had them on the"
+" ``D`` and ``K`` keys (this changed in 1999)."
 msgstr ""
-
+"タッチタイピストが位置を把握し続けられるように、特定のキーキャップ上にある小さな突起。たいていは数字キーパッドの\\ ``5``\\ 、そして\\ "
+":ref:`QWERTY`\\ キーボードの\\ ``F``\\ と\\ ``J``\\ "
+"にある。だが古いMac(PC以前の電動タイプライターのように)では\\ ``D``\\ と\\ ``K``\\ "
+"キーにあった(これは1999年に変わった)。"

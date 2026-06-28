@@ -8,35 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/spoof.rst:5
 msgid "spoof"
-msgstr ""
+msgstr "spoof"
 
 #: ../../S/spoof.rst:7
 msgid "vi\\."
-msgstr ""
+msgstr "自動詞"
 
 #: ../../S/spoof.rst:9
 msgid ""
 "To capture, alter, and retransmit a communication stream in a way that "
-"misleads the recipient. As used by hackers, refers especially to altering"
-" TCP/IP packet source addresses or other packet-header data in order to "
-"masquerade as a trusted machine. This term has become very widespread and"
-" is borderline techspeak. Interestingly, it was already in use in its "
-"modern sense more than a century ago among Victorian telegraphers; it "
-"shows up in Kipling."
+"misleads the recipient. As used by hackers, refers especially to altering "
+"TCP/IP packet source addresses or other packet-header data in order to "
+"masquerade as a trusted machine. This term has become very widespread and is"
+" borderline techspeak. Interestingly, it was already in use in its modern "
+"sense more than a century ago among Victorian telegraphers; it shows up in "
+"Kipling."
 msgstr ""
-
+"通信ストリームを、受信者を欺くように捕捉、改変、再送信すること。ハッカーによって使われる場合、とくにTCP/IPパケットの送信元アドレスやその他のパケットヘッダのデータを改変して、信頼されたマシンになりすますことを指す。この用語は非常に広まり、techspeak寄りである。興味深いことに、それは1世紀以上前にすでに、ビクトリア朝の電信技士の間で現代的な意味で使われていた。それはKiplingに登場する。"

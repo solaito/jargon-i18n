@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/times-or-divided-by.rst:5
 msgid "times-or-divided-by"
-msgstr ""
+msgstr "times-or-divided-by"
 
 #: ../../T/times-or-divided-by.rst:7
 msgid "quant\\."
-msgstr ""
+msgstr "量詞"
 
 #: ../../T/times-or-divided-by.rst:9
 msgid ""
-"[by analogy with ‘plus-or-minus’] Term occasionally used when describing "
-"the uncertainty associated with a scheduling estimate, for either "
-"humorous or brutally honest effect. For a software project, the "
-"scheduling uncertainty factor is usually at least 2."
+"[by analogy with ‘plus-or-minus’] Term occasionally used when describing the"
+" uncertainty associated with a scheduling estimate, for either humorous or "
+"brutally honest effect. For a software project, the scheduling uncertainty "
+"factor is usually at least 2."
 msgstr ""
-
+"[‘plus-or-"
+"minus’(プラスマイナス)との類推による]スケジュールの見積もりに伴う不確実性を、ユーモラスにまたは残酷なほど正直に表す効果のために時折使われる用語。ソフトウェアプロジェクトの場合、スケジュールの不確実性係数はたいてい少なくとも2である。"

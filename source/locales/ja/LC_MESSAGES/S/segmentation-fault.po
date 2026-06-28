@@ -8,43 +8,45 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/segmentation-fault.rst:5
 msgid "segmentation fault"
-msgstr ""
+msgstr "segmentation fault"
 
 #: ../../S/segmentation-fault.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/segmentation-fault.rst:9
 msgid "[Unix]"
-msgstr ""
+msgstr "[Unix]"
 
 #: ../../S/segmentation-fault.rst:12
 msgid ""
-"[techspeak] An error in which a running program attempts to access memory"
-" not allocated to it and :ref:`core-dump`\\s with a segmentation "
-"violation error. This is often caused by improper usage of pointers in "
-"the source code, dereferencing a null pointer, or (in C) inadvertently "
-"using a non-pointer variable as a pointer. The classic example is:"
+"[techspeak] An error in which a running program attempts to access memory "
+"not allocated to it and :ref:`core-dump`\\s with a segmentation violation "
+"error. This is often caused by improper usage of pointers in the source "
+"code, dereferencing a null pointer, or (in C) inadvertently using a non-"
+"pointer variable as a pointer. The classic example is:"
 msgstr ""
+"[techspeak] 実行中のプログラムが、自分に割り当てられていないメモリにアクセスしようとし、セグメンテーション違反エラーで\\ "
+":ref:`core-dump`\\ "
+"するエラー。これはしばしば、ソースコードでのポインタの不適切な使用、ヌルポインタの間接参照、または(Cで)ポインタでない変数をうっかりポインタとして使うことによって引き起こされる。古典的な例は次のとおり。"
 
 #: ../../S/segmentation-fault.rst:23
 msgid ""
 "To lose a train of thought or a line of reasoning. Also uttered as an "
 "exclamation at the point of befuddlement."
-msgstr ""
-
+msgstr "思考の流れや論理の筋道を見失うこと。当惑した瞬間に感嘆として口にされることもある。"

@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/tube-time.rst:5
 msgid "tube time"
-msgstr ""
+msgstr "tube time"
 
 #: ../../T/tube-time.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../T/tube-time.rst:9
 msgid ""
 "Time spent at a terminal or console. More inclusive than hacking time; "
 "commonly used in discussions of what parts of one's environment one uses "
-"most heavily. \"I find I'm spending too much of my tube time reading mail"
-" since I started this revision.\""
+"most heavily. \"I find I'm spending too much of my tube time reading mail "
+"since I started this revision.\""
 msgstr ""
-
+"端末やコンソールで過ごす時間。hacking "
+"timeより包括的。自分の環境のどの部分を最も多く使うかの議論でよく使われる。「この改訂を始めてから、tube "
+"timeのあまりに多くをメールを読むのに費やしているようだ」。"

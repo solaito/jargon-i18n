@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/sig-quote.rst:5
 msgid "sig quote"
-msgstr ""
+msgstr "sig quote"
 
 #: ../../S/sig-quote.rst:7
 msgid "/sig kwoht/, n\\."
-msgstr ""
+msgstr "/sig kwoht/, 名詞"
 
 #: ../../S/sig-quote.rst:9
 msgid ""
-"[Usenet] A maxim, quote, proverb, joke, or slogan embedded in one's :ref"
-":`sig-block` and intended to convey something of one's philosophical "
+"[Usenet] A maxim, quote, proverb, joke, or slogan embedded in one's "
+":ref:`sig-block` and intended to convey something of one's philosophical "
 "stance, pet peeves, or sense of humor. \"Calm down, it's only ones and "
 "zeroes.\""
 msgstr ""
-
+"[Usenet] 自分の\\ :ref:`sig-block`\\ "
+"に埋め込まれ、自分の哲学的立場、特に嫌いなもの、ユーモアのセンスなどを伝えることを意図した、格言、引用、ことわざ、冗談、スローガン。「落ち着け、たかが1と0だ。」"

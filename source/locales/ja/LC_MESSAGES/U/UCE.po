@@ -8,31 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../U/UCE.rst:5
 msgid "UCE"
-msgstr ""
+msgstr "UCE"
 
 #: ../../U/UCE.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../U/UCE.rst:9
 msgid ""
-"[abbrev., Unsolicited Commercial Email] A widespread, more formal term "
-"for email :ref:`spam`\\. Compare :ref:`UBE`\\, which may be superseding "
-"it."
+"[abbrev., Unsolicited Commercial Email] A widespread, more formal term for "
+"email :ref:`spam`\\. Compare :ref:`UBE`\\, which may be superseding it."
 msgstr ""
-
+"[略語、Unsolicited Commercial Email] メールの\\ :ref:`spam`\\ "
+"を指す、広く使われるより形式ばった語。これに取って代わりつつあるかもしれない\\ :ref:`UBE`\\ と比較せよ。"

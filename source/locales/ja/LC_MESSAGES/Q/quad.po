@@ -8,34 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../Q/quad.rst:5
 msgid "quad"
-msgstr ""
+msgstr "quad"
 
 #: ../../Q/quad.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../Q/quad.rst:10
 msgid "Two bits; syn. for :ref:`quarter`\\, :ref:`crumb`\\, :ref:`tayste`\\."
-msgstr ""
+msgstr "2ビット。\\ :ref:`quarter`\\ 、\\ :ref:`crumb`\\ 、\\ :ref:`tayste`\\ の同義語。"
 
 #: ../../Q/quad.rst:14
 msgid "A four-pack of anything (compare :ref:`hex`\\, sense 2)."
-msgstr ""
+msgstr "何かの4個セット(\\ :ref:`hex`\\ の語義2と比較せよ)。"
 
 #: ../../Q/quad.rst:17
 msgid ""
@@ -43,4 +43,4 @@ msgid ""
 "purposes mostly related to I/O. Former Ivy-Leaguers and Oxford types are "
 "said to associate it with nostalgic memories of dear old University."
 msgstr ""
-
+"APL言語で、主にI/Oに関連したさまざまな難解な目的に使われる長方形ないし箱のグリフ。かつてのアイビーリーグやオックスフォード出身者は、これを懐かしき母校の郷愁的な思い出と結びつけると言われている。"

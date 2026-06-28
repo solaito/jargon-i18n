@@ -8,30 +8,29 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../R/return-from-the-dead.rst:5
 msgid "return from the dead"
-msgstr ""
+msgstr "return from the dead"
 
 #: ../../R/return-from-the-dead.rst:7
 msgid "v\\."
-msgstr ""
+msgstr "動詞"
 
 #: ../../R/return-from-the-dead.rst:9
 msgid ""
-"To regain access to the net after a long absence. Compare :ref:`person-"
-"of-no-account`\\."
-msgstr ""
-
+"To regain access to the net after a long absence. Compare :ref:`person-of-"
+"no-account`\\."
+msgstr "長い不在の後にネットへのアクセスを取り戻すこと。\\ :ref:`person-of-no-account`\\ と比較せよ。"

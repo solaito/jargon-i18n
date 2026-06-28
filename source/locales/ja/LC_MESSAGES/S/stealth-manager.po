@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/stealth-manager.rst:5
 msgid "stealth manager"
-msgstr ""
+msgstr "stealth manager"
 
 #: ../../S/stealth-manager.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/stealth-manager.rst:9
 msgid ""
-"[Corporate DP] A manager that appears out of nowhere, promises "
-"undeliverable software to unknown end users, and vanishes before the "
-"programming staff realizes what has happened. See :ref:`smoke-and-"
-"mirrors`\\."
+"[Corporate DP] A manager that appears out of nowhere, promises undeliverable"
+" software to unknown end users, and vanishes before the programming staff "
+"realizes what has happened. See :ref:`smoke-and-mirrors`\\."
 msgstr ""
-
+"[企業のDP] "
+"どこからともなく現れ、未知のエンドユーザーに納品不可能なソフトウェアを約束し、プログラミングのスタッフが何が起きたか気づく前に消え去るマネージャ。\\ "
+":ref:`smoke-and-mirrors`\\ を参照。"

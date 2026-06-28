@@ -8,52 +8,56 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/spoiler.rst:5
 msgid "spoiler"
-msgstr ""
+msgstr "spoiler"
 
 #: ../../S/spoiler.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/spoiler.rst:9
 msgid "[Usenet]"
-msgstr ""
+msgstr "[Usenet]"
 
 #: ../../S/spoiler.rst:12
 msgid ""
-"A remark which reveals important plot elements from books or movies, thus"
-" denying the reader (of the article) the proper suspense when reading the"
-" book or watching the movie."
-msgstr ""
+"A remark which reveals important plot elements from books or movies, thus "
+"denying the reader (of the article) the proper suspense when reading the "
+"book or watching the movie."
+msgstr "本や映画の重要な筋の要素を明かし、それによって(記事の)読者から、本を読んだり映画を観たりするときの適切なサスペンスを奪う発言。"
 
 #: ../../S/spoiler.rst:15
 msgid ""
 "Any remark which telegraphs the solution of a problem or puzzle, thus "
-"denying the reader the pleasure of working out the correct answer (see "
-"also :ref:`interesting`\\). Either sense readily forms compounds like "
-"total spoiler, quasi-spoiler and even pseudo-spoiler."
+"denying the reader the pleasure of working out the correct answer (see also "
+":ref:`interesting`\\). Either sense readily forms compounds like total "
+"spoiler, quasi-spoiler and even pseudo-spoiler."
 msgstr ""
+"問題やパズルの解を電報のように知らせ、それによって読者から正しい答えを考え出す楽しみを奪うあらゆる発言(\\ :ref:`interesting`\\ "
+"も参照)。どちらの意味も、total spoiler、quasi-spoiler、さらにはpseudo-spoilerのような複合語を容易に作る。"
 
 #: ../../S/spoiler.rst:18
 msgid ""
-"By convention, articles which are spoilers in either sense should contain"
-" the word ‘spoiler’ in the Subject: line, or guarantee via various tricks"
-" that the answer appears only after several screens-full of warning, or "
-"conceal the sensitive information via :ref:`rot13`\\, :ref:`spoiler-"
-"space` or some combination of these techniques."
+"By convention, articles which are spoilers in either sense should contain "
+"the word ‘spoiler’ in the Subject: line, or guarantee via various tricks "
+"that the answer appears only after several screens-full of warning, or "
+"conceal the sensitive information via :ref:`rot13`\\, :ref:`spoiler-space` "
+"or some combination of these techniques."
 msgstr ""
-
+"慣習により、どちらの意味でもspoilerである記事は、Subject:行に‘spoiler’という語を含むか、答えが何画面分もの警告の後にのみ現れることをさまざまな仕掛けで保証するか、\\"
+" :ref:`rot13`\\ 、\\ :ref:`spoiler-space`\\ "
+"、あるいはこれらの技法の組み合わせによって、その繊細な情報を隠すべきだ。"

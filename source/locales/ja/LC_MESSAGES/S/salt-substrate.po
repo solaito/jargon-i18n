@@ -8,33 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/salt-substrate.rst:5
 msgid "salt substrate"
-msgstr ""
+msgstr "salt substrate"
 
 #: ../../S/salt-substrate.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/salt-substrate.rst:9
 msgid ""
-"[MIT] Collective noun used to refer to potato chips, pretzels, saltines, "
-"or any other form of snack food designed primarily as a carrier for "
-"sodium chloride. Also sodium substrate. From the technical term chip "
-"substrate, used to refer to the silicon on the top of which the active "
-"parts of integrated circuits are deposited."
+"[MIT] Collective noun used to refer to potato chips, pretzels, saltines, or "
+"any other form of snack food designed primarily as a carrier for sodium "
+"chloride. Also sodium substrate. From the technical term chip substrate, "
+"used to refer to the silicon on the top of which the active parts of "
+"integrated circuits are deposited."
 msgstr ""
-
+"[MIT] "
+"ポテトチップス、プレッツェル、塩クラッカー、その他、主に塩化ナトリウムの担体として設計されたあらゆる形のスナック菓子を指す集合名詞。sodium "
+"substrateとも。集積回路の活性部分がその上に堆積される基板であるシリコンを指す技術用語、chip substrate(チップ基板)に由来する。"

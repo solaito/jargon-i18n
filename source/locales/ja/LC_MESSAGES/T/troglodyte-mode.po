@@ -8,33 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/troglodyte-mode.rst:5
 msgid "troglodyte mode"
-msgstr ""
+msgstr "troglodyte mode"
 
 #: ../../T/troglodyte-mode.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../T/troglodyte-mode.rst:9
 msgid ""
-"[Rice University] Programming with the lights turned off, sunglasses on, "
-"and the terminal inverted (black on white) because you've been up for so "
-"many days straight that your eyes hurt (see :ref:`raster-burn`\\). Loud "
-"music blaring from a stereo stacked in the corner is optional but "
-"recommended. See :ref:`larval-stage`\\, :ref:`hack-mode`\\."
+"[Rice University] Programming with the lights turned off, sunglasses on, and"
+" the terminal inverted (black on white) because you've been up for so many "
+"days straight that your eyes hurt (see :ref:`raster-burn`\\). Loud music "
+"blaring from a stereo stacked in the corner is optional but recommended. See"
+" :ref:`larval-stage`\\, :ref:`hack-mode`\\."
 msgstr ""
-
+"[Rice University]あまりに何日も連続して起きていて目が痛いために(\\ :ref:`raster-burn`\\ "
+"参照)、明かりを消し、サングラスをかけ、端末を反転させて(白地に黒)プログラミングすること。隅に積まれたステレオから大音量で鳴り響く音楽は任意だが推奨される。\\"
+" :ref:`larval-stage`\\ 、\\ :ref:`hack-mode`\\ 参照。"

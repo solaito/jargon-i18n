@@ -8,27 +8,28 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/See-figure-1.rst:5
 msgid "See figure 1"
-msgstr ""
+msgstr "See figure 1"
 
 #: ../../S/See-figure-1.rst:7
 msgid ""
-"Metaphorically, \"Get stuffed.\" From the title of a famous parody that "
-"can easily be found with a web search on this phrase; figure 1, in fact, "
-"depicts the digitus impudicus."
+"Metaphorically, \"Get stuffed.\" From the title of a famous parody that can "
+"easily be found with a web search on this phrase; figure 1, in fact, depicts"
+" the digitus impudicus."
 msgstr ""
-
+"比喩的に「失せろ」。このフレーズをWebで検索すれば簡単に見つかる有名なパロディの題名に由来する。図1は、実際にはdigitus "
+"impudicus(無礼の指、すなわち中指)を描いている。"

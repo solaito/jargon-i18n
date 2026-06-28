@@ -8,39 +8,40 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/silly-walk.rst:5
 msgid "silly walk"
-msgstr ""
+msgstr "silly walk"
 
 #: ../../S/silly-walk.rst:7
 msgid "vi\\."
-msgstr ""
+msgstr "自動詞"
 
 #: ../../S/silly-walk.rst:9
 msgid "[from Monty Python's Flying Circus]"
-msgstr ""
+msgstr "[Monty Python's Flying Circusから]"
 
 #: ../../S/silly-walk.rst:12
 msgid ""
-"A ridiculous procedure required to accomplish a task. Like "
-":ref:`grovel`\\, but more :ref:`random` and humorous. \"I had to silly-"
-"walk through half the /usr directories to find the maps file.\""
+"A ridiculous procedure required to accomplish a task. Like :ref:`grovel`\\, "
+"but more :ref:`random` and humorous. \"I had to silly-walk through half the "
+"/usr directories to find the maps file.\""
 msgstr ""
+"タスクを成し遂げるために要求されるばかげた手続き。\\ :ref:`grovel`\\ に似ているが、より\\ :ref:`random`\\ "
+"でユーモラスだ。「mapsファイルを見つけるために、/usrディレクトリの半分をsilly-walkしなければならなかった。」"
 
 #: ../../S/silly-walk.rst:17
 msgid "Syn. :ref:`fandango-on-core`\\."
-msgstr ""
-
+msgstr ":ref:`fandango-on-core`\\ の同義語。"

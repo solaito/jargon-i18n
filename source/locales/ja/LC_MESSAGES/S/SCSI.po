@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/SCSI.rst:5
 msgid "SCSI"
-msgstr ""
+msgstr "SCSI"
 
 #: ../../S/SCSI.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/SCSI.rst:9
 msgid ""
@@ -36,7 +36,9 @@ msgid ""
 "annotated in literature with ‘sexy’ (/sek´see/), ‘sissy’ (/sis´ee/), and "
 "‘scuzzy’ (/skuh´zee/) as pronunciation guides — the last being the "
 "overwhelmingly predominant form, much to the dismay of the designers and "
-"their marketing people. One can usually assume that a person who "
-"pronounces it /S-C-S-I/ is clueless."
+"their marketing people. One can usually assume that a person who pronounces "
+"it /S-C-S-I/ is clueless."
 msgstr ""
-
+"[Small Computer System Interface] "
+"コンピュータと知的なデバイスの間の、システムレベルのインターフェースのためのバス非依存の標準。文献では通常、発音の手引きとして‘sexy’(/sek´see/)、‘sissy’(/sis´ee/)、‘scuzzy’(/skuh´zee/)と注釈される——最後のものが圧倒的に支配的な形であり、設計者とそのマーケティング担当者をひどく落胆させている。/S-C-"
+"S-I/と発音する人物は、たいてい無知だと思ってよい。"

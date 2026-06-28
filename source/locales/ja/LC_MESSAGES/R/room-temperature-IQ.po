@@ -8,33 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../R/room-temperature-IQ.rst:5
 msgid "room-temperature IQ"
-msgstr ""
+msgstr "room-temperature IQ"
 
 #: ../../R/room-temperature-IQ.rst:7
 msgid "quant\\."
-msgstr ""
+msgstr "quant."
 
 #: ../../R/room-temperature-IQ.rst:9
 msgid ""
 "[IBM] 80 or below (nominal room temperature is 72 degrees Fahrenheit, 22 "
-"degrees Celsius). Used in describing the expected intelligence range of "
-"the :ref:`luser`\\. \"Well, but how's this interface going to play with "
-"the room-temperature IQ crowd?\" See :ref:`drool-proof-paper`\\. This is "
-"a much more insulting phrase in countries that use Celsius thermometers."
+"degrees Celsius). Used in describing the expected intelligence range of the "
+":ref:`luser`\\. \"Well, but how's this interface going to play with the "
+"room-temperature IQ crowd?\" See :ref:`drool-proof-paper`\\. This is a much "
+"more insulting phrase in countries that use Celsius thermometers."
 msgstr ""
-
+"[IBM] 80以下(公称の室温は華氏72度、摂氏22度)。\\ :ref:`luser`\\ "
+"に期待される知能の範囲を表すのに使われる。「ふむ、だがこのインターフェースは室温IQの連中相手にどう振る舞うんだろう?」\\ :ref:`drool-"
+"proof-paper`\\ を参照。これは摂氏温度計を使う国々ではずっと侮辱的な表現である。"

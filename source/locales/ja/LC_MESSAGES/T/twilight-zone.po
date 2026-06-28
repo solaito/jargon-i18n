@@ -8,30 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../T/twilight-zone.rst:5
 msgid "twilight zone"
-msgstr ""
+msgstr "twilight zone"
 
 #: ../../T/twilight-zone.rst:7
 msgid "n\\., //"
-msgstr ""
+msgstr "名詞, //"
 
 #: ../../T/twilight-zone.rst:9
 msgid ""
-"[IRC] Notionally, the area of cyberspace where :ref:`IRC` operators live."
-" An :ref:`op` is said to have a \"connection to the twilight zone\"."
+"[IRC] Notionally, the area of cyberspace where :ref:`IRC` operators live. An"
+" :ref:`op` is said to have a \"connection to the twilight zone\"."
 msgstr ""
-
+"[IRC]観念的には、\\ :ref:`IRC`\\ のオペレーターが住むサイバースペースの領域。\\ :ref:`op`\\ は「twilight "
+"zoneへの接続」を持つと言われる。"

@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../U/URL.rst:5
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ../../U/URL.rst:7
 msgid "/U·R·L/, /erl/, n\\."
-msgstr ""
+msgstr "/U·R·L/, /erl/, 名詞"
 
 #: ../../U/URL.rst:9
 msgid ""
-"Uniform Resource Locator, an address widget that identifies a document or"
-" resource on the World Wide Web. This entry is here primarily to record "
-"the fact that the term is commonly pronounced both /erl/, and /U-R-L/ "
-"(the latter predominates in more formal contexts)."
+"Uniform Resource Locator, an address widget that identifies a document or "
+"resource on the World Wide Web. This entry is here primarily to record the "
+"fact that the term is commonly pronounced both /erl/, and /U-R-L/ (the "
+"latter predominates in more formal contexts)."
 msgstr ""
-
+"Uniform Resource Locator。World Wide "
+"Web上の文書やリソースを識別するアドレスの仕掛け。この項目がここにあるのは、主としてこの語が/erl/と/U-R-L/の両方で一般に発音されている(後者がより形式ばった文脈で優勢)という事実を記録するためである。"

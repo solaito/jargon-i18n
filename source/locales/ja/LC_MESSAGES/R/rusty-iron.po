@@ -8,30 +8,29 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../R/rusty-iron.rst:5
 msgid "rusty iron"
-msgstr ""
+msgstr "rusty iron"
 
 #: ../../R/rusty-iron.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../R/rusty-iron.rst:9
 msgid ""
-"Syn. :ref:`tired-iron`\\. It has been claimed that this is the inevitable"
-" fate of :ref:`water-MIPS`\\."
-msgstr ""
-
+"Syn. :ref:`tired-iron`\\. It has been claimed that this is the inevitable "
+"fate of :ref:`water-MIPS`\\."
+msgstr "\\ :ref:`tired-iron`\\ と同義。これは\\ :ref:`water-MIPS`\\ の避けられない運命だと主張されてきた。"

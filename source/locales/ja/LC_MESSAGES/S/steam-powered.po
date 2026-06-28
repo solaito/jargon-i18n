@@ -8,31 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/steam-powered.rst:5
 msgid "steam-powered"
-msgstr ""
+msgstr "steam-powered"
 
 #: ../../S/steam-powered.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../S/steam-powered.rst:9
 msgid ""
 "Old-fashioned or underpowered; archaic. This term does not have a strong "
-"negative loading and may even be used semi-affectionately for something "
-"that clanks and wheezes a lot but hangs in there doing the job."
+"negative loading and may even be used semi-affectionately for something that"
+" clanks and wheezes a lot but hangs in there doing the job."
 msgstr ""
-
+"旧式、または非力。古風。この用語は強い否定的な含みを持たず、がたがた音を立ててあえぎながらも仕事をこなし続ける何かに、半ば愛情を込めて使われることすらある。"

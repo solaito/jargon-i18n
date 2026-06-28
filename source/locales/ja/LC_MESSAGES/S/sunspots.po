@@ -8,37 +8,38 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/sunspots.rst:5
 msgid "sunspots"
-msgstr ""
+msgstr "sunspots"
 
 #: ../../S/sunspots.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../S/sunspots.rst:10
 msgid ""
 "Notional cause of an odd error. \"Why did the program suddenly turn the "
 "screen blue?\" \"Sunspots, I guess.\""
-msgstr ""
+msgstr "奇妙なエラーの想定上の原因。「なぜプログラムが突然画面を青くしたんだ?」「太陽の黒点だろう。」"
 
 #: ../../S/sunspots.rst:15
 msgid ""
-"Also the cause of :ref:`bit-rot` — from the myth that sunspots will "
-"increase :ref:`cosmic-rays`\\, which can flip single bits in memory. See "
-"also :ref:`phase-of-the-moon`\\."
+"Also the cause of :ref:`bit-rot` — from the myth that sunspots will increase"
+" :ref:`cosmic-rays`\\, which can flip single bits in memory. See also "
+":ref:`phase-of-the-moon`\\."
 msgstr ""
-
+":ref:`bit-rot`\\ の原因でもある——太陽の黒点が\\ :ref:`cosmic-rays`\\ "
+"を増やし、それがメモリの単一ビットを反転させうるという俗説から。\\ :ref:`phase-of-the-moon`\\ も参照。"

@@ -8,59 +8,61 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../R/rave.rst:5
 msgid "rave"
-msgstr ""
+msgstr "rave"
 
 #: ../../R/rave.rst:7
 msgid "vi\\."
-msgstr ""
+msgstr "自動詞"
 
 #: ../../R/rave.rst:9
 msgid "[WPI]"
-msgstr ""
+msgstr "[WPI]"
 
 #: ../../R/rave.rst:12
 msgid "To persist in discussing a specific subject."
-msgstr ""
+msgstr "特定の主題について議論し続けること。"
 
 #: ../../R/rave.rst:15
-msgid "To speak authoritatively on a subject about which one knows very little."
-msgstr ""
+msgid ""
+"To speak authoritatively on a subject about which one knows very little."
+msgstr "ほとんど知らない主題について権威ありげに話すこと。"
 
 #: ../../R/rave.rst:18
 msgid ""
-"To complain to a person who is not in a position to correct the "
-"difficulty."
-msgstr ""
+"To complain to a person who is not in a position to correct the difficulty."
+msgstr "困難を是正できる立場にない人に不平を言うこと。"
 
 #: ../../R/rave.rst:21
 msgid "To purposely annoy another person verbally."
-msgstr ""
+msgstr "他人を口頭でわざと困らせること。"
 
 #: ../../R/rave.rst:24
 msgid "To evangelize. See :ref:`flame`\\."
-msgstr ""
+msgstr "布教すること。\\ :ref:`flame`\\ を参照。"
 
 #: ../../R/rave.rst:28
 msgid ""
 "Also used to describe a less negative form of blather, such as friendly "
-"bullshitting. ‘Rave’ differs slightly from :ref:`flame` in that rave "
-"implies that it is the persistence or obliviousness of the person "
-"speaking that is annoying, while :ref:`flame` implies somewhat more "
-"strongly that the tone or content is offensive as well."
+"bullshitting. ‘Rave’ differs slightly from :ref:`flame` in that rave implies"
+" that it is the persistence or obliviousness of the person speaking that is "
+"annoying, while :ref:`flame` implies somewhat more strongly that the tone or"
+" content is offensive as well."
 msgstr ""
-
+"親しげなたわ言のような、より否定的でない形のたわごとを表すのにも使われる。‘Rave’が\\ :ref:`flame`\\ "
+"とわずかに異なるのは、raveが、煩わしいのは話している人の執拗さや無頓着さだと含意するのに対し、\\ :ref:`flame`\\ "
+"は、口調や内容も不快であるとやや強く含意する点である。"

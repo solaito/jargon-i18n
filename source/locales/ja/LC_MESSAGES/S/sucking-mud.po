@@ -8,34 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/sucking-mud.rst:5
 msgid "sucking mud"
-msgstr ""
+msgstr "sucking mud"
 
 #: ../../S/sucking-mud.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../S/sucking-mud.rst:9
 msgid ""
 "[Applied Data Research] (also pumping mud) Crashed or :ref:`wedged`\\. "
-"Usually said of a machine that provides some service to a network, such "
-"as a file server. This Dallas regionalism derives from the East Texas "
-"oilfield lament, \"Shut 'er down, Ma, she's a-suckin' mud\". Often used "
-"as a query. \"We are going to reconfigure the network, are you ready to "
-"suck mud?\""
+"Usually said of a machine that provides some service to a network, such as a"
+" file server. This Dallas regionalism derives from the East Texas oilfield "
+"lament, \"Shut 'er down, Ma, she's a-suckin' mud\". Often used as a query. "
+"\"We are going to reconfigure the network, are you ready to suck mud?\""
 msgstr ""
-
+"[Applied Data Research] (pumping mudとも) クラッシュした、または\\ :ref:`wedged`\\ "
+"。たいてい、ファイルサーバーのような、ネットワークに何らかのサービスを提供するマシンについて言われる。このダラスの方言は、東テキサスの油田の嘆き「止めろ、母さん、泥を吸ってる」に由来する。しばしば問いかけとして使われる。「ネットワークを再構成するつもりだ、泥を吸う準備はいいか?」"

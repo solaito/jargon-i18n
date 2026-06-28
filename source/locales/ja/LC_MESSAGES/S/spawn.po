@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../S/spawn.rst:5
 msgid "spawn"
-msgstr ""
+msgstr "spawn"
 
 #: ../../S/spawn.rst:7
 msgid "n\\.,vi\\."
-msgstr ""
+msgstr "名詞・自動詞"
 
 #: ../../S/spawn.rst:10
 msgid ""
@@ -36,10 +36,13 @@ msgid ""
 "general and is used for threads (lightweight processes) as well as "
 "traditional heavyweight processes."
 msgstr ""
+"[techspeak] "
+"Unixの言葉遣いで、あるプロセスの中から子プロセスを作ること。技術的にはこれは‘fork(フォーク)’だ。‘spawn’という用語はもう少し一般的で、伝統的なヘビーウェイトのプロセスだけでなく、スレッド(ライトウェイトのプロセス)にも使われる。"
 
 #: ../../S/spawn.rst:14
 msgid ""
-"In gaming, meant to indicate where (spawn-point) and when a player comes "
-"to life (or re-spawns) after being killed. Opposite of :ref:`frag`\\."
+"In gaming, meant to indicate where (spawn-point) and when a player comes to "
+"life (or re-spawns) after being killed. Opposite of :ref:`frag`\\."
 msgstr ""
-
+"ゲームにおいて、プレイヤーが殺された後に生き返る(または再spawnする)場所(spawn-point)と時を示すのに使われる。\\ "
+":ref:`frag`\\ の反対。"
