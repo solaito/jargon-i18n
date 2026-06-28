@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/bogon-flux.rst:5
 msgid "bogon flux"
-msgstr ""
+msgstr "bogon flux"
 
 #: ../../B/bogon-flux.rst:7
 msgid "/boh´gon fluhks/, n\\."
-msgstr ""
+msgstr "/boh´gon fluhks/, 名詞"
 
 #: ../../B/bogon-flux.rst:9
 msgid ""
 "A measure of a supposed field of :ref:`bogosity` emitted by a speaker, "
 "measured by a :ref:`bogometer`\\; as a speaker starts to wander into "
-"increasing bogosity a listener might say \"Warning, warning, bogon flux "
-"is rising\". See :ref:`quantum-bogodynamics`\\."
+"increasing bogosity a listener might say \"Warning, warning, bogon flux is "
+"rising\". See :ref:`quantum-bogodynamics`\\."
 msgstr ""
-
+"\\ :ref:`bogometer`\\ で測定される、話者から放出される\\ :ref:`bogosity`\\ "
+"の想定上の場の尺度。話者がますます増大するbogosityへとさまよい込み始めると、聞き手は「警告、警告、bogon "
+"fluxが上昇中」と言うかもしれない。\\ :ref:`quantum-bogodynamics`\\ を参照。"

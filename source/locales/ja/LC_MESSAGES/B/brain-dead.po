@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/brain-dead.rst:5
 msgid "brain-dead"
-msgstr ""
+msgstr "brain-dead"
 
 #: ../../B/brain-dead.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../B/brain-dead.rst:9
 msgid ""
@@ -35,4 +35,6 @@ msgid ""
 "failure rather than malfunction or simple stupidity. \"This comm program "
 "doesn't know how to send a break — how brain-dead!\""
 msgstr ""
-
+"[一般的]極端にbrain-"
+"damaged。誤作動や単なる愚かさというより、設計の致命的な失敗を含意する傾向がある。「このcommプログラムはbreakの送り方を知らない——なんてbrain-"
+"deadだ!」"

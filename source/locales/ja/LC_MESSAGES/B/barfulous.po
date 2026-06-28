@@ -8,30 +8,30 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/barfulous.rst:5
 msgid "barfulous"
-msgstr ""
+msgstr "barfulous"
 
 #: ../../B/barfulous.rst:7
 msgid "/bar´fyoo·l\\@s/, adj\\."
-msgstr ""
+msgstr "/bar´fyoo·l\\@s/, 形容詞"
 
 #: ../../B/barfulous.rst:9
 msgid ""
 "(alt. : barfucious, /bar-fyoo-sh\\@s/) Said of something that would make "
 "anyone barf, if only for esthetic reasons."
 msgstr ""
-
+"(別形:barfucious、/bar-fyoo-sh\\@s/)たとえ美的な理由だけからでも、誰でもbarfさせてしまうような何かについて言う。"

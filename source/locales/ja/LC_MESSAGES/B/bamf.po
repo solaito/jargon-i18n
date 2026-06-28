@@ -8,55 +8,60 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/bamf.rst:5
 msgid "bamf"
-msgstr ""
+msgstr "bamf"
 
 #: ../../B/bamf.rst:7
 msgid "/bamf/"
-msgstr ""
+msgstr "/bamf/"
 
 #: ../../B/bamf.rst:10
 msgid ""
-"[from X-Men comics; originally \"bampf\"] interj. Notional sound made by "
-"a person or object teleporting in or out of the hearer's vicinity. Often "
-"used in :ref:`virtual-reality` (esp. :ref:`MUD`\\) electronic :ref:`fora`"
-" when a character wishes to make a dramatic entrance or exit."
+"[from X-Men comics; originally \"bampf\"] interj. Notional sound made by a "
+"person or object teleporting in or out of the hearer's vicinity. Often used "
+"in :ref:`virtual-reality` (esp. :ref:`MUD`\\) electronic :ref:`fora` when a "
+"character wishes to make a dramatic entrance or exit."
 msgstr ""
+"[X-Menのコミックから。元は「bampf」]間投詞。人や物が、聞き手の近くにテレポートで現れたり消えたりするときに発するとされる音。\\ "
+":ref:`virtual-reality`\\ (特に\\ :ref:`MUD`\\ )の電子\\ :ref:`fora`\\ "
+"で、キャラクターが劇的な登場や退場をしたいときによく使われる。"
 
 #: ../../B/bamf.rst:16
 msgid ""
 "The sound of magical transformation, used in virtual reality :ref:`fora` "
 "like MUDs."
-msgstr ""
+msgstr "魔法による変身の音。MUDのような仮想現実の\\ :ref:`fora`\\ で使われる。"
 
 #: ../../B/bamf.rst:19
 msgid ""
 "In MUD circles, \"bamf\" is also used to refer to the act by which a MUD "
 "server sends a special notification to the MUD client to switch its "
-"connection to another server (\"I'll set up the old site to just bamf "
-"people over to our new location. \")."
+"connection to another server (\"I'll set up the old site to just bamf people"
+" over to our new location. \")."
 msgstr ""
+"MUD界隈では、「bamf」は、MUDサーバーがMUDクライアントに特別な通知を送り、その接続を別のサーバーに切り替えさせる行為を指すのにも使われる(「古いサイトを、人々を我々の新しい場所へbamfするだけの設定にしておこう」)。"
 
 #: ../../B/bamf.rst:23
 msgid ""
-"Used by MUDders on occasion in a more general sense related to sense 3, "
-"to refer to directing someone to another location or resource (\"A user "
-"was asking about some technobabble so I bamfed them to "
-"`http://www.catb.org/~esr/jargon/ "
-"<http://www.catb.org/~esr/jargon/>`_\".)"
+"Used by MUDders on occasion in a more general sense related to sense 3, to "
+"refer to directing someone to another location or resource (\"A user was "
+"asking about some technobabble so I bamfed them to "
+"`http://www.catb.org/~esr/jargon/ <http://www.catb.org/~esr/jargon/>`_\".)"
 msgstr ""
-
+"MUDプレイヤーは時に、語義3に関連したより一般的な意味で、誰かを別の場所や資源へ案内することを指してこれを使う(「あるユーザーが技術用語の羅列について尋ねていたので、彼らを"
+" `http://www.catb.org/~esr/jargon/ <http://www.catb.org/~esr/jargon/>`_ "
+"へbamfしてやった」)。"

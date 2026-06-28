@@ -8,74 +8,77 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/bogus.rst:5
 msgid "bogus"
-msgstr ""
+msgstr "bogus"
 
 #: ../../B/bogus.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../B/bogus.rst:10
 msgid "Non-functional. \"Your patches are bogus.\""
-msgstr ""
+msgstr "動作しない。「君のパッチはbogusだ」。"
 
 #: ../../B/bogus.rst:14
 msgid "Useless. \"OPCON is a bogus program.\""
-msgstr ""
+msgstr "役立たずの。「OPCONはbogusなプログラムだ」。"
 
 #: ../../B/bogus.rst:18
 msgid "False. \"Your arguments are bogus.\""
-msgstr ""
+msgstr "偽の。「君の議論はbogusだ」。"
 
 #: ../../B/bogus.rst:22
 msgid "Incorrect. \"That algorithm is bogus.\""
-msgstr ""
+msgstr "誤っている。「あのアルゴリズムはbogusだ」。"
 
 #: ../../B/bogus.rst:26
 msgid ""
 "Unbelievable. \"You claim to have solved the halting problem for Turing "
 "Machines? That's totally bogus.\""
-msgstr ""
+msgstr "信じがたい。「チューリングマシンの停止問題を解いたと主張するのか? それは完全にbogusだ」。"
 
 #: ../../B/bogus.rst:31
 msgid "Silly. \"Stop writing those bogus sagas.\""
-msgstr ""
+msgstr "ばかげた。「あんなbogusな物語を書くのはやめろ」。"
 
 #: ../../B/bogus.rst:34
 msgid ""
 "Astrology is bogus. So is a bolt that is obviously about to break. So is "
 "someone who makes blatantly false claims to have solved a scientific "
-"problem. (This word seems to have some, but not all, of the connotations "
-"of :ref:`random` — mostly the negative ones.)"
+"problem. (This word seems to have some, but not all, of the connotations of "
+":ref:`random` — mostly the negative ones.)"
 msgstr ""
+"占星術はbogusだ。今にも折れそうなのが明白なボルトもbogusだ。科学的問題を解いたと見え透いた偽りの主張をする者もbogusだ。(この語は\\ "
+":ref:`random`\\ の含意の一部を——だが全部ではなく、たいていは否定的なものを——持つようだ。)"
 
 #: ../../B/bogus.rst:39
 msgid ""
 "It is claimed that bogus was originally used in the hackish sense at "
 "Princeton in the late 1960s. It was spread to CMU and Yale by Michael "
 "Shamos, a migratory Princeton alumnus. A glossary of bogus words was "
-"compiled at Yale when the word was first popularized there about 1975-76."
-" These coinages spread into hackerdom from CMU and MIT. Most of them "
-"remained wordplay objects rather than actual vocabulary items or live "
-"metaphors. Examples: amboguous (having multiple bogus interpretations); "
-"bogotissimo (in a gloriously bogus manner); bogotophile (one who is "
-"pathologically fascinated by the bogus); paleobogology (the study of "
-"primeval bogosity)."
+"compiled at Yale when the word was first popularized there about 1975-76. "
+"These coinages spread into hackerdom from CMU and MIT. Most of them remained"
+" wordplay objects rather than actual vocabulary items or live metaphors. "
+"Examples: amboguous (having multiple bogus interpretations); bogotissimo (in"
+" a gloriously bogus manner); bogotophile (one who is pathologically "
+"fascinated by the bogus); paleobogology (the study of primeval bogosity)."
 msgstr ""
+"bogusは、もともと1960年代後半にプリンストンでハッカー的な意味で使われたとされる。それを、渡り歩くプリンストン卒業生Michael "
+"ShamosがCMUとYaleに広めた。この語がYaleで初めて広まった1975〜76年ごろ、Yaleでbogusな単語の用語集が編まれた。これらの造語はCMUとMITからハッカー界へ広まった。その大半は、実際の語彙項目や生きた比喩というより、言葉遊びの対象にとどまった。例:amboguous(複数のbogusな解釈を持つ)、bogotissimo(栄光に満ちてbogusなやり方で)、bogotophile(病的にbogusなものに魅了される者)、paleobogology(原初のbogosityの研究)。"
 
 #: ../../B/bogus.rst:46
 msgid ""
@@ -84,15 +87,19 @@ msgid ""
 ":ref:`bogotify`\\, and :ref:`quantum-bogodynamics` and the related but "
 "unlisted :ref:`Dr--Fred-Mbogo`\\."
 msgstr ""
+"しかし一部のbogo語は、十分な生きた通用力を得て、この用語集の他の箇所に載っている。\\ :ref:`bogometer`\\ 、\\ "
+":ref:`bogon`\\ 、\\ :ref:`bogotify`\\ 、\\ :ref:`quantum-bogodynamics`\\ "
+"、そして関連するが未収録の\\ :ref:`Dr--Fred-Mbogo`\\ を参照。"
 
 #: ../../B/bogus.rst:48
 msgid ""
-"By the early 1980s ‘bogus’ was also current in something like hacker "
-"usage sense in West Coast teen slang, and it had gone mainstream by 1985."
-" A correspondent from Cambridge reports, by contrast, that these uses of "
-"bogus grate on British nerves; in Britain the word means, rather "
-"specifically, ‘counterfeit’, as in \"a bogus 10-pound note\". According "
-"to Merriam-Webster, the word dates back to 1825 and originally referred "
-"to a counterfeiting machine."
+"By the early 1980s ‘bogus’ was also current in something like hacker usage "
+"sense in West Coast teen slang, and it had gone mainstream by 1985. A "
+"correspondent from Cambridge reports, by contrast, that these uses of bogus "
+"grate on British nerves; in Britain the word means, rather specifically, "
+"‘counterfeit’, as in \"a bogus 10-pound note\". According to Merriam-"
+"Webster, the word dates back to 1825 and originally referred to a "
+"counterfeiting machine."
 msgstr ""
-
+"1980年代初頭までに、‘bogus’は西海岸のティーンのスラングでもハッカー的な用法に似た形で使われており、1985年までに主流に入っていた。対照的に、ケンブリッジの通信員によれば、これらのbogusの用法は英国人の神経に障るという。英国ではこの語は、「bogusな10ポンド札」のように、かなり特定的に‘偽造の’を意味する。Merriam-"
+"Websterによれば、この語は1825年にさかのぼり、もともとは偽造機を指していた。"

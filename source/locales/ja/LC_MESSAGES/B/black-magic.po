@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/black-magic.rst:5
 msgid "black magic"
-msgstr ""
+msgstr "black magic"
 
 #: ../../B/black-magic.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../B/black-magic.rst:9
 msgid ""
-"[common] A technique that works, though nobody really understands why. "
-"More obscure than :ref:`voodoo-programming`\\, which may be done by "
-"cookbook. Compare also :ref:`black-art`\\, :ref:`deep-magic`\\, and :ref"
-":`magic-number` (sense 2)."
+"[common] A technique that works, though nobody really understands why. More "
+"obscure than :ref:`voodoo-programming`\\, which may be done by cookbook. "
+"Compare also :ref:`black-art`\\, :ref:`deep-magic`\\, and :ref:`magic-"
+"number` (sense 2)."
 msgstr ""
-
+"[一般的]動作するが、なぜ動作するのか誰も本当には理解していない技法。料理本(cookbook)どおりに行えるかもしれない\\ "
+":ref:`voodoo-programming`\\ よりも不可解である。\\ :ref:`black-art`\\ 、\\ :ref:`deep-"
+"magic`\\ 、\\ :ref:`magic-number`\\ (語義2)とも比較せよ。"

@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/bogon-filter.rst:5
 msgid "bogon filter"
-msgstr ""
+msgstr "bogon filter"
 
 #: ../../B/bogon-filter.rst:7
 msgid "/boh´gon fil'tr/, n\\."
-msgstr ""
+msgstr "/boh´gon fil'tr/, 名詞"
 
 #: ../../B/bogon-filter.rst:9
 msgid ""
-"Any device, software or hardware, that limits or suppresses the flow "
-"and/or emission of bogons. \"Engineering hacked a bogon filter between "
-"the Cray and the VAXen, and now we're getting fewer dropped packets.\" "
-"See also :ref:`bogosity`\\, :ref:`bogus`\\."
+"Any device, software or hardware, that limits or suppresses the flow and/or "
+"emission of bogons. \"Engineering hacked a bogon filter between the Cray and"
+" the VAXen, and now we're getting fewer dropped packets.\" See also "
+":ref:`bogosity`\\, :ref:`bogus`\\."
 msgstr ""
-
+"bogonの流れおよび/または放出を制限ないし抑制する、あらゆる装置(ソフトウェアであれハードウェアであれ)。「技術陣がCrayとVAX群の間にbogon"
+" filterをハックして仕込んだら、今ではパケットの取りこぼしが減った」。\\ :ref:`bogosity`\\ 、\\ "
+":ref:`bogus`\\ も参照。"

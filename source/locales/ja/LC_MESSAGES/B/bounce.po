@@ -8,58 +8,63 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/bounce.rst:5
 msgid "bounce"
-msgstr ""
+msgstr "bounce"
 
 #: ../../B/bounce.rst:7
 msgid "v\\."
-msgstr ""
+msgstr "動詞"
 
 #: ../../B/bounce.rst:10
 msgid ""
-"[common; perhaps by analogy to a bouncing check] An electronic mail "
-"message that is undeliverable and returns an error notification to the "
-"sender is said to bounce. See also :ref:`bounce-message`\\."
+"[common; perhaps by analogy to a bouncing check] An electronic mail message "
+"that is undeliverable and returns an error notification to the sender is "
+"said to bounce. See also :ref:`bounce-message`\\."
 msgstr ""
+"[一般的。おそらく不渡り小切手(bouncing "
+"check)との類推から]配達できずに送信者へエラー通知を返す電子メールメッセージは、bounceすると言われる。\\ :ref:`bounce-"
+"message`\\ も参照。"
 
 #: ../../B/bounce.rst:14
 msgid ""
-"To engage in sexual intercourse; prob. : from the expression ‘bouncing "
-"the mattress’, but influenced by Roo's psychosexually loaded \"Try "
-"bouncing me, Tigger!\" from the *Winnie-the-Pooh* books. Compare "
-":ref:`boink`\\."
+"To engage in sexual intercourse; prob. : from the expression ‘bouncing the "
+"mattress’, but influenced by Roo's psychosexually loaded \"Try bouncing me, "
+"Tigger!\" from the *Winnie-the-Pooh* books. Compare :ref:`boink`\\."
 msgstr ""
+"性交すること。おそらく‘bouncing the mattress(マットレスを弾ませる)’という表現からだが、\\ *Winnie-the-"
+"Pooh*\\ の本に出てくるRooの、性的な含みを帯びた「Try bouncing me, "
+"Tigger!(僕をbounceしてみてよ、ティガー!)」の影響も受けている。\\ :ref:`boink`\\ と比較せよ。"
 
 #: ../../B/bounce.rst:20
 msgid ""
 "To casually reboot a system in order to clear up a transient problem "
-"(possibly editing a configuration file in the process, if it is one that "
-"is only re-read at boot time). Reported primarily among :ref:`VMS` and "
+"(possibly editing a configuration file in the process, if it is one that is "
+"only re-read at boot time). Reported primarily among :ref:`VMS` and "
 ":ref:`Unix` users."
 msgstr ""
+"一時的な問題を解消するために、システムを気軽に再起動すること(その過程で、ブート時にのみ再読み込みされる設定ファイルを編集することもある)。主に\\ "
+":ref:`VMS`\\ と\\ :ref:`Unix`\\ のユーザーの間で報告されている。"
 
 #: ../../B/bounce.rst:24
 msgid ""
-"[VM/CMS programmers] *Automatic* warm-start of a machine after an error. "
-"\"I logged on this morning and found it had bounced 7 times during the "
-"night\""
-msgstr ""
+"[VM/CMS programmers] *Automatic* warm-start of a machine after an error. \"I"
+" logged on this morning and found it had bounced 7 times during the night\""
+msgstr "[VM/CMSプログラマー]エラー後のマシンの\\ *自動的な*\\ ウォームスタート。「今朝ログオンしたら、夜の間に7回bounceしていた」。"
 
 #: ../../B/bounce.rst:28
 msgid "[IBM] To :ref:`power-cycle` a peripheral in order to reset it."
-msgstr ""
-
+msgstr "[IBM]周辺機器をリセットするために\\ :ref:`power-cycle`\\ すること。"

@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/binary-four.rst:5
 msgid "binary four"
-msgstr ""
+msgstr "binary four"
 
 #: ../../B/binary-four.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../B/binary-four.rst:9
 msgid ""
-"[Usenet] The finger, in the sense of *digitus impudicus*\\. This comes "
-"from an analogy between binary and the hand, i.e. 1=00001=thumb, "
-"2=00010=index finger, 3=00011=index and thumb, 4=00100. Considered silly."
-" Prob. from humorous derivative of :ref:`finger`\\, sense 4."
+"[Usenet] The finger, in the sense of *digitus impudicus*\\. This comes from "
+"an analogy between binary and the hand, i.e. 1=00001=thumb, 2=00010=index "
+"finger, 3=00011=index and thumb, 4=00100. Considered silly. Prob. from "
+"humorous derivative of :ref:`finger`\\, sense 4."
 msgstr ""
-
+"[Usenet]\\ *digitus impudicus*\\ "
+"(無礼な指)の意味での、中指。これは二進数と手の類推から来ている。すなわち、1=00001=親指、2=00010=人差し指、3=00011=人差し指と親指、4=00100。ばかげているとされる。おそらく\\"
+" :ref:`finger`\\ の語義4のユーモラスな派生。"

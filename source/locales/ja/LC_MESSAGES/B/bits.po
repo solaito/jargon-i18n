@@ -8,38 +8,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/bits.rst:5
 msgid "bits"
-msgstr ""
+msgstr "bits"
 
 #: ../../B/bits.rst:7
 msgid "pl\\.n\\."
-msgstr ""
+msgstr "複数名詞"
 
 #: ../../B/bits.rst:10
 msgid ""
-"Information. Examples: \"I need some bits about file formats.\" (\"I need"
-" to know about file formats.\") Compare :ref:`core-dump`\\, sense 4."
+"Information. Examples: \"I need some bits about file formats.\" (\"I need to"
+" know about file formats.\") Compare :ref:`core-dump`\\, sense 4."
 msgstr ""
+"情報。例:「ファイル形式についてのbitsが要る」(「ファイル形式について知る必要がある」)。\\ :ref:`core-dump`\\ "
+"の語義4と比較せよ。"
 
 #: ../../B/bits.rst:16
 msgid ""
-"Machine-readable representation of a document, specifically as contrasted"
-" with paper: \"I have only a photocopy of the Jargon File; does anyone "
-"know where I can get the bits?\". See :ref:`softcopy`\\, :ref:`source-of-"
-"all-good-bits` See also :ref:`bit`\\."
+"Machine-readable representation of a document, specifically as contrasted "
+"with paper: \"I have only a photocopy of the Jargon File; does anyone know "
+"where I can get the bits?\". See :ref:`softcopy`\\, :ref:`source-of-all-"
+"good-bits` See also :ref:`bit`\\."
 msgstr ""
-
+"文書の機械可読な表現。特に紙との対比で言う。「Jargon Fileのコピーは持っているが、bitsはどこで手に入るか誰か知らないか?」\\ "
+":ref:`softcopy`\\ 、\\ :ref:`source-of-all-good-bits`\\ を参照。\\ :ref:`bit`\\ "
+"も参照。"

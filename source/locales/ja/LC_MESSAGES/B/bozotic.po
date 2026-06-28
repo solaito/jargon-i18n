@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../B/bozotic.rst:5
 msgid "bozotic"
-msgstr ""
+msgstr "bozotic"
 
 #: ../../B/bozotic.rst:7
 msgid "/boh·zoh´tik/, /boh·zo´tik/, adj\\."
-msgstr ""
+msgstr "/boh·zoh´tik/, /boh·zo´tik/, 形容詞"
 
 #: ../../B/bozotic.rst:9
 msgid ""
 "[from the name of a TV clown even more losing than Ronald McDonald] "
-"Resembling or having the quality of a bozo; that is, clownish, "
-"ludicrously wrong, unintentionally humorous. Compare :ref:`wonky`\\, "
-":ref:`demented`\\. Note that the noun ‘bozo’ occurs in slang, but the "
-"mainstream adjectival form would be ‘bozo-like’ or (in New England) "
-"‘bozoish’."
+"Resembling or having the quality of a bozo; that is, clownish, ludicrously "
+"wrong, unintentionally humorous. Compare :ref:`wonky`\\, :ref:`demented`\\. "
+"Note that the noun ‘bozo’ occurs in slang, but the mainstream adjectival "
+"form would be ‘bozo-like’ or (in New England) ‘bozoish’."
 msgstr ""
-
+"[ロナルド・マクドナルドよりもさらにlosingなテレビのピエロの名前から]bozo(間抜けなピエロ)に似ている、またはその性質を持つこと。すなわち、道化じみた、こっけいなほど間違った、意図せずおかしい。\\"
+" :ref:`wonky`\\ 、\\ :ref:`demented`\\ "
+"と比較せよ。名詞‘bozo’はスラングに見られるが、主流の形容詞形は‘bozo-"
+"like’か(ニューイングランドでは)‘bozoish’であることに注意。"
