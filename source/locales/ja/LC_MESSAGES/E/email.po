@@ -8,59 +8,62 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../E/email.rst:5
 msgid "email"
-msgstr ""
+msgstr "email"
 
 #: ../../E/email.rst:7
 msgid "/ee´mayl/"
-msgstr ""
+msgstr "/ee´mayl/"
 
 #: ../../E/email.rst:9
 msgid "(also written ‘e-mail’ and ‘E-mail’)"
-msgstr ""
+msgstr "(‘e-mail’や‘E-mail’とも書かれる)"
 
 #: ../../E/email.rst:11
 msgid ""
-"n\\. Electronic mail automatically passed through computer networks "
-"and/or via modems over common-carrier lines. Contrast :ref:`snail-"
-"mail`\\, :ref:`paper-net`\\, :ref:`voice-net`\\. See :ref:`network-"
-"address`\\."
+"n\\. Electronic mail automatically passed through computer networks and/or "
+"via modems over common-carrier lines. Contrast :ref:`snail-mail`\\, "
+":ref:`paper-net`\\, :ref:`voice-net`\\. See :ref:`network-address`\\."
 msgstr ""
+"名詞。コンピューターネットワークを通じて、および/または公衆回線上のモデムを介して、自動的に渡される電子メール。\\ :ref:`snail-"
+"mail`\\ 、\\ :ref:`paper-net`\\ 、\\ :ref:`voice-net`\\ と対比せよ。\\ "
+":ref:`network-address`\\ を参照。"
 
 #: ../../E/email.rst:16
 msgid "vt\\. To send electronic mail."
-msgstr ""
+msgstr "他動詞。電子メールを送ること。"
 
 #: ../../E/email.rst:19
 msgid ""
 "Oddly enough, the word emailed is actually listed in the OED; it means "
 "\"embossed (with a raised pattern) or perh. arranged in a net or open "
-"work\". A use from 1480 is given. The word is probably derived from "
-"French émaillé (enameled) and related to Old French emmailleüre "
-"(network). A French correspondent tells us that in modern French, ‘email’"
-" is a hard enamel obtained by heating special paints in a furnace; an "
-"‘emailleur’ (no final e) is a craftsman who makes email (he generally "
-"paints some objects (like, say, jewelry) and cooks them in a furnace)."
+"work\". A use from 1480 is given. The word is probably derived from French "
+"émaillé (enameled) and related to Old French emmailleüre (network). A French"
+" correspondent tells us that in modern French, ‘email’ is a hard enamel "
+"obtained by heating special paints in a furnace; an ‘emailleur’ (no final e)"
+" is a craftsman who makes email (he generally paints some objects (like, "
+"say, jewelry) and cooks them in a furnace)."
 msgstr ""
+"不思議なことに、emailedという語は実際にOEDに載っている。それは「(浮き出し模様で)型押しされた、あるいはおそらく網目や透かし細工に配された」という意味である。1480年の用例が挙げられている。この語はおそらくフランス語のémaillé(琺瑯をかけた)に由来し、古フランス語のemmailleüre(網細工)と関連している。あるフランス人通信員によれば、現代フランス語では‘email’は特殊な絵具を炉で加熱して得られる硬い琺瑯であり、‘emailleur’(末尾のeなし)はemailを作る職人(彼は一般に何らかの物品(たとえば宝飾品など)に絵付けをし、それを炉で焼く)を指すという。"
 
 #: ../../E/email.rst:25
 msgid ""
-"There are numerous spelling variants of this word. In Internet traffic up"
-" to 1995, ‘email’ predominates, ‘e-mail’ runs a not-too-distant second, "
-"and ‘E-mail’ and ‘Email’ are a distant third and fourth."
+"There are numerous spelling variants of this word. In Internet traffic up to"
+" 1995, ‘email’ predominates, ‘e-mail’ runs a not-too-distant second, and "
+"‘E-mail’ and ‘Email’ are a distant third and fourth."
 msgstr ""
-
+"この語には数多くの綴りの異形がある。1995年までのインターネット上のトラフィックでは、‘email’が優勢で、‘e-mail’がそれほど離れていない2位、‘E-mail’と‘Email’が大きく離れた3位と4位だった。"

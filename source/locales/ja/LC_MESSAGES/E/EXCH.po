@@ -8,35 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../E/EXCH.rst:5
 msgid "EXCH"
-msgstr ""
+msgstr "EXCH"
 
 #: ../../E/EXCH.rst:7
 msgid "/eks´ch\\@/, /eksch/, vt\\."
-msgstr ""
+msgstr "/eks´ch\\@/, /eksch/, 他動詞"
 
 #: ../../E/EXCH.rst:9
 msgid ""
-"To exchange two things, each for the other; to swap places. If you point "
-"to two people sitting down and say \"Exch! \", you are asking them to "
-"trade places. EXCH, meaning EXCHange, was originally the name of a PDP-10"
-" instruction that exchanged the contents of a register and a memory "
-"location. Many newer hackers are probably thinking instead of the "
-":ref:`PostScript` exchange operator (which is usually written in "
-"lowercase)."
+"To exchange two things, each for the other; to swap places. If you point to "
+"two people sitting down and say \"Exch! \", you are asking them to trade "
+"places. EXCH, meaning EXCHange, was originally the name of a PDP-10 "
+"instruction that exchanged the contents of a register and a memory location."
+" Many newer hackers are probably thinking instead of the :ref:`PostScript` "
+"exchange operator (which is usually written in lowercase)."
 msgstr ""
-
+"二つのものを、それぞれ互いに交換すること。場所を入れ替えること。座っている二人を指して「Exch!」と言えば、二人に場所を入れ替えるよう頼んでいることになる。EXCHは、EXCHangeの意味で、元々はレジスタとメモリ位置の内容を交換するPDP-10の命令の名前だった。多くの新しめのハッカーは、おそらく代わりに\\"
+" :ref:`PostScript`\\ のexchange演算子(通常は小文字で書かれる)のことを思い浮かべるだろう。"

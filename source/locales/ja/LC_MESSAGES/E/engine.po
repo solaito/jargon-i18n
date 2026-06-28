@@ -8,47 +8,52 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../E/engine.rst:5
 msgid "engine"
-msgstr ""
+msgstr "engine"
 
 #: ../../E/engine.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../E/engine.rst:10
 msgid ""
 "A piece of hardware that encapsulates some function but can't be used "
-"without some kind of :ref:`front-end`\\. Today we have, especially, print"
-" engine: the guts of a laser printer."
+"without some kind of :ref:`front-end`\\. Today we have, especially, print "
+"engine: the guts of a laser printer."
 msgstr ""
+"何らかの機能を内包しているが、ある種の\\ :ref:`front-end`\\ "
+"がないと使えないハードウェアの一部。今日では特に、プリントエンジン、つまりレーザープリンターの中核がある。"
 
 #: ../../E/engine.rst:14
 msgid ""
 "An analogous piece of software; notionally, one that does a lot of noisy "
 "crunching, such as a database engine."
-msgstr ""
+msgstr "それに類するソフトウェアの一部。観念的には、データベースエンジンのように、大量のうるさい処理を行うもの。"
 
 #: ../../E/engine.rst:16
 msgid ""
 "The hacker senses of engine are actually close to its original, pre-"
-"Industrial-Revolution sense of a skill, clever device, or instrument (the"
-" word is cognate to ‘ingenuity’). This sense had not been completely "
-"eclipsed by the modern connotation of power-transducing machinery in "
-"Charles Babbage's time, which explains why he named the stored-program "
-"computer that he designed in 1844 the Analytical Engine."
+"Industrial-Revolution sense of a skill, clever device, or instrument (the "
+"word is cognate to ‘ingenuity’). This sense had not been completely eclipsed"
+" by the modern connotation of power-transducing machinery in Charles "
+"Babbage's time, which explains why he named the stored-program computer that"
+" he designed in 1844 the Analytical Engine."
 msgstr ""
-
+"engineというハッカー的な語義は、実は産業革命以前のその元々の意味、すなわち技能、巧妙な装置、あるいは道具(この語は‘ingenuity(創意工夫)’と同根である)に近い。この意味は、Charles"
+" "
+"Babbageの時代には動力を伝達する機械という近代的な含意によってまだ完全には覆い隠されていなかった。彼が1844年に設計した記憶プログラム式コンピューターをAnalytical"
+" Engineと名付けた理由は、これで説明がつく。"

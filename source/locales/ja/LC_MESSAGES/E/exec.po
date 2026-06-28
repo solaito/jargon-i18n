@@ -8,49 +8,52 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../E/exec.rst:5
 msgid "exec"
-msgstr ""
+msgstr "exec"
 
 #: ../../E/exec.rst:7
 msgid "/eg·zek´/, /eks´ek/, n\\."
-msgstr ""
+msgstr "/eg·zek´/, /eks´ek/, 名詞"
 
 #: ../../E/exec.rst:10
 msgid ""
 "[Unix: from execute] Synonym for :ref:`chain`\\, derives from the "
 ":manpage:`exec(2)` call."
-msgstr ""
+msgstr "[Unix:executeより] \\ :ref:`chain`\\ の同義語で、\\ :manpage:`exec(2)`\\ 呼び出しに由来する。"
 
 #: ../../E/exec.rst:13
 msgid ""
 "[from executive] obs. The command interpreter for an :ref:`OS` (see "
-":ref:`shell`\\); term esp. used around mainframes, and prob. : derived "
-"from UNIVAC's archaic EXEC 2 and EXEC 8 operating systems."
+":ref:`shell`\\); term esp. used around mainframes, and prob. : derived from "
+"UNIVAC's archaic EXEC 2 and EXEC 8 operating systems."
 msgstr ""
+"[executiveより] 廃語。\\ :ref:`OS`\\ のコマンドインタプリタ(\\ :ref:`shell`\\ "
+"を参照)。特にメインフレーム周りで使われ、おそらくUNIVACの古めかしいEXEC 2およびEXEC 8オペレーティングシステムに由来する。"
 
 #: ../../E/exec.rst:19
 msgid ""
 "At IBM and VM/CMS shops, the equivalent of a shell command file (among "
 "VM/CMS users)."
-msgstr ""
+msgstr "IBMやVM/CMSの現場では、(VM/CMSユーザーの間で)シェルコマンドファイルに相当するもの。"
 
 #: ../../E/exec.rst:21
 msgid ""
 "The mainstream ‘exec’ as an abbreviation for (human) executive is *not* "
 "used. To a hacker, an ‘exec’ is always a program, never a person."
 msgstr ""
-
+"主流の(人間の)executiveの略語としての‘exec’は使われ\\ *ない*\\ "
+"。ハッカーにとって、‘exec’は常にプログラムであり、決して人ではない。"
