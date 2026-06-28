@@ -8,273 +8,282 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../pronunciation.rst:5
 msgid "Pronunciation Guide"
-msgstr ""
+msgstr "発音ガイド"
 
 #: ../../pronunciation.rst:7
 msgid ""
-"Pronunciation keys are provided in the jargon listings for all entries "
-"that are neither dictionary words pronounced as in standard English nor "
-"obvious compounds thereof. Slashes bracket phonetic pronunciations, which"
-" are to be interpreted using the following conventions:"
+"Pronunciation keys are provided in the jargon listings for all entries that "
+"are neither dictionary words pronounced as in standard English nor obvious "
+"compounds thereof. Slashes bracket phonetic pronunciations, which are to be "
+"interpreted using the following conventions:"
 msgstr ""
+"発音キーは、標準的な英語の発音をする辞書収録語でも、その明白な合成語でもないすべての項目について、jargonの見出しに付されている。音声表記はスラッシュで挟まれ、以下の慣例に従って解釈される。"
 
 #: ../../pronunciation.rst:10
 msgid ""
-"Syllables are hyphen-separated, except that an accent or back-accent "
-"follows each accented syllable (the back-accent marks a secondary accent "
-"in some words of four or more syllables). If no accent is given, the word"
-" is pronounced with equal accentuation on all syllables (this is common "
-"for abbreviations)."
+"Syllables are hyphen-separated, except that an accent or back-accent follows"
+" each accented syllable (the back-accent marks a secondary accent in some "
+"words of four or more syllables). If no accent is given, the word is "
+"pronounced with equal accentuation on all syllables (this is common for "
+"abbreviations)."
 msgstr ""
+"音節はハイフンで区切られる。ただしアクセントまたは逆アクセントは、それぞれアクセントのある音節の後ろに置かれる(逆アクセントは、4音節以上の一部の単語で第二アクセントを示す)。アクセントが示されていない場合、その単語はすべての音節を均等に強く発音する(これは略語ではよくあることである)。"
 
 #: ../../pronunciation.rst:13
 msgid ""
-"Consonants are pronounced as in American English. The letter ‘g’ is "
-"always hard (as in \"got\" rather than \"giant\"); ‘ch’ is soft "
-"(\"church\" rather than \"chemist\"). The letter ‘j’ is the sound that "
-"occurs twice in \"judge\". The letter ‘s’ is always as in \"pass\", never"
-" a z sound. The digraph ‘kh’ is the guttural of \"loch\" or \"l'chaim\". "
-"The digraph ‘gh’ is the aspirated g+h of \"bughouse\" or \"ragheap\" "
-"(rare in English)."
+"Consonants are pronounced as in American English. The letter ‘g’ is always "
+"hard (as in \"got\" rather than \"giant\"); ‘ch’ is soft (\"church\" rather "
+"than \"chemist\"). The letter ‘j’ is the sound that occurs twice in "
+"\"judge\". The letter ‘s’ is always as in \"pass\", never a z sound. The "
+"digraph ‘kh’ is the guttural of \"loch\" or \"l'chaim\". The digraph ‘gh’ is"
+" the aspirated g+h of \"bughouse\" or \"ragheap\" (rare in English)."
 msgstr ""
+"子音はアメリカ英語のように発音する。文字‘g’は常に硬音である(\"giant\"ではなく\"got\"のように)。‘ch’は軟音である(\"chemist\"ではなく\"church\"のように)。文字‘j’は\"judge\"に二度現れる音である。文字‘s’は常に\"pass\"のようであり、決してzの音にはならない。二重音字‘kh’は\"loch\"または\"l'chaim\"の喉音である。二重音字‘gh’は\"bughouse\"または\"ragheap\"のような気息音のg+hである(英語ではまれ)。"
 
 #: ../../pronunciation.rst:20
 msgid ""
-"Uppercase letters are pronounced as their English letter names; thus (for"
-" example) /H-L-L/ is equivalent to /aych el el/. /Z/ may be pronounced "
-"/zee/ or /zed/ depending on your local dialect."
+"Uppercase letters are pronounced as their English letter names; thus (for "
+"example) /H-L-L/ is equivalent to /aych el el/. /Z/ may be pronounced /zee/ "
+"or /zed/ depending on your local dialect."
 msgstr ""
+"大文字はその英字の名前として発音する。したがって(たとえば)/H-L-L/は/aych el "
+"el/に等しい。/Z/は、あなたの地方の方言によって/zee/とも/zed/とも発音されうる。"
 
 #: ../../pronunciation.rst:23
 msgid "Vowels are represented as follows:"
-msgstr ""
+msgstr "母音は以下のように表す。"
 
 #: ../../pronunciation.rst:25
 msgid "Vowels"
-msgstr ""
+msgstr "母音"
 
 #: ../../pronunciation.rst:27
 msgid "a"
-msgstr ""
+msgstr "a"
 
 #: ../../pronunciation.rst:28
 msgid "back, that"
-msgstr ""
+msgstr "back, that"
 
 #: ../../pronunciation.rst:29
 msgid "ah"
-msgstr ""
+msgstr "ah"
 
 #: ../../pronunciation.rst:30
 msgid "father, palm (see note)"
-msgstr ""
+msgstr "father, palm (注を参照)"
 
 #: ../../pronunciation.rst:31
 msgid "ar"
-msgstr ""
+msgstr "ar"
 
 #: ../../pronunciation.rst:32
 msgid "far, mark"
-msgstr ""
+msgstr "far, mark"
 
 #: ../../pronunciation.rst:33
 msgid "aw"
-msgstr ""
+msgstr "aw"
 
 #: ../../pronunciation.rst:34
 msgid "flaw, caught"
-msgstr ""
+msgstr "flaw, caught"
 
 #: ../../pronunciation.rst:35
 msgid "ay"
-msgstr ""
+msgstr "ay"
 
 #: ../../pronunciation.rst:36
 msgid "bake, rain"
-msgstr ""
+msgstr "bake, rain"
 
 #: ../../pronunciation.rst:37
 msgid "e"
-msgstr ""
+msgstr "e"
 
 #: ../../pronunciation.rst:38
 msgid "less, men"
-msgstr ""
+msgstr "less, men"
 
 #: ../../pronunciation.rst:39
 msgid "ee"
-msgstr ""
+msgstr "ee"
 
 #: ../../pronunciation.rst:40
 msgid "easy, ski"
-msgstr ""
+msgstr "easy, ski"
 
 #: ../../pronunciation.rst:41
 msgid "eir"
-msgstr ""
+msgstr "eir"
 
 #: ../../pronunciation.rst:42
 msgid "their, software"
-msgstr ""
+msgstr "their, software"
 
 #: ../../pronunciation.rst:43
 msgid "i"
-msgstr ""
+msgstr "i"
 
 #: ../../pronunciation.rst:44
 msgid "trip, hit"
-msgstr ""
+msgstr "trip, hit"
 
 #: ../../pronunciation.rst:45
 msgid "i:"
-msgstr ""
+msgstr "i:"
 
 #: ../../pronunciation.rst:46
 msgid "life, sky"
-msgstr ""
+msgstr "life, sky"
 
 #: ../../pronunciation.rst:47
 msgid "o"
-msgstr ""
+msgstr "o"
 
 #: ../../pronunciation.rst:48
 msgid "block, stock (see note)"
-msgstr ""
+msgstr "block, stock (注を参照)"
 
 #: ../../pronunciation.rst:49
 msgid "oh"
-msgstr ""
+msgstr "oh"
 
 #: ../../pronunciation.rst:50
 msgid "flow, sew"
-msgstr ""
+msgstr "flow, sew"
 
 #: ../../pronunciation.rst:51
 msgid "oo"
-msgstr ""
+msgstr "oo"
 
 #: ../../pronunciation.rst:52
 msgid "loot, through"
-msgstr ""
+msgstr "loot, through"
 
 #: ../../pronunciation.rst:53
 msgid "or"
-msgstr ""
+msgstr "or"
 
 #: ../../pronunciation.rst:54
 msgid "more, door"
-msgstr ""
+msgstr "more, door"
 
 #: ../../pronunciation.rst:55
 msgid "ow"
-msgstr ""
+msgstr "ow"
 
 #: ../../pronunciation.rst:56
 msgid "out, how"
-msgstr ""
+msgstr "out, how"
 
 #: ../../pronunciation.rst:57
 msgid "oy"
-msgstr ""
+msgstr "oy"
 
 #: ../../pronunciation.rst:58
 msgid "boy, coin"
-msgstr ""
+msgstr "boy, coin"
 
 #: ../../pronunciation.rst:59
 msgid "uh"
-msgstr ""
+msgstr "uh"
 
 #: ../../pronunciation.rst:60
 msgid "but, some"
-msgstr ""
+msgstr "but, some"
 
 #: ../../pronunciation.rst:61
 msgid "u"
-msgstr ""
+msgstr "u"
 
 #: ../../pronunciation.rst:62
 msgid "put, foot"
-msgstr ""
+msgstr "put, foot"
 
 #: ../../pronunciation.rst:63
 msgid "y"
-msgstr ""
+msgstr "y"
 
 #: ../../pronunciation.rst:64
 msgid "yet, young"
-msgstr ""
+msgstr "yet, young"
 
 #: ../../pronunciation.rst:65
 msgid "yoo"
-msgstr ""
+msgstr "yoo"
 
 #: ../../pronunciation.rst:66
 msgid "few, chew"
-msgstr ""
+msgstr "few, chew"
 
 #: ../../pronunciation.rst:67
 msgid "[y]oo"
-msgstr ""
+msgstr "[y]oo"
 
 #: ../../pronunciation.rst:68
 msgid "*/oo/* with optional fronting as in ‘news’ (*/nooz/* or */nyooz/*\\)"
-msgstr ""
+msgstr "*/oo/*\\ で、‘news’のように任意で前舌化したもの(\\ */nooz/*\\ または */nyooz/*\\ )"
 
 #: ../../pronunciation.rst:70
 msgid ""
 "The glyph /\\@/ is used for the ‘schwa’ sound of unstressed or occluded "
 "vowels."
-msgstr ""
+msgstr "グリフ/\\@/は、強勢のない母音や閉塞母音の‘schwa(曖昧母音)’の音に用いる。"
 
 #: ../../pronunciation.rst:72
 msgid ""
 "The schwa vowel is omitted in syllables containing vocalic r, l, m or n; "
-"that is, ‘kitten’ and ‘color’ would be rendered /kit'n/ and /kuhl'r/, not"
-" /kit'\\@n/ and /kuhl'\\@r/."
+"that is, ‘kitten’ and ‘color’ would be rendered /kit'n/ and /kuhl'r/, not "
+"/kit'\\@n/ and /kuhl'\\@r/."
 msgstr ""
+"schwaの母音は、母音的なr、l、m、nを含む音節では省略される。すなわち、‘kitten’と‘color’は/kit'\\@n/や/kuhl'\\@r/ではなく、/kit'n/や/kuhl'r/と表記される。"
 
 #: ../../pronunciation.rst:74
 msgid ""
 "Note that the above table reflects mainly distinctions found in standard "
 "American English (that is, the neutral dialect spoken by TV network "
 "announcers and typical of educated speech in the Upper Midwest, Chicago, "
-"Minneapolis/St. Paul and Philadelphia). However, we separate /o/ from "
-"/ah/, which tend to merge in standard American. This may help readers "
-"accustomed to accents resembling British Received Pronunciation."
+"Minneapolis/St. Paul and Philadelphia). However, we separate /o/ from /ah/, "
+"which tend to merge in standard American. This may help readers accustomed "
+"to accents resembling British Received Pronunciation."
 msgstr ""
+"上記の表は、主に標準的なアメリカ英語(すなわち、テレビ局のアナウンサーが話し、アッパー・ミッドウェスト、シカゴ、ミネアポリス/セントポール、フィラデルフィアの教養ある話者に典型的な中立方言)に見られる区別を反映していることに注意。ただし、我々は標準的なアメリカ英語では融合しがちな/o/を/ah/から分離している。これは、イギリスの容認発音(Received"
+" Pronunciation)に近いアクセントに慣れた読者の助けになるかもしれない。"
 
 #: ../../pronunciation.rst:79
 msgid ""
-"The intent of this scheme is to permit as many readers as possible to map"
-" the pronunciations into their local dialect by ignoring some subset of "
-"the distinctions we make. Speakers of British RP, for example, can smash "
+"The intent of this scheme is to permit as many readers as possible to map "
+"the pronunciations into their local dialect by ignoring some subset of the "
+"distinctions we make. Speakers of British RP, for example, can smash "
 "terminal /r/ and all unstressed vowels. Speakers of many varieties of "
 "southern American will automatically map /o/ to /aw/; and so forth. "
-"(Standard American makes a good reference dialect for this purpose "
-"because it has crisp consonants and more vowel distinctions than other "
-"major dialects, and tends to retain distinctions between unstressed "
-"vowels. It also happens to be what your editor speaks.)"
+"(Standard American makes a good reference dialect for this purpose because "
+"it has crisp consonants and more vowel distinctions than other major "
+"dialects, and tends to retain distinctions between unstressed vowels. It "
+"also happens to be what your editor speaks.)"
 msgstr ""
+"この方式の意図は、我々が設ける区別の一部を無視することで、できるだけ多くの読者が発音を自分の地方の方言に対応させられるようにすることである。たとえばイギリスのRPの話者は、語末の/r/と強勢のないすべての母音をつぶしてよい。多くの南部アメリカ英語の話者は、/o/を自動的に/aw/に対応させるだろう。等々。(標準的なアメリカ英語がこの目的の参照方言として優れているのは、子音が明瞭で、他の主要な方言よりも母音の区別が多く、強勢のない母音の間の区別を保持する傾向があるためである。それはまた、たまたま本書の編者が話す言葉でもある。)"
 
 #: ../../pronunciation.rst:85
 msgid ""
 "Entries with a pronunciation of ‘//’ are written-only usages. (No, Unix "
 "weenies, this does *not* mean ‘pronounce like previous pronunciation’!)"
 msgstr ""
-
+"発音が‘//’となっている項目は、書き言葉専用の用法である。(いや、Unixのウィーニーたちよ、これは‘前の発音と同じように発音せよ’という意味では "
+"*ない*\\ !)"
