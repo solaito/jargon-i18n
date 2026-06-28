@@ -8,40 +8,41 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../A/atomic.rst:5
 msgid "atomic"
-msgstr ""
+msgstr "atomic"
 
 #: ../../A/atomic.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../A/atomic.rst:9
 msgid "[from Gk.*atomos*\\, indivisible]"
-msgstr ""
+msgstr "[ギリシャ語の\\ *atomos*\\ 、分割できない、から]"
 
 #: ../../A/atomic.rst:12
 msgid ""
-"Indivisible; cannot be split up. For example, an instruction may be said "
-"to do several things ‘atomically’, i.e., all the things are done "
-"immediately, and there is no chance of the instruction being half-"
-"completed or of another being interspersed. Used esp. to convey that an "
-"operation cannot be screwed up by interrupts. \"This routine locks the "
-"file and increments the file's semaphore atomically.\""
+"Indivisible; cannot be split up. For example, an instruction may be said to "
+"do several things ‘atomically’, i.e., all the things are done immediately, "
+"and there is no chance of the instruction being half-completed or of another"
+" being interspersed. Used esp. to convey that an operation cannot be screwed"
+" up by interrupts. \"This routine locks the file and increments the file's "
+"semaphore atomically.\""
 msgstr ""
+"分割できない。分けられない。たとえば、ある命令が複数のことを‘atomicに’行うと言うことがある。すなわち、すべてのことが一度に行われ、命令が中途半端に終わったり、別の命令が間に割り込んだりする可能性がない。特に、ある操作が割り込みによって台無しにされえないことを伝えるのに使う。「このルーチンはファイルをロックし、ファイルのセマフォをatomicにインクリメントする」。"
 
 #: ../../A/atomic.rst:19
 msgid ""
@@ -50,11 +51,12 @@ msgid ""
 "performed transaction from proceeding to completion, it must be \"backed "
 "out\", as the database must not be left in an inconsistent state."
 msgstr ""
+"[主に専門用語]成功裏に完了するか、まったく行われないかのいずれかが保証されていること。通常はデータベーストランザクションを指す。エラーによって途中まで実行されたトランザクションが完了に進めなくなった場合、データベースを不整合な状態のまま残してはならないので、それは「巻き戻され(backed"
+" out)」なければならない。"
 
 #: ../../A/atomic.rst:23
 msgid ""
-"Computer usage, in either of the above senses, has none of the "
-"connotations that ‘atomic’ has in mainstream English (i.e. of particles "
-"of matter, nuclear explosions etc. )."
-msgstr ""
-
+"Computer usage, in either of the above senses, has none of the connotations "
+"that ‘atomic’ has in mainstream English (i.e. of particles of matter, "
+"nuclear explosions etc. )."
+msgstr "上記いずれの語義でも、コンピューターでの用法には、‘atomic’が一般的な英語で持つ含意(すなわち物質の粒子、核爆発など)は一切ない。"

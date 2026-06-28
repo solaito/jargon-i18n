@@ -8,45 +8,47 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../A/awk.rst:5
 msgid "awk"
-msgstr ""
+msgstr "awk"
 
 #: ../../A/awk.rst:7
 msgid "/awk/"
-msgstr ""
+msgstr "/awk/"
 
 #: ../../A/awk.rst:9
 msgid ""
 "n\\. [Unix techspeak] An interpreted language for massaging text data "
 "developed by Alfred Aho, Peter Weinberger, and Brian Kernighan (the name "
 "derives from their initials). It is characterized by C-like syntax, a "
-"declaration-free approach to variable typing and declarations, "
-"associative arrays, and field-oriented text processing. See also "
-":ref:`Perl`\\."
+"declaration-free approach to variable typing and declarations, associative "
+"arrays, and field-oriented text processing. See also :ref:`Perl`\\."
 msgstr ""
+"名詞。[Unix専門用語]Alfred Aho、Peter Weinberger、Brian "
+"Kernighanが開発した、テキストデータを加工するためのインタプリタ言語(名前は彼らのイニシャルに由来する)。C風の構文、変数の型付けや宣言を不要とする方式、連想配列、フィールド指向のテキスト処理を特徴とする。\\"
+" :ref:`Perl`\\ も参照。"
 
 #: ../../A/awk.rst:14
 msgid ""
 "n\\. Editing term for an expression awkward to manipulate through normal "
-":ref:`regexp` facilities (for example, one containing a "
-":ref:`newline`\\)."
+":ref:`regexp` facilities (for example, one containing a :ref:`newline`\\)."
 msgstr ""
+"名詞。通常の\\ :ref:`regexp`\\ 機能では扱いにくい(awkwardな)式を指す編集用語(たとえば\\ :ref:`newline`\\"
+" を含むもの)。"
 
 #: ../../A/awk.rst:17
 msgid "vt\\. To process data using :manpage:`awk(1)`\\."
-msgstr ""
-
+msgstr "他動詞。\\ :manpage:`awk(1)`\\ を使ってデータを処理すること。"

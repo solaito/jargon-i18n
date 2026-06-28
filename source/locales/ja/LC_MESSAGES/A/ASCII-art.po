@@ -8,69 +8,77 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../A/ASCII-art.rst:5
 msgid "ASCII art"
-msgstr ""
+msgstr "ASCII art"
 
 #: ../../A/ASCII-art.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../A/ASCII-art.rst:9
 msgid ""
 "The fine art of drawing diagrams using the ASCII character set (mainly "
 "``|``\\, ``-``\\, ``/``\\, ``\\``, and ``+``\\). Also known as character "
-"graphics or ASCII graphics; see also :ref:`boxology`\\. Here is a serious"
-" example:"
+"graphics or ASCII graphics; see also :ref:`boxology`\\. Here is a serious "
+"example:"
 msgstr ""
+"ASCII文字集合(主に ``|``\\ 、``-``\\ 、``/``\\ 、``\\``\\ 、``+``\\ "
+")を使って図を描く繊細な芸術。キャラクターグラフィックスあるいはASCIIグラフィックスとも呼ばれる。\\ :ref:`boxology`\\ "
+"も参照。以下はまじめな例である。"
 
 #: ../../A/ASCII-art.rst:27
 msgid "And here are some very silly examples:"
-msgstr ""
+msgstr "そして、こちらはとてもばかげた例の数々である。"
 
 #: ../../A/ASCII-art.rst:48
 msgid ""
 "There is an important subgenre of ASCII art that puns on the standard "
 "character names in the fashion of a rebus."
-msgstr ""
+msgstr "ASCIIアートには、標準的な文字名にだじゃれを効かせた、判じ絵(リーバス)風の重要なサブジャンルがある。"
 
 #: ../../A/ASCII-art.rst:62
 msgid ""
-"Within humorous ASCII art, there is for some reason an entire flourishing"
-" subgenre of pictures of silly cows. Four of these are reproduced in the "
+"Within humorous ASCII art, there is for some reason an entire flourishing "
+"subgenre of pictures of silly cows. Four of these are reproduced in the "
 "examples above, here are three more:"
 msgstr ""
+"ユーモラスなASCIIアートの中には、なぜか、ばかばかしい牛の絵という一大サブジャンルが栄えている。上の例にもそのうち4つが再現されているが、ここにさらに3つを挙げる。"
 
 #: ../../A/ASCII-art.rst:76
 msgid ""
-"Finally, here's a magnificent example of ASCII art depicting an Edwardian"
-" train station in Dunedin, New Zealand:"
-msgstr ""
+"Finally, here's a magnificent example of ASCII art depicting an Edwardian "
+"train station in Dunedin, New Zealand:"
+msgstr "最後に、ニュージーランドのダニーデンにあるエドワード朝様式の駅舎を描いた、ASCIIアートの見事な一例を示す。"
 
 #: ../../A/ASCII-art.rst:103
 msgid ""
-"The next step beyond static tableaux in ASCII art is ASCII animation. "
-"There are not many large examples of this; perhaps the best known is the "
-"ASCII animation of the original *Star Wars* movie at "
+"The next step beyond static tableaux in ASCII art is ASCII animation. There "
+"are not many large examples of this; perhaps the best known is the ASCII "
+"animation of the original *Star Wars* movie at "
 "`http://www.asciimation.co.nz/ <http://www.asciimation.co.nz/>`_."
 msgstr ""
+"ASCIIアートにおける静的な絵の次の段階が、ASCIIアニメーションである。大規模な作例は多くないが、おそらく最もよく知られているのは、`http://www.asciimation.co.nz/"
+" <http://www.asciimation.co.nz/>`_ にあるオリジナル\\ *Star Wars*\\ "
+"映画のASCIIアニメーションだろう。"
 
 #: ../../A/ASCII-art.rst:106
 msgid ""
 "There is a newsgroup, :samp:`alt.ascii-art`\\, devoted to this genre; "
 "however, see also :ref:`warlording`\\."
 msgstr ""
-
+"このジャンルに捧げられた\\ :samp:`alt.ascii-art`\\ というニュースグループがある。ただし\\ "
+":ref:`warlording`\\ も参照のこと。"

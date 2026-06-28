@@ -8,42 +8,46 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../A/ANSI-standard.rst:5
 msgid "ANSI standard"
-msgstr ""
+msgstr "ANSI standard"
 
 #: ../../A/ANSI-standard.rst:7
 msgid "/an´see stan´d\\@rd/"
-msgstr ""
+msgstr "/an´see stan´d\\@rd/"
 
 #: ../../A/ANSI-standard.rst:9
 msgid ""
 "The ANSI standard usage of ANSI standard refers to any practice which is "
 "typical or broadly done. It's most appropriately applied to things that "
 "everyone does that are not quite regulation. For example: ANSI standard "
-"shaking of a laser printer cartridge to get extra life from it, or the "
-"ANSI standard word tripling in names of usenet alt groups."
+"shaking of a laser printer cartridge to get extra life from it, or the ANSI "
+"standard word tripling in names of usenet alt groups."
 msgstr ""
+"ANSI standardという表現のANSI "
+"standardな用法は、典型的であるか広く行われている慣行を指す。誰もがやっているが規定どおりとは言い切れないものに当てはめるのが最も適切だ。たとえば、レーザープリンターのカートリッジを振って少しでも長持ちさせるANSI"
+" standardなやり方や、usenetのaltグループ名で単語を3回重ねるANSI standardな習慣など。"
 
 #: ../../A/ANSI-standard.rst:13
 msgid ""
 "This usage derives from the American National Standards Institute. ANSI, "
-"along with the International Organization for Standards (ISO), "
-"standardized the C programming language (see :ref:`K-ampersand-R`\\, "
-":ref:`Classic-C`\\), and promulgates many other important software "
-"standards."
+"along with the International Organization for Standards (ISO), standardized "
+"the C programming language (see :ref:`K-ampersand-R`\\, :ref:`Classic-C`\\),"
+" and promulgates many other important software standards."
 msgstr ""
-
+"この用法はアメリカ規格協会(American National Standards "
+"Institute)に由来する。ANSIは、国際標準化機構(ISO)とともにC言語を標準化し(\\ :ref:`K-ampersand-R`\\ 、\\"
+" :ref:`Classic-C`\\ を参照)、他にも多くの重要なソフトウェア標準を策定している。"

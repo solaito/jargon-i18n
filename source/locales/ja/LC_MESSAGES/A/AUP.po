@@ -8,31 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../A/AUP.rst:5
 msgid "AUP"
-msgstr ""
+msgstr "AUP"
 
 #: ../../A/AUP.rst:7
 msgid "/A·U·P/"
-msgstr ""
+msgstr "/A·U·P/"
 
 #: ../../A/AUP.rst:9
 msgid ""
 "Abbreviation, \"Acceptable Use Policy\". The policy of a given ISP which "
-"sets out what the ISP considers to be (un)acceptable uses of its Internet"
-" resources."
+"sets out what the ISP considers to be (un)acceptable uses of its Internet "
+"resources."
 msgstr ""
-
+"略語、「Acceptable Use Policy(利用規定)」。あるISPが、自社のインターネット資源の(不)適切な利用とみなすものを定めた方針。"
