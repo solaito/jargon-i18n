@@ -8,42 +8,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../Z/zorch.rst:5
 msgid "zorch"
-msgstr ""
+msgstr "zorch"
 
 #: ../../Z/zorch.rst:7
 msgid "/zorch/"
-msgstr ""
+msgstr "/zorch/"
 
 #: ../../Z/zorch.rst:10
 msgid "[TMRC] v. To attack with an inverse heat sink."
-msgstr ""
+msgstr "[TMRC]動詞 逆ヒートシンクで攻撃すること。"
 
 #: ../../Z/zorch.rst:13
 msgid ""
-"[TMRC] v. To travel, with ``v`` approaching ``c`` [that is, with velocity"
-" approaching lightspeed —ESR]."
-msgstr ""
+"[TMRC] v. To travel, with ``v`` approaching ``c`` [that is, with velocity "
+"approaching lightspeed —ESR]."
+msgstr "[TMRC]動詞 ``v``\\ が\\ ``c``\\ に近づきながら[すなわち、速度が光速に近づきながら——ESR]移動すること。"
 
 #: ../../Z/zorch.rst:16
 msgid ""
-"[MIT] v. To propel something very quickly. \"The new comm software is "
-"very fast; it really zorches files through the network.\""
-msgstr ""
+"[MIT] v. To propel something very quickly. \"The new comm software is very "
+"fast; it really zorches files through the network.\""
+msgstr "[MIT]動詞 何かを非常に速く推進すること。「新しい通信ソフトはとても速い。本当にファイルをネットワーク越しにzorchする」。"
 
 #: ../../Z/zorch.rst:20
 msgid ""
@@ -51,25 +51,32 @@ msgid ""
 "currency in which favors are measured. \"I'd rather not ask him for that "
 "just yet; I think I've used up my quota of zorch with him for the week.\""
 msgstr ""
+"[MIT]名詞 "
+"影響力。ブラウニーポイント。良いカルマ。好意が測られる、無形でぼんやりした通貨。「彼にそれをまだ頼みたくないな。今週の彼に対するzorchの割り当てを使い切ったと思うんだ」。"
 
 #: ../../Z/zorch.rst:27
 msgid ""
-"[MIT] n. Energy, drive, or ability. \"I think I'll :ref:`punt` that "
-"change for now; I've been up for 30 hours and I've run out of zorch.\""
+"[MIT] n. Energy, drive, or ability. \"I think I'll :ref:`punt` that change "
+"for now; I've been up for 30 hours and I've run out of zorch.\""
 msgstr ""
+"[MIT]名詞 エネルギー、気力、または能力。「その変更は今は\\ :ref:`punt`\\ "
+"することにするよ。30時間起きていて、zorchが尽きてしまった」。"
 
 #: ../../Z/zorch.rst:31
 msgid "[MIT] v. To flunk an exam or course."
-msgstr ""
+msgstr "[MIT]動詞 試験や課程に落第すること。"
 
 #: ../../Z/zorch.rst:33
 msgid ""
 "A track called *Zorch* was the B-side of a single called *Captain "
-"Hideous*\\, released by novelty artist Nervous Norvous in 1955. Norvous "
-"was heavily influemced by a radio comedian named Red Blanchard; the word "
+"Hideous*\\, released by novelty artist Nervous Norvous in 1955. Norvous was "
+"heavily influemced by a radio comedian named Red Blanchard; the word "
 "\"zorch\" appears to have been coined on Blanchard's show in the early "
-"1950s. The word itself had no meaning, but there where compounds using it"
-" that did — \"zorch cow\", for example, was a variant of the Chicago-area"
-" slang \"black cow\" for a root beer float."
+"1950s. The word itself had no meaning, but there where compounds using it "
+"that did — \"zorch cow\", for example, was a variant of the Chicago-area "
+"slang \"black cow\" for a root beer float."
 msgstr ""
-
+"*Zorch*\\ という曲は、1955年にノベルティアーティストのNervous Norvousがリリースした、\\ *Captain "
+"Hideous*\\ というシングルのB面だった。NorvousはRed "
+"Blanchardというラジオコメディアンに大きく影響を受けていた。\"zorch\"という単語は、1950年代初頭にBlanchardの番組で作られたようである。この単語自体には意味がなかったが、それを使った意味のある複合語はあった——たとえば\"zorch"
+" cow\"は、ルートビアフロートを指すシカゴ地域のスラング\"black cow\"の変種だった。"

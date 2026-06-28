@@ -8,45 +8,45 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/whack-a-mole.rst:5
 msgid "whack-a-mole"
-msgstr ""
+msgstr "whack-a-mole"
 
 #: ../../W/whack-a-mole.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../W/whack-a-mole.rst:9
 msgid ""
-"[from the carnival game which involves quickly and repeatedly hitting the"
-" heads of mechanical moles with a mallet as they pop up from their "
-"holes.]"
-msgstr ""
+"[from the carnival game which involves quickly and repeatedly hitting the "
+"heads of mechanical moles with a mallet as they pop up from their holes.]"
+msgstr "[機械仕掛けのモグラが穴から飛び出してくるのを、木槌で素早く繰り返し頭を叩く縁日のゲームから]"
 
 #: ../../W/whack-a-mole.rst:12
 msgid ""
-"The practice of repeatedly causing spammers' :ref:`throwaway-account`\\s "
-"and drop boxes to be terminated."
-msgstr ""
+"The practice of repeatedly causing spammers' :ref:`throwaway-account`\\s and"
+" drop boxes to be terminated."
+msgstr "スパマーの\\ :ref:`throwaway-account`\\ やドロップボックスを繰り返し終了させる慣行。"
 
 #: ../../W/whack-a-mole.rst:15
 msgid ""
-"After sense 1 became established in the mid-1990s the term passed into "
-"more generalized use, and now is commonly found in such combinations as "
-"whack-a-mole windows; the obnoxious pop-up advertisement windows spawned "
-"in flocks when you surf to sites like Angelfire or Lycos."
+"After sense 1 became established in the mid-1990s the term passed into more "
+"generalized use, and now is commonly found in such combinations as whack-a-"
+"mole windows; the obnoxious pop-up advertisement windows spawned in flocks "
+"when you surf to sites like Angelfire or Lycos."
 msgstr ""
-
+"語義1が1990年代半ばに定着した後、この用語はより一般化した用法へと移り、今ではwhack-a-mole "
+"windowsのような組み合わせでよく見られる。AngelfireやLycosのようなサイトにサーフィンすると群れをなして湧き出てくる、目障りなポップアップ広告ウィンドウのことである。"

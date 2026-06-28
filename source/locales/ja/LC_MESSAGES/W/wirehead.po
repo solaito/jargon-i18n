@@ -8,43 +8,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/wirehead.rst:5
 msgid "wirehead"
-msgstr ""
+msgstr "wirehead"
 
 #: ../../W/wirehead.rst:7
 msgid "/wi:r´hed/, n\\."
-msgstr ""
+msgstr "/wi:r´hed/, 名詞"
 
 #: ../../W/wirehead.rst:9
 msgid "[prob. : from SF slang for an electrical-brain-stimulation addict]"
-msgstr ""
+msgstr "[おそらく、電気的脳刺激の中毒者を指すSFのスラングから]"
 
 #: ../../W/wirehead.rst:13
 msgid ""
 "A hardware hacker, especially one who concentrates on communications "
 "hardware."
-msgstr ""
+msgstr "ハードウェアハッカー、特に通信ハードウェアに集中する者。"
 
 #: ../../W/wirehead.rst:16
 msgid ""
 "An expert in local-area networks. A wirehead can be a network software "
-"wizard too, but will always have the ability to deal with network "
-"hardware, down to the smallest component. Wireheads are known for their "
-"ability to lash up an Ethernet terminator from spare resistors, for "
-"example."
+"wizard too, but will always have the ability to deal with network hardware, "
+"down to the smallest component. Wireheads are known for their ability to "
+"lash up an Ethernet terminator from spare resistors, for example."
 msgstr ""
-
+"ローカルエリアネットワークの専門家。wireheadはネットワークソフトウェアの魔法使いでもありうるが、最小の部品に至るまでネットワークハードウェアを扱う能力を常に持っている。wireheadは、たとえば余った抵抗器からEthernetのターミネータを即席で作り上げる能力で知られている。"

@@ -8,36 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/winged-comments.rst:5
 msgid "winged comments"
-msgstr ""
+msgstr "winged comments"
 
 #: ../../W/winged-comments.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../W/winged-comments.rst:9
 msgid ""
 "Comments set on the same line as code, as opposed to :ref:`boxed-"
 "comments`\\. In C, for example:"
-msgstr ""
+msgstr "\\ :ref:`boxed-comments`\\ とは対照的に、コードと同じ行に置かれたコメント。たとえばCでは:"
 
 #: ../../W/winged-comments.rst:17
 msgid "Generally these refer only to the action(s) taken on that line."
-msgstr ""
+msgstr "一般にこれらは、その行で取られる動作だけに言及する。"
 
 #: ../../W/winged-comments.rst:23
 msgid ""
@@ -45,4 +45,5 @@ msgid ""
 ":ref:`75-10-04<crunchly75-10-04>`\\.  The previous  cartoon was  "
 ":ref:`74-12-25<crunchly74-12-25>`\\.)"
 msgstr ""
-
+"(Crunchlyのサーガにおける次のカートゥーンは\\ :ref:`75-10-04<crunchly75-10-04>`\\ "
+"である。前のカートゥーンは\\ :ref:`74-12-25<crunchly74-12-25>`\\ だった。)"

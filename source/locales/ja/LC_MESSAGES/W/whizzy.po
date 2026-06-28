@@ -8,30 +8,29 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/whizzy.rst:5
 msgid "whizzy"
-msgstr ""
+msgstr "whizzy"
 
 #: ../../W/whizzy.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../W/whizzy.rst:9
 msgid ""
-"(alt. : wizzy) [Sun] Describes a :ref:`cuspy` program; one that is "
-"feature-rich and well presented."
-msgstr ""
-
+"(alt. : wizzy) [Sun] Describes a :ref:`cuspy` program; one that is feature-"
+"rich and well presented."
+msgstr "(別綴り: wizzy)[Sun] \\ :ref:`cuspy`\\ なプログラムを描写する。機能が豊富でうまく提示されたもの。"

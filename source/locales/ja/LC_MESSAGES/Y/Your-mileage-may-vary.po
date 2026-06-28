@@ -8,32 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../Y/Your-mileage-may-vary.rst:5
 msgid "Your mileage may vary"
-msgstr ""
+msgstr "Your mileage may vary"
 
 #: ../../Y/Your-mileage-may-vary.rst:7
 msgid "cav\\."
-msgstr ""
+msgstr "ことわざ"
 
 #: ../../Y/Your-mileage-may-vary.rst:9
 msgid ""
-"[from the standard disclaimer attached to EPA mileage ratings by American"
-" car manufacturers]"
-msgstr ""
+"[from the standard disclaimer attached to EPA mileage ratings by American "
+"car manufacturers]"
+msgstr "[アメリカの自動車メーカーがEPAの燃費評価に付ける標準的な免責事項から]"
 
 #: ../../Y/Your-mileage-may-vary.rst:12
 msgid ""
@@ -41,10 +41,12 @@ msgid ""
 "roughly as \"Hey, I tried to write this portably, but who knows what'll "
 "happen on your system?\""
 msgstr ""
+"Unixのフリーウェア配布物によく見られる儀式的な警告。だいたい「いや、移植性を考えて書いたつもりだけど、きみのシステムで何が起こるかなんて誰にもわからないよ?」という意味になる。"
 
 #: ../../Y/Your-mileage-may-vary.rst:16
 msgid ""
 "More generally, a qualifier attached to advice. \"I find that sending "
 "flowers works well, but your mileage may vary.\""
 msgstr ""
-
+"より一般的には、助言に付け加えられる留保。「花を贈るのがうまくいくと私は思うが、きみの場合は違うかもしれない(your mileage may "
+"vary)」。"

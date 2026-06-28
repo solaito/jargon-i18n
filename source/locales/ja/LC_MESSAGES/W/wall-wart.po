@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/wall-wart.rst:5
 msgid "wall wart"
-msgstr ""
+msgstr "wall wart"
 
 #: ../../W/wall-wart.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../W/wall-wart.rst:9
 msgid ""
@@ -39,4 +39,4 @@ msgid ""
 "supplies on board (there are other reasons as well having to do with the "
 "cost of UL certification)."
 msgstr ""
-
+"一体型のオスプラグを備えた小さな電源ブロックで、壁のコンセントに直接差し込むよう設計されたもの。電源タップに取り付けると、それが使う以上に少なくとも一つ余分なソケットを塞いでしまう傾向があるため、‘いぼ(wart)’と呼ばれる。これらは、もし電源を内蔵していたら容認できないほどかさばるか熱くなってしまうであろうモデムやその他の小型電子機器とよく結びついている(UL認証のコストに関わる、他の理由もある)。"

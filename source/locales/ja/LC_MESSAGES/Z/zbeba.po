@@ -8,30 +8,29 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../Z/zbeba.rst:5
 msgid "zbeba"
-msgstr ""
+msgstr "zbeba"
 
 #: ../../Z/zbeba.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../Z/zbeba.rst:9
 msgid ""
-"[USENET] The word ‘moron’ in :ref:`rot13`\\. Used to describe newbies who"
-" are behaving with especial cluelessness."
-msgstr ""
-
+"[USENET] The word ‘moron’ in :ref:`rot13`\\. Used to describe newbies who "
+"are behaving with especial cluelessness."
+msgstr "[USENET]‘moron’という単語を\\ :ref:`rot13`\\ にしたもの。とりわけ無知な振る舞いをする初心者を表すのに使われる。"

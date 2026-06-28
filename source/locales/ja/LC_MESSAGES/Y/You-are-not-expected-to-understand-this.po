@@ -8,33 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../Y/You-are-not-expected-to-understand-this.rst:5
 msgid "You are not expected to understand this"
-msgstr ""
+msgstr "You are not expected to understand this"
 
 #: ../../Y/You-are-not-expected-to-understand-this.rst:7
 msgid "cav\\."
-msgstr ""
+msgstr "ことわざ"
 
 #: ../../Y/You-are-not-expected-to-understand-this.rst:9
 msgid ""
 "[Unix] The canonical comment describing something :ref:`magic` or too "
-"complicated to bother explaining properly. From an infamous comment in "
-"the context-switching code of the V6 Unix kernel. Dennis Ritchie has "
-"`explained this in detail <http://cm.bell-"
-"labs.com/cm/cs/who/dmr/odd.html>`_."
+"complicated to bother explaining properly. From an infamous comment in the "
+"context-switching code of the V6 Unix kernel. Dennis Ritchie has `explained "
+"this in detail <http://cm.bell-labs.com/cm/cs/who/dmr/odd.html>`_."
 msgstr ""
-
+"[Unix] \\ :ref:`magic`\\ なもの、あるいはきちんと説明する手間をかけるには複雑すぎるものを表す、典型的なコメント。V6 "
+"Unixカーネルのコンテキストスイッチ用コードにある悪名高いコメントに由来する。Dennis Ritchieがこれを\\ `詳しく説明している "
+"<http://cm.bell-labs.com/cm/cs/who/dmr/odd.html>`_\\ 。"

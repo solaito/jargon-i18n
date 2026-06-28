@@ -8,45 +8,47 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../V/virtual.rst:5
 msgid "virtual"
-msgstr ""
+msgstr "virtual"
 
 #: ../../V/virtual.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../V/virtual.rst:9
 msgid ""
-"[via the technical term virtual memory, prob. : from the term virtual "
-"image in optics]"
-msgstr ""
+"[via the technical term virtual memory, prob. : from the term virtual image "
+"in optics]"
+msgstr "[技術用語のvirtual memory(仮想記憶)を介して。おそらく光学のvirtual image(虚像)という用語より]"
 
 #: ../../V/virtual.rst:13
 msgid ""
 "Common alternative to :ref:`logical`\\; often used to refer to the "
 "artificial objects (like addressable virtual memory larger than physical "
-"memory) simulated by a computer system as a convenient way to manage "
-"access to shared resources."
+"memory) simulated by a computer system as a convenient way to manage access "
+"to shared resources."
 msgstr ""
+":ref:`logical`\\ "
+"の一般的な代替語。共有資源へのアクセスを管理する便利な方法として、コンピュータシステムによってシミュレートされる人工的なオブジェクト(物理メモリより大きいアドレス指定可能な仮想記憶のような)を指すのにしばしば使われる。"
 
 #: ../../V/virtual.rst:16
 msgid ""
-"Simulated; performing the functions of something that isn't really there."
-" An imaginative child's doll may be a virtual playmate. Oppose "
-":ref:`real`\\."
+"Simulated; performing the functions of something that isn't really there. An"
+" imaginative child's doll may be a virtual playmate. Oppose :ref:`real`\\."
 msgstr ""
-
+"シミュレートされた。実際にはそこにないものの機能を果たす。想像力豊かな子供の人形は、virtualな遊び相手であるかもしれない。\\ "
+":ref:`real`\\ と対をなす。"

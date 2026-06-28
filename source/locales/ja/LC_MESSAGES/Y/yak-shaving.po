@@ -8,28 +8,29 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../Y/yak-shaving.rst:5
 msgid "yak shaving"
-msgstr ""
+msgstr "yak shaving"
 
 #: ../../Y/yak-shaving.rst:7
 msgid ""
-"[MIT AI Lab, after 2000: orig. probably from a *Ren & Stimpy episode.*\\]"
-" Any seemingly pointless activity which is actually necessary to solve a "
+"[MIT AI Lab, after 2000: orig. probably from a *Ren & Stimpy episode.*\\] "
+"Any seemingly pointless activity which is actually necessary to solve a "
 "problem which solves a problem which, several levels of recursion later, "
 "solves the real problem you're working on."
 msgstr ""
-
+"[MIT AIラボ、2000年以降: おそらく元は\\ *Ren & Stimpyのエピソード*\\ から] "
+"一見無意味に思える活動だが、実はある問題を解くのに必要であり、その問題はまた別の問題を解き、何段階かの再帰の後に、自分が取り組んでいる本当の問題を解くことになる、というもの。"

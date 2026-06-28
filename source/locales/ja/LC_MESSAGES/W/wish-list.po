@@ -8,33 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/wish-list.rst:5
 msgid "wish list"
-msgstr ""
+msgstr "wish list"
 
 #: ../../W/wish-list.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../W/wish-list.rst:9
 msgid ""
-"A list of desired features or bug fixes that probably won't get done for "
-"a long time, usually because the person responsible for the code is too "
-"busy or can't think of a clean way to do it. \"OK, I'll add automatic "
-"filename completion to the wish list for the new interface.\" Compare "
-":ref:`tick-list-features`\\."
+"A list of desired features or bug fixes that probably won't get done for a "
+"long time, usually because the person responsible for the code is too busy "
+"or can't think of a clean way to do it. \"OK, I'll add automatic filename "
+"completion to the wish list for the new interface.\" Compare :ref:`tick-"
+"list-features`\\."
 msgstr ""
-
+"おそらく長らく実現しないであろう、望ましい機能やバグ修正のリスト。たいていは、そのコードを担当する人物が忙しすぎるか、それをきれいにやる方法を思いつけないためである。「わかった、新しいインターフェイスのwish"
+" listにファイル名の自動補完を加えておくよ」。\\ :ref:`tick-list-features`\\ と比較せよ。"

@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/well-behaved.rst:5
 msgid "well-behaved"
-msgstr ""
+msgstr "well-behaved"
 
 #: ../../W/well-behaved.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../W/well-behaved.rst:10
 msgid ""
@@ -36,6 +36,8 @@ msgid ""
 "well-defined that it can be used as a :ref:`tool` by other software. See "
 ":ref:`cat`\\."
 msgstr ""
+"直感に反する作用なしに、静かに仕事をこなすソフトウェア。特に、インターフェイス仕様が十分に単純かつ明確に定義されており、他のソフトウェアによって\\ "
+":ref:`tool`\\ として使えるソフトウェアについて言う。\\ :ref:`cat`\\ を参照。"
 
 #: ../../W/well-behaved.rst:16
 msgid ""
@@ -44,4 +46,6 @@ msgid ""
 "algorithm is intrinsic, which makes this somewhat different from "
 ":ref:`bulletproof`\\."
 msgstr ""
-
+"\\ :ref:`pathological`\\ な入力を与えられても\\ :ref:`crash`\\ したり\\ :ref:`blow-up`\\ "
+"したりしないアルゴリズムについて言う。アルゴリズムの安定性が本質的であることを含意し、これが\\ :ref:`bulletproof`\\ "
+"とはいくらか異なる点である。"

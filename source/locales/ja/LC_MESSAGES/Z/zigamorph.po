@@ -8,40 +8,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../Z/zigamorph.rst:5
 msgid "zigamorph"
-msgstr ""
+msgstr "zigamorph"
 
 #: ../../Z/zigamorph.rst:7
 msgid "/zig'\\@·morf/, n\\."
-msgstr ""
+msgstr "/zig'\\@·morf/, 名詞"
 
 #: ../../Z/zigamorph.rst:10
 msgid ""
-"Hex FF (11111111) when used as a delimiter or :ref:`fence` character. "
-"Usage: primarily at IBM shops."
-msgstr ""
+"Hex FF (11111111) when used as a delimiter or :ref:`fence` character. Usage:"
+" primarily at IBM shops."
+msgstr "区切り文字や\\ :ref:`fence`\\ 文字として使われるときの16進FF(11111111)。用法:主にIBMの現場で。"
 
 #: ../../Z/zigamorph.rst:14
 msgid ""
 "[proposed] n. The Unicode non-character U+FFFF (1111111111111111), a "
-"character code which is not assigned to any character, and so is usable "
-"as end-of-string. (Unicode is a 16-bit character code intended to cover "
-"all of the world's writing systems, including Latin, Greek, Cyrillic, "
-"Chinese, hiragana, katakana, Devanagari, Thai, Laotian and many other "
-"scripts — support for :ref:`elvish` is planned for a future release)."
+"character code which is not assigned to any character, and so is usable as "
+"end-of-string. (Unicode is a 16-bit character code intended to cover all of "
+"the world's writing systems, including Latin, Greek, Cyrillic, Chinese, "
+"hiragana, katakana, Devanagari, Thai, Laotian and many other scripts — "
+"support for :ref:`elvish` is planned for a future release)."
 msgstr ""
-
+"[提案]名詞 "
+"Unicodeの非文字U+FFFF(1111111111111111)。いかなる文字にも割り当てられていない文字コードであり、そのため文字列終端として使える。(Unicodeは、ラテン、ギリシャ、キリル、漢字、ひらがな、カタカナ、デーヴァナーガリー、タイ、ラオスその他多くの文字を含む、世界中のすべての書記体系をカバーすることを意図した16ビット文字コードである——\\"
+" :ref:`elvish`\\ のサポートは将来のリリースで予定されている)。"

@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/wheel-wars.rst:5
 msgid "wheel wars"
-msgstr ""
+msgstr "wheel wars"
 
 #: ../../W/wheel-wars.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../W/wheel-wars.rst:9
 msgid ""
-"[Stanford University] A period in :ref:`larval-stage` during which "
-"student hackers hassle each other by attempting to log each other out of "
-"the system, delete each other's files, and otherwise wreak havoc, usually"
-" at the expense of the lesser users."
+"[Stanford University] A period in :ref:`larval-stage` during which student "
+"hackers hassle each other by attempting to log each other out of the system,"
+" delete each other's files, and otherwise wreak havoc, usually at the "
+"expense of the lesser users."
 msgstr ""
-
+"[Stanford University] \\ :ref:`larval-stage`\\ "
+"の一時期で、学生ハッカーたちが互いにシステムからログアウトさせようとしたり、互いのファイルを削除したり、その他たいてい下位のユーザーを犠牲にして大混乱を引き起こしたりして、互いに困らせる時期。"
