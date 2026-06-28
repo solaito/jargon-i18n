@@ -8,174 +8,214 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../revision-history.rst:5
 msgid "Revision History"
-msgstr ""
+msgstr "改訂履歴"
 
 #: ../../revision-history.rst:7
 msgid ""
-"The original Jargon File was a collection of hacker jargon from technical"
-" cultures including the MIT AI Lab, the Stanford AI lab (SAIL), and "
-"others of the old ARPANET AI/LISP/PDP-10 communities including Bolt, "
-"Beranek and Newman (BBN), Carnegie-Mellon University (CMU), and Worcester"
-" Polytechnic Institute (WPI)."
+"The original Jargon File was a collection of hacker jargon from technical "
+"cultures including the MIT AI Lab, the Stanford AI lab (SAIL), and others of"
+" the old ARPANET AI/LISP/PDP-10 communities including Bolt, Beranek and "
+"Newman (BBN), Carnegie-Mellon University (CMU), and Worcester Polytechnic "
+"Institute (WPI)."
 msgstr ""
+"元のJargon Fileは、MITのAI Lab、StanfordのAI lab(SAIL)、そしてBolt, Beranek and "
+"Newman(BBN)、Carnegie-Mellon University(CMU)、Worcester Polytechnic "
+"Institute(WPI)を含む、かつてのARPANETのAI/LISP/PDP-10コミュニティといった技術文化に由来するハッカー俗語を集めたものだった。"
 
 #: ../../revision-history.rst:9
 msgid ""
 "The Jargon File (hereafter referred to as ‘jargon-1’ or ‘the File’) was "
-"begun by Raphael Finkel at Stanford in 1975. From this time until the "
-"plug was finally pulled on the SAIL computer in 1991, the File was named "
-"AIWORD.RF[UP,DOC] there. Some terms in it date back considerably earlier "
-"( :ref:`frob` and some senses of :ref:`moby`\\, for instance, go back to "
-"the Tech Model Railroad Club at MIT and are believed to date at least "
-"back to the early 1960s). The revisions of jargon-1 were all unnumbered "
-"and may be collectively considered ‘Version 1’."
+"begun by Raphael Finkel at Stanford in 1975. From this time until the plug "
+"was finally pulled on the SAIL computer in 1991, the File was named "
+"AIWORD.RF[UP,DOC] there. Some terms in it date back considerably earlier ( "
+":ref:`frob` and some senses of :ref:`moby`\\, for instance, go back to the "
+"Tech Model Railroad Club at MIT and are believed to date at least back to "
+"the early 1960s). The revisions of jargon-1 were all unnumbered and may be "
+"collectively considered ‘Version 1’."
 msgstr ""
+"Jargon File(以下では‘jargon-1’または‘the File’と呼ぶ)は、1975年にStanfordでRaphael "
+"Finkelによって始められた。この時から1991年にSAILコンピュータがついに停止させられるまで、そこではこのFileはAIWORD.RF[UP,DOC]という名前だった。その中のいくつかの用語はかなり古くまで遡る(たとえば\\"
+" :ref:`frob`\\ や\\ :ref:`moby`\\ のいくつかの語義は、MITのTech Model Railroad "
+"Clubまで遡り、少なくとも1960年代初頭まで遡ると考えられている)。jargon-1の改訂はすべて番号が付けられておらず、まとめて‘Version "
+"1’とみなしてよい。"
 
 #: ../../revision-history.rst:14
 msgid ""
 "In 1976, Mark Crispin, having seen an announcement about the File on the "
 "SAIL computer, FTPed a copy of the File to MIT. He noticed that it was "
-"hardly restricted to ‘AI words’ and so stored the file on his directory "
-"as AI:MRC;SAIL JARGON."
+"hardly restricted to ‘AI words’ and so stored the file on his directory as "
+"AI:MRC;SAIL JARGON."
 msgstr ""
+"1976年、Mark Crispinは、SAILコンピュータ上のFileに関する告知を見て、そのコピーをMITにFTPした。彼はそれが‘AI "
+"words’にほとんど限定されていないことに気づき、そこでそのファイルをAI:MRC;SAIL JARGONとして自分のディレクトリに保存した。"
 
 #: ../../revision-history.rst:17
 msgid ""
-"The file was quickly renamed JARGON > (the ‘>’ caused versioning under "
-"ITS) as a flurry of enhancements were made by Mark Crispin and Guy L. "
-"Steele Jr. Unfortunately, amidst all this activity, nobody thought of "
-"correcting the term ‘jargon’ to ‘slang’ until the compendium had already "
-"become widely known as the Jargon File."
+"The file was quickly renamed JARGON > (the ‘>’ caused versioning under ITS) "
+"as a flurry of enhancements were made by Mark Crispin and Guy L. Steele Jr. "
+"Unfortunately, amidst all this activity, nobody thought of correcting the "
+"term ‘jargon’ to ‘slang’ until the compendium had already become widely "
+"known as the Jargon File."
 msgstr ""
+"このファイルはすぐにJARGON >へと改名された(‘>’はITSの下でバージョン管理を引き起こした)。Mark CrispinとGuy L. "
+"Steele Jr.によって一連の強化が施されたためである。残念ながら、こうした活動の只中で、その編纂物がすでにJargon "
+"Fileとして広く知られるようになるまで、‘jargon’という語を‘slang’に直そうと誰も思いつかなかった。"
 
 #: ../../revision-history.rst:20
 msgid ""
-"Raphael Finkel dropped out of active participation shortly thereafter and"
-" Don Woods became the SAIL contact for the File (which was subsequently "
-"kept in duplicate at SAIL and MIT, with periodic resynchronizations)."
+"Raphael Finkel dropped out of active participation shortly thereafter and "
+"Don Woods became the SAIL contact for the File (which was subsequently kept "
+"in duplicate at SAIL and MIT, with periodic resynchronizations)."
 msgstr ""
+"Raphael Finkelはその直後に活動への積極的な参加から退き、Don "
+"WoodsがFileのSAIL側の窓口となった(その後Fileはperiodicな再同期を伴いつつ、SAILとMITで二重に保管された)。"
 
 #: ../../revision-history.rst:22
 msgid ""
-"The File expanded by fits and starts until about 1983; Richard Stallman "
-"was prominent among the contributors, adding many MIT and ITS-related "
-"coinages."
+"The File expanded by fits and starts until about 1983; Richard Stallman was "
+"prominent among the contributors, adding many MIT and ITS-related coinages."
 msgstr ""
+"Fileは1983年頃まで断続的に拡張された。Richard Stallmanは貢献者の中でも目立つ存在であり、MITやITS関連の造語を数多く加えた。"
 
 #: ../../revision-history.rst:24
 msgid ""
 "In Spring 1981, a hacker named Charles Spurgeon got a large chunk of the "
-"File published in Stewart Brand's *CoEvolution Quarterly* (issue 29, "
-"pages 26—35) with illustrations by Phil Wadler and Guy Steele (including "
-"a couple of the Crunchly cartoons). This appears to have been the File's "
-"first paper publication."
+"File published in Stewart Brand's *CoEvolution Quarterly* (issue 29, pages "
+"26—35) with illustrations by Phil Wadler and Guy Steele (including a couple "
+"of the Crunchly cartoons). This appears to have been the File's first paper "
+"publication."
 msgstr ""
+"1981年春、Charles Spurgeonというハッカーが、Fileの大きな塊をStewart Brandの\\ *CoEvolution "
+"Quarterly*\\ (第29号、26〜35ページ)に掲載させた。Phil WadlerとGuy "
+"Steeleによる挿絵付き(Crunchlyのマンガが数点含まれていた)であった。これはFileの最初の紙媒体での出版だったと思われる。"
 
 #: ../../revision-history.rst:27
 msgid ""
-"A late version of jargon-1, expanded with commentary for the mass market,"
-" was edited by Guy Steele into a book published in 1983 as *The Hacker's "
-"Dictionary* (Harper & Row CN 1082, ISBN 0-06-091082-8). The other "
-"jargon-1 editors (Raphael Finkel, Don Woods, and Mark Crispin) "
-"contributed to this revision, as did Richard M. Stallman and Geoff "
-"Goodfellow. This book (now out of print) is hereafter referred to as "
-"‘Steele-1983’ and those six as the Steele-1983 coauthors."
+"A late version of jargon-1, expanded with commentary for the mass market, "
+"was edited by Guy Steele into a book published in 1983 as *The Hacker's "
+"Dictionary* (Harper & Row CN 1082, ISBN 0-06-091082-8). The other jargon-1 "
+"editors (Raphael Finkel, Don Woods, and Mark Crispin) contributed to this "
+"revision, as did Richard M. Stallman and Geoff Goodfellow. This book (now "
+"out of print) is hereafter referred to as ‘Steele-1983’ and those six as the"
+" Steele-1983 coauthors."
 msgstr ""
+"大衆市場向けに注釈を付けて拡張されたjargon-1の後期版は、Guy Steeleによって編集され、1983年に\\ *The Hacker's "
+"Dictionary*\\ (Harper & Row CN 1082、ISBN "
+"0-06-091082-8)として書籍化された。他のjargon-1の編者たち(Raphael Finkel、Don Woods、Mark "
+"Crispin)もこの改訂に貢献し、Richard M. StallmanとGeoff "
+"Goodfellowも同様であった。この書籍(現在は絶版)は、以下では‘Steele-1983’と呼び、その6名をSteele-1983の共著者と呼ぶ。"
 
 #: ../../revision-history.rst:31
 msgid ""
-"Shortly after the publication of Steele-1983, the File effectively "
-"stopped growing and changing. Originally, this was due to a desire to "
-"freeze the file temporarily to facilitate the production of Steele-1983, "
-"but external conditions caused the ‘temporary’ freeze to become "
-"permanent."
+"Shortly after the publication of Steele-1983, the File effectively stopped "
+"growing and changing. Originally, this was due to a desire to freeze the "
+"file temporarily to facilitate the production of Steele-1983, but external "
+"conditions caused the ‘temporary’ freeze to become permanent."
 msgstr ""
+"Steele-1983の出版の直後、Fileは事実上、成長と変化を止めた。元々これは、Steele-1983の制作を容易にするためにファイルを一時的に凍結したいという願望によるものだったが、外的な状況によりその‘一時的な’凍結は恒久的なものになった。"
 
 #: ../../revision-history.rst:34
 msgid ""
-"The AI Lab culture had been hit hard in the late 1970s by funding cuts "
-"and the resulting administrative decision to use vendor-supported "
-"hardware and software instead of homebrew whenever possible. At MIT, most"
-" AI work had turned to dedicated LISP Machines. At the same time, the "
-"commercialization of AI technology lured some of the AI Lab's best and "
-"brightest away to startups along the Route 128 strip in Massachusetts and"
-" out West in Silicon Valley. The startups built LISP machines for MIT; "
-"the central MIT-AI computer became a :ref:`TWENEX` system rather than a "
-"host for the AI hackers' beloved :ref:`ITS`\\."
+"The AI Lab culture had been hit hard in the late 1970s by funding cuts and "
+"the resulting administrative decision to use vendor-supported hardware and "
+"software instead of homebrew whenever possible. At MIT, most AI work had "
+"turned to dedicated LISP Machines. At the same time, the commercialization "
+"of AI technology lured some of the AI Lab's best and brightest away to "
+"startups along the Route 128 strip in Massachusetts and out West in Silicon "
+"Valley. The startups built LISP machines for MIT; the central MIT-AI "
+"computer became a :ref:`TWENEX` system rather than a host for the AI "
+"hackers' beloved :ref:`ITS`\\."
 msgstr ""
+"AI "
+"Labの文化は、1970年代後半に資金削減と、その結果としての、可能な限り自家製ではなくベンダーサポートのあるハードウェアとソフトウェアを使おうという管理上の決定によって、大きな打撃を受けていた。MITでは、ほとんどのAI研究は専用のLISPマシンへと移っていた。同時に、AI技術の商業化が、AI"
+" Labの最も優秀で聡明な人材の一部を、マサチューセッツのRoute 128沿いや、西のSilicon "
+"Valleyのスタートアップへと誘い出した。それらのスタートアップはMITのためにLISPマシンを作った。中心的なMIT-"
+"AIコンピュータは、AIハッカーたちの愛する\\ :ref:`ITS`\\ のホストではなく\\ :ref:`TWENEX`\\ システムになった。"
 
 #: ../../revision-history.rst:39
 msgid ""
-"The Stanford AI Lab had effectively ceased to exist by 1980, although the"
-" SAIL computer continued as a Computer Science Department resource until "
+"The Stanford AI Lab had effectively ceased to exist by 1980, although the "
+"SAIL computer continued as a Computer Science Department resource until "
 "1991. Stanford became a major :ref:`TWENEX` site, at one point operating "
 "more than a dozen TOPS-20 systems; but by the mid-1980s most of the "
-"interesting software work was being done on the emerging BSD Unix "
-"standard."
+"interesting software work was being done on the emerging BSD Unix standard."
 msgstr ""
+"Stanford AI Labは1980年までに事実上消滅していたが、SAILコンピュータはComputer Science "
+"Departmentのリソースとして1991年まで稼働し続けた。Stanfordは主要な\\ :ref:`TWENEX`\\ "
+"サイトとなり、一時は十数台ものTOPS-20システムを運用していた。だが1980年代半ばまでには、興味深いソフトウェア作業のほとんどは、台頭しつつあったBSD"
+" Unix標準の上で行われるようになっていた。"
 
 #: ../../revision-history.rst:42
 msgid ""
-"In April 1983, the PDP-10-centered cultures that had nourished the File "
-"were dealt a death-blow by the cancellation of the Jupiter project at "
-"Digital Equipment Corporation. The File's compilers, already dispersed, "
-"moved on to other things. Steele-1983 was partly a monument to what its "
-"authors thought was a dying tradition; no one involved realized at the "
-"time just how wide its influence was to be."
+"In April 1983, the PDP-10-centered cultures that had nourished the File were"
+" dealt a death-blow by the cancellation of the Jupiter project at Digital "
+"Equipment Corporation. The File's compilers, already dispersed, moved on to "
+"other things. Steele-1983 was partly a monument to what its authors thought "
+"was a dying tradition; no one involved realized at the time just how wide "
+"its influence was to be."
 msgstr ""
+"1983年4月、Fileを育んできたPDP-10中心の文化は、Digital Equipment "
+"CorporationでのJupiterプロジェクトの中止によって致命的な打撃を受けた。すでに散り散りになっていたFileの編纂者たちは、他のことへと移っていった。Steele-1983は、その著者たちが死にゆく伝統だと考えたものへの、ある種の記念碑でもあった。当時関わった誰も、その影響がどれほど広範になるかを認識していなかった。"
 
 #: ../../revision-history.rst:46
 msgid ""
-"By the mid-1980s the File's content was dated, but the legend that had "
-"grown up around it never quite died out. The book, and softcopies "
-"obtained off the ARPANET, circulated even in cultures far removed from "
-"MIT and Stanford; the content exerted a strong and continuing influence "
-"on hacker language and humor. Even as the advent of the microcomputer and"
-" other trends fueled a tremendous expansion of hackerdom, the File (and "
-"related materials such as the :ref:`Some AI Koans<koans>` in Appendix A) "
-"came to be seen as a sort of sacred epic, a hacker-culture Matter of "
-"Britain chronicling the heroic exploits of the Knights of the Lab. The "
-"pace of change in hackerdom at large accelerated tremendously — but the "
-"Jargon File, having passed from living document to icon, remained "
-"essentially untouched for seven years."
+"By the mid-1980s the File's content was dated, but the legend that had grown"
+" up around it never quite died out. The book, and softcopies obtained off "
+"the ARPANET, circulated even in cultures far removed from MIT and Stanford; "
+"the content exerted a strong and continuing influence on hacker language and"
+" humor. Even as the advent of the microcomputer and other trends fueled a "
+"tremendous expansion of hackerdom, the File (and related materials such as "
+"the :ref:`Some AI Koans<koans>` in Appendix A) came to be seen as a sort of "
+"sacred epic, a hacker-culture Matter of Britain chronicling the heroic "
+"exploits of the Knights of the Lab. The pace of change in hackerdom at large"
+" accelerated tremendously — but the Jargon File, having passed from living "
+"document to icon, remained essentially untouched for seven years."
 msgstr ""
+"1980年代半ばまでにFileの内容は古びていたが、その周りに育った伝説は決して完全には死に絶えなかった。書籍と、ARPANETから入手されたソフトコピーは、MITやStanfordから遠く離れた文化の中でさえ流通し、その内容はハッカーの言語とユーモアに強く継続的な影響を及ぼした。マイクロコンピュータの登場やその他の潮流がハッカー界の途方もない拡大を促した時でさえ、File(および付録Aの\\"
+" :ref:`Some AI Koans<koans>`\\ "
+"のような関連資料)は、一種の神聖な叙事詩、すなわちLabの騎士たちの英雄的偉業を記したハッカー文化のMatterofBritainとみなされるようになった。ハッカー界全体での変化のペースは途方もなく加速した――しかしJargon"
+" Fileは、生きた文書からアイコンへと移った後、7年間ほとんど手つかずのまま残された。"
 
 #: ../../revision-history.rst:51
 #, python-format
 msgid ""
-"This revision contains nearly the entire text of a late version of "
-"jargon-1 (a few obsolete PDP-10-related entries were dropped after "
-"careful consultation with the editors of Steele-1983). It merges in about"
-" 80% of the Steele-1983 text, omitting some framing material and a very "
-"few entries introduced in Steele-1983 that are now also obsolete."
+"This revision contains nearly the entire text of a late version of jargon-1 "
+"(a few obsolete PDP-10-related entries were dropped after careful "
+"consultation with the editors of Steele-1983). It merges in about 80% of the"
+" Steele-1983 text, omitting some framing material and a very few entries "
+"introduced in Steele-1983 that are now also obsolete."
 msgstr ""
+"この改訂版は、jargon-1の後期版のほぼ全文を含む(PDP-10関連の時代遅れな項目のいくつかは、Steele-1983の編者たちと慎重に協議した上で削除された)。それはSteele-1983のテキストの約80%を併合しており、いくつかの枠組み的な資料と、Steele-1983で導入されたが今では同じく時代遅れになったごく少数の項目を省いている。"
 
 #: ../../revision-history.rst:54
 msgid ""
-"This new version casts a wider net than the old Jargon File; its aim is "
-"to cover not just AI or PDP-10 hacker culture but all the technical "
-"computing cultures wherein the true hacker-nature is manifested. More "
-"than half of the entries now derive from :ref:`Usenet` and represent "
-"jargon now current in the C and Unix communities, but special efforts "
-"have been made to collect jargon from other cultures including IBM PC "
-"programmers, Amiga fans, Mac enthusiasts, and even the IBM mainframe "
-"world."
+"This new version casts a wider net than the old Jargon File; its aim is to "
+"cover not just AI or PDP-10 hacker culture but all the technical computing "
+"cultures wherein the true hacker-nature is manifested. More than half of the"
+" entries now derive from :ref:`Usenet` and represent jargon now current in "
+"the C and Unix communities, but special efforts have been made to collect "
+"jargon from other cultures including IBM PC programmers, Amiga fans, Mac "
+"enthusiasts, and even the IBM mainframe world."
 msgstr ""
+"この新版は、古いJargon "
+"Fileよりも広く網を打っている。その狙いは、AIやPDP-10のハッカー文化だけでなく、真のハッカー気質が現れているすべての技術的コンピューティング文化を網羅することである。今では項目の半分以上が\\"
+" :ref:`Usenet`\\ に由来し、CやUnixのコミュニティで今や流通している俗語を表している。だが、IBM "
+"PCのプログラマ、Amiga愛好家、Mac愛好家、さらにはIBMメインフレームの世界を含む、他の文化からの俗語を集めるための特別な努力も払われている。"
 
 #: ../../revision-history.rst:57
 msgid ""
@@ -186,197 +226,215 @@ msgid ""
 "Steele-1983. Please email all additions, corrections, and correspondence "
 "relating to the Jargon File to Eric."
 msgstr ""
+"Eric S. Raymond <esr@thyrsus.com>が、Guy L. Steele Jr. "
+"<gls@think.com>の助力を得て新しいFileを保守している。これらがFileの編集上の‘we(我々)’に主に反映されている人物だが、我々はSteele-1983の他の共著者たちの特別な貢献を認めることを喜びとする。Jargon"
+" Fileに関するすべての追加、訂正、連絡は、Ericにメールしてほしい。"
 
 #: ../../revision-history.rst:60
 msgid ""
-"(Warning: other email addresses and URLs appear in this file *but are not"
-" guaranteed to be correct* after date of publication.*Don't* email us if "
-"an attempt to reach someone bounces — we have no magic way of checking "
-"addresses or looking up people. If a web reference goes stale, try a "
-"Google or Alta Vista search for relevant phrases."
+"(Warning: other email addresses and URLs appear in this file *but are not "
+"guaranteed to be correct* after date of publication.*Don't* email us if an "
+"attempt to reach someone bounces — we have no magic way of checking "
+"addresses or looking up people. If a web reference goes stale, try a Google "
+"or Alta Vista search for relevant phrases."
 msgstr ""
+"(警告:このファイルには他のメールアドレスやURLも現れるが、\\ *出版日以降に正しいことは保証されない*\\ "
+"。誰かに連絡しようとして弾かれても、我々に\\ *メールしないでほしい*\\ "
+"――我々にはアドレスを確認したり人を調べたりする魔法のような手段はない。ウェブ参照が古くなっていたら、関連するフレーズをGoogleやAlta "
+"Vistaで検索してみてほしい。"
 
 #: ../../revision-history.rst:63
 msgid ""
-"Please try to review a recent copy of the on-line document before "
-"submitting entries; it is available on the Web. It will often contain new"
-" material not recorded in the latest paper snapshot that could save you "
-"some typing. It also includes some submission guidelines not reproduced "
-"here."
+"Please try to review a recent copy of the on-line document before submitting"
+" entries; it is available on the Web. It will often contain new material not"
+" recorded in the latest paper snapshot that could save you some typing. It "
+"also includes some submission guidelines not reproduced here."
 msgstr ""
+"項目を投稿する前に、オンライン文書の最近のコピーに目を通すようにしてほしい。それはウェブ上で入手できる。それには最新の紙面スナップショットに記録されていない新しい資料が含まれていることが多く、それで多少の入力の手間が省けるかもしれない。それには、ここには再掲していない投稿ガイドラインもいくつか含まれている。"
 
 #: ../../revision-history.rst:67
 msgid ""
-"The 2.9.6 version became the main text of *The New Hacker'sDictionary*\\,"
-" by Eric Raymond (ed. ), MIT Press 1991, ISBN 0-262-68069-6."
+"The 2.9.6 version became the main text of *The New Hacker'sDictionary*\\, by"
+" Eric Raymond (ed. ), MIT Press 1991, ISBN 0-262-68069-6."
 msgstr ""
+"2.9.6版は、Eric Raymond(編)、MIT Press 1991年、ISBN 0-262-68069-6による\\ *The New "
+"Hacker's Dictionary*\\ の本文の主要部分となった。"
 
 #: ../../revision-history.rst:70
 msgid ""
-"The 3.0.0 version was published in August 1993 as the second edition of "
-"*The New Hacker's Dictionary*\\, again from MIT Press (ISBN "
-"0-262-18154-1)."
+"The 3.0.0 version was published in August 1993 as the second edition of *The"
+" New Hacker's Dictionary*\\, again from MIT Press (ISBN 0-262-18154-1)."
 msgstr ""
+"3.0.0版は、1993年8月に\\ *The New Hacker's Dictionary*\\ の第2版として、再びMIT "
+"Pressから(ISBN 0-262-18154-1)出版された。"
 
 #: ../../revision-history.rst:72
 msgid ""
-"The 4.0.0 version was published in September 1996 as the third edition of"
-" *The New Hacker's Dictionary* from MIT Press (ISBN 0-262-68092-0)."
+"The 4.0.0 version was published in September 1996 as the third edition of "
+"*The New Hacker's Dictionary* from MIT Press (ISBN 0-262-68092-0)."
 msgstr ""
+"4.0.0版は、1996年9月に\\ *The New Hacker's Dictionary*\\ の第3版としてMIT Pressから(ISBN "
+"0-262-68092-0)出版された。"
 
 #: ../../revision-history.rst:74
 msgid ""
-"The maintainers are committed to updating the on-line version of the "
-"Jargon File through and beyond paper publication, and will continue to "
-"make it available to archives and public-access sites as a trust of the "
-"hacker community."
+"The maintainers are committed to updating the on-line version of the Jargon "
+"File through and beyond paper publication, and will continue to make it "
+"available to archives and public-access sites as a trust of the hacker "
+"community."
 msgstr ""
+"保守者たちは、紙面での出版を経てそれ以降も、Jargon "
+"Fileのオンライン版を更新し続けることに専心しており、ハッカーコミュニティの信託として、それをアーカイブや公開アクセスサイトに引き続き提供していく。"
 
 #: ../../revision-history.rst:79
 msgid "Version"
-msgstr ""
+msgstr "バージョン"
 
 #: ../../revision-history.rst:80
 msgid "Date"
-msgstr ""
+msgstr "日付"
 
 #: ../../revision-history.rst:81
 msgid "Lines"
-msgstr ""
+msgstr "行数"
 
 #: ../../revision-history.rst:82
 msgid "Words"
-msgstr ""
+msgstr "語数"
 
 #: ../../revision-history.rst:83
 msgid "Characters"
-msgstr ""
+msgstr "文字数"
 
 #: ../../revision-history.rst:84
 msgid "Entries"
-msgstr ""
+msgstr "項目数"
 
 #: ../../revision-history.rst:85
 msgid "Comments"
-msgstr ""
+msgstr "コメント"
 
 #: ../../revision-history.rst:86
 msgid "2\\.1.1"
-msgstr ""
+msgstr "2\\.1.1"
 
 #: ../../revision-history.rst:87
 msgid "Jun 12 1990"
-msgstr ""
+msgstr "Jun 12 1990"
 
 #: ../../revision-history.rst:88
 msgid "5485"
-msgstr ""
+msgstr "5485"
 
 #: ../../revision-history.rst:89
 msgid "42842"
-msgstr ""
+msgstr "42842"
 
 #: ../../revision-history.rst:90
 msgid "278958"
-msgstr ""
+msgstr "278958"
 
 #: ../../revision-history.rst:91
 msgid "790"
-msgstr ""
+msgstr "790"
 
 #: ../../revision-history.rst:92
 msgid ""
-"The Jargon File comes alive again after a seven-year hiatus. "
-"Reorganization and massive additions were by Eric S. Raymond, approved by"
-" Guy Steele. Many items of UNIX, C, USENET, and microcomputer-based "
-"jargon were added at that time."
+"The Jargon File comes alive again after a seven-year hiatus. Reorganization "
+"and massive additions were by Eric S. Raymond, approved by Guy Steele. Many "
+"items of UNIX, C, USENET, and microcomputer-based jargon were added at that "
+"time."
 msgstr ""
+"Jargon Fileが7年の中断を経て再び生き返る。再編成と大規模な追加はEric S. Raymondによって行われ、Guy "
+"Steeleによって承認された。UNIX、C、USENET、マイクロコンピュータベースの俗語の多くの項目がこの時に追加された。"
 
 #: ../../revision-history.rst:95
 msgid "2\\.1.5"
-msgstr ""
+msgstr "2\\.1.5"
 
 #: ../../revision-history.rst:96
 msgid "Nov 28 1990"
-msgstr ""
+msgstr "Nov 28 1990"
 
 #: ../../revision-history.rst:97
 msgid "6028"
-msgstr ""
+msgstr "6028"
 
 #: ../../revision-history.rst:98
 msgid "46946"
-msgstr ""
+msgstr "46946"
 
 #: ../../revision-history.rst:99
 msgid "307510"
-msgstr ""
+msgstr "307510"
 
 #: ../../revision-history.rst:100
 msgid "866"
-msgstr ""
+msgstr "866"
 
 #: ../../revision-history.rst:101
 msgid ""
-"Changes and additions by ESR in response to numerous USENET submissions "
-"and comment from the First Edition co-authors. The Bibliography (Appendix"
-" C) was also appended."
-msgstr ""
+"Changes and additions by ESR in response to numerous USENET submissions and "
+"comment from the First Edition co-authors. The Bibliography (Appendix C) was"
+" also appended."
+msgstr "多数のUSENETからの投稿と、初版の共著者たちからのコメントに応えたESRによる変更と追加。参考文献(付録C)もまた付け加えられた。"
 
 #: ../../revision-history.rst:103
 msgid "2\\.2.1"
-msgstr ""
+msgstr "2\\.2.1"
 
 #: ../../revision-history.rst:104
 msgid "Dec 15 1990"
-msgstr ""
+msgstr "Dec 15 1990"
 
 #: ../../revision-history.rst:105
 msgid "9394"
-msgstr ""
+msgstr "9394"
 
 #: ../../revision-history.rst:106
 msgid "75954"
-msgstr ""
+msgstr "75954"
 
 #: ../../revision-history.rst:107
 msgid "490501"
-msgstr ""
+msgstr "490501"
 
 #: ../../revision-history.rst:108
 msgid "1046"
-msgstr ""
+msgstr "1046"
 
 #: ../../revision-history.rst:109
 msgid ""
 "Most of the contents of the 1983 paper edition edited by Guy Steele was "
-"merged in. Many more USENET submissions added, including the "
-"International Style and the material on Commonwealth Hackish."
+"merged in. Many more USENET submissions added, including the International "
+"Style and the material on Commonwealth Hackish."
 msgstr ""
+"Guy Steeleが編集した1983年の紙版の内容のほとんどが併合された。International StyleやCommonwealth "
+"Hackishに関する資料を含め、さらに多くのUSENETからの投稿が追加された。"
 
 #: ../../revision-history.rst:111
 msgid "2\\.3.1"
-msgstr ""
+msgstr "2\\.3.1"
 
 #: ../../revision-history.rst:112
 msgid "Jan 03 1991"
-msgstr ""
+msgstr "Jan 03 1991"
 
 #: ../../revision-history.rst:113
 msgid "10728"
-msgstr ""
+msgstr "10728"
 
 #: ../../revision-history.rst:114
 msgid "85070"
-msgstr ""
+msgstr "85070"
 
 #: ../../revision-history.rst:115
 msgid "558261"
-msgstr ""
+msgstr "558261"
 
 #: ../../revision-history.rst:116
 msgid "1138"
-msgstr ""
+msgstr "1138"
 
 #: ../../revision-history.rst:117
 msgid ""
@@ -384,802 +442,816 @@ msgid ""
 "cross-references. A very few entries from jargon-1 which were basically "
 "straight techspeak were deleted; this enabled the rest of Appendix B "
 "(created in 2.1.1) to be merged back into main text and the appendix "
-"replaced with the Portrait of J. Random Hacker. More USENET submissions "
-"were added."
+"replaced with the Portrait of J. Random Hacker. More USENET submissions were"
+" added."
 msgstr ""
+"大規模なフォーマット変更――辞書のキーと相互参照で、大文字小文字がもはや潰されなくなった。基本的に素のtechspeakだったjargon-1のごく少数の項目が削除された。これにより(2.1.1で作られた)付録Bの残りを本文に併合し直し、付録をPortrait"
+" of J. Random Hackerで置き換えることができた。さらに多くのUSENETからの投稿が追加された。"
 
 #: ../../revision-history.rst:121
 msgid "2\\.4.1"
-msgstr ""
+msgstr "2\\.4.1"
 
 #: ../../revision-history.rst:122
 msgid "Jan 14 1991"
-msgstr ""
+msgstr "Jan 14 1991"
 
 #: ../../revision-history.rst:123
 msgid "12362"
-msgstr ""
+msgstr "12362"
 
 #: ../../revision-history.rst:124
 msgid "97819"
-msgstr ""
+msgstr "97819"
 
 #: ../../revision-history.rst:125
 msgid "642899"
-msgstr ""
+msgstr "642899"
 
 #: ../../revision-history.rst:126
 msgid "1239"
-msgstr ""
+msgstr "1239"
 
 #: ../../revision-history.rst:127
 msgid ""
-"The Story of Mel and many more USENET submissions merged in. More "
-"material on hackish writing habits added. Numerous typo fixes."
+"The Story of Mel and many more USENET submissions merged in. More material "
+"on hackish writing habits added. Numerous typo fixes."
 msgstr ""
+"The Story of Melと、さらに多くのUSENETからの投稿が併合された。ハッカー的な書き方の習慣に関する資料が追加された。多数の誤字の修正。"
 
 #: ../../revision-history.rst:130
 msgid "2\\.6.1"
-msgstr ""
+msgstr "2\\.6.1"
 
 #: ../../revision-history.rst:131
 msgid "Feb 12 1991"
-msgstr ""
+msgstr "Feb 12 1991"
 
 #: ../../revision-history.rst:132
 msgid "15011"
-msgstr ""
+msgstr "15011"
 
 #: ../../revision-history.rst:133
 msgid "118277"
-msgstr ""
+msgstr "118277"
 
 #: ../../revision-history.rst:134
 msgid "774942"
-msgstr ""
+msgstr "774942"
 
 #: ../../revision-history.rst:135
 msgid "1484"
-msgstr ""
+msgstr "1484"
 
 #: ../../revision-history.rst:136
 msgid ""
 "Second great format change; no more <> around headwords or references. "
-"Merged in results of serious copy-editing passes by Guy Steele, Mark "
-"Brader. Still more entries added."
+"Merged in results of serious copy-editing passes by Guy Steele, Mark Brader."
+" Still more entries added."
 msgstr ""
+"2度目の大規模なフォーマット変更。見出し語や参照の周りの<>がなくなった。Guy Steele、Mark "
+"Braderによる本格的な原稿整理の結果が併合された。さらに多くの項目が追加された。"
 
 #: ../../revision-history.rst:139
 msgid "2\\.7.1"
-msgstr ""
+msgstr "2\\.7.1"
 
 #: ../../revision-history.rst:140
 msgid "Mar 01 1991"
-msgstr ""
+msgstr "Mar 01 1991"
 
 #: ../../revision-history.rst:141
 msgid "16087"
-msgstr ""
+msgstr "16087"
 
 #: ../../revision-history.rst:142
 msgid "126885"
-msgstr ""
+msgstr "126885"
 
 #: ../../revision-history.rst:143
 msgid "831872"
-msgstr ""
+msgstr "831872"
 
 #: ../../revision-history.rst:144
 msgid "1533"
-msgstr ""
+msgstr "1533"
 
 #: ../../revision-history.rst:145
 msgid ""
-"New section on slang/jargon/techspeak added. Results of Guy's second edit"
-" pass merged in."
-msgstr ""
+"New section on slang/jargon/techspeak added. Results of Guy's second edit "
+"pass merged in."
+msgstr "slang/jargon/techspeakに関する新しい節が追加された。Guyの2度目の編集の結果が併合された。"
 
 #: ../../revision-history.rst:147
 msgid "2\\.8.1"
-msgstr ""
+msgstr "2\\.8.1"
 
 #: ../../revision-history.rst:148
 msgid "Mar 22 1991"
-msgstr ""
+msgstr "Mar 22 1991"
 
 #: ../../revision-history.rst:149
 msgid "17154"
-msgstr ""
+msgstr "17154"
 
 #: ../../revision-history.rst:150
 msgid "135647"
-msgstr ""
+msgstr "135647"
 
 #: ../../revision-history.rst:151
 msgid "888333"
-msgstr ""
+msgstr "888333"
 
 #: ../../revision-history.rst:152
 msgid "1602"
-msgstr ""
+msgstr "1602"
 
 #: ../../revision-history.rst:153
 msgid "Material from the TMRC Dictionary and MRC's editing pass merged in."
-msgstr ""
+msgstr "TMRC DictionaryからのものとMRCの編集の結果が併合された。"
 
 #: ../../revision-history.rst:154
 msgid "2\\.9.6"
-msgstr ""
+msgstr "2\\.9.6"
 
 #: ../../revision-history.rst:155
 msgid "Aug 16 1991"
-msgstr ""
+msgstr "Aug 16 1991"
 
 #: ../../revision-history.rst:156
 msgid "18952"
-msgstr ""
+msgstr "18952"
 
 #: ../../revision-history.rst:157
 msgid "148629"
-msgstr ""
+msgstr "148629"
 
 #: ../../revision-history.rst:158
 msgid "975551"
-msgstr ""
+msgstr "975551"
 
 #: ../../revision-history.rst:159
 msgid "1702"
-msgstr ""
+msgstr "1702"
 
 #: ../../revision-history.rst:160
 msgid "Corresponds to reproduction copy for book."
-msgstr ""
+msgstr "書籍の複製コピーに対応する。"
 
 #: ../../revision-history.rst:161
 msgid "2\\.9.8"
-msgstr ""
+msgstr "2\\.9.8"
 
 #: ../../revision-history.rst:162
 msgid "Jan 01 1992"
-msgstr ""
+msgstr "Jan 01 1992"
 
 #: ../../revision-history.rst:163
 msgid "19509"
-msgstr ""
+msgstr "19509"
 
 #: ../../revision-history.rst:164
 msgid "153108"
-msgstr ""
+msgstr "153108"
 
 #: ../../revision-history.rst:165
 msgid "1006023"
-msgstr ""
+msgstr "1006023"
 
 #: ../../revision-history.rst:166
 msgid "1760"
-msgstr ""
+msgstr "1760"
 
 #: ../../revision-history.rst:167
 msgid ""
-"First public release since the book, including over fifty new entries and"
-" numerous corrections/additions to old ones. Packaged with version 1.1 of"
-" vh(1) hypertext reader."
+"First public release since the book, including over fifty new entries and "
+"numerous corrections/additions to old ones. Packaged with version 1.1 of "
+"vh(1) hypertext reader."
 msgstr ""
+"書籍以来の初の公開リリース。50を超える新項目と、古い項目への多数の訂正・追加を含む。vh(1)ハイパーテキストリーダーのバージョン1.1と一緒にパッケージされた。"
 
 #: ../../revision-history.rst:169
 msgid "2\\.9.9"
-msgstr ""
+msgstr "2\\.9.9"
 
 #: ../../revision-history.rst:170
 msgid "Apr 01 1992"
-msgstr ""
+msgstr "Apr 01 1992"
 
 #: ../../revision-history.rst:171
 msgid "20298"
-msgstr ""
+msgstr "20298"
 
 #: ../../revision-history.rst:172
 msgid "159651"
-msgstr ""
+msgstr "159651"
 
 #: ../../revision-history.rst:173
 msgid "1048909"
-msgstr ""
+msgstr "1048909"
 
 #: ../../revision-history.rst:174
 msgid "1821"
-msgstr ""
+msgstr "1821"
 
 #: ../../revision-history.rst:175
 msgid "Folded in XEROX PARC lexicon."
-msgstr ""
+msgstr "XEROX PARCの辞書を取り込んだ。"
 
 #: ../../revision-history.rst:176
 msgid "2\\.9.10"
-msgstr ""
+msgstr "2\\.9.10"
 
 #: ../../revision-history.rst:177
 msgid "Jul 01 1992"
-msgstr ""
+msgstr "Jul 01 1992"
 
 #: ../../revision-history.rst:178
 msgid "21349"
-msgstr ""
+msgstr "21349"
 
 #: ../../revision-history.rst:179
 msgid "168330"
-msgstr ""
+msgstr "168330"
 
 #: ../../revision-history.rst:180
 msgid "1106991"
-msgstr ""
+msgstr "1106991"
 
 #: ../../revision-history.rst:181
 msgid "1891"
-msgstr ""
+msgstr "1891"
 
 #: ../../revision-history.rst:182
 msgid "lots of new historical material."
-msgstr ""
+msgstr "多くの新しい歴史的資料。"
 
 #: ../../revision-history.rst:183
 msgid "2\\.9.11"
-msgstr ""
+msgstr "2\\.9.11"
 
 #: ../../revision-history.rst:184
 msgid "Jan 01 1993"
-msgstr ""
+msgstr "Jan 01 1993"
 
 #: ../../revision-history.rst:185
 msgid "21725"
-msgstr ""
+msgstr "21725"
 
 #: ../../revision-history.rst:186
 msgid "171169"
-msgstr ""
+msgstr "171169"
 
 #: ../../revision-history.rst:187
 msgid "1125880"
-msgstr ""
+msgstr "1125880"
 
 #: ../../revision-history.rst:188
 msgid "1922"
-msgstr ""
+msgstr "1922"
 
 #: ../../revision-history.rst:189
 msgid "Lots of new historical material."
-msgstr ""
+msgstr "多くの新しい歴史的資料。"
 
 #: ../../revision-history.rst:190
 msgid "2\\.9.12"
-msgstr ""
+msgstr "2\\.9.12"
 
 #: ../../revision-history.rst:191
 msgid "May 10 1993"
-msgstr ""
+msgstr "May 10 1993"
 
 #: ../../revision-history.rst:192
 msgid "22238"
-msgstr ""
+msgstr "22238"
 
 #: ../../revision-history.rst:193
 msgid "175114"
-msgstr ""
+msgstr "175114"
 
 #: ../../revision-history.rst:194
 msgid "1152467"
-msgstr ""
+msgstr "1152467"
 
 #: ../../revision-history.rst:195
 msgid "1946"
-msgstr ""
+msgstr "1946"
 
 #: ../../revision-history.rst:196
 msgid ""
 "A few new entries & changes, marginal MUD/IRC slang and some borderline "
 "techspeak removed, all in preparation for 2nd Edition of TNHD."
 msgstr ""
+"いくつかの新項目と変更。周辺的なMUD/IRC俗語と一部の境界的なtechspeakが削除された。すべてはTNHDの第2版に向けた準備である。"
 
 #: ../../revision-history.rst:197
 msgid "3\\.0.0"
-msgstr ""
+msgstr "3\\.0.0"
 
 #: ../../revision-history.rst:198
 msgid "Jul 27 1993"
-msgstr ""
+msgstr "Jul 27 1993"
 
 #: ../../revision-history.rst:199
 msgid "22548"
-msgstr ""
+msgstr "22548"
 
 #: ../../revision-history.rst:200
 msgid "177520"
-msgstr ""
+msgstr "177520"
 
 #: ../../revision-history.rst:201
 msgid "1169372"
-msgstr ""
+msgstr "1169372"
 
 #: ../../revision-history.rst:202
 msgid "1961"
-msgstr ""
+msgstr "1961"
 
 #: ../../revision-history.rst:203
 msgid "Manuscript freeze for 2nd edition of TNHD."
-msgstr ""
+msgstr "TNHD第2版のための原稿凍結。"
 
 #: ../../revision-history.rst:204
 msgid "3\\.1.0"
-msgstr ""
+msgstr "3\\.1.0"
 
 #: ../../revision-history.rst:205
 msgid "Oct 15 1994"
-msgstr ""
+msgstr "Oct 15 1994"
 
 #: ../../revision-history.rst:206
 msgid "23197"
-msgstr ""
+msgstr "23197"
 
 #: ../../revision-history.rst:207
 msgid "181001"
-msgstr ""
+msgstr "181001"
 
 #: ../../revision-history.rst:208
 msgid "1193818"
-msgstr ""
+msgstr "1193818"
 
 #: ../../revision-history.rst:209
 msgid "1990"
-msgstr ""
+msgstr "1990"
 
 #: ../../revision-history.rst:210
 msgid "Interim release to test WWW conversion."
-msgstr ""
+msgstr "WWW変換をテストするための暫定リリース。"
 
 #: ../../revision-history.rst:211
 msgid "3\\.2.0"
-msgstr ""
+msgstr "3\\.2.0"
 
 #: ../../revision-history.rst:212
 msgid "Mar 15 1995"
-msgstr ""
+msgstr "Mar 15 1995"
 
 #: ../../revision-history.rst:213
 msgid "23822"
-msgstr ""
+msgstr "23822"
 
 #: ../../revision-history.rst:214
 msgid "185961"
-msgstr ""
+msgstr "185961"
 
 #: ../../revision-history.rst:215
 msgid "1226358"
-msgstr ""
+msgstr "1226358"
 
 #: ../../revision-history.rst:216
 msgid "2031"
-msgstr ""
+msgstr "2031"
 
 #: ../../revision-history.rst:217
 msgid "Spring 1995 update."
-msgstr ""
+msgstr "1995年春の更新。"
 
 #: ../../revision-history.rst:218
 msgid "3\\.3.0"
-msgstr ""
+msgstr "3\\.3.0"
 
 #: ../../revision-history.rst:219
 msgid "Jan 20 1996"
-msgstr ""
+msgstr "Jan 20 1996"
 
 #: ../../revision-history.rst:220
 msgid "24055"
-msgstr ""
+msgstr "24055"
 
 #: ../../revision-history.rst:221
 msgid "187957"
-msgstr ""
+msgstr "187957"
 
 #: ../../revision-history.rst:222
 msgid "1239604"
-msgstr ""
+msgstr "1239604"
 
 #: ../../revision-history.rst:223
 msgid "2045"
-msgstr ""
+msgstr "2045"
 
 #: ../../revision-history.rst:224
 msgid "Winter 1996 update."
-msgstr ""
+msgstr "1996年冬の更新。"
 
 #: ../../revision-history.rst:225
 msgid "3\\.3.1"
-msgstr ""
+msgstr "3\\.3.1"
 
 #: ../../revision-history.rst:226
 msgid "Jan 25 1996"
-msgstr ""
+msgstr "Jan 25 1996"
 
 #: ../../revision-history.rst:227
 msgid "24147"
-msgstr ""
+msgstr "24147"
 
 #: ../../revision-history.rst:228
 msgid "188728"
-msgstr ""
+msgstr "188728"
 
 #: ../../revision-history.rst:229
 msgid "1244554"
-msgstr ""
+msgstr "1244554"
 
 #: ../../revision-history.rst:230
 msgid "2050"
-msgstr ""
+msgstr "2050"
 
 #: ../../revision-history.rst:231
 msgid ""
-"Copy-corrected improvement on 3.3.0 shipped to MIT Press as a step "
-"towards TNHD III."
-msgstr ""
+"Copy-corrected improvement on 3.3.0 shipped to MIT Press as a step towards "
+"TNHD III."
+msgstr "TNHD IIIに向けた一歩として、MIT Pressに送られた3.3.0の原稿訂正による改良版。"
 
 #: ../../revision-history.rst:232
 msgid "4\\.0.0"
-msgstr ""
+msgstr "4\\.0.0"
 
 #: ../../revision-history.rst:233
 msgid "Jul 25 1996"
-msgstr ""
+msgstr "Jul 25 1996"
 
 #: ../../revision-history.rst:234
 msgid "24801"
-msgstr ""
+msgstr "24801"
 
 #: ../../revision-history.rst:235
 msgid "193697"
-msgstr ""
+msgstr "193697"
 
 #: ../../revision-history.rst:236
 msgid "1281402"
-msgstr ""
+msgstr "1281402"
 
 #: ../../revision-history.rst:237
 msgid "2067"
-msgstr ""
+msgstr "2067"
 
 #: ../../revision-history.rst:238
 msgid "The actual TNHD III version after copy-edit"
-msgstr ""
+msgstr "原稿整理後の実際のTNHD III版。"
 
 #: ../../revision-history.rst:239
 msgid "4\\.1.0"
-msgstr ""
+msgstr "4\\.1.0"
 
 #: ../../revision-history.rst:240
 msgid "8 Apr 1999"
-msgstr ""
+msgstr "8 Apr 1999"
 
 #: ../../revision-history.rst:241
 msgid "25777"
-msgstr ""
+msgstr "25777"
 
 #: ../../revision-history.rst:242
 msgid "206825"
-msgstr ""
+msgstr "206825"
 
 #: ../../revision-history.rst:243
 msgid "1359992"
-msgstr ""
+msgstr "1359992"
 
 #: ../../revision-history.rst:244
 msgid "2217"
-msgstr ""
+msgstr "2217"
 
 #: ../../revision-history.rst:245
 msgid "The Jargon File rides again after three years."
-msgstr ""
+msgstr "Jargon Fileが3年を経て再び駆け出す。"
 
 #: ../../revision-history.rst:246
 msgid "4\\.2.0"
-msgstr ""
+msgstr "4\\.2.0"
 
 #: ../../revision-history.rst:247
 msgid "31 Jan 2000"
-msgstr ""
+msgstr "31 Jan 2000"
 
 #: ../../revision-history.rst:248
 msgid "26598"
-msgstr ""
+msgstr "26598"
 
 #: ../../revision-history.rst:249
 msgid "214639"
-msgstr ""
+msgstr "214639"
 
 #: ../../revision-history.rst:250
 msgid "1412243"
-msgstr ""
+msgstr "1412243"
 
 #: ../../revision-history.rst:251
 msgid "2267"
-msgstr ""
+msgstr "2267"
 
 #: ../../revision-history.rst:252
 msgid "Fix processing of URLs."
-msgstr ""
+msgstr "URLの処理を修正。"
 
 #: ../../revision-history.rst:253
 msgid "4\\.3.0"
-msgstr ""
+msgstr "4\\.3.0"
 
 #: ../../revision-history.rst:254
 msgid "30 Apr 2001"
-msgstr ""
+msgstr "30 Apr 2001"
 
 #: ../../revision-history.rst:255
 msgid "27805"
-msgstr ""
+msgstr "27805"
 
 #: ../../revision-history.rst:256
 msgid "224978"
-msgstr ""
+msgstr "224978"
 
 #: ../../revision-history.rst:257
 msgid "1480215"
-msgstr ""
+msgstr "1480215"
 
 #: ../../revision-history.rst:258
 msgid "2319"
-msgstr ""
+msgstr "2319"
 
 #: ../../revision-history.rst:259
 msgid ""
 "Special edition in honor of the first implementation of RFC 1149. Also "
 "cleaned up a number of obsolete entries."
-msgstr ""
+msgstr "RFC 1149の最初の実装を記念した特別版。また、多数の時代遅れな項目を整理した。"
 
 #: ../../revision-history.rst:261
 msgid "4\\.4.0"
-msgstr ""
+msgstr "4\\.4.0"
 
 #: ../../revision-history.rst:262
 msgid "10 May 2003"
-msgstr ""
+msgstr "10 May 2003"
 
 #: ../../revision-history.rst:263
 msgid "32004"
-msgstr ""
+msgstr "32004"
 
 #: ../../revision-history.rst:264
 msgid "230012"
-msgstr ""
+msgstr "230012"
 
 #: ../../revision-history.rst:265
 msgid "1707139"
-msgstr ""
+msgstr "1707139"
 
 #: ../../revision-history.rst:266 ../../revision-history.rst:274
 #: ../../revision-history.rst:281
 msgid "2290"
-msgstr ""
+msgstr "2290"
 
 #: ../../revision-history.rst:267
 msgid ""
 "XML-Docbook format conversion. Serious pruning of old slang, nearly 100 "
 "entries failed the Google test and were removed."
-msgstr ""
+msgstr "XML-Docbookフォーマットへの変換。古い俗語の本格的な剪定。100近い項目がGoogleテストに不合格となり削除された。"
 
 #: ../../revision-history.rst:269
 msgid "4\\.4.1"
-msgstr ""
+msgstr "4\\.4.1"
 
 #: ../../revision-history.rst:270
 msgid "13 May 2003"
-msgstr ""
+msgstr "13 May 2003"
 
 #: ../../revision-history.rst:271
 msgid "37157"
-msgstr ""
+msgstr "37157"
 
 #: ../../revision-history.rst:272
 msgid "234687"
-msgstr ""
+msgstr "234687"
 
 #: ../../revision-history.rst:273
 msgid "1618716"
-msgstr ""
+msgstr "1618716"
 
 #: ../../revision-history.rst:275
 msgid "XML-Docbook format fixes."
-msgstr ""
+msgstr "XML-Docbookフォーマットの修正。"
 
 #: ../../revision-history.rst:276
 msgid "4\\.4.2"
-msgstr ""
+msgstr "4\\.4.2"
 
 #: ../../revision-history.rst:277
 msgid "22 May 2003"
-msgstr ""
+msgstr "22 May 2003"
 
 #: ../../revision-history.rst:278
 msgid "32629"
-msgstr ""
+msgstr "32629"
 
 #: ../../revision-history.rst:279
 msgid "227852"
-msgstr ""
+msgstr "227852"
 
 #: ../../revision-history.rst:280
 msgid "1555125"
-msgstr ""
+msgstr "1555125"
 
 #: ../../revision-history.rst:282
 msgid "Fix filename collisions and other small problems."
-msgstr ""
+msgstr "ファイル名の衝突やその他の小さな問題を修正。"
 
 #: ../../revision-history.rst:283
 msgid "4\\.4.3"
-msgstr ""
+msgstr "4\\.4.3"
 
 #: ../../revision-history.rst:284
 msgid "15 Jul 2003"
-msgstr ""
+msgstr "15 Jul 2003"
 
 #: ../../revision-history.rst:285
 msgid "37363"
-msgstr ""
+msgstr "37363"
 
 #: ../../revision-history.rst:286
 msgid "235135"
-msgstr ""
+msgstr "235135"
 
 #: ../../revision-history.rst:287
 msgid "1629667"
-msgstr ""
+msgstr "1629667"
 
 #: ../../revision-history.rst:288
 msgid "2293"
-msgstr ""
+msgstr "2293"
 
 #: ../../revision-history.rst:289
 msgid "Fix some stylesheet problems leading to missing links."
-msgstr ""
+msgstr "リンク欠落につながるスタイルシートの問題のいくつかを修正。"
 
 #: ../../revision-history.rst:290
 msgid "4\\.4.4"
-msgstr ""
+msgstr "4\\.4.4"
 
 #: ../../revision-history.rst:291
 msgid "14 Aug 2003"
-msgstr ""
+msgstr "14 Aug 2003"
 
 #: ../../revision-history.rst:292
 msgid "37392"
-msgstr ""
+msgstr "37392"
 
 #: ../../revision-history.rst:293
 msgid "235271"
-msgstr ""
+msgstr "235271"
 
 #: ../../revision-history.rst:294
 msgid "1630579"
-msgstr ""
+msgstr "1630579"
 
 #: ../../revision-history.rst:295
 msgid "2295"
-msgstr ""
+msgstr "2295"
 
 #: ../../revision-history.rst:296
 msgid "Corrected build machinery; we can make RPMS now."
-msgstr ""
+msgstr "ビルド機構を訂正。今ではRPMSを作れる。"
 
 #: ../../revision-history.rst:297
 msgid "4\\.4.5"
-msgstr ""
+msgstr "4\\.4.5"
 
 #: ../../revision-history.rst:298
 msgid "4 Oct 2003"
-msgstr ""
+msgstr "4 Oct 2003"
 
 #: ../../revision-history.rst:299
 msgid "37482"
-msgstr ""
+msgstr "37482"
 
 #: ../../revision-history.rst:300
 msgid "235858"
-msgstr ""
+msgstr "235858"
 
 #: ../../revision-history.rst:301
 msgid "1634767"
-msgstr ""
+msgstr "1634767"
 
 #: ../../revision-history.rst:302
 msgid "2299"
-msgstr ""
+msgstr "2299"
 
 #: ../../revision-history.rst:303
 msgid "Minor updates. Four new entries and a better original-bug picture."
-msgstr ""
+msgstr "小さな更新。4つの新項目と、より良い元のバグの絵。"
 
 #: ../../revision-history.rst:305
 msgid "4\\.4.6"
-msgstr ""
+msgstr "4\\.4.6"
 
 #: ../../revision-history.rst:306
 msgid "25 Oct 2003"
-msgstr ""
+msgstr "25 Oct 2003"
 
 #: ../../revision-history.rst:307
 msgid "37560"
-msgstr ""
+msgstr "37560"
 
 #: ../../revision-history.rst:308
 msgid "236406"
-msgstr ""
+msgstr "236406"
 
 #: ../../revision-history.rst:309
 msgid "1638454"
-msgstr ""
+msgstr "1638454"
 
 #: ../../revision-history.rst:310
 msgid "2302"
-msgstr ""
+msgstr "2302"
 
 #: ../../revision-history.rst:311
 msgid ""
-"Added glider illustration. Amended FUD entry pursuent to SCO's attempt to"
-" abuse it."
-msgstr ""
+"Added glider illustration. Amended FUD entry pursuent to SCO's attempt to "
+"abuse it."
+msgstr "gliderの挿絵を追加。SCOがそれを悪用しようとしたことを受けてFUDの項目を修正。"
 
 #: ../../revision-history.rst:313
 msgid "4\\.4.7"
-msgstr ""
+msgstr "4\\.4.7"
 
 #: ../../revision-history.rst:314
 msgid "29 Dec 2003"
-msgstr ""
+msgstr "29 Dec 2003"
 
 #: ../../revision-history.rst:315
 msgid "37666"
-msgstr ""
+msgstr "37666"
 
 #: ../../revision-history.rst:316
 msgid "237206"
-msgstr ""
+msgstr "237206"
 
 #: ../../revision-history.rst:317
 msgid "1643609"
-msgstr ""
+msgstr "1643609"
 
 #: ../../revision-history.rst:318
 msgid "2307"
-msgstr ""
+msgstr "2307"
 
 #: ../../revision-history.rst:319
 msgid "Winter 2003 update."
-msgstr ""
+msgstr "2003年冬の更新。"
 
 #: ../../revision-history.rst:321
 msgid ""
-"Version numbering: Version numbers should be read as "
-"major.minor.revision. Major version 1 is reserved for the ‘old’ (ITS) "
-"Jargon File, jargon-1. Major version 2 encompasses revisions by ESR (Eric"
-" S. Raymond) with assistance from GLS (Guy L. Steele, Jr.) leading up to "
-"and including the second paper edition. From now on, major version number"
-" N.00 will probably correspond to the Nth paper edition. Usually later "
-"versions will either completely supersede or incorporate earlier "
-"versions, so there is generally no point in keeping old versions around."
+"Version numbering: Version numbers should be read as major.minor.revision. "
+"Major version 1 is reserved for the ‘old’ (ITS) Jargon File, jargon-1. Major"
+" version 2 encompasses revisions by ESR (Eric S. Raymond) with assistance "
+"from GLS (Guy L. Steele, Jr.) leading up to and including the second paper "
+"edition. From now on, major version number N.00 will probably correspond to "
+"the Nth paper edition. Usually later versions will either completely "
+"supersede or incorporate earlier versions, so there is generally no point in"
+" keeping old versions around."
 msgstr ""
+"バージョン番号付け:バージョン番号はmajor.minor.revisionとして読むべきである。メジャーバージョン1は‘古い’(ITS)Jargon "
+"File、すなわちjargon-1のために予約されている。メジャーバージョン2は、第2の紙版に至るまでとそれを含む、GLS(Guy L. Steele,"
+" Jr.)の助力を得たESR(Eric S. "
+"Raymond)による改訂を包含する。今後は、メジャーバージョン番号N.00はおそらく第Nの紙版に対応するだろう。通常、後のバージョンは以前のバージョンを完全に置き換えるか取り込むかするので、古いバージョンを取っておく意味は一般にない。"
 
 #: ../../revision-history.rst:327
 msgid ""
-"Our thanks to the coauthors of Steele-1983 for oversight and assistance, "
-"and to the hundreds of Usenetters (too many to name here) who contributed"
-" entries and encouragement. More thanks go to several of the old-timers "
-"on the Usenet group :samp:`alt.folklore.computers`\\, who contributed "
-"much useful commentary and many corrections and valuable historical "
-"perspective: Joseph M. Newcomer <jn11+@andrew.cmu.edu>, Bernie Cosell "
-"<cosell@bbn.com>, Earl Boebert <boebert@SCTC.com>, and Joe Morris "
-"<jcmorris@mwunix.mitre.org>."
+"Our thanks to the coauthors of Steele-1983 for oversight and assistance, and"
+" to the hundreds of Usenetters (too many to name here) who contributed "
+"entries and encouragement. More thanks go to several of the old-timers on "
+"the Usenet group :samp:`alt.folklore.computers`\\, who contributed much "
+"useful commentary and many corrections and valuable historical perspective: "
+"Joseph M. Newcomer <jn11+@andrew.cmu.edu>, Bernie Cosell <cosell@bbn.com>, "
+"Earl Boebert <boebert@SCTC.com>, and Joe Morris <jcmorris@mwunix.mitre.org>."
 msgstr ""
+"監督と助力に対してSteele-1983の共著者たちに、そして項目と励ましを寄せてくれた何百人ものUsenet利用者たち(ここに名を挙げきれないほど多い)に感謝する。さらなる感謝を、有益な論評や多くの訂正、貴重な歴史的観点を寄せてくれたUsenetグループ\\"
+" :samp:`alt.folklore.computers`\\ の古参の何人かに捧げる。Joseph M. Newcomer "
+"<jn11+@andrew.cmu.edu>、Bernie Cosell <cosell@bbn.com>、Earl Boebert "
+"<boebert@SCTC.com>、Joe Morris <jcmorris@mwunix.mitre.org>である。"
 
 #: ../../revision-history.rst:330
 msgid ""
@@ -1188,43 +1260,56 @@ msgid ""
 "contributed valuable criticism; Joe Keane <jgk@osc.osc.com> helped us "
 "improve the pronunciation guides."
 msgstr ""
+"我々は幸運にも、何人かの熟練した言語学者の助けを得ることができた。David Stampe <stampe@hawaii.edu>とCharles "
+"Hoequist <hoequist@bnr.ca>は貴重な批評を寄せてくれた。Joe Keane "
+"<jgk@osc.osc.com>は発音ガイドの改善を手伝ってくれた。"
 
 #: ../../revision-history.rst:333
 msgid ""
-"A few bits of this text quote previous works. We are indebted to Brian A."
-" LaMacchia <bal@zurich.ai.mit.edu> for obtaining permission for us to use"
-" material from the *TMRC Dictionary*\\; also, Don Libes "
-"<libes@cme.nist.gov> contributed some appropriate material from his "
-"excellent book *Life With UNIX*\\. We thank Per Lindberg <per@front.se>, "
-"author of the remarkable Swedish-language 'zine *Hackerbladet*\\, for "
-"bringing *FOO!* comics to our attention and smuggling one of the IBM "
-"hacker underground's own baby jargon files out to us. Thanks also to "
-"Maarten Litmaath for generously allowing the inclusion of the ASCII "
-"pronunciation guide he formerly maintained. And our gratitude to Marc "
-"Weiser of XEROX PARC <Marc_Weiser.PARC@xerox.com> for securing us "
-"permission to quote from PARC's own jargon lexicon and shipping us a "
-"copy."
+"A few bits of this text quote previous works. We are indebted to Brian A. "
+"LaMacchia <bal@zurich.ai.mit.edu> for obtaining permission for us to use "
+"material from the *TMRC Dictionary*\\; also, Don Libes <libes@cme.nist.gov> "
+"contributed some appropriate material from his excellent book *Life With "
+"UNIX*\\. We thank Per Lindberg <per@front.se>, author of the remarkable "
+"Swedish-language 'zine *Hackerbladet*\\, for bringing *FOO!* comics to our "
+"attention and smuggling one of the IBM hacker underground's own baby jargon "
+"files out to us. Thanks also to Maarten Litmaath for generously allowing the"
+" inclusion of the ASCII pronunciation guide he formerly maintained. And our "
+"gratitude to Marc Weiser of XEROX PARC <Marc_Weiser.PARC@xerox.com> for "
+"securing us permission to quote from PARC's own jargon lexicon and shipping "
+"us a copy."
 msgstr ""
+"このテキストのいくつかの部分は、以前の著作を引用している。\\ *TMRC Dictionary*\\ からの資料を使う許可を得てくれたBrian A."
+" LaMacchia <bal@zurich.ai.mit.edu>に感謝する。また、Don Libes "
+"<libes@cme.nist.gov>は彼の優れた著書\\ *Life With UNIX*\\ "
+"から適切な資料を寄せてくれた。注目すべきスウェーデン語のミニコミ誌\\ *Hackerbladet*\\ の著者であるPer Lindberg "
+"<per@front.se>には、\\ *FOO!*\\ コミックを我々の注意に引いてくれたこと、そしてIBMハッカーの地下世界自身の幼いjargon "
+"fileの一つを我々のもとへ持ち出してくれたことに感謝する。かつて自ら保守していたASCII発音ガイドを快く収録させてくれたMaarten "
+"Litmaathにも感謝する。そしてPARC自身のjargon辞書からの引用の許可を取り付け、コピーを送ってくれたXEROX PARCのMarc "
+"Weiser <Marc_Weiser.PARC@xerox.com>に感謝する。"
 
 #: ../../revision-history.rst:339
 msgid ""
-"It is a particular pleasure to acknowledge the major contributions of "
-"Mark Brader and Steve Summit <scs@eskimo.com> to the File and Dictionary;"
-" they have read and reread many drafts, checked facts, caught typos, "
-"submitted an amazing number of thoughtful comments, and done yeoman "
-"service in catching typos and minor usage bobbles. Their rare combination"
-" of enthusiasm, persistence, wide-ranging technical knowledge, and "
-"precisionism in matters of language has been of invaluable help. Indeed, "
-"the sustained volume and quality of Mr. Brader's input over a decade and "
-"several different editions has only allowed him to escape co-editor "
-"credit by the slimmest of margins."
+"It is a particular pleasure to acknowledge the major contributions of Mark "
+"Brader and Steve Summit <scs@eskimo.com> to the File and Dictionary; they "
+"have read and reread many drafts, checked facts, caught typos, submitted an "
+"amazing number of thoughtful comments, and done yeoman service in catching "
+"typos and minor usage bobbles. Their rare combination of enthusiasm, "
+"persistence, wide-ranging technical knowledge, and precisionism in matters "
+"of language has been of invaluable help. Indeed, the sustained volume and "
+"quality of Mr. Brader's input over a decade and several different editions "
+"has only allowed him to escape co-editor credit by the slimmest of margins."
 msgstr ""
+"Mark BraderとSteve Summit "
+"<scs@eskimo.com>のFileおよびDictionaryへの大きな貢献を認めることは、格別の喜びである。彼らは多くの草稿を何度も読み返し、事実を確認し、誤字を捕まえ、驚くべき数の思慮深いコメントを寄せ、誤字や些細な語法のつまずきを捕まえるという地道な働きをしてくれた。彼らの、熱意、粘り強さ、広範囲にわたる技術的知識、そして言語の問題における厳密主義というまれな組み合わせは、計り知れない助けとなった。実際、Brader氏の10年と数版にわたる持続した量と質の入力は、彼が共同編集者の肩書きをほんの僅差で逃れることを許したにすぎない。"
 
 #: ../../revision-history.rst:343
 msgid ""
-"Finally, George V. Reilly <georgere@microsoft.com> helped with TeX arcana"
-" and painstakingly proofread some 2.7 and 2.8 versions, and Eric "
-"Tiedemann <est@thyrsus.com> contributed sage advice throughout on "
-"rhetoric, amphigory, and philosophunculism."
+"Finally, George V. Reilly <georgere@microsoft.com> helped with TeX arcana "
+"and painstakingly proofread some 2.7 and 2.8 versions, and Eric Tiedemann "
+"<est@thyrsus.com> contributed sage advice throughout on rhetoric, amphigory,"
+" and philosophunculism."
 msgstr ""
-
+"最後に、George V. Reilly "
+"<georgere@microsoft.com>はTeXの秘術を手伝い、2.7と2.8のいくつかの版を丹念に校正してくれた。そしてEric "
+"Tiedemann <est@thyrsus.com>は、修辞、たわごと、そして些末な哲学談義について、終始賢明な助言を寄せてくれた。"

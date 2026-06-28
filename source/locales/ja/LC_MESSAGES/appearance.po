@@ -8,22 +8,22 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../appearance.rst:5
 msgid "General Appearance"
-msgstr ""
+msgstr "全体的な外見"
 
 #: ../../appearance.rst:7
 msgid ""
@@ -31,4 +31,4 @@ msgid ""
 "profession, more hackers run to skinny than fat; both extremes are more "
 "common than elsewhere. Tans are rare."
 msgstr ""
-
+"聡明。むさ苦しい。張り詰めている。心ここにあらず。座ってばかりの職業にしては意外なことに、太っているよりやせているハッカーの方が多い。どちらの極端も、他の場所よりありふれている。日焼けはまれである。"

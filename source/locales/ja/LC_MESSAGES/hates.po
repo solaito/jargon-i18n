@@ -8,22 +8,22 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../hates.rst:5
 msgid "Things Hackers Detest and Avoid"
-msgstr ""
+msgstr "ハッカーが嫌悪し避けるもの"
 
 #: ../../hates.rst:7
 msgid ""
@@ -33,4 +33,6 @@ msgid ""
 "Trek* classic or Babylon 5). Business suits. Dishonesty. Incompetence. "
 "Boredom. COBOL. BASIC. Character-based menu interfaces."
 msgstr ""
-
+"Microsoftのあらゆる作品。スマーフ、イウォーク、そしてその他の形態の不快なかわいらしさ。官僚機構。愚かな人々。イージーリスニング音楽。テレビ(\\"
+" *Star Trek*\\ クラシックやBabylon "
+"5のようなアニメ、映画、良質なSFには時に例外を認めるが)。ビジネススーツ。不誠実さ。無能。退屈。COBOL。BASIC。文字ベースのメニューインターフェース。"

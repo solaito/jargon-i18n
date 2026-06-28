@@ -8,17 +8,17 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../online-preface.rst:3
@@ -33,66 +33,76 @@ msgstr "ジャーゴンファイルはハッカーの伝統、伝承、ユーモ
 
 #: ../../online-preface.rst:7
 msgid ""
-"This document (the Jargon File) is in the public domain, to be freely "
-"used, shared, and modified. There are (by intention) no legal restraints "
-"on what you can do with it, but there are traditions about its proper use"
-" to which many hackers are quite strongly attached. Please extend the "
-"courtesy of proper citation when you quote the File, ideally with a "
-"version number, as it will change and grow over time. (Examples of "
-"appropriate citation form: \"Jargon File 4.4.7\" or \"The on-line hacker "
-"Jargon File, version 4.4.7, 29 Dec 2003\".)"
+"This document (the Jargon File) is in the public domain, to be freely used, "
+"shared, and modified. There are (by intention) no legal restraints on what "
+"you can do with it, but there are traditions about its proper use to which "
+"many hackers are quite strongly attached. Please extend the courtesy of "
+"proper citation when you quote the File, ideally with a version number, as "
+"it will change and grow over time. (Examples of appropriate citation form: "
+"\"Jargon File 4.4.7\" or \"The on-line hacker Jargon File, version 4.4.7, 29"
+" Dec 2003\".)"
 msgstr ""
+"このドキュメント(Jargon "
+"File)はパブリックドメインにあり、自由に使用、共有、改変してよい。これに対して(意図的に)何をしてもよいという法的制約はないが、その適切な使用については多くのハッカーが強い愛着を抱く慣習がある。Fileを引用する際には、できればバージョン番号を添えて、適切な出典表記という礼儀を尽くしてほしい。Fileは時とともに変化し成長していくからである。(適切な出典表記の例:「Jargon"
+" File 4.4.7」または「The on-line hacker Jargon File, version 4.4.7, 29 Dec "
+"2003」。)"
 
 #: ../../online-preface.rst:12
 msgid ""
-"The Jargon File is a common heritage of the hacker culture. Over the "
-"years a number of individuals have volunteered considerable time to "
-"maintaining the File and been recognized by the net at large as editors "
-"of it. Editorial responsibilities include: to collate contributions and "
-"suggestions from others; to seek out corroborating information; to cross-"
-"reference related entries; to keep the file in a consistent format; and "
-"to announce and distribute updated versions periodically. Current "
-"volunteer editors include:"
+"The Jargon File is a common heritage of the hacker culture. Over the years a"
+" number of individuals have volunteered considerable time to maintaining the"
+" File and been recognized by the net at large as editors of it. Editorial "
+"responsibilities include: to collate contributions and suggestions from "
+"others; to seek out corroborating information; to cross-reference related "
+"entries; to keep the file in a consistent format; and to announce and "
+"distribute updated versions periodically. Current volunteer editors include:"
 msgstr ""
+"Jargon "
+"Fileはハッカー文化の共有財産である。長年にわたり、多くの個人がFileの保守にかなりの時間を割いて貢献し、ネット全体からその編集者として認められてきた。編集上の責務には次のものが含まれる。他者からの寄稿や提案を取りまとめること、裏付けとなる情報を探し出すこと、関連する項目を相互参照すること、Fileを一貫した形式に保つこと、そして更新版を定期的に告知し配布すること。現在のボランティア編集者は次のとおりである。"
 
 #: ../../online-preface.rst:17
 msgid "Eric Raymond <esr@thyrsus.com>"
-msgstr ""
+msgstr "Eric Raymond <esr@thyrsus.com>"
 
 #: ../../online-preface.rst:19
 msgid ""
-"Although there is no requirement that you do so, it is considered good "
-"form to check with an editor before quoting the File in a published work "
-"or commercial product. We may have additional information that would be "
-"helpful to you and can assist you in framing your quote to reflect not "
-"only the letter of the File but its spirit as well."
+"Although there is no requirement that you do so, it is considered good form "
+"to check with an editor before quoting the File in a published work or "
+"commercial product. We may have additional information that would be helpful"
+" to you and can assist you in framing your quote to reflect not only the "
+"letter of the File but its spirit as well."
 msgstr ""
+"そうする義務はないが、Fileを出版物や商用製品で引用する前に編集者に確認をとるのは良い作法とされている。我々はあなたに役立つ追加情報を持っているかもしれず、Fileの字面だけでなくその精神をも反映するように引用を組み立てる手助けができるかもしれない。"
 
 #: ../../online-preface.rst:22
 msgid ""
-"All contributions and suggestions about this file sent to a volunteer "
-"editor are gratefully received and will be regarded, unless otherwise "
-"labelled, as freely given donations for possible use as part of this "
-"public-domain file."
+"All contributions and suggestions about this file sent to a volunteer editor"
+" are gratefully received and will be regarded, unless otherwise labelled, as"
+" freely given donations for possible use as part of this public-domain file."
 msgstr ""
+"このファイルに関するボランティア編集者宛のあらゆる寄稿や提案はありがたく受け取られ、別段の表示がない限り、このパブリックドメインのファイルの一部として使用される可能性のある、自由に贈られた寄付とみなされる。"
 
 #: ../../online-preface.rst:24
 msgid ""
 "From time to time a snapshot of this file has been polished, edited, and "
-"formatted for commercial publication with the cooperation of the "
-"volunteer editors and the hacker community at large. If you wish to have "
-"a bound paper copy of this file, you may find it convenient to purchase "
-"one of these. They often contain additional material not found in on-line"
-" versions. The three ‘authorized’ editions so far are described in the "
-"Revision History section; there may be more in the future."
+"formatted for commercial publication with the cooperation of the volunteer "
+"editors and the hacker community at large. If you wish to have a bound paper"
+" copy of this file, you may find it convenient to purchase one of these. "
+"They often contain additional material not found in on-line versions. The "
+"three ‘authorized’ editions so far are described in the Revision History "
+"section; there may be more in the future."
 msgstr ""
+"時折、このファイルのスナップショットが、ボランティア編集者とハッカーコミュニティ全体の協力のもとで、商業出版向けに磨き上げられ、編集され、整形されてきた。このファイルの製本された紙のコピーが欲しいなら、こうしたもののひとつを購入すると便利かもしれない。それらにはしばしばオンライン版には見られない追加の資料が含まれている。これまでの三つの‘公認’版はRevision"
+" Historyの章で説明されている。将来さらに増えるかもしれない。"
 
 #: ../../online-preface.rst:29
 msgid ""
-"The Jargon File's online rendition uses an unusually large number of "
-"special characters. This test page lists them so you can check what your "
-"browser does with each one."
+"The Jargon File's online rendition uses an unusually large number of special"
+" characters. This test page lists them so you can check what your browser "
+"does with each one."
 msgstr ""
+"Jargon "
+"Fileのオンライン版は、異常に多くの特殊文字を使用している。このテストページはそれらを一覧にしているので、あなたのブラウザがそれぞれをどう表示するか確認できる。"
 
 #: ../../online-preface.rst:34
 msgid "glyph"
@@ -104,7 +114,7 @@ msgstr "説明"
 
 #: ../../online-preface.rst:36
 msgid "α"
-msgstr ""
+msgstr "α"
 
 #: ../../online-preface.rst:37
 msgid "greek character alpha"
@@ -112,7 +122,7 @@ msgstr "ギリシャ文字 アルファ"
 
 #: ../../online-preface.rst:38
 msgid "κ"
-msgstr ""
+msgstr "κ"
 
 #: ../../online-preface.rst:39
 msgid "greek character kappa"
@@ -120,7 +130,7 @@ msgstr "ギリシャ文字 カッパ"
 
 #: ../../online-preface.rst:40
 msgid "λ"
-msgstr ""
+msgstr "λ"
 
 #: ../../online-preface.rst:41
 msgid "greek character lambda"
@@ -128,7 +138,7 @@ msgstr "ギリシャ文字 ラムダ"
 
 #: ../../online-preface.rst:42
 msgid "Λ"
-msgstr ""
+msgstr "Λ"
 
 #: ../../online-preface.rst:43
 msgid "greek character Lambda"
@@ -136,7 +146,7 @@ msgstr "ギリシャ文字 ラムダ"
 
 #: ../../online-preface.rst:44
 msgid "ν"
-msgstr ""
+msgstr "ν"
 
 #: ../../online-preface.rst:45
 msgid "greek character nu"
@@ -144,7 +154,7 @@ msgstr "ギリシャ文字 ニュー"
 
 #: ../../online-preface.rst:46
 msgid "ο"
-msgstr ""
+msgstr "ο"
 
 #: ../../online-preface.rst:47
 msgid "greek character omicron"
@@ -152,7 +162,7 @@ msgstr "ギリシャ文字 オミクロン"
 
 #: ../../online-preface.rst:48
 msgid "π"
-msgstr ""
+msgstr "π"
 
 #: ../../online-preface.rst:49
 msgid "greek character pi"
@@ -160,7 +170,7 @@ msgstr "ギリシャ文字 パイ"
 
 #: ../../online-preface.rst:50
 msgid "£"
-msgstr ""
+msgstr "£"
 
 #: ../../online-preface.rst:51
 msgid "pound sterling"
@@ -168,7 +178,7 @@ msgstr "ポンド"
 
 #: ../../online-preface.rst:52
 msgid "〈"
-msgstr ""
+msgstr "〈"
 
 #: ../../online-preface.rst:53
 msgid "left angle bracket"
@@ -176,7 +186,7 @@ msgstr "左山括弧"
 
 #: ../../online-preface.rst:54
 msgid "〉"
-msgstr ""
+msgstr "〉"
 
 #: ../../online-preface.rst:55
 msgid "right angle bracket"
@@ -184,7 +194,7 @@ msgstr "右山括弧"
 
 #: ../../online-preface.rst:56
 msgid "æ"
-msgstr ""
+msgstr "æ"
 
 #: ../../online-preface.rst:57
 msgid "ae ligature"
@@ -192,7 +202,7 @@ msgstr "ae合字"
 
 #: ../../online-preface.rst:58
 msgid "ß"
-msgstr ""
+msgstr "ß"
 
 #: ../../online-preface.rst:59
 msgid "German sharp-s sign"
@@ -200,15 +210,15 @@ msgstr "ドイツ語のシャープ記号"
 
 #: ../../online-preface.rst:60
 msgid "∼"
-msgstr ""
+msgstr "∼"
 
 #: ../../online-preface.rst:61
 msgid "similarity sign"
-msgstr ""
+msgstr "相似記号"
 
 #: ../../online-preface.rst:62
 msgid "⊕"
-msgstr ""
+msgstr "⊕"
 
 #: ../../online-preface.rst:63
 msgid "circle-plus"
@@ -216,7 +226,7 @@ msgstr "直和"
 
 #: ../../online-preface.rst:64
 msgid "⊗"
-msgstr ""
+msgstr "⊗"
 
 #: ../../online-preface.rst:65
 msgid "circle-times"
@@ -224,7 +234,7 @@ msgstr "テンソル積"
 
 #: ../../online-preface.rst:66
 msgid "×"
-msgstr ""
+msgstr "×"
 
 #: ../../online-preface.rst:67
 msgid "times"
@@ -232,7 +242,7 @@ msgstr "積"
 
 #: ../../online-preface.rst:68
 msgid "∅"
-msgstr ""
+msgstr "∅"
 
 #: ../../online-preface.rst:69
 msgid "empty set (used for APL null)"
@@ -240,7 +250,7 @@ msgstr "空集合（APLのnullに使用）"
 
 #: ../../online-preface.rst:70
 msgid "µ"
-msgstr ""
+msgstr "µ"
 
 #: ../../online-preface.rst:71
 msgid "micro quantifier sign"
@@ -248,7 +258,7 @@ msgstr "マイクロ"
 
 #: ../../online-preface.rst:72
 msgid "→"
-msgstr ""
+msgstr "→"
 
 #: ../../online-preface.rst:73
 msgid "right arrow"
@@ -256,7 +266,7 @@ msgstr "右矢印"
 
 #: ../../online-preface.rst:74
 msgid "⇔"
-msgstr ""
+msgstr "⇔"
 
 #: ../../online-preface.rst:75
 msgid "horizontal double arrow"
@@ -264,7 +274,7 @@ msgstr "二重左右両矢印"
 
 #: ../../online-preface.rst:76
 msgid "™"
-msgstr ""
+msgstr "™"
 
 #: ../../online-preface.rst:77
 msgid "trademark symbol"
@@ -272,7 +282,7 @@ msgstr "商標マーク"
 
 #: ../../online-preface.rst:78
 msgid "®"
-msgstr ""
+msgstr "®"
 
 #: ../../online-preface.rst:79
 msgid "registered-trademark symbol"
@@ -280,7 +290,7 @@ msgstr "登録商標マーク"
 
 #: ../../online-preface.rst:80
 msgid "−"
-msgstr ""
+msgstr "−"
 
 #: ../../online-preface.rst:81
 msgid "minus"
@@ -288,7 +298,7 @@ msgstr "マイナス"
 
 #: ../../online-preface.rst:82
 msgid "±"
-msgstr ""
+msgstr "±"
 
 #: ../../online-preface.rst:83
 msgid "plus-or-minus"
@@ -296,7 +306,7 @@ msgstr "プラスマイナス"
 
 #: ../../online-preface.rst:84
 msgid "Ø"
-msgstr ""
+msgstr "Ø"
 
 #: ../../online-preface.rst:85
 msgid "slashed-O"
@@ -304,7 +314,7 @@ msgstr "スラッシュ付きO"
 
 #: ../../online-preface.rst:86
 msgid "\\@"
-msgstr ""
+msgstr "\\@"
 
 #: ../../online-preface.rst:87
 msgid "schwa"
@@ -312,7 +322,7 @@ msgstr "シュワ"
 
 #: ../../online-preface.rst:88
 msgid "´"
-msgstr ""
+msgstr "´"
 
 #: ../../online-preface.rst:89
 msgid "acute accent"
@@ -320,7 +330,7 @@ msgstr "揚音符"
 
 #: ../../online-preface.rst:90
 msgid "·"
-msgstr ""
+msgstr "·"
 
 #: ../../online-preface.rst:91
 msgid "medial dot"
@@ -328,8 +338,8 @@ msgstr "中黒"
 
 #: ../../online-preface.rst:93
 msgid ""
-"We normally test with the latest build of Mozilla. If some of the special"
-" characters above look wrong, your browser has bugs in its standards-"
+"We normally test with the latest build of Mozilla. If some of the special "
+"characters above look wrong, your browser has bugs in its standards-"
 "conformance and you should replace it."
 msgstr ""
-
+"我々は通常、最新ビルドのMozillaでテストしている。上記の特殊文字のいくつかが正しく見えないなら、あなたのブラウザは標準準拠にバグがあるので、置き換えるべきである。"
