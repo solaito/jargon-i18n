@@ -8,30 +8,30 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/Death-Star.rst:5
 msgid "Death Star"
-msgstr ""
+msgstr "Death Star"
 
 #: ../../D/Death-Star.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../D/Death-Star.rst:9
 msgid "[from the movie *Star Wars*\\]"
-msgstr ""
+msgstr "[映画『*Star Wars*』から]"
 
 #: ../../D/Death-Star.rst:12
 msgid ""
@@ -39,24 +39,30 @@ msgid ""
 "Star in the Star Wars movies. This usage was particularly common among "
 "partisans of :ref:`BSD` Unix in the 1980s, who tended to regard the AT&T "
 "versions as inferior and AT&T as a bad guy. Copies still circulate of a "
-"poster printed by Mt. Xinu showing a starscape with a space fighter "
-"labeled 4.2 BSD streaking away from a broken AT&T logo wreathed in "
-"flames."
+"poster printed by Mt. Xinu showing a starscape with a space fighter labeled "
+"4.2 BSD streaking away from a broken AT&T logo wreathed in flames."
 msgstr ""
+"AT&Tの企業ロゴ。映画『Star Wars』のDeath Star(デス・スター)に不気味なほど似ている。この用法は、1980年代に\\ "
+":ref:`BSD`\\ Unixの支持者の間で特に一般的だった。彼らはAT&T版を劣ったものと見なし、AT&Tを悪役と見なす傾向があった。Mt. "
+"Xinuが印刷したポスターのコピーが今も出回っている。それは星空を背景に、4.2 "
+"BSDというラベルの宇宙戦闘機が、炎に包まれた壊れたAT&Tロゴから疾走する様子を描いている。"
 
 #: ../../D/Death-Star.rst:18
 msgid ""
 "AT&T's internal magazine, *Focus*\\, uses death star to describe an "
-"incorrectly done AT&T logo in which the inner circle in the top left is "
-"dark instead of light — a frequent result of dark-on-light logo images."
+"incorrectly done AT&T logo in which the inner circle in the top left is dark"
+" instead of light — a frequent result of dark-on-light logo images."
 msgstr ""
+"AT&Tの社内誌『*Focus*』は、左上の内側の円が明るいのではなく暗くなっている、誤って作られたAT&Tロゴを表すのにdeath "
+"starを使っている——これは明るい背景に暗いロゴ画像でよく生じる結果である。"
 
 #: ../../D/Death-Star.rst:21
 msgid ""
-"The IBM DeskStar 75GXP drive series, which suffered manufacturing "
-"problems and had an uncanny ability to die after a few months in the "
-"field. This drive series single-handedly destroyed IBM's previously very "
-"good reputation in the hard disk market, and ended up with IBM selling "
-"their hard disk business to Hitachi."
+"The IBM DeskStar 75GXP drive series, which suffered manufacturing problems "
+"and had an uncanny ability to die after a few months in the field. This "
+"drive series single-handedly destroyed IBM's previously very good reputation"
+" in the hard disk market, and ended up with IBM selling their hard disk "
+"business to Hitachi."
 msgstr ""
-
+"IBMのDeskStar "
+"75GXPドライブシリーズ。製造上の問題に見舞われ、市場投入後わずか数か月で死ぬ不気味な能力を持っていた。このドライブシリーズは、それまで非常に良かったIBMのハードディスク市場での評判を一気に崩壊させ、最終的にIBMはハードディスク事業をHitachiに売却するに至った。"

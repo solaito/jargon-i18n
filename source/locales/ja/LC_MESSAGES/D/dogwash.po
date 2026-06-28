@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/dogwash.rst:5
 msgid "dogwash"
-msgstr ""
+msgstr "dogwash"
 
 #: ../../D/dogwash.rst:7
 msgid "/dog´wosh/"
-msgstr ""
+msgstr "/dog´wosh/"
 
 #: ../../D/dogwash.rst:9
 msgid ""
@@ -35,16 +35,17 @@ msgid ""
 "request, ca. : 1982. It was something like \"Urgency: Wash your dog "
 "first\".]"
 msgstr ""
+"[ごく任意のソフトウェア変更要求の‘urgency(緊急度)’欄の警句から。1982年頃。それは「Urgency: Wash your dog "
+"first(緊急度：まず犬を洗え)」のようなものだった。]"
 
 #: ../../D/dogwash.rst:13
 msgid ""
 "n\\. A project of minimal priority, undertaken as an escape from more "
 "serious work."
-msgstr ""
+msgstr "名詞。より深刻な仕事からの逃避として引き受けられる、優先度が最小限のプロジェクト。"
 
 #: ../../D/dogwash.rst:16
 msgid ""
-"v\\. To engage in such a project. Many games and much :ref:`freeware` get"
-" written this way."
-msgstr ""
-
+"v\\. To engage in such a project. Many games and much :ref:`freeware` get "
+"written this way."
+msgstr "動詞。そのようなプロジェクトに従事すること。多くのゲームや多くの\\ :ref:`freeware`\\ がこうして書かれる。"

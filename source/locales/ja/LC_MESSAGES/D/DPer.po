@@ -8,31 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/DPer.rst:5
 msgid "DPer"
-msgstr ""
+msgstr "DPer"
 
 #: ../../D/DPer.rst:7
 msgid "/dee·pee·er/, n\\."
-msgstr ""
+msgstr "/dee·pee·er/, 名詞"
 
 #: ../../D/DPer.rst:9
 msgid ""
-"Data Processor. Hackers are absolutely amazed that :ref:`suit`\\s use "
-"this term self-referentially.*Computers* process data, not people! See "
+"Data Processor. Hackers are absolutely amazed that :ref:`suit`\\s use this "
+"term self-referentially.*Computers* process data, not people! See "
 ":ref:`DP`\\."
 msgstr ""
-
+"Data Processor(データ処理者)。ハッカーは\\ :ref:`suit`\\ "
+"がこの用語を自称として使うことに心底あきれている。データを処理するのは\\ *コンピューター*\\ であって、人間ではない! \\ "
+":ref:`DP`\\ を参照。"

@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/do-protocol.rst:5
 msgid "do protocol"
-msgstr ""
+msgstr "do protocol"
 
 #: ../../D/do-protocol.rst:7
 msgid "vi\\."
-msgstr ""
+msgstr "自動詞"
 
 #: ../../D/do-protocol.rst:9
 msgid ""
-"[from network protocol programming] To perform an interaction with "
-"somebody or something that follows a clearly defined procedure. For "
-"example, \"Let's do protocol with the check\" at a restaurant means to "
-"ask for the check, calculate the tip and everybody's share, collect money"
-" from everybody, generate change as necessary, and pay the bill. See "
-":ref:`protocol`\\."
+"[from network protocol programming] To perform an interaction with somebody "
+"or something that follows a clearly defined procedure. For example, \"Let's "
+"do protocol with the check\" at a restaurant means to ask for the check, "
+"calculate the tip and everybody's share, collect money from everybody, "
+"generate change as necessary, and pay the bill. See :ref:`protocol`\\."
 msgstr ""
-
+"[ネットワークプロトコルのプログラミングから] 明確に定義された手順に従って、誰かまたは何かとやり取りを行うこと。たとえば、レストランで「Let's "
+"do protocol with the "
+"check」と言えば、勘定書を頼み、チップとそれぞれの分担を計算し、全員から金を集め、必要に応じてお釣りを作り、勘定を払う、という意味である。\\ "
+":ref:`protocol`\\ を参照。"

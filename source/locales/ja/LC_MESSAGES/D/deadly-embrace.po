@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/deadly-embrace.rst:5
 msgid "deadly embrace"
-msgstr ""
+msgstr "deadly embrace"
 
 #: ../../D/deadly-embrace.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../D/deadly-embrace.rst:9
 msgid ""
@@ -35,4 +35,6 @@ msgid ""
 "processes are involved. This is the more popular term in Europe, while "
 ":ref:`deadlock` predominates in the United States."
 msgstr ""
-
+"\\ :ref:`deadlock`\\ "
+"と同じだが、通常はちょうど2つのプロセスが関わる場合にのみ使われる。これはヨーロッパでより一般的な用語であり、一方アメリカ合衆国では\\ "
+":ref:`deadlock`\\ が優勢である。"

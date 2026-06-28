@@ -8,35 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/drone.rst:5
 msgid "drone"
-msgstr ""
+msgstr "drone"
 
 #: ../../D/drone.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../D/drone.rst:9
 msgid ""
 "Ignorant sales or customer service personnel in computer or electronics "
-"superstores. Characterized by a lack of even superficial knowledge about "
-"the products they sell, yet possessed of the conviction that they are "
-"more competent than their hacker customers. Usage: \"That video board "
-"probably sucks, it was recommended by a drone at Fry's\" In the year "
-"2000, their natural habitats include Fry's Electronics, Best Buy, and "
-"CompUSA."
+"superstores. Characterized by a lack of even superficial knowledge about the"
+" products they sell, yet possessed of the conviction that they are more "
+"competent than their hacker customers. Usage: \"That video board probably "
+"sucks, it was recommended by a drone at Fry's\" In the year 2000, their "
+"natural habitats include Fry's Electronics, Best Buy, and CompUSA."
 msgstr ""
-
+"コンピューターや電子機器の量販店における、無知な販売員やカスタマーサービス担当者。自分が売っている製品について表面的な知識すら欠いているのに、ハッカーの顧客よりも自分のほうが有能だという確信を持っているのが特徴。用法：「あのビデオボードはたぶんダメだろう、Fry'sのdroneが勧めたんだから」。2000年現在、彼らの自然の生息地にはFry's"
+" Electronics、Best Buy、CompUSAがある。"

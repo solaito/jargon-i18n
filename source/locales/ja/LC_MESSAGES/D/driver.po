@@ -8,43 +8,43 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../D/driver.rst:5
 msgid "driver"
-msgstr ""
+msgstr "driver"
 
 #: ../../D/driver.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../D/driver.rst:10
 msgid ""
 "The :ref:`main-loop` of an event-processing program; the code that gets "
 "commands and dispatches them for execution."
-msgstr ""
+msgstr "イベント処理プログラムの\\ :ref:`main-loop`\\ 。コマンドを取得して実行のためにディスパッチするコード。"
 
 #: ../../D/driver.rst:13
 msgid ""
 "[techspeak] In device driver, code designed to handle a particular "
 "peripheral device such as a magnetic disk or tape unit."
-msgstr ""
+msgstr "[専門用語] device driverにおいて、磁気ディスクやテープユニットのような特定の周辺機器を扱うように設計されたコード。"
 
 #: ../../D/driver.rst:16
 msgid ""
 "In the TeX world and the computerized typesetting world in general, a "
-"program that translates some device-independent or other common format to"
-" something a real device can actually understand."
+"program that translates some device-independent or other common format to "
+"something a real device can actually understand."
 msgstr ""
-
+"TeXの世界や計算機による組版の世界一般において、何らかのデバイス非依存またはその他の共通フォーマットを、実際のデバイスが本当に理解できるものに変換するプログラム。"
