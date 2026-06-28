@@ -85,7 +85,7 @@ msgstr ""
 
 #: ../../A/ASCII.rst:31
 msgid "!"
-msgstr ""
+msgstr "!"
 
 #: ../../A/ASCII.rst:32
 msgid ""
@@ -93,20 +93,25 @@ msgid ""
 "mark>. Rare: factorial; exclam; smash; cuss; boing; yell; wow; hey; wham; "
 "eureka; [spark-spot]; soldier, control."
 msgstr ""
+"一般的: \\ :ref:`bang`\\ ; pling; excl; not; shriek; ball-bat; <exclamation "
+"mark>。まれ: factorial; exclam; smash; cuss; boing; yell; wow; hey; wham; "
+"eureka; [spark-spot]; soldier, control。"
 
 #: ../../A/ASCII.rst:34
 msgid "\""
-msgstr ""
+msgstr "\""
 
 #: ../../A/ASCII.rst:35
 msgid ""
 "Common: double quote; quote. Rare: literal mark; double-glitch; snakebite; "
 "<quotation marks>; <dieresis>; dirk; [rabbit-ears]; double prime."
 msgstr ""
+"一般的: double quote; quote。まれ: literal mark; double-glitch; snakebite; "
+"<quotation marks>; <dieresis>; dirk; [rabbit-ears]; double prime。"
 
 #: ../../A/ASCII.rst:37
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: ../../A/ASCII.rst:38
 msgid ""
@@ -114,10 +119,13 @@ msgid ""
 "[mesh]. Rare: grid; cross­hatch; oc­to­thorpe; flash; <square>, pig-pen; "
 "tic­tac­toe; scratchmark; thud; thump; :ref:`splat` ."
 msgstr ""
+"一般的: number sign; pound; pound sign; hash; sharp; \\ :ref:`crunch`\\ ; hex; "
+"[mesh]。まれ: grid; crosshatch; octothorpe; flash; <square>, pig-pen; "
+"tictactoe; scratchmark; thud; thump; \\ :ref:`splat`\\ 。"
 
 #: ../../A/ASCII.rst:40
 msgid "$"
-msgstr ""
+msgstr "$"
 
 #: ../../A/ASCII.rst:41
 msgid ""
@@ -125,18 +133,20 @@ msgid ""
 "string (from BASIC); escape (when used as the echo of ASCII ESC); ding; "
 "cache; [big money]."
 msgstr ""
+"一般的: dollar; <dollar sign>。まれ: currency symbol; buck; cash; bling; "
+"string(BASICから); escape(ASCII ESCのエコーとして使うとき); ding; cache; [big money]。"
 
 #: ../../A/ASCII.rst:43
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #: ../../A/ASCII.rst:44
 msgid "Common: percent; <percent sign>; mod; grapes. Rare: [double-oh-seven]."
-msgstr ""
+msgstr "一般的: percent; <percent sign>; mod; grapes。まれ: [double-oh-seven]。"
 
 #: ../../A/ASCII.rst:46
 msgid "&"
-msgstr ""
+msgstr "&"
 
 #: ../../A/ASCII.rst:47
 msgid ""
@@ -144,20 +154,25 @@ msgid ""
 "reference (from C++); andpersand; bitand; background (from :manpage:`sh(1)` "
 "); pretzel. [INTERCAL called this *ampersand* ; what could be sillier?]"
 msgstr ""
+"一般的: <ampersand>; amp; amper; and, and sign。まれ: address(Cから); "
+"reference(C++から); andpersand; bitand; background(\\ :manpage:`sh(1)`\\ から); "
+"pretzel。[INTERCALはこれを\\ *ampersand*\\ と呼んだ。これ以上ばかげたものがあろうか?]"
 
 #: ../../A/ASCII.rst:50
 msgid "'"
-msgstr ""
+msgstr "'"
 
 #: ../../A/ASCII.rst:51
 msgid ""
 "Common: single quote; quote; <apostrophe>. Rare: prime; glitch; tick; irk; "
 "pop; [spark]; <closing single quotation mark>; <acute accent>."
 msgstr ""
+"一般的: single quote; quote; <apostrophe>。まれ: prime; glitch; tick; irk; pop; "
+"[spark]; <closing single quotation mark>; <acute accent>。"
 
 #: ../../A/ASCII.rst:53
 msgid "( )"
-msgstr ""
+msgstr "( )"
 
 #: ../../A/ASCII.rst:54
 msgid ""
@@ -167,10 +182,14 @@ msgid ""
 "o/c round bracket, l/r round bracket, [wax/wane]; "
 "par­en­this­ey/un­par­en­this­ey; l/r ear."
 msgstr ""
+"一般的: l/r paren; l/r parenthesis; left/right; open/close; paren/thesis; o/c "
+"paren; o/c parenthesis; l/r parenthesis; l/r banana。まれ: so/already; "
+"lparen/rparen; <opening/closing parenthesis>; o/c round bracket, l/r round "
+"bracket, [wax/wane]; parenthisey/unparenthisey; l/r ear。"
 
 #: ../../A/ASCII.rst:56
 msgid "\\*"
-msgstr ""
+msgstr "\\*"
 
 #: ../../A/ASCII.rst:57
 msgid ""
@@ -178,62 +197,69 @@ msgid ""
 "mult; spider; aster; times; twinkle; glob (see :ref:`glob` ); :ref:`Nathan-"
 "Hale` ."
 msgstr ""
+"一般的: star; [ \\ :ref:`splat`\\ ]; <asterisk>。まれ: wildcard; gear; dingle; "
+"mult; spider; aster; times; twinkle; glob(\\ :ref:`glob`\\ を参照); \\ "
+":ref:`Nathan-Hale`\\ 。"
 
 #: ../../A/ASCII.rst:60
 msgid "Common: <plus>; add. Rare: cross; [intersection]."
-msgstr ""
+msgstr "一般的: <plus>; add。まれ: cross; [intersection]。"
 
 #: ../../A/ASCII.rst:62
 msgid ","
-msgstr ""
+msgstr ","
 
 #: ../../A/ASCII.rst:63
 msgid "Common: <comma>. Rare: <cedilla>; [tail]."
-msgstr ""
+msgstr "一般的: <comma>。まれ: <cedilla>; [tail]。"
 
 #: ../../A/ASCII.rst:66
 msgid "Common: dash; <hyphen>; <minus>. Rare: [worm]; option; dak; bithorpe."
-msgstr ""
+msgstr "一般的: dash; <hyphen>; <minus>。まれ: [worm]; option; dak; bithorpe。"
 
 #: ../../A/ASCII.rst:68
 msgid "."
-msgstr ""
+msgstr "."
 
 #: ../../A/ASCII.rst:69
 msgid ""
 "Common: dot; point; <period>; <decimal point>. Rare: radix point; full stop;"
 " [spot]."
 msgstr ""
+"一般的: dot; point; <period>; <decimal point>。まれ: radix point; full stop; "
+"[spot]。"
 
 #: ../../A/ASCII.rst:71
 msgid "/"
-msgstr ""
+msgstr "/"
 
 #: ../../A/ASCII.rst:72
 msgid ""
 "Common: slash; stroke; <slant>; forward slash. Rare: diagonal; solidus; "
 "over; slak; virgule; [slat]."
 msgstr ""
+"一般的: slash; stroke; <slant>; forward slash。まれ: diagonal; solidus; over; "
+"slak; virgule; [slat]。"
 
 #: ../../A/ASCII.rst:74
 msgid ":"
-msgstr ""
+msgstr ":"
 
 #: ../../A/ASCII.rst:75
 msgid "Common: <colon>. Rare: dots; [two-spot]."
-msgstr ""
+msgstr "一般的: <colon>。まれ: dots; [two-spot]。"
 
 #: ../../A/ASCII.rst:77
 msgid ";"
-msgstr ""
+msgstr ";"
 
 #: ../../A/ASCII.rst:78
 msgid "Common: <semicolon>; semi. Rare: weenie; [hybrid], pit-thwong."
-msgstr ""
+msgstr "一般的: <semicolon>; semi。まれ: weenie; [hybrid], pit-thwong。"
 
 #: ../../A/ASCII.rst:80
 msgid "< >"
-msgstr ""
+msgstr "< >"
 
 #: ../../A/ASCII.rst:81
 msgid ""
@@ -242,52 +268,61 @@ msgid ""
 "from/gozinta; in/out; crunch/zap (all from UNIX); tic/tac; [angle/right "
 "angle]."
 msgstr ""
+"一般的: <less/greater than>; bra/ket; l/r angle; l/r angle bracket; l/r "
+"broket。まれ: from/{into, towards}; read from/write to; suck/blow; comes-"
+"from/gozinta; in/out; crunch/zap(すべてUNIXから); tic/tac; [angle/right angle]。"
 
 #: ../../A/ASCII.rst:83
 msgid "="
-msgstr ""
+msgstr "="
 
 #: ../../A/ASCII.rst:84
 msgid "Common: <equals>; gets; takes. Rare: quadrathorpe; [half-mesh]."
-msgstr ""
+msgstr "一般的: <equals>; gets; takes。まれ: quadrathorpe; [half-mesh]。"
 
 #: ../../A/ASCII.rst:86
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: ../../A/ASCII.rst:87
 msgid ""
 "Common: query; <question mark>; :ref:`ques` . Rare: quiz; whatmark; [what]; "
 "wildchar; huh; hook; buttonhook; hunchback."
 msgstr ""
+"一般的: query; <question mark>; \\ :ref:`ques`\\ 。まれ: quiz; whatmark; [what]; "
+"wildchar; huh; hook; buttonhook; hunchback。"
 
 #: ../../A/ASCII.rst:89
 msgid "\\@"
-msgstr ""
+msgstr "\\@"
 
 #: ../../A/ASCII.rst:90
 msgid ""
 "Common: at sign; at; strudel. Rare: each; vortex; whorl; [whirlpool]; "
 "cyclone; snail; ape; cat; rose; cabbage; <commercial at>."
 msgstr ""
+"一般的: at sign; at; strudel。まれ: each; vortex; whorl; [whirlpool]; cyclone; "
+"snail; ape; cat; rose; cabbage; <commercial at>。"
 
 #: ../../A/ASCII.rst:92
 msgid "V"
-msgstr ""
+msgstr "V"
 
 #: ../../A/ASCII.rst:93
 msgid "Rare: [book]."
-msgstr ""
+msgstr "まれ: [book]。"
 
 #: ../../A/ASCII.rst:94
 msgid "[ ]"
-msgstr ""
+msgstr "[ ]"
 
 #: ../../A/ASCII.rst:95
 msgid ""
 "Common: l/r square bracket; l/r bracket; <opening/closing brack­et>; "
 "brack­et/un­brack­et. Rare: square­/­un­square; [U turn/U turn back]."
 msgstr ""
+"一般的: l/r square bracket; l/r bracket; <opening/closing bracket>; "
+"bracket/unbracket。まれ: square/unsquare; [U turn/U turn back]。"
 
 #: ../../A/ASCII.rst:98
 msgid ""
@@ -295,10 +330,13 @@ msgid ""
 "backslant; backwhack. Rare: bash; <reverse slant>; reversed virgule; "
 "[backslat]."
 msgstr ""
+"一般的: backslash, hack, whack; escape(C/UNIXから); reverse slash; slosh; "
+"backslant; backwhack。まれ: bash; <reverse slant>; reversed virgule; "
+"[backslat]。"
 
 #: ../../A/ASCII.rst:100
 msgid "^"
-msgstr ""
+msgstr "^"
 
 #: ../../A/ASCII.rst:101
 msgid ""
@@ -306,20 +344,25 @@ msgid ""
 " [shark (or shark-fin)]; to the (‘to the power of’); fang; pointer (in "
 "Pascal)."
 msgstr ""
+"一般的: hat; control; uparrow; caret; <circumflex>。まれ: xor sign, chevron; "
+"[shark (or shark-fin)]; to the(‘to the power of’、べき乗); fang; "
+"pointer(Pascalでの)。"
 
 #: ../../A/ASCII.rst:103
 msgid "_"
-msgstr ""
+msgstr "_"
 
 #: ../../A/ASCII.rst:104
 msgid ""
 "Common: <underline>; underscore; underbar; under. Rare: score; backarrow; "
 "skid; [flatworm]."
 msgstr ""
+"一般的: <underline>; underscore; underbar; under。まれ: score; backarrow; skid; "
+"[flatworm]。"
 
 #: ../../A/ASCII.rst:106
 msgid "\\`"
-msgstr ""
+msgstr "\\`"
 
 #: ../../A/ASCII.rst:107
 msgid ""
@@ -327,10 +370,13 @@ msgid ""
 "accent>; grave. Rare: backprime; [backspark]; unapostrophe; birk; blugle; "
 "back tick; back glitch; push; <opening single quotation mark>; quasiquote."
 msgstr ""
+"一般的: backquote; left quote; left single quote; open quote; <grave accent>; "
+"grave。まれ: backprime; [backspark]; unapostrophe; birk; blugle; back tick; "
+"back glitch; push; <opening single quotation mark>; quasiquote。"
 
 #: ../../A/ASCII.rst:109
 msgid "{ }"
-msgstr ""
+msgstr "{ }"
 
 #: ../../A/ASCII.rst:110
 msgid ""
@@ -339,26 +385,34 @@ msgid ""
 "curly/un­curly; leftit/rytit; l/r squirrelly; [embrace/bracelet]. A balanced"
 " pair of these may be called *curlies* ."
 msgstr ""
+"一般的: o/c brace; l/r brace; l/r squiggly; l/r squiggly bracket/brace; l/r "
+"curly bracket/brace; <opening/closing brace>。まれ: brace/unbrace; "
+"curly/uncurly; leftit/rytit; l/r squirrelly; "
+"[embrace/bracelet]。これらの釣り合った対は\\ *curlies*\\ と呼ばれることがある。"
 
 #: ../../A/ASCII.rst:113
 msgid "\\|"
-msgstr ""
+msgstr "\\|"
 
 #: ../../A/ASCII.rst:114
 msgid ""
 "Common: bar; or; or-bar; v-bar; pipe; vertical bar. Rare: <vertical line>; "
 "gozinta; thru; pipesinta (last three from UNIX); [spike]."
 msgstr ""
+"一般的: bar; or; or-bar; v-bar; pipe; vertical bar。まれ: <vertical line>; "
+"gozinta; thru; pipesinta(最後の3つはUNIXから); [spike]。"
 
 #: ../../A/ASCII.rst:116
 msgid "~"
-msgstr ""
+msgstr "~"
 
 #: ../../A/ASCII.rst:117
 msgid ""
 "Common: <tilde>; squiggle; :ref:`twiddle` ; not. Rare: approx; wiggle; swung"
 " dash; enyay; [sqiggle (sic)]."
 msgstr ""
+"一般的: <tilde>; squiggle; \\ :ref:`twiddle`\\ ; not。まれ: approx; wiggle; swung "
+"dash; enyay; [sqiggle (sic)]。"
 
 #: ../../A/ASCII.rst:120
 msgid ""
@@ -409,7 +463,7 @@ msgid ""
 "cultures, ``$`` in the 6502 world, ``>`` at Texas Instruments, and ``&`` on "
 "the BBC Micro, Sinclair, and some Z80 machines). See also :ref:`splat`\\."
 msgstr ""
-"他にもいくつかの一般的な用法が奇妙な重なりを生んでいる。たとえば ``#``\\ 、``$``\\ 、``>``\\ 、``&`` "
+"他にもいくつかの一般的な用法が奇妙な重なりを生んでいる。たとえば ``#``\\ 、\\ ``$``\\ 、\\ ``>``\\ 、\\ ``&`` "
 "の各文字は、さまざまなアセンブラが16進定数の接頭タグとしてこれらを使うため、異なるコミュニティでいずれも「hex」と発音される(具体的には、多くのアセンブラプログラミング文化では"
 " ``#``\\ 、6502の世界では ``$``\\ 、テキサス・インスツルメンツでは ``>``\\ 、BBC "
 "Micro・Sinclair・一部のZ80マシンでは ``&``\\ )。\\ :ref:`splat`\\ も参照。"
