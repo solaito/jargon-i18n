@@ -8,31 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../A/alpha-geek.rst:5
 msgid "alpha geek"
-msgstr ""
+msgstr "alpha geek"
 
 #: ../../A/alpha-geek.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../A/alpha-geek.rst:9
 msgid ""
-"[from animal ethologists' alpha male] The most technically accomplished "
-"or skillful person in some implied context. \"Ask Larry, he's the alpha "
-"geek here.\""
+"[from animal ethologists' alpha male] The most technically accomplished or "
+"skillful person in some implied context. \"Ask Larry, he's the alpha geek "
+"here.\""
 msgstr ""
-
+"[動物行動学者のalpha male(ボスざる)から]ある暗黙の文脈において、技術的に最も達者または熟練した人物。「Larryに訊けよ、ここのalpha"
+" geekだから」。"

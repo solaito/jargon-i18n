@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../A/AOL-.rst:5
 msgid "AOL!"
-msgstr ""
+msgstr "AOL!"
 
 #: ../../A/AOL-.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../A/AOL-.rst:9
 msgid ""
@@ -36,8 +36,9 @@ msgid ""
 "postings. The number of exclamation points following varies from zero to "
 "five or so. The pseudo-HTML"
 msgstr ""
+"[Usenet]「Me, too!(私も!)」の一般的な同義語で、America Onlineのユーザーが中身のない「Me, "
+"too!」という投稿をしがちだという伝説的な性向をほのめかしている。後に続く感嘆符の数は0個から5個ほどまで様々である。次のような擬似HTMLも"
 
 #: ../../A/AOL-.rst:20
 msgid "is also frequently seen. See also :ref:`September-that-never-ended`\\."
-msgstr ""
-
+msgstr "もよく見られる。\\ :ref:`September-that-never-ended`\\ も参照。"

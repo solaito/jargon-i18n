@@ -8,40 +8,43 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../A/automagically.rst:5
 msgid "automagically"
-msgstr ""
+msgstr "automagically"
 
 #: ../../A/automagically.rst:7
 msgid "/aw·toh·maj´i·klee/, adv\\."
-msgstr ""
+msgstr "/aw·toh·maj´i·klee/, 副詞"
 
 #: ../../A/automagically.rst:9
 msgid ""
-"Automatically, but in a way that, for some reason (typically because it "
-"is too complicated, or too ugly, or perhaps even too trivial), the "
-"speaker doesn't feel like explaining to you. See :ref:`magic`\\. \"The "
-"C-INTERCAL compiler generates C, then automagically invokes "
-":manpage:`cc(1)` to produce an executable.\""
+"Automatically, but in a way that, for some reason (typically because it is "
+"too complicated, or too ugly, or perhaps even too trivial), the speaker "
+"doesn't feel like explaining to you. See :ref:`magic`\\. \"The C-INTERCAL "
+"compiler generates C, then automagically invokes :manpage:`cc(1)` to produce"
+" an executable.\""
 msgstr ""
+"自動的に、ただし何らかの理由で(たいていは複雑すぎる、醜すぎる、あるいはおそらく些細すぎるという理由で)、話者がそれをあなたに説明する気になれないようなやり方で。\\"
+" :ref:`magic`\\ を参照。「C-INTERCALコンパイラはCを生成し、それからautomagicallyに\\ "
+":manpage:`cc(1)`\\ を呼び出して実行ファイルを作る」。"
 
 #: ../../A/automagically.rst:13
 msgid ""
 "This term is quite old, going back at least to the mid-70s in jargon and "
-"probably much earlier. The word ‘automagic’ occurred in advertising (for "
-"a shirt-ironing gadget) as far back as the late 1940s."
+"probably much earlier. The word ‘automagic’ occurred in advertising (for a "
+"shirt-ironing gadget) as far back as the late 1940s."
 msgstr ""
-
+"この用語はかなり古く、隠語としては少なくとも70年代半ばまで、おそらくもっと前までさかのぼる。‘automagic’という語は、早くも1940年代後半には(シャツのアイロンがけ道具の)広告に現れていた。"

@@ -8,30 +8,29 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../A/amper.rst:5
 msgid "amper"
-msgstr ""
+msgstr "amper"
 
 #: ../../A/amper.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../A/amper.rst:9
 msgid ""
 "Common abbreviation for the name of the ampersand (‘&’, ASCII 0100110) "
 "character. See :ref:`ASCII` for other synonyms."
-msgstr ""
-
+msgstr "アンパサンド(‘&’、ASCII 0100110)という文字の名前の一般的な略称。他の同義語については\\ :ref:`ASCII`\\ を参照。"

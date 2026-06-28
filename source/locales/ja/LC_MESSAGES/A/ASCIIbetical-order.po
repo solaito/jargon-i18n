@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../A/ASCIIbetical-order.rst:5
 msgid "ASCIIbetical order"
-msgstr ""
+msgstr "ASCIIbetical order"
 
 #: ../../A/ASCIIbetical-order.rst:7
 msgid "/as´kee·be'·t\\@·kl or´dr/, adj\\.,n\\."
-msgstr ""
+msgstr "/as´kee·be'·t\\@·kl or´dr/, 形容詞,名詞"
 
 #: ../../A/ASCIIbetical-order.rst:9
 msgid ""
@@ -36,4 +36,5 @@ msgid ""
 "ASCIIbetical order, but with case ignored and entries beginning with non-"
 "alphabetic characters moved to the beginning."
 msgstr ""
-
+"データがアルファベット順ではなくASCIIの照合順で並んでいることを示すのに使う。この用語集も、ASCIIbetical "
+"orderに近い順序で並んでいるが、大文字小文字は無視し、英字以外の文字で始まる項目は先頭に移してある。"

@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../A/Aunt-Tillie.rst:5
 msgid "Aunt Tillie"
-msgstr ""
+msgstr "Aunt Tillie"
 
 #: ../../A/Aunt-Tillie.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../A/Aunt-Tillie.rst:9
 msgid ""
-"[linux-kernel mailing list] The archetypal non-technical user, one's "
-"elderly and scatterbrained maiden aunt. Invoked in discussions of "
-"usability for people who are not hackers and geeks; one sees references "
-"to the \"Aunt Tillie test\"."
+"[linux-kernel mailing list] The archetypal non-technical user, one's elderly"
+" and scatterbrained maiden aunt. Invoked in discussions of usability for "
+"people who are not hackers and geeks; one sees references to the \"Aunt "
+"Tillie test\"."
 msgstr ""
-
+"[linux-"
+"kernelメーリングリスト]技術に疎いユーザーの典型、年老いてうっかり者の独身の叔母。ハッカーやおたくではない人々のための使いやすさを論じるときに引き合いに出される。「Aunt"
+" Tillieテスト」への言及が見られる。"

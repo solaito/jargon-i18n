@@ -8,56 +8,61 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../A/ad-hockery.rst:5
 msgid "ad-hockery"
-msgstr ""
+msgstr "ad-hockery"
 
 #: ../../A/ad-hockery.rst:7
 msgid "/ad·hok'\\@r·ee/, n\\."
-msgstr ""
+msgstr "/ad·hok'\\@r·ee/, 名詞"
 
 #: ../../A/ad-hockery.rst:9
 msgid "[Purdue]"
-msgstr ""
+msgstr "[Purdue]"
 
 #: ../../A/ad-hockery.rst:12
 msgid ""
-"Gratuitous assumptions made inside certain programs, esp. expert systems,"
-" which lead to the appearance of semi-intelligent behavior but are in "
-"fact entirely arbitrary. For example, fuzzy-matching of input tokens that"
-" might be typing errors against a symbol table can make it look as though"
-" a program knows how to spell."
+"Gratuitous assumptions made inside certain programs, esp. expert systems, "
+"which lead to the appearance of semi-intelligent behavior but are in fact "
+"entirely arbitrary. For example, fuzzy-matching of input tokens that might "
+"be typing errors against a symbol table can make it look as though a program"
+" knows how to spell."
 msgstr ""
+"特定のプログラム、特にエキスパートシステムの内部で行われる根拠のない仮定で、なかば知的な振る舞いに見えるが実際にはまったく恣意的なもの。たとえば、タイプミスかもしれない入力トークンを記号表に対してあいまい照合すると、あたかもプログラムが綴りを知っているかのように見せかけられる。"
 
 #: ../../A/ad-hockery.rst:17
 msgid ""
-"Special-case code to cope with some awkward input that would otherwise "
-"cause a program to :ref:`choke`\\, presuming normal inputs are dealt with"
-" in some cleaner and more regular way."
+"Special-case code to cope with some awkward input that would otherwise cause"
+" a program to :ref:`choke`\\, presuming normal inputs are dealt with in some"
+" cleaner and more regular way."
 msgstr ""
+"そうでなければプログラムを\\ :ref:`choke`\\ "
+"させるような厄介な入力に対処するための特別扱いのコード。通常の入力はもっときれいで規則的な方法で処理されることが前提となっている。"
 
 #: ../../A/ad-hockery.rst:19
 msgid ""
-"Also called ad-hackery, ad-hocity (/ad-hos'\\@-tee/), ad-crockery. See "
-"also :ref:`ELIZA-effect`\\."
+"Also called ad-hackery, ad-hocity (/ad-hos'\\@-tee/), ad-crockery. See also "
+":ref:`ELIZA-effect`\\."
 msgstr ""
+"ad-hackery、ad-hocity(/ad-hos'\\@-tee/)、ad-crockeryとも呼ばれる。\\ :ref:`ELIZA-"
+"effect`\\ も参照。"
 
 #: ../../A/ad-hockery.rst:26
 msgid "This is  :ref:`ad-hockery` in action."
-msgstr ""
+msgstr "これは\\ :ref:`ad-hockery`\\ の実例である。"
 
 #: ../../A/ad-hockery.rst:28
 msgid ""
@@ -65,4 +70,5 @@ msgid ""
 ":ref:`74-08-18<crunchly74-08-18>`\\.  The previous one is         "
 ":ref:`73-07-29<crunchly73-07-29>`\\.)"
 msgstr ""
-
+"(Crunchlyの物語の次の漫画は\\ :ref:`74-08-18<crunchly74-08-18>`\\ 。前の漫画は\\ "
+":ref:`73-07-29<crunchly73-07-29>`\\ 。)"
