@@ -8,33 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../E/Easter-egging.rst:5
 msgid "Easter egging"
-msgstr ""
+msgstr "Easter egging"
 
 #: ../../E/Easter-egging.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../E/Easter-egging.rst:9
 msgid ""
-"[IBM] The act of replacing unrelated components more or less at random in"
-" hopes that a malfunction will go away. Hackers consider this the normal "
-"operating mode of :ref:`field-circus` techs and do not love them for it. "
-"See also the jokes under :ref:`field-circus`\\. Compare :ref:`shotgun-"
+"[IBM] The act of replacing unrelated components more or less at random in "
+"hopes that a malfunction will go away. Hackers consider this the normal "
+"operating mode of :ref:`field-circus` techs and do not love them for it. See"
+" also the jokes under :ref:`field-circus`\\. Compare :ref:`shotgun-"
 "debugging`\\."
 msgstr ""
-
+"[IBM] 故障が消えてくれることを期待して、無関係な部品を多かれ少なかれ手当たり次第に交換する行為。ハッカーはこれを\\ :ref:`field-"
+"circus`\\ の技術者の通常の動作モードとみなし、そのことで彼らを好きにはなれない。\\ :ref:`field-circus`\\ "
+"の項のジョークも参照。\\ :ref:`shotgun-debugging`\\ と比較せよ。"

@@ -8,28 +8,27 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../E/eurodemo.rst:5
 msgid "eurodemo"
-msgstr ""
+msgstr "eurodemo"
 
 #: ../../E/eurodemo.rst:7
 msgid "/yoor´o·dem\\`·o/"
-msgstr ""
+msgstr "/yoor´o·dem\\`·o/"
 
 #: ../../E/eurodemo.rst:9
 msgid "a :ref:`demo`\\, sense 4"
-msgstr ""
-
+msgstr "\\ :ref:`demo`\\ 、語義4"

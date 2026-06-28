@@ -8,40 +8,40 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../E/egg.rst:5
 msgid "egg"
-msgstr ""
+msgstr "egg"
 
 #: ../../E/egg.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../E/egg.rst:9
 msgid ""
-"The binary code that is the payload for buffer overflow and format string"
-" attacks. Typically, an egg written in assembly and designed to enable "
-"remote access or escalate privileges from an ordinary user account to "
+"The binary code that is the payload for buffer overflow and format string "
+"attacks. Typically, an egg written in assembly and designed to enable remote"
+" access or escalate privileges from an ordinary user account to "
 "administrator level when it hatches. Also known as shellcode."
 msgstr ""
+"バッファオーバーフロー攻撃や書式文字列攻撃のためのペイロードとなるバイナリコード。典型的には、アセンブリで書かれ、孵化したときにリモートアクセスを可能にしたり、通常のユーザーアカウントから管理者レベルへ権限を昇格させたりするように設計されたegg。シェルコードとしても知られる。"
 
 #: ../../E/egg.rst:13
 msgid ""
-"The name comes from a particular buffer-overflow exploit that was co-"
-"written by a cracker named eggplant. The variable name ‘egg’ was used to "
-"store the payload. The usage spread from people who saw and analyzed the "
-"code."
+"The name comes from a particular buffer-overflow exploit that was co-written"
+" by a cracker named eggplant. The variable name ‘egg’ was used to store the "
+"payload. The usage spread from people who saw and analyzed the code."
 msgstr ""
-
+"この名前は、eggplantというクラッカーが共同で書いた、あるバッファオーバーフローのエクスプロイトに由来する。ペイロードを格納するのに‘egg’という変数名が使われていた。この用法は、そのコードを見て分析した人々から広まった。"
