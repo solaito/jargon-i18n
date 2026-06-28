@@ -8,31 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../Y/Yow-.rst:5
 msgid "Yow!"
-msgstr ""
+msgstr "Yow!"
 
 #: ../../Y/Yow-.rst:7
 msgid "/yow/, interj\\."
-msgstr ""
+msgstr "/yow/, 間投詞"
 
 #: ../../Y/Yow-.rst:9
 msgid ""
-"[from \"Zippy the Pinhead\" comix] A favored hacker expression of "
-"humorous surprise or emphasis. \"Yow! Check out what happens when you "
-"twiddle the foo option on this display hack! \"."
+"[from \"Zippy the Pinhead\" comix] A favored hacker expression of humorous "
+"surprise or emphasis. \"Yow! Check out what happens when you twiddle the foo"
+" option on this display hack! \"."
 msgstr ""
-
+"[\"Zippy the Pinhead\"コミックから] ユーモラスな驚きや強調を表す、ハッカーお気に入りの表現。「Yow! "
+"このディスプレイハックでfooオプションをいじったら何が起こるか見てみろよ!」。"

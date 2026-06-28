@@ -8,32 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/warez.rst:5
 msgid "warez"
-msgstr ""
+msgstr "warez"
 
 #: ../../W/warez.rst:7
 msgid "/weirz/, n\\."
-msgstr ""
+msgstr "/weirz/, 名詞"
 
 #: ../../W/warez.rst:9
 msgid ""
 "Widely used in :ref:`cracker` subcultures to denote cracked version of "
-"commercial software, that is versions from which copy-protection has been"
-" stripped. Hackers recognize this term but don't use it themselves. See "
+"commercial software, that is versions from which copy-protection has been "
+"stripped. Hackers recognize this term but don't use it themselves. See "
 ":ref:`warez-d00dz`\\, :ref:`courier`\\, :ref:`leech`\\, :ref:`elite`\\."
 msgstr ""
-
+"\\ :ref:`cracker`\\ "
+"のサブカルチャーで、商用ソフトウェアのクラックされた版、つまりコピープロテクトが剥がされた版を表すのに広く使われる。ハッカーはこの用語を認識しているが、自分たちでは使わない。\\"
+" :ref:`warez-d00dz`\\ 、\\ :ref:`courier`\\ 、\\ :ref:`leech`\\ 、\\ "
+":ref:`elite`\\ を参照。"

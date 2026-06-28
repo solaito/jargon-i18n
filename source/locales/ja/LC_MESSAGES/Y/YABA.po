@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../Y/YABA.rst:5
 msgid "YABA"
-msgstr ""
+msgstr "YABA"
 
 #: ../../Y/YABA.rst:7
 msgid "/ya´b\\@/, n\\."
-msgstr ""
+msgstr "/ya´b\\@/, 名詞"
 
 #: ../../Y/YABA.rst:9
 msgid ""
 "[Cambridge] Yet Another Bloody Acronym. Whenever some program is being "
 "named, someone invariably suggests that it be given a name that is "
-"acronymic. The response from those with a trace of originality is to "
-"remark ironically that the proposed name would then be ‘YABA-compatible’."
-" Also used in response to questions like \"What is WYSIWYG?\" See also "
-":ref:`TLA`\\."
+"acronymic. The response from those with a trace of originality is to remark "
+"ironically that the proposed name would then be ‘YABA-compatible’. Also used"
+" in response to questions like \"What is WYSIWYG?\" See also :ref:`TLA`\\."
 msgstr ""
-
+"[Cambridge] Yet Another Bloody "
+"Acronym(またしてもいまいましい頭字語)。何かのプログラムに名前を付けるとき、誰かが決まってそれを頭字語的な名前にしようと提案する。少しでも独創性のある者からの反応は、その提案された名前は要するに‘YABA-"
+"compatible’だな、と皮肉めいて評することである。「WYSIWYGって何?」のような質問への返答にも使われる。\\ :ref:`TLA`\\ "
+"も参照。"

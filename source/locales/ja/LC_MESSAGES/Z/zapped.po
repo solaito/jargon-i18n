@@ -8,34 +8,37 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../Z/zapped.rst:5
 msgid "zapped"
-msgstr ""
+msgstr "zapped"
 
 #: ../../Z/zapped.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../Z/zapped.rst:9
 msgid ""
 "Spicy. This term is used to distinguish between food that is hot (in "
 "temperature) and food that is *spicy*\\-hot. For example, the Chinese "
 "appetizer Bon Bon Chicken is a kind of chicken salad that is cold but "
-"zapped; by contrast, :ref:`vanilla` wonton soup is hot but not zapped. "
-"See also :ref:`oriental-food`\\, :ref:`laser-chicken`\\. See "
-":ref:`zap`\\, senses 1 and 2."
+"zapped; by contrast, :ref:`vanilla` wonton soup is hot but not zapped. See "
+"also :ref:`oriental-food`\\, :ref:`laser-chicken`\\. See :ref:`zap`\\, "
+"senses 1 and 2."
 msgstr ""
-
+"辛い。この語は、(温度が)熱い食べ物と、\\ *スパイシー*\\ "
+"に辛い食べ物を区別するために使われる。たとえば、中華の前菜であるバンバンジーは冷たいがzappedな一種のチキンサラダである。対照的に、\\ "
+":ref:`vanilla`\\ なワンタンスープは熱いがzappedではない。\\ :ref:`oriental-food`\\ 、\\ "
+":ref:`laser-chicken`\\ も参照。\\ :ref:`zap`\\ の語義1と2を参照。"

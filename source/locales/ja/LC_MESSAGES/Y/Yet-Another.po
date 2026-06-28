@@ -8,43 +8,48 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../Y/Yet-Another.rst:5
 msgid "Yet Another"
-msgstr ""
+msgstr "Yet Another"
 
 #: ../../Y/Yet-Another.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../Y/Yet-Another.rst:9
 msgid ""
-"[From Unix's :manpage:`yacc(1)`\\, ‘Yet Another Compiler-Compiler’, a "
-"LALR parser generator]"
+"[From Unix's :manpage:`yacc(1)`\\, ‘Yet Another Compiler-Compiler’, a LALR "
+"parser generator]"
 msgstr ""
+"[Unixの\\ :manpage:`yacc(1)`\\ 、‘Yet Another Compiler-"
+"Compiler’というLALR構文解析器生成器から]"
 
 #: ../../Y/Yet-Another.rst:12
 msgid ""
-"Of your own work: A humorous allusion often used in titles to acknowledge"
-" that the topic is not original, though the content is. As in ‘Yet "
-"Another AI Group’ or ‘Yet Another Simulated Annealing Algorithm’."
+"Of your own work: A humorous allusion often used in titles to acknowledge "
+"that the topic is not original, though the content is. As in ‘Yet Another AI"
+" Group’ or ‘Yet Another Simulated Annealing Algorithm’."
 msgstr ""
+"自分自身の仕事について: そのトピックが、内容は独自であっても、独創的ではないと認めるために、しばしばタイトルに使われるユーモラスな言及。‘Yet "
+"Another AI Group’や‘Yet Another Simulated Annealing Algorithm’のように。"
 
 #: ../../Y/Yet-Another.rst:16
 msgid ""
 "Of others' work: Describes something of which there are already far too "
 "many. See also :ref:`YA-`\\, :ref:`YABA`\\, :ref:`YAUN`\\."
 msgstr ""
-
+"他人の仕事について: すでに数が多すぎる類のものを表す。\\ :ref:`YA-`\\ 、\\ :ref:`YABA`\\ 、\\ "
+":ref:`YAUN`\\ も参照。"

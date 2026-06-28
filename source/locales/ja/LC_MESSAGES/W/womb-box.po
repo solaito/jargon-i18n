@@ -8,30 +8,30 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/womb-box.rst:5
 msgid "womb box"
-msgstr ""
+msgstr "womb box"
 
 #: ../../W/womb-box.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../W/womb-box.rst:10
 msgid "[TMRC] Storage space for equipment."
-msgstr ""
+msgstr "[TMRC] 機材の保管空間。"
 
 #: ../../W/womb-box.rst:13
 msgid ""
@@ -40,4 +40,5 @@ msgid ""
 "called a flight case. Used for delicate test equipment, electronics, and "
 "musical instruments."
 msgstr ""
-
+"[提案] "
+"重い内部パッディングかつ/または発泡ゴムのマトリックスに整形されたキャリアの切り抜きを備えた、ハードシェルの機材ケースの一種。世俗的にはフライトケースと呼ばれる。繊細な試験機材、電子機器、楽器に使われる。"

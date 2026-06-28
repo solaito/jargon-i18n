@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/wheel-bit.rst:5
 msgid "wheel bit"
-msgstr ""
+msgstr "wheel bit"
 
 #: ../../W/wheel-bit.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../W/wheel-bit.rst:9
 msgid ""
@@ -37,8 +37,11 @@ msgid ""
 "running monitor, crash or reload the system, and kill or create jobs and "
 "user accounts. The term was invented on the TENEX operating system, and "
 "carried over to TOPS-20, XEROX-IFS, and others. The state of being in a "
-"privileged logon is sometimes called wheel mode. This term entered the "
-"Unix culture from TWENEX in the mid-1980s and has been gaining popularity"
-" there (esp. at university sites). See also :ref:`root`\\."
+"privileged logon is sometimes called wheel mode. This term entered the Unix "
+"culture from TWENEX in the mid-1980s and has been gaining popularity there "
+"(esp. at university sites). See also :ref:`root`\\."
 msgstr ""
-
+"所有者がタイムシェアリングシステム上で、保護にかかわらずシステム上のあらゆるファイルを読み書きする、稼働中のモニターのあらゆるアドレスを変更したり覗いたりする、システムをクラッシュさせたりリロードしたりする、ジョブやユーザーアカウントを停止させたり作成したりするといった、何らかの制限された操作を実行できるようにする特権ビット。この用語はTENEXオペレーティングシステムで発明され、TOPS-20、XEROX-"
+"IFSなどに引き継がれた。特権ログオンの状態は、時にwheel "
+"modeと呼ばれる。この用語は1980年代半ばにTWENEXからUnixの文化に入り、そこで(特に大学のサイトで)人気を増している。\\ "
+":ref:`root`\\ も参照。"

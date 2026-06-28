@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../V/VAXen.rst:5
 msgid "VAXen"
-msgstr ""
+msgstr "VAXen"
 
 #: ../../V/VAXen.rst:7
 msgid "/vak´sn/, n\\."
-msgstr ""
+msgstr "/vak´sn/, 名詞"
 
 #: ../../V/VAXen.rst:9
 msgid ""
@@ -35,4 +35,6 @@ msgid ""
 "canonically used among hackers for the :ref:`DEC` VAX computers. \"Our "
 "installation has four PDP-10s and twenty vaxen.\" See :ref:`boxen`\\."
 msgstr ""
-
+"[‘oxen’より。おそらく‘vixen’の影響もある](別形: vaxen) ハッカーの間で\\ :ref:`DEC`\\ "
+"のVAXコンピュータに対して正規に用いられる複数形。「うちの設備にはPDP-10が4台とvaxenが20台ある」。\\ :ref:`boxen`\\ "
+"を参照。"

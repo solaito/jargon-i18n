@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/suffix-ware.rst:5
 msgid "-ware"
-msgstr ""
+msgstr "-ware"
 
 #: ../../W/suffix-ware.rst:7
 msgid "suff\\."
-msgstr ""
+msgstr "接尾辞"
 
 #: ../../W/suffix-ware.rst:9
 msgid ""
@@ -39,4 +39,10 @@ msgid ""
 ":ref:`shareware`\\, :ref:`shelfware`\\, :ref:`vaporware`\\, "
 ":ref:`wetware`\\, :ref:`spyware`\\, :ref:`adware`\\."
 msgstr ""
-
+"[‘software’から] ソフトウェアの分類を表すjargon用語を形成するのによく使われる。例としては、\\ :ref:`annoyware`\\"
+" 、\\ :ref:`careware`\\ 、\\ :ref:`crippleware`\\ 、\\ :ref:`crudware`\\ 、\\ "
+":ref:`freeware`\\ 、\\ :ref:`fritterware`\\ 、\\ :ref:`guiltware`\\ 、\\ "
+":ref:`liveware`\\ 、\\ :ref:`meatware`\\ 、\\ :ref:`payware`\\ 、\\ "
+":ref:`psychedelicware`\\ 、\\ :ref:`shareware`\\ 、\\ :ref:`shelfware`\\ 、\\ "
+":ref:`vaporware`\\ 、\\ :ref:`wetware`\\ 、\\ :ref:`spyware`\\ 、\\ "
+":ref:`adware`\\ を参照。"

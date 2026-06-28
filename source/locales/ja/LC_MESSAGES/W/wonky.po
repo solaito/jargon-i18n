@@ -8,34 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/wonky.rst:5
 msgid "wonky"
-msgstr ""
+msgstr "wonky"
 
 #: ../../W/wonky.rst:7
 msgid "/wong´kee/, adj\\."
-msgstr ""
+msgstr "/wong´kee/, 形容詞"
 
 #: ../../W/wonky.rst:9
 msgid ""
-"[from Australian slang] Yet another approximate synonym for "
-":ref:`broken`\\. Specifically connotes a malfunction that produces "
-"behavior seen as crazy, humorous, or amusingly perverse. \"That was the "
-"day the printer's font logic went wonky and everybody's listings came out"
-" in Tengwar.\" Also in wonked out. See :ref:`funky`\\, :ref:`demented`\\,"
-" :ref:`bozotic`\\."
+"[from Australian slang] Yet another approximate synonym for :ref:`broken`\\."
+" Specifically connotes a malfunction that produces behavior seen as crazy, "
+"humorous, or amusingly perverse. \"That was the day the printer's font logic"
+" went wonky and everybody's listings came out in Tengwar.\" Also in wonked "
+"out. See :ref:`funky`\\, :ref:`demented`\\, :ref:`bozotic`\\."
 msgstr ""
-
+"[オーストラリアのスラングから] \\ :ref:`broken`\\ "
+"のさらに別のおおよその同義語。具体的には、狂っている、滑稽な、あるいは愉快なほど倒錯していると見られる振る舞いを生み出す不具合を含意する。「あの日、プリンタのフォントロジックがwonkyになって、みんなのリスト出力がTengwar文字で出てきたんだ」。wonked"
+" outでも使われる。\\ :ref:`funky`\\ 、\\ :ref:`demented`\\ 、\\ :ref:`bozotic`\\ を参照。"

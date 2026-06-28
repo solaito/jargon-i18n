@@ -8,29 +8,30 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/wibble.rst:5
 msgid "wibble"
-msgstr ""
+msgstr "wibble"
 
 #: ../../W/wibble.rst:7
 msgid ""
 "[UK, perh. originally from the first *Roger Irrelevant* strip in *VIZ* "
-"comics, spread via *Your Sinclair magazine in the 1980s and early "
-"1990s*\\]"
+"comics, spread via *Your Sinclair magazine in the 1980s and early 1990s*\\]"
 msgstr ""
+"[UK, おそらく元々は\\ *VIZ*\\ コミックスの最初の\\ *Roger Irrelevant*\\ "
+"のストリップから。1980年代と1990年代初頭に\\ *Your Sinclair magazine*\\ を通じて広まった]"
 
 #: ../../W/wibble.rst:10
 msgid ""
@@ -38,17 +39,21 @@ msgid ""
 "essentially meaningless contributions to threads in newsgroups. \"Oh, "
 "rspence is wibbling again\"."
 msgstr ""
+"名詞・動詞。おしゃべり、中身のない発言、その他ニュースグループのスレッドへの本質的に無意味な寄与を描写するのによく使われる。「ああ、rspenceがまたwibbleしている」。"
 
 #: ../../W/wibble.rst:15
 msgid "[UK IRC] An explicit on-line no-op."
-msgstr ""
+msgstr "[UK IRC] 明示的なオンラインのno-op。"
 
 #: ../../W/wibble.rst:18
 msgid ""
-"One of the preferred :ref:`metasyntactic-variable`\\s in the UK, forming "
-"a series with :code:`wobble`\\, :code:`wubble`\\, and :code:`flob` "
-"(attributed to the hilarious historical comedy *Blackadder*\\)."
+"One of the preferred :ref:`metasyntactic-variable`\\s in the UK, forming a "
+"series with :code:`wobble`\\, :code:`wubble`\\, and :code:`flob` (attributed"
+" to the hilarious historical comedy *Blackadder*\\)."
 msgstr ""
+"UKで好まれる\\ :ref:`metasyntactic-variable`\\ の一つで、\\ :code:`wobble`\\ 、\\ "
+":code:`wubble`\\ 、\\ :code:`flob`\\ とともにシリーズをなす(愉快な歴史コメディ\\ *Blackadder*\\ "
+"に帰せられる)。"
 
 #: ../../W/wibble.rst:21
 msgid ""
@@ -56,4 +61,5 @@ msgid ""
 ":ref:`foo`\\.com may be pronounced \"wibble dot foo dot com\" (compare "
 ":ref:`dub-dub-dub`\\)."
 msgstr ""
-
+"URLに見られる文字\"www\"の発音。すなわち、www.\\ :ref:`foo`\\ .comは\"wibble dot foo dot "
+"com\"と発音されうる(\\ :ref:`dub-dub-dub`\\ と比較せよ)。"

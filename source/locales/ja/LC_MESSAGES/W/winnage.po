@@ -8,28 +8,28 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../W/winnage.rst:5
 msgid "winnage"
-msgstr ""
+msgstr "winnage"
 
 #: ../../W/winnage.rst:7
 msgid "/win'\\@j/, n\\."
-msgstr ""
+msgstr "/win'\\@j/, 名詞"
 
 #: ../../W/winnage.rst:9
-msgid "The situation when a lossage is corrected, or when something is winning."
-msgstr ""
-
+msgid ""
+"The situation when a lossage is corrected, or when something is winning."
+msgstr "lossageが訂正されたとき、または何かがwinしているときの状況。"
