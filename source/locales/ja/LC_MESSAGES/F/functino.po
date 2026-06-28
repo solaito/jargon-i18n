@@ -8,33 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/functino.rst:5
 msgid "functino"
-msgstr ""
+msgstr "functino"
 
 #: ../../F/functino.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../F/functino.rst:9
 msgid ""
 "[uncommon, U.K.; originally a serendipitous typo in 1994] A pointer to a "
-"function in C and C++. By association with sub-atomic particles such as "
-"the neutrino, it accurately conveys an impression of smallness (one "
-"pointer is four bytes on most systems) and speed (hackers can and do use "
-"arrays of functinos to replace a switch() statement)."
+"function in C and C++. By association with sub-atomic particles such as the "
+"neutrino, it accurately conveys an impression of smallness (one pointer is "
+"four bytes on most systems) and speed (hackers can and do use arrays of "
+"functinos to replace a switch() statement)."
 msgstr ""
-
+"[一般的でない、英国。元は1994年の幸運なタイポ]CおよびC++での関数へのポインタ。ニュートリノのような素粒子との連想によって、小ささ(ポインタは大半のシステムで4バイト)と速さ(ハッカーはswitch()文を置き換えるためにfunctinoの配列を使えるし実際に使う)の印象を的確に伝える。"

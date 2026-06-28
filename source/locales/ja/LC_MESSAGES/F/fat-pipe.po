@@ -8,27 +8,28 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/fat-pipe.rst:5
 msgid "fat pipe"
-msgstr ""
+msgstr "fat pipe"
 
 #: ../../F/fat-pipe.rst:7
 msgid ""
-"A high-bandwidth connection to the Internet. When the term gained "
-"currency in the mid-1990s, a T-1 (at 1.5 Mbits/second) was considered a "
-"fat pipe, but the standard has risen. Now it suggests multiple T3s."
+"A high-bandwidth connection to the Internet. When the term gained currency "
+"in the mid-1990s, a T-1 (at 1.5 Mbits/second) was considered a fat pipe, but"
+" the standard has risen. Now it suggests multiple T3s."
 msgstr ""
-
+"インターネットへの高帯域幅の接続。この用語が広まった1990年代半ばには、T-1(1.5Mビット/秒)がfat "
+"pipeとみなされていたが、その基準は上がっている。今では複数のT3を思わせる。"

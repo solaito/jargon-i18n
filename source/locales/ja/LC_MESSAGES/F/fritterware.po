@@ -8,33 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/fritterware.rst:5
 msgid "fritterware"
-msgstr ""
+msgstr "fritterware"
 
 #: ../../F/fritterware.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../F/fritterware.rst:9
 msgid ""
-"An excess of capability that serves no productive end. The canonical "
-"example is font-diddling software on the Mac (see :ref:`macdink`\\); the "
-"term describes anything that eats huge amounts of time for quite marginal"
-" gains in function but seduces people into using it anyway. See also :ref"
-":`window-shopping`\\."
+"An excess of capability that serves no productive end. The canonical example"
+" is font-diddling software on the Mac (see :ref:`macdink`\\); the term "
+"describes anything that eats huge amounts of time for quite marginal gains "
+"in function but seduces people into using it anyway. See also :ref:`window-"
+"shopping`\\."
 msgstr ""
-
+"生産的な目的に役立たない過剰な機能。典型的な例はMacのフォントいじりソフトウェア(:ref:`macdink`\\ "
+"を参照)。この用語は、ごくわずかな機能向上のために膨大な時間を食うが、それでも人々を使う気にさせてしまうあらゆるものを表す。\\ "
+":ref:`window-shopping`\\ も参照。"

@@ -8,50 +8,54 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/fascist.rst:5
 msgid "fascist"
-msgstr ""
+msgstr "fascist"
 
 #: ../../F/fascist.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../F/fascist.rst:10
 msgid ""
 "[common] Said of a computer system with excessive or annoying security "
 "barriers, usage limits, or access policies. The implication is that said "
 "policies are preventing hackers from getting interesting work done. The "
-"variant fascistic seems to have been preferred at MIT, poss. by analogy "
-"with touristic (see :ref:`tourist` or under the influence of "
-"German/Yiddish faschistisch)."
+"variant fascistic seems to have been preferred at MIT, poss. by analogy with"
+" touristic (see :ref:`tourist` or under the influence of German/Yiddish "
+"faschistisch)."
 msgstr ""
+"[一般的]過剰または煩わしいセキュリティの壁、利用制限、アクセスポリシーを持つコンピュータシステムについて言う。その含意は、そうしたポリシーがハッカーが面白い仕事をするのを妨げているということだ。変種のfascisticはMITで好まれていたようで、おそらくtouristicとの類推(\\"
+" :ref:`tourist`\\ を参照)か、ドイツ語/イディッシュ語のfaschistischの影響による。"
 
 #: ../../F/fascist.rst:16
 msgid ""
-"In the design of languages and other software tools, the fascist "
-"alternative is the most restrictive and structured way of capturing a "
-"particular function; the implication is that this may be desirable in "
-"order to simplify the implementation or provide tighter error checking. "
-"Compare :ref:`bondage-and-discipline-language`\\, although that term is "
-"global rather than local."
+"In the design of languages and other software tools, the fascist alternative"
+" is the most restrictive and structured way of capturing a particular "
+"function; the implication is that this may be desirable in order to simplify"
+" the implementation or provide tighter error checking. Compare "
+":ref:`bondage-and-discipline-language`\\, although that term is global "
+"rather than local."
 msgstr ""
+"言語やその他のソフトウェアツールの設計において、fascistな選択肢とは、特定の機能を捉える最も制限的で構造化された方法のことだ。その含意は、実装を簡素化したり、より厳しいエラーチェックを提供したりするために、これが望ましいかもしれないということである。\\"
+" :ref:`bondage-and-discipline-language`\\ と比較せよ。ただしその用語は局所的ではなく大域的なものだが。"
 
 #: ../../F/fascist.rst:23
 msgid "Fascist security strikes again."
-msgstr ""
+msgstr "ファシストなセキュリティがまたしてもやってくれた。"
 
 #: ../../F/fascist.rst:25
 msgid ""
@@ -59,4 +63,5 @@ msgid ""
 ":ref:`73-05-28<crunchly73-05-28>`\\.  The previous one is         "
 ":ref:`73-05-20<crunchly73-05-20>`\\.)"
 msgstr ""
-
+"(Crunchlyのサーガにおける次のマンガは\\ :ref:`73-05-28<crunchly73-05-28>`\\ 。前のものは\\ "
+":ref:`73-05-20<crunchly73-05-20>`\\ 。)"

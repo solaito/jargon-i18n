@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/flamage.rst:5
 msgid "flamage"
-msgstr ""
+msgstr "flamage"
 
 #: ../../F/flamage.rst:7
 msgid "/flay'm\\@j/, n\\."
-msgstr ""
+msgstr "/flay'm\\@j/, 名詞"
 
 #: ../../F/flamage.rst:9
 msgid ""
 "[very common] Flaming verbiage, esp. high-noise, low-signal postings to "
 ":ref:`Usenet` or other electronic :ref:`fora`\\. Often in the phrase the "
-"usual flamage. Flaming is the act itself; flamage the content; a flame is"
-" a single flaming message. See :ref:`flame`\\, also :ref:`dahmum`\\."
+"usual flamage. Flaming is the act itself; flamage the content; a flame is a "
+"single flaming message. See :ref:`flame`\\, also :ref:`dahmum`\\."
 msgstr ""
-
+"[非常に一般的]炎上的な言葉、とりわけ\\ :ref:`Usenet`\\ やその他の電子的な\\ :ref:`fora`\\ "
+"への、高ノイズ・低シグナルの投稿。しばしば「いつものflamage」という句で使われる。Flamingは行為そのもの、flamageはその内容、flameは一通の炎上メッセージ。\\"
+" :ref:`flame`\\ を参照。\\ :ref:`dahmum`\\ も参照。"

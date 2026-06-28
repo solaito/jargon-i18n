@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/fortune-cookie.rst:5
 msgid "fortune cookie"
-msgstr ""
+msgstr "fortune cookie"
 
 #: ../../F/fortune-cookie.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../F/fortune-cookie.rst:9
 msgid ""
 "[WAITS, via Unix; common] A random quote, item of trivia, joke, or maxim "
-"printed to the user's tty at login time or (less commonly) at logout "
-"time. Items from this lexicon have often been used as fortune cookies. "
-"See :ref:`cookie-file`\\."
+"printed to the user's tty at login time or (less commonly) at logout time. "
+"Items from this lexicon have often been used as fortune cookies. See "
+":ref:`cookie-file`\\."
 msgstr ""
-
+"[WAITS、Unix経由。一般的]ログイン時に、あるいは(より少ないが)ログアウト時に、ユーザーのttyに印字されるランダムな引用、雑学、ジョーク、格言。この用語集の項目がfortune"
+" cookieとしてよく使われてきた。\\ :ref:`cookie-file`\\ を参照。"

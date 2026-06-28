@@ -8,32 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/flush.rst:5
 msgid "flush"
-msgstr ""
+msgstr "flush"
 
 #: ../../F/flush.rst:7
 msgid "v\\."
-msgstr ""
+msgstr "動詞"
 
 #: ../../F/flush.rst:10
 msgid ""
-"[common] To delete something, usually superfluous, or to abort an "
-"operation. \"All that nonsense has been flushed.\""
-msgstr ""
+"[common] To delete something, usually superfluous, or to abort an operation."
+" \"All that nonsense has been flushed.\""
+msgstr "[一般的]たいていは余計な何かを削除すること、あるいは操作を中止すること。「あのたわごとは全部flushされた」。"
 
 #: ../../F/flush.rst:14
 msgid ""
@@ -41,34 +41,38 @@ msgid ""
 "call. This is *not* an abort or deletion as in sense 1, but a demand for "
 "early completion!"
 msgstr ""
+"[Unix/C]\\ :manpage:`fflush(3)`\\ "
+"呼び出しのように、バッファされた入出力をディスクへ強制的に書き出すこと。これは語義1のような中止や削除では\\ *なく*\\ 、早期の完了の要求だ!"
 
 #: ../../F/flush.rst:18
 msgid ""
 "To leave at the end of a day's work (as opposed to leaving for a meal). "
 "\"I'm going to flush now.\" \"Time to flush.\""
-msgstr ""
+msgstr "一日の仕事の終わりに立ち去ること(食事のために離れるのとは対照的に)。「もうflushするよ」「flushの時間だ」。"
 
 #: ../../F/flush.rst:23
 msgid "To exclude someone from an activity, or to ignore a person."
-msgstr ""
+msgstr "誰かを活動から除外すること、あるいは人を無視すること。"
 
 #: ../../F/flush.rst:25
 msgid ""
-"‘Flush’ was standard ITS terminology for aborting an output operation; "
-"one spoke of the text that would have been printed, but was not, as "
-"having been flushed. It is speculated that this term arose from a vivid "
-"image of flushing unwanted characters by hosing down the internal output "
-"buffer, washing the characters away before they could be printed. The "
-"Unix/C usage, on the other hand, was propagated by the "
-":manpage:`fflush(3)` call in C's standard I/O library (though it is "
-"reported to have been in use among BLISS programmers at :ref:`DEC` and on"
-" Honeywell and IBM machines as far back as 1965). Unix/C hackers found "
-"the ITS usage confusing, and vice versa."
+"‘Flush’ was standard ITS terminology for aborting an output operation; one "
+"spoke of the text that would have been printed, but was not, as having been "
+"flushed. It is speculated that this term arose from a vivid image of "
+"flushing unwanted characters by hosing down the internal output buffer, "
+"washing the characters away before they could be printed. The Unix/C usage, "
+"on the other hand, was propagated by the :manpage:`fflush(3)` call in C's "
+"standard I/O library (though it is reported to have been in use among BLISS "
+"programmers at :ref:`DEC` and on Honeywell and IBM machines as far back as "
+"1965). Unix/C hackers found the ITS usage confusing, and vice versa."
 msgstr ""
+"‘Flush’は、出力操作を中止することを表すITSの標準用語だった。印字されるはずだったが印字されなかったテキストについて、flushされたと言ったものだ。この用語は、印字される前に文字を洗い流すべく、内部出力バッファをホースで流して不要な文字をflushするという生々しいイメージから生じたのではないかと推測される。一方、Unix/Cの用法は、Cの標準入出力ライブラリの\\"
+" :manpage:`fflush(3)`\\ 呼び出しによって広まった(もっとも、\\ :ref:`DEC`\\ "
+"のBLISSプログラマーや、HoneywellおよびIBMのマシンでは、1965年ほども昔から使われていたと報告されている)。Unix/CハッカーはITSの用法を紛らわしいと感じ、その逆もまた然りだった。"
 
 #: ../../F/flush.rst:34
 msgid "Crunchly gets  :ref:`flush`\\ed."
-msgstr ""
+msgstr "Crunchlyが\\ :ref:`flush`\\ される。"
 
 #: ../../F/flush.rst:36
 msgid ""
@@ -76,4 +80,5 @@ msgid ""
 ":ref:`76-05-01<crunchly76-05-01>`\\.  The previous       cartoon was  "
 ":ref:`76-02-20:2<crunchly-2>`\\.)"
 msgstr ""
-
+"(Crunchlyのサーガにおける次のマンガは\\ :ref:`76-05-01<crunchly76-05-01>`\\ 。前のマンガは\\ "
+":ref:`76-02-20:2<crunchly-2>`\\ だった。)"

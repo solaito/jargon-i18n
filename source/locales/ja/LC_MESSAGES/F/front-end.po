@@ -8,45 +8,47 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/front-end.rst:5
 msgid "front end"
-msgstr ""
+msgstr "front end"
 
 #: ../../F/front-end.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../F/front-end.rst:10
 msgid ""
-"An intermediary computer that does set-up and filtering for another "
-"(usually more powerful but less friendly) machine (a back end)."
-msgstr ""
+"An intermediary computer that does set-up and filtering for another (usually"
+" more powerful but less friendly) machine (a back end)."
+msgstr "別の(たいていはより強力だが扱いにくい)マシン(バックエンド)のために、セットアップとフィルタリングを行う仲介のコンピュータ。"
 
 #: ../../F/front-end.rst:13
 msgid ""
 "What you're talking to when you have a conversation with someone who is "
-"making replies without paying attention. \"Look at the dancing "
-"elephants!\" \"Uh-huh.\" \"Do you know what I just said?\" \"Sorry, you "
-"were talking to the front end.\""
+"making replies without paying attention. \"Look at the dancing elephants!\" "
+"\"Uh-huh.\" \"Do you know what I just said?\" \"Sorry, you were talking to "
+"the front end.\""
 msgstr ""
+"注意を払わずに返事をしている人と会話しているとき、あなたが話しかけている相手。「踊る象を見て!」「ふんふん」「今僕が何を言ったか分かる?」「ごめん、君はfront"
+" endに話しかけていたんだ」。"
 
 #: ../../F/front-end.rst:20
 msgid ""
-"Software that provides an interface to another program ‘behind’ it, which"
-" may not be as user-friendly. Probably from analogy with hardware front-"
-"ends (see sense 1) that interfaced with mainframes."
+"Software that provides an interface to another program ‘behind’ it, which "
+"may not be as user-friendly. Probably from analogy with hardware front-ends "
+"(see sense 1) that interfaced with mainframes."
 msgstr ""
-
+"背後にある、おそらくそれほどユーザーフレンドリーではない別のプログラムへのインターフェースを提供するソフトウェア。おそらく、メインフレームとインターフェースしたハードウェアのフロントエンド(語義1を参照)との類推から。"

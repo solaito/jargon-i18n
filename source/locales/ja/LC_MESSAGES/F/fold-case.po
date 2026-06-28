@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../F/fold-case.rst:5
 msgid "fold case"
-msgstr ""
+msgstr "fold case"
 
 #: ../../F/fold-case.rst:7
 msgid "v\\."
-msgstr ""
+msgstr "動詞"
 
 #: ../../F/fold-case.rst:9
 msgid ""
-"See :ref:`smash-case`\\. This term tends to be used more by people who "
-"don't mind that their tools smash case. It also connotes that case is "
-"ignored but case distinctions in data processed by the tool in question "
-"aren't destroyed."
+"See :ref:`smash-case`\\. This term tends to be used more by people who don't"
+" mind that their tools smash case. It also connotes that case is ignored but"
+" case distinctions in data processed by the tool in question aren't "
+"destroyed."
 msgstr ""
-
+"\\ :ref:`smash-case`\\ "
+"を参照。この用語は、自分のツールが大文字小文字をsmashするのを気にしない人々によってより多く使われる傾向がある。また、大文字小文字は無視されるが、当該ツールが処理するデータ中の大文字小文字の区別は破壊されない、ということを含意する。"
