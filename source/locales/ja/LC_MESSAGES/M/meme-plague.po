@@ -8,35 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/meme-plague.rst:5
 msgid "meme plague"
-msgstr ""
+msgstr "meme plague"
 
 #: ../../M/meme-plague.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../M/meme-plague.rst:9
 msgid ""
 "The spread of a successful but pernicious :ref:`meme`\\, esp. one that "
-"parasitizes the victims into giving their all to propagate it. Astrology,"
-" BASIC, and the other guy's religion are often considered to be examples."
-" This usage is given point by the historical fact that ‘joiner’ "
-"ideologies like Naziism or various forms of millennarian Christianity "
-"have exhibited plague-like cycles of exponential growth followed by "
-"collapses to small reservoir populations."
+"parasitizes the victims into giving their all to propagate it. Astrology, "
+"BASIC, and the other guy's religion are often considered to be examples. "
+"This usage is given point by the historical fact that ‘joiner’ ideologies "
+"like Naziism or various forms of millennarian Christianity have exhibited "
+"plague-like cycles of exponential growth followed by collapses to small "
+"reservoir populations."
 msgstr ""
-
+"成功したが有害な\\ :ref:`meme`\\ "
+"、特に犠牲者をそれを広めることに全力を注ぐよう寄生するmemeの蔓延。占星術、BASIC、そして他人の宗教がしばしばその例と見なされる。この用法は、ナチズムやさまざまな形態の千年王国論的キリスト教のような‘加入型’イデオロギーが、指数関数的成長に続いて小さな貯留個体群への崩壊という疫病に似たサイクルを示してきたという歴史的事実によって意味を与えられる。"

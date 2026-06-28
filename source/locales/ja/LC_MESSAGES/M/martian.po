@@ -8,34 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/martian.rst:5
 msgid "martian"
-msgstr ""
+msgstr "martian"
 
 #: ../../M/martian.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../M/martian.rst:9
 msgid ""
-"A packet sent on a TCP/IP network with a source address of the test "
-"loopback interface [127.0.0.1]. This means that it will come back labeled"
-" with a source address that is clearly not of this earth. \"The domain "
-"server is getting lots of packets from Mars. Does that gateway have a "
-"martian filter?\" Compare :ref:`Christmas-tree-packet`\\, "
-":ref:`Godzillagram`\\."
+"A packet sent on a TCP/IP network with a source address of the test loopback"
+" interface [127.0.0.1]. This means that it will come back labeled with a "
+"source address that is clearly not of this earth. \"The domain server is "
+"getting lots of packets from Mars. Does that gateway have a martian "
+"filter?\" Compare :ref:`Christmas-tree-packet`\\, :ref:`Godzillagram`\\."
 msgstr ""
-
+"TCP/IPネットワーク上で、テストループバックインターフェース[127.0.0.1]のソースアドレスを持って送られるパケット。これは、明らかにこの地球のものではないソースアドレスをラベルとして付けられて戻ってくることを意味する。「ドメインサーバーが火星からのパケットを大量に受け取っている。あのゲートウェイにはmartianフィルタがあるのか?」\\"
+" :ref:`Christmas-tree-packet`\\ 、\\ :ref:`Godzillagram`\\ と比較せよ。"

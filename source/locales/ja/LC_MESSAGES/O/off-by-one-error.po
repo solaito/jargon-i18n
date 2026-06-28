@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../O/off-by-one-error.rst:5
 msgid "off-by-one error"
-msgstr ""
+msgstr "off-by-one error"
 
 #: ../../O/off-by-one-error.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../O/off-by-one-error.rst:9
 msgid ""
-"[common] Exceedingly common error induced in many ways, such as by "
-"starting at 0 when you should have started at 1 or vice-versa, or by "
-"writing :code:`< N` instead of :code:`<= N` or vice-versa. Also applied "
-"to giving something to the person next to the one who should have gotten "
-"it. Often confounded with :ref:`fencepost-error`\\, which is properly a "
-"particular subtype of it."
+"[common] Exceedingly common error induced in many ways, such as by starting "
+"at 0 when you should have started at 1 or vice-versa, or by writing :code:`<"
+" N` instead of :code:`<= N` or vice-versa. Also applied to giving something "
+"to the person next to the one who should have gotten it. Often confounded "
+"with :ref:`fencepost-error`\\, which is properly a particular subtype of it."
 msgstr ""
-
+"[一般的]さまざまな形で引き起こされる、極めてよくある誤り。たとえば1から始めるべきところを0から始める(あるいはその逆)、または\\ "
+":code:`<= N`\\ と書くべきところを\\ :code:`< N`\\ "
+"と書く(あるいはその逆)など。受け取るべき人の隣の人に何かを渡してしまうことにも適用される。しばしば\\ :ref:`fencepost-"
+"error`\\ と混同されるが、後者は本来その特定の下位種である。"

@@ -8,33 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../L/leapfrog-attack.rst:5
 msgid "leapfrog attack"
-msgstr ""
+msgstr "leapfrog attack"
 
 #: ../../L/leapfrog-attack.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../L/leapfrog-attack.rst:9
 msgid ""
 "Use of userid and password information obtained illicitly from one host "
 "(e.g., downloading a file of account IDs and passwords, tapping TELNET, "
-"etc.) to compromise another host. Also, the act of TELNETting through one"
-" or more hosts in order to confuse a trace (a standard cracker "
-"procedure)."
+"etc.) to compromise another host. Also, the act of TELNETting through one or"
+" more hosts in order to confuse a trace (a standard cracker procedure)."
 msgstr ""
-
+"あるホストから不正に得たユーザーIDとパスワードの情報(たとえばアカウントIDとパスワードのファイルをダウンロードする、TELNETを盗聴するなど)を使って、別のホストを侵害すること。また、追跡を混乱させるために一つ以上のホストを経由してTELNETする行為(標準的なクラッカーの手口)。"

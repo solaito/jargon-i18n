@@ -8,35 +8,39 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../L/loss.rst:5
 msgid "loss"
-msgstr ""
+msgstr "loss"
 
 #: ../../L/loss.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../L/loss.rst:9
 msgid ""
 "Something (not a person) that loses; a situation in which something is "
 "losing. Emphatic forms include moby loss, and total loss, complete loss. "
 "Common interjections are \"What a loss!\" and \"What a moby loss!\" Note "
-"that moby loss is OK even though \\*\\*moby loser is not used; applied to"
-" an abstract noun, moby is simply a magnifier, whereas when applied to a "
-"person it implies substance and has positive connotations. Compare "
+"that moby loss is OK even though \\*\\*moby loser is not used; applied to an"
+" abstract noun, moby is simply a magnifier, whereas when applied to a person"
+" it implies substance and has positive connotations. Compare "
 ":ref:`lossage`\\."
 msgstr ""
-
+"loseする(人ではない)もの。何かがlosingしている状況。強調形にはmoby loss、そしてtotal loss、complete "
+"lossがある。よくある間投詞は「What a loss!」と「What a moby loss!」である。\\*\\*\\ moby "
+"loserは使われないのに、moby "
+"lossは問題ないことに注意。抽象名詞に適用される場合、mobyは単なる強調語だが、人に適用される場合は実体を暗示し、肯定的な含みを持つ。\\ "
+":ref:`lossage`\\ と比較せよ。"

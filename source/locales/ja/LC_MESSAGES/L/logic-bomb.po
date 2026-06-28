@@ -8,31 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../L/logic-bomb.rst:5
 msgid "logic bomb"
-msgstr ""
+msgstr "logic bomb"
 
 #: ../../L/logic-bomb.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../L/logic-bomb.rst:9
 msgid ""
-"Code surreptitiously inserted into an application or OS that causes it to"
-" perform some destructive or security-compromising activity whenever "
+"Code surreptitiously inserted into an application or OS that causes it to "
+"perform some destructive or security-compromising activity whenever "
 "specified conditions are met. Compare :ref:`back-door`\\."
 msgstr ""
-
+"指定された条件が満たされるたびに、何らかの破壊的またはセキュリティを損なう活動を実行させるよう、アプリケーションやOSにこっそり挿入されたコード。\\ "
+":ref:`back-door`\\ と比較せよ。"

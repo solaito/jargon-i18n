@@ -8,28 +8,30 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../O/OSS.rst:5
 msgid "OSS"
-msgstr ""
+msgstr "OSS"
 
 #: ../../O/OSS.rst:7
 msgid ""
 "Written-only acronym for \"Open Source Software\" (see :ref:`open-"
-"source`\\). This is a rather ugly :ref:`TLA`\\, and the principals in the"
-" open-source movement don't use it, but it has (perhaps inevitably) "
-"spread through the trade press like kudzu."
+"source`\\). This is a rather ugly :ref:`TLA`\\, and the principals in the "
+"open-source movement don't use it, but it has (perhaps inevitably) spread "
+"through the trade press like kudzu."
 msgstr ""
-
+"\"Open Source Software\"を表す、書き言葉専用の頭字語(\\ :ref:`open-source`\\ "
+"を参照)。これはかなり醜い\\ :ref:`TLA`\\ "
+"で、オープンソース運動の主導者たちは使わないが、(おそらく不可避的に)業界誌の中で葛のように広まってしまった。"

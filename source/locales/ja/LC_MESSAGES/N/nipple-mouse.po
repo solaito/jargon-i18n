@@ -8,34 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../N/nipple-mouse.rst:5
 msgid "nipple mouse"
-msgstr ""
+msgstr "nipple mouse"
 
 #: ../../N/nipple-mouse.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../N/nipple-mouse.rst:9
 msgid ""
-"Var. clit mouse, clitoris Common term for the pointing device used on IBM"
-" ThinkPads and a few other laptop computers. The device, which sits "
-"between the ‘g’ and ‘h’ keys on the keyboard, indeed resembles a rubber "
-"nipple intended to be tweaked by a forefinger. Many hackers consider "
-"these superior to the glide pads found on most laptops, which are harder "
-"to control precisely."
+"Var. clit mouse, clitoris Common term for the pointing device used on IBM "
+"ThinkPads and a few other laptop computers. The device, which sits between "
+"the ‘g’ and ‘h’ keys on the keyboard, indeed resembles a rubber nipple "
+"intended to be tweaked by a forefinger. Many hackers consider these superior"
+" to the glide pads found on most laptops, which are harder to control "
+"precisely."
 msgstr ""
-
+"別名 clit mouse、clitoris。IBM "
+"ThinkPadや他のいくつかのラップトップコンピュータで使われるポインティングデバイスの一般的な呼び名。キーボードの‘g’と‘h’キーの間にあるこのデバイスは、確かに人差し指でつままれるための、ゴム製の乳首に似ている。多くのハッカーは、これを、たいていのラップトップに見られる、精密に制御するのが難しいグライドパッドより優れていると考えている。"

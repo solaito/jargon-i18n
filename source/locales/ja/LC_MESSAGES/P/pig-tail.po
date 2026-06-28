@@ -8,22 +8,22 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/pig-tail.rst:5
 msgid "pig-tail"
-msgstr ""
+msgstr "pig-tail"
 
 #: ../../P/pig-tail.rst:7
 msgid ""
@@ -32,4 +32,5 @@ msgid ""
 "9-to-25-pin serial-port converters and cables to connect PCMCIA network "
 "cards to an RJ-45 network cable."
 msgstr ""
-
+"[アマチュア無線家]あるコネクタ型と別の型の間を変換するための、両端にそれぞれ二つのコネクタが付いた短いケーブル。一般的なpig-"
+"tailは、9ピンと25ピンのシリアルポート変換器や、PCMCIAネットワークカードをRJ-45ネットワークケーブルに接続するためのケーブルである。"

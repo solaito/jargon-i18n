@@ -8,34 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/mav.rst:5
 msgid "mav"
-msgstr ""
+msgstr "mav"
 
 #: ../../M/mav.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../M/mav.rst:9
 msgid ""
-"[MUD, IRC; common] Term used when an individual accidently sends a "
-"comment to the wrong location. Generally, this is MUD-to-MUD (MU\\*-to-"
-"MU\\*), or in various IRC channels. However, it can also refer to a "
-"comment made in private that was dropped to the entire world, or "
-"accidentally directing to one person when it was supposed to go to "
-"another."
+"[MUD, IRC; common] Term used when an individual accidently sends a comment "
+"to the wrong location. Generally, this is MUD-to-MUD (MU\\*-to-MU\\*), or in"
+" various IRC channels. However, it can also refer to a comment made in "
+"private that was dropped to the entire world, or accidentally directing to "
+"one person when it was supposed to go to another."
 msgstr ""
-
+"[MUD、IRC。一般的]個人がうっかりコメントを間違った場所に送ってしまったときに使われる語。一般にこれはMUD間(MU\\*間)か、さまざまなIRCチャンネルでのことである。しかし、私的になされたコメントが全世界に流れてしまった場合や、ある人に向けるはずだったのにうっかり別の人に向けてしまった場合も指しうる。"

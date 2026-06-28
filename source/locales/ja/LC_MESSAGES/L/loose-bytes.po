@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../L/loose-bytes.rst:5
 msgid "loose bytes"
-msgstr ""
+msgstr "loose bytes"
 
 #: ../../L/loose-bytes.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../L/loose-bytes.rst:9
 msgid ""
@@ -35,4 +35,5 @@ msgid ""
 "compilers insert between members of a record or structure to cope with "
 "alignment requirements imposed by the machine architecture."
 msgstr ""
-
+"マシンアーキテクチャによって課される整列要件に対処するため、多くのコンパイラがレコードや構造体のメンバー間に挿入する詰め物バイトや\\ "
+":ref:`shim`\\ を表す、英連邦のハッカー用語。"

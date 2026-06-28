@@ -8,34 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../L/leak.rst:5
 msgid "leak"
-msgstr ""
+msgstr "leak"
 
 #: ../../L/leak.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../L/leak.rst:9
 msgid ""
-"With qualifier, one of a class of resource-management bugs that occur "
-"when resources are not freed properly after operations on them are "
-"finished, so they effectively disappear (leak out). This leads to "
-"eventual exhaustion as new allocation requests come in. :ref:`memory-"
-"leak` has its own entry; one might also refer, to, say, a window handle "
-"leak in a window system."
+"With qualifier, one of a class of resource-management bugs that occur when "
+"resources are not freed properly after operations on them are finished, so "
+"they effectively disappear (leak out). This leads to eventual exhaustion as "
+"new allocation requests come in. :ref:`memory-leak` has its own entry; one "
+"might also refer, to, say, a window handle leak in a window system."
 msgstr ""
-
+"限定語を付けて、操作が終わった後にリソースが適切に解放されず、事実上消えてしまう(漏れ出る)ときに起こる、リソース管理のバグの一種を指す。これは新たな割り当て要求が来るにつれて、やがてリソースの枯渇を招く。\\"
+" :ref:`memory-leak`\\ には独自の項目がある。たとえばウィンドウシステムにおけるウィンドウハンドルのleakを指すこともあるだろう。"

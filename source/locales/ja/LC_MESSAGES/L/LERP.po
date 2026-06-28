@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../L/LERP.rst:5
 msgid "LERP"
-msgstr ""
+msgstr "LERP"
 
 #: ../../L/LERP.rst:7
 msgid "/lerp/, vi\\.,n\\."
-msgstr ""
+msgstr "/lerp/, 自動詞・名詞"
 
 #: ../../L/LERP.rst:9
 msgid ""
@@ -35,4 +35,5 @@ msgid ""
 "operation. \"Bresenham's algorithm lerps incrementally between the two "
 "endpoints of the line.\""
 msgstr ""
-
+"Linear "
+"Interpolation(線形補間)の準頭字語で、その操作を表す動詞または名詞として使われる。「Bresenhamのアルゴリズムは線の二つの端点の間を逐次的にlerpする。」"

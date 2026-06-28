@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../N/nano.rst:5
 msgid "nano"
-msgstr ""
+msgstr "nano"
 
 #: ../../N/nano.rst:7
 msgid "/nan´oh/, n\\."
-msgstr ""
+msgstr "/nan´oh/, 名詞"
 
 #: ../../N/nano.rst:9
 msgid ""
 "[CMU: from nanosecond] A brief period of time. \"Be with you in a nano\" "
-"means you really will be free shortly, i.e., implies what mainstream "
-"people mean by \"in a jiffy\" (whereas the hackish use of ‘jiffy’ is "
-"quite different — see :ref:`jiffy`\\)."
+"means you really will be free shortly, i.e., implies what mainstream people "
+"mean by \"in a jiffy\" (whereas the hackish use of ‘jiffy’ is quite "
+"different — see :ref:`jiffy`\\)."
 msgstr ""
-
+"[CMU: nanosecondから] "
+"ごく短い時間。「nanoで戻る」は本当にすぐ手が空くという意味で、すなわち主流派の人々が「あっという間に」で意味するところを含意する(一方、ハッカー的な‘jiffy’の用法はまったく異なる。\\"
+" :ref:`jiffy`\\ を参照)。"

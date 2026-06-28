@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/pseudosuit.rst:5
 msgid "pseudosuit"
-msgstr ""
+msgstr "pseudosuit"
 
 #: ../../P/pseudosuit.rst:7
 msgid "/soo´doh·s[y]oot\\`/, n\\."
-msgstr ""
+msgstr "/soo´doh·s[y]oot\\`/, 名詞"
 
 #: ../../P/pseudosuit.rst:9
 msgid ""
 "A :ref:`suit` wannabee; a hacker who has decided that he wants to be in "
 "management or administration and begins wearing ties, sport coats, and "
-"(shudder!) suits voluntarily. It's his funeral. See also "
-":ref:`lobotomy`\\."
+"(shudder!) suits voluntarily. It's his funeral. See also :ref:`lobotomy`\\."
 msgstr ""
-
+"\\ :ref:`suit`\\ "
+"のwannabee。管理職や行政職に就きたいと決めて、自らネクタイ、スポーツコート、そして(ぞっとするが!)スーツを着始めたハッカー。自業自得である。\\"
+" :ref:`lobotomy`\\ も参照。"

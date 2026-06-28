@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/mickey-mouse-program.rst:5
 msgid "mickey mouse program"
-msgstr ""
+msgstr "mickey mouse program"
 
 #: ../../M/mickey-mouse-program.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../M/mickey-mouse-program.rst:9
 msgid ""
 "North American equivalent of a :ref:`noddy` (that is, trivial) program. "
 "Doesn't necessarily have the belittling connotations of mainstream slang "
-"\"Oh, that's just mickey mouse stuff! \"; sometimes trivial programs can "
-"be very useful."
+"\"Oh, that's just mickey mouse stuff! \"; sometimes trivial programs can be "
+"very useful."
 msgstr ""
-
+":ref:`noddy`\\ (つまり些細な)プログラムの北米での同義語。主流のスラング「Oh, that's just mickey mouse "
+"stuff!(ああ、そんなのただのミッキーマウスだ!)」の見下した含みを必ずしも持つわけではない。時には些細なプログラムが非常に役立つこともある。"

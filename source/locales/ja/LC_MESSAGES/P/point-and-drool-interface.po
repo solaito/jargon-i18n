@@ -8,34 +8,37 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/point-and-drool-interface.rst:5
 msgid "point-and-drool interface"
-msgstr ""
+msgstr "point-and-drool interface"
 
 #: ../../P/point-and-drool-interface.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../P/point-and-drool-interface.rst:9
 msgid ""
 "Parody of the techspeak term point-and-click interface, describing a "
-"windows, icons, and mouse-based interface such as is found on the "
-"Macintosh. The implication, of course, is that such an interface is only "
-"suitable for idiots. See :ref:`for-the-rest-of-us`\\, :ref:`WIMP-"
-"environment`\\, :ref:`Macintrash`\\, :ref:`drool-proof-paper`\\. Also "
-"point-and-grunt interface."
+"windows, icons, and mouse-based interface such as is found on the Macintosh."
+" The implication, of course, is that such an interface is only suitable for "
+"idiots. See :ref:`for-the-rest-of-us`\\, :ref:`WIMP-environment`\\, "
+":ref:`Macintrash`\\, :ref:`drool-proof-paper`\\. Also point-and-grunt "
+"interface."
 msgstr ""
-
+"Macintoshに見られるような、ウィンドウ、アイコン、マウスベースのインターフェースを表す、技術用語point-and-click "
+"interfaceのパロディ。もちろんその含みは、そのようなインターフェースは馬鹿にしか向いていないということである。\\ :ref:`for-the-"
+"rest-of-us`\\ 、\\ :ref:`WIMP-environment`\\ 、\\ :ref:`Macintrash`\\ 、\\ "
+":ref:`drool-proof-paper`\\ を参照。point-and-grunt interfaceとも。"

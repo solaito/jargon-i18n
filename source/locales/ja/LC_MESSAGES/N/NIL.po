@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../N/NIL.rst:5
 msgid "NIL"
-msgstr ""
+msgstr "NIL"
 
 #: ../../N/NIL.rst:7
 msgid "/nil/"
-msgstr ""
+msgstr "/nil/"
 
 #: ../../N/NIL.rst:9
 msgid ""
 "No. Used in reply to a question, particularly one asked using the ‘-P’ "
-"convention. Most hackers assume this derives simply from LISP terminology"
-" for ‘false’ (see also :ref:`T`\\), but NIL as a negative reply was well-"
+"convention. Most hackers assume this derives simply from LISP terminology "
+"for ‘false’ (see also :ref:`T`\\), but NIL as a negative reply was well-"
 "established among radio hams decades before the advent of LISP. The "
-"historical connection between early hackerdom and the ham radio world was"
-" strong enough that this may have been an influence."
+"historical connection between early hackerdom and the ham radio world was "
+"strong enough that this may have been an influence."
 msgstr ""
-
+"いいえ。質問への返答に使う。特に‘-P’の慣習を用いて尋ねられた質問に対して。たいていのハッカーはこれが単にLISP用語の‘偽’に由来すると思っている(\\"
+" :ref:`T`\\ "
+"も参照)が、否定の返答としてのNILは、LISPの登場より数十年前からアマチュア無線家の間で確立されていた。初期のハッカー界とアマチュア無線の世界との歴史的なつながりは、これが影響を与えた可能性があるほどに強かった。"

@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/manged.rst:5
 msgid "manged"
-msgstr ""
+msgstr "manged"
 
 #: ../../M/manged.rst:7
 msgid "/mahnjd/, n\\."
-msgstr ""
+msgstr "/mahnjd/, 名詞"
 
 #: ../../M/manged.rst:9
 msgid ""
-"[probably from the French ‘manger’ or Italian ‘mangiare’, to eat; perhaps"
-" influenced by English ‘mange’, ‘mangy’] adj. Refers to anything that is "
-"mangled or damaged, usually beyond repair. \"The disk was manged after "
-"the electrical storm.\" Compare :ref:`mung`\\."
+"[probably from the French ‘manger’ or Italian ‘mangiare’, to eat; perhaps "
+"influenced by English ‘mange’, ‘mangy’] adj. Refers to anything that is "
+"mangled or damaged, usually beyond repair. \"The disk was manged after the "
+"electrical storm.\" Compare :ref:`mung`\\."
 msgstr ""
-
+"[おそらくフランス語の‘manger’あるいはイタリア語の‘mangiare’、食べる、から。おそらく英語の‘mange’、‘mangy’の影響を受けている]形容詞"
+" ずたずたにされた、あるいは損傷した、たいてい修復不能なまでに、あらゆるものを指す。「ディスクは雷雨のあとmangedになった」。\\ "
+":ref:`mung`\\ と比較せよ。"

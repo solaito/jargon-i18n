@@ -8,34 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../L/livelock.rst:5
 msgid "livelock"
-msgstr ""
+msgstr "livelock"
 
 #: ../../L/livelock.rst:7
 msgid "/li:v´lok/, n\\."
-msgstr ""
+msgstr "/li:v´lok/, 名詞"
 
 #: ../../L/livelock.rst:9
 msgid ""
 "A situation in which some critical stage of a task is unable to finish "
 "because its clients perpetually create more work for it to do after they "
 "have been serviced but before it can clear its queue. Differs from "
-":ref:`deadlock` in that the process is not blocked or waiting for "
-"anything, but has a virtually infinite amount of work to do and can never"
-" catch up."
+":ref:`deadlock` in that the process is not blocked or waiting for anything, "
+"but has a virtually infinite amount of work to do and can never catch up."
 msgstr ""
-
+"タスクのある重要な段階が終わることができない状況。なぜなら、そのクライアントが、サービスを受けた後だがそれがキューを片付ける前に、永続的により多くの仕事を作り出すからである。プロセスがブロックされたり何かを待ったりしているのではなく、事実上無限の量の仕事を抱えていて決して追いつけないという点で、\\"
+" :ref:`deadlock`\\ とは異なる。"

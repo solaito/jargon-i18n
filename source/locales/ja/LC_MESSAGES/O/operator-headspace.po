@@ -8,27 +8,28 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../O/operator-headspace.rst:5
 msgid "operator headspace"
-msgstr ""
+msgstr "operator headspace"
 
 #: ../../O/operator-headspace.rst:7
 msgid ""
-"[common] More fully, \"operator headspace error\". Synonym for :ref"
-":`pilot-error` — a dumb move, especially one pulled by someone who ought "
-"to know better. Often used reflexively."
+"[common] More fully, \"operator headspace error\". Synonym for :ref:`pilot-"
+"error` — a dumb move, especially one pulled by someone who ought to know "
+"better. Often used reflexively."
 msgstr ""
-
+"[一般的]より完全には\"operator headspace error\"。\\ :ref:`pilot-error`\\ "
+"の同義語——愚かな行動、特に本来分別があるべき者がやらかすもの。しばしば再帰的に使われる。"

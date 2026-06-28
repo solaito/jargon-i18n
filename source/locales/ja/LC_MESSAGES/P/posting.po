@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/posting.rst:5
 msgid "posting"
-msgstr ""
+msgstr "posting"
 
 #: ../../P/posting.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../P/posting.rst:9
 msgid ""
-"Noun corresp. to v.: :ref:`post` (but note that :ref:`post` can be "
-"nouned). Distinguished from a ‘letter’ or ordinary :ref:`email` message "
-"by the fact that it is broadcast rather than point-to-point. It is not "
-"clear whether messages sent to a small mailing list are postings or "
-"email; perhaps the best dividing line is that if you don't know the names"
-" of all the potential recipients, it is a posting."
+"Noun corresp. to v.: :ref:`post` (but note that :ref:`post` can be nouned). "
+"Distinguished from a ‘letter’ or ordinary :ref:`email` message by the fact "
+"that it is broadcast rather than point-to-point. It is not clear whether "
+"messages sent to a small mailing list are postings or email; perhaps the "
+"best dividing line is that if you don't know the names of all the potential "
+"recipients, it is a posting."
 msgstr ""
-
+"動詞\\ :ref:`post`\\ に対応する名詞(ただし\\ :ref:`post`\\ も名詞化できることに注意)。‘手紙’や普通の\\ "
+":ref:`email`\\ "
+"メッセージとは、それが一対一ではなくブロードキャストされるという事実によって区別される。小さなメーリングリストに送られるメッセージがpostingなのかemailなのかは明確ではない。おそらく最良の境界線は、潜在的な受信者全員の名前を知らないなら、それはpostingだ、というものである。"

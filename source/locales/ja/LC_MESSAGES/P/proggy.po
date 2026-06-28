@@ -8,40 +8,39 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/proggy.rst:5
 msgid "proggy"
-msgstr ""
+msgstr "proggy"
 
 #: ../../P/proggy.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../P/proggy.rst:10
 msgid "Any computer program that is considered a full application."
-msgstr ""
+msgstr "完全なアプリケーションとみなされるあらゆるコンピュータプログラム。"
 
 #: ../../P/proggy.rst:13
 msgid ""
 "Any computer program that is made up of or otherwise contains "
 ":ref:`proglet`\\s."
-msgstr ""
+msgstr "\\ :ref:`proglet`\\ から成る、あるいはそれを含むあらゆるコンピュータプログラム。"
 
 #: ../../P/proggy.rst:16
 msgid ""
-"Any computer program that is large enough to be normally distributed as "
-"an RPM or :ref:`tarball`\\."
-msgstr ""
-
+"Any computer program that is large enough to be normally distributed as an "
+"RPM or :ref:`tarball`\\."
+msgstr "通常RPMや\\ :ref:`tarball`\\ として配布されるほど大きいあらゆるコンピュータプログラム。"

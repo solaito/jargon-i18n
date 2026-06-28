@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/monkey-up.rst:5
 msgid "monkey up"
-msgstr ""
+msgstr "monkey up"
 
 #: ../../M/monkey-up.rst:7
 msgid "vt\\."
-msgstr ""
+msgstr "他動詞"
 
 #: ../../M/monkey-up.rst:9
 msgid ""
-"To hack together hardware for a particular task, especially a one-shot "
-"job. Connotes an extremely :ref:`crufty` and consciously temporary "
-"solution. Compare :ref:`hack-up`\\, :ref:`kluge-up`\\, :ref:`cruft-"
-"together`\\."
+"To hack together hardware for a particular task, especially a one-shot job. "
+"Connotes an extremely :ref:`crufty` and consciously temporary solution. "
+"Compare :ref:`hack-up`\\, :ref:`kluge-up`\\, :ref:`cruft-together`\\."
 msgstr ""
-
+"特定の作業、特に一回限りの仕事のために、ハードウェアを寄せ集めて作ること。極めて\\ :ref:`crufty`\\ "
+"で意識的に一時的な解決策を含意する。\\ :ref:`hack-up`\\ 、\\ :ref:`kluge-up`\\ 、\\ :ref:`cruft-"
+"together`\\ と比較せよ。"

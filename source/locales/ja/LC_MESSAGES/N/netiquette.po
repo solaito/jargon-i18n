@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../N/netiquette.rst:5
 msgid "netiquette"
-msgstr ""
+msgstr "netiquette"
 
 #: ../../N/netiquette.rst:7
 msgid "/net´ee·ket/, /net´i·ket/, n\\."
-msgstr ""
+msgstr "/net´ee·ket/, /net´i·ket/, 名詞"
 
 #: ../../N/netiquette.rst:9
 msgid ""
-"[Coined by Chuq von Rospach c.1983] [portmanteau, network + etiquette] "
-"The conventions of politeness recognized on :ref:`Usenet`\\, such as "
-"avoidance of cross-posting to inappropriate groups and refraining from "
-"commercial pluggery outside the :samp:`biz` groups."
+"[Coined by Chuq von Rospach c.1983] [portmanteau, network + etiquette] The "
+"conventions of politeness recognized on :ref:`Usenet`\\, such as avoidance "
+"of cross-posting to inappropriate groups and refraining from commercial "
+"pluggery outside the :samp:`biz` groups."
 msgstr ""
-
+"[Chuq von Rospachによって1983年ごろ造語] [かばん語、network + etiquette] \\ "
+":ref:`Usenet`\\ で認められている礼儀作法の慣習。たとえば不適切なグループへのクロスポストを避けることや、\\ :samp:`biz`\\"
+" グループ以外での商業的な宣伝を控えることなど。"

@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/pipe.rst:5
 msgid "pipe"
-msgstr ""
+msgstr "pipe"
 
 #: ../../P/pipe.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../P/pipe.rst:9
 msgid ""
-"[common] Idiomatically, one's connection to the Internet; in context, the"
-" expansion \"bit pipe\" is understood. A \"fat pipe\" is a line with T1 "
-"or higher capacity. A person with a 28.8 modem might be heard to complain"
-" \"I need a bigger pipe\"."
+"[common] Idiomatically, one's connection to the Internet; in context, the "
+"expansion \"bit pipe\" is understood. A \"fat pipe\" is a line with T1 or "
+"higher capacity. A person with a 28.8 modem might be heard to complain \"I "
+"need a bigger pipe\"."
 msgstr ""
-
+"[一般的]慣用的に、自分のインターネットへの接続。文脈上、\"bit pipe\"という展開が理解される。\"fat "
+"pipe\"はT1以上の容量の回線である。28.8モデムの人が「もっと大きいpipeが必要だ」と不平を言うのが聞かれるかもしれない。"

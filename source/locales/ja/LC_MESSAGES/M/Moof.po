@@ -8,52 +8,57 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/Moof.rst:5
 msgid "Moof"
-msgstr ""
+msgstr "Moof"
 
 #: ../../M/Moof.rst:7
 msgid "/moof/"
-msgstr ""
+msgstr "/moof/"
 
 #: ../../M/Moof.rst:9
 msgid "[Macintosh users]"
-msgstr ""
+msgstr "[Macintoshユーザー]"
 
 #: ../../M/Moof.rst:11
 msgid ""
 "n\\. The call of a semi-legendary creature, properly called the "
-":ref:`dogcow`\\. (Some previous versions of this entry claimed, "
-"incorrectly, that Moof was the name of the *creature*\\.)"
+":ref:`dogcow`\\. (Some previous versions of this entry claimed, incorrectly,"
+" that Moof was the name of the *creature*\\.)"
 msgstr ""
+"名詞 半ば伝説的な生き物の鳴き声。その生き物は正しくは\\ :ref:`dogcow`\\ "
+"と呼ばれる。(この項目の以前のいくつかのバージョンは、Moofがその\\ *生き物*\\ の名前だと誤って主張していた。)"
 
 #: ../../M/Moof.rst:15
 msgid ""
 "adj. Used to flag software that's a hack, something untested and on the "
-"edge. On one Apple CD-ROM, certain folders such as \"Tools & Apps "
-"(Moof!)\" and \"Development Platforms (Moof! )\", are so marked to "
-"indicate that they contain software not fully tested or sanctioned by the"
-" powers that be. When you open these folders you cross the boundary into "
-"hackerland."
+"edge. On one Apple CD-ROM, certain folders such as \"Tools & Apps (Moof!)\" "
+"and \"Development Platforms (Moof! )\", are so marked to indicate that they "
+"contain software not fully tested or sanctioned by the powers that be. When "
+"you open these folders you cross the boundary into hackerland."
 msgstr ""
+"形容詞 ハックである、テストされていない際どいものであるソフトウェアに印を付けるのに使う。あるApple CD-ROMでは、「Tools & Apps "
+"(Moof!)」や「Development Platforms (Moof! "
+")」といった特定のフォルダがこのように印を付けられ、権力者によって完全にはテストされていない、あるいは認可されていないソフトウェアが含まれていることを示している。これらのフォルダを開くと、ハッカーランドへの境界を越えることになる。"
 
 #: ../../M/Moof.rst:22
 msgid ""
-"v\\. On the Microsoft Network, the term ‘moof’ has gained popularity as a"
-" verb meaning ‘to be suddenly disconnected by the system’. One might say "
-"\"I got moofed\"."
+"v\\. On the Microsoft Network, the term ‘moof’ has gained popularity as a "
+"verb meaning ‘to be suddenly disconnected by the system’. One might say \"I "
+"got moofed\"."
 msgstr ""
-
+"動詞 Microsoft "
+"Network上では、‘moof’という語は‘システムによって突然切断される’を意味する動詞として人気を得た。「moofされた」などと言うかもしれない。"

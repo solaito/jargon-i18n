@@ -8,46 +8,47 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/programming.rst:5
 msgid "programming"
-msgstr ""
+msgstr "programming"
 
 #: ../../P/programming.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../P/programming.rst:10
 msgid ""
-"The art of debugging a blank sheet of paper (or, in these days of on-line"
-" editing, the art of debugging an empty file). \"Bloody instructions "
-"which, being taught, return to plague their inventor\" (*Macbeth*\\, Act "
-"1, Scene 7)"
+"The art of debugging a blank sheet of paper (or, in these days of on-line "
+"editing, the art of debugging an empty file). \"Bloody instructions which, "
+"being taught, return to plague their inventor\" (*Macbeth*\\, Act 1, Scene "
+"7)"
 msgstr ""
+"白紙の紙(あるいは、オンライン編集の今日では、空のファイル)をデバッグする芸術。「教えられると、考案者を悩ますために戻ってくる血なまぐさい指示」(\\ "
+"*Macbeth*\\ 、第1幕第7場)"
 
 #: ../../P/programming.rst:14
 msgid ""
 "A pastime similar to banging one's head against a wall, but with fewer "
 "opportunities for reward."
-msgstr ""
+msgstr "壁に頭をぶつけるのに似た娯楽だが、報酬の機会はより少ない。"
 
 #: ../../P/programming.rst:17
 msgid "The most fun you can have with your clothes on."
-msgstr ""
+msgstr "服を着たままでできる最も楽しいこと。"
 
 #: ../../P/programming.rst:20
 msgid "The least fun you can have with your clothes off."
-msgstr ""
-
+msgstr "服を脱いでできる最もつまらないこと。"

@@ -8,30 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/mangler.rst:5
 msgid "mangler"
-msgstr ""
+msgstr "mangler"
 
 #: ../../M/mangler.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../M/mangler.rst:9
 msgid ""
 "[DEC] A manager. Compare :ref:`management`\\. Note that :ref:`system-"
 "mangler` is somewhat different in connotation."
 msgstr ""
-
+"[DEC]マネージャー。\\ :ref:`management`\\ と比較せよ。\\ :ref:`system-mangler`\\ "
+"は含意がいくぶん異なることに注意。"

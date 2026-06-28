@@ -8,38 +8,41 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/macrology.rst:5
 msgid "macrology"
-msgstr ""
+msgstr "macrology"
 
 #: ../../M/macrology.rst:7
 msgid "/mak·rol'\\@·jee/, n\\."
-msgstr ""
+msgstr "/mak·rol'\\@·jee/, 名詞"
 
 #: ../../M/macrology.rst:10
 msgid ""
 "Set of usually complex or crufty macros, e.g., as part of a large system "
 "written in :ref:`LISP`\\, :ref:`TECO`\\, or (less commonly) assembler."
 msgstr ""
+"たいてい複雑または雑然としたマクロの集合。たとえば\\ :ref:`LISP`\\ 、\\ :ref:`TECO`\\ "
+"、あるいは(より稀に)アセンブラで書かれた大きなシステムの一部としてのもの。"
 
 #: ../../M/macrology.rst:13
 msgid ""
 "The art and science involved in comprehending a macrology in sense 1. "
 "Sometimes studying the macrology of a system is not unlike archeology, "
-"ecology, or :ref:`theology`\\, hence the sound-alike construction. See "
-"also :ref:`boxology`\\."
+"ecology, or :ref:`theology`\\, hence the sound-alike construction. See also "
+":ref:`boxology`\\."
 msgstr ""
-
+"語義1のmacrologyを理解することに伴う技術と科学。時にシステムのmacrologyを研究することは考古学、生態学、あるいは\\ "
+":ref:`theology`\\ に似ていなくもない。それゆえこの音の似た構成である。\\ :ref:`boxology`\\ も参照。"

@@ -8,32 +8,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../N/nanoacre.rst:5
 msgid "nanoacre"
-msgstr ""
+msgstr "nanoacre"
 
 #: ../../N/nanoacre.rst:7
 msgid "/nan´oh·ay\\`kr/, n\\."
-msgstr ""
+msgstr "/nan´oh·ay\\`kr/, 名詞"
 
 #: ../../N/nanoacre.rst:9
 msgid ""
-"A unit (about 2 mm square) of real estate on a VLSI chip. The term gets "
-"its giggle value from the fact that VLSI nanoacres have costs in the same"
-" range as real acres once one figures in design and fabrication-setup "
-"costs."
+"A unit (about 2 mm square) of real estate on a VLSI chip. The term gets its "
+"giggle value from the fact that VLSI nanoacres have costs in the same range "
+"as real acres once one figures in design and fabrication-setup costs."
 msgstr ""
-
+"VLSIチップ上の不動産の単位(約2mm四方)。この語のおかしみは、VLSIのナノエーカーが、設計と製造のセットアップ費用を考慮に入れると、実際のエーカーと同じ範囲のコストになるという事実に由来する。"

@@ -8,41 +8,40 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/program.rst:5
 msgid "program"
-msgstr ""
+msgstr "program"
 
 #: ../../P/program.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../P/program.rst:10
 msgid ""
 "A magic spell cast over a computer allowing it to turn one's input into "
 "error messages."
-msgstr ""
+msgstr "入力をエラーメッセージに変えることを可能にする、コンピュータにかけられた魔法の呪文。"
 
 #: ../../P/program.rst:13
 msgid "An exercise in experimental epistemology."
-msgstr ""
+msgstr "実験的認識論の演習。"
 
 #: ../../P/program.rst:16
 msgid ""
-"A form of art, ostensibly intended for the instruction of computers, "
-"which is nevertheless almost inevitably a failure if other programmers "
-"can't understand it."
-msgstr ""
-
+"A form of art, ostensibly intended for the instruction of computers, which "
+"is nevertheless almost inevitably a failure if other programmers can't "
+"understand it."
+msgstr "表向きはコンピュータへの指示を意図しているが、それでも他のプログラマが理解できなければほぼ必然的に失敗である、芸術の一形態。"
