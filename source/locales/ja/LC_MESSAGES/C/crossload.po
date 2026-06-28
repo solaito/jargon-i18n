@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/crossload.rst:5
 msgid "crossload"
-msgstr ""
+msgstr "crossload"
 
 #: ../../C/crossload.rst:7
 msgid "v\\.,n\\."
-msgstr ""
+msgstr "動詞・名詞"
 
 #: ../../C/crossload.rst:9
 msgid ""
 "[proposed, by analogy with :ref:`upload` and :ref:`download`\\] To move "
-"files between machines on a peer-to-peer network of nodes that act as "
-"both servers and clients for a distributed file store. Esp. appropriate "
-"for anonymized networks like Gnutella and Freenet."
+"files between machines on a peer-to-peer network of nodes that act as both "
+"servers and clients for a distributed file store. Esp. appropriate for "
+"anonymized networks like Gnutella and Freenet."
 msgstr ""
-
+"[提案されたもの。\\ :ref:`upload`\\ と\\ :ref:`download`\\ からの類推] "
+"分散ファイルストアのサーバーとクライアントの両方として機能するノードのピアツーピアネットワーク上で、マシン間でファイルを移動すること。GnutellaやFreenetのような匿名化されたネットワークに特に適しています。"

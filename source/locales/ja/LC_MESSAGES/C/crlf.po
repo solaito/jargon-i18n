@@ -8,33 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/crlf.rst:5
 msgid "crlf"
-msgstr ""
+msgstr "crlf"
 
 #: ../../C/crlf.rst:7
 msgid "/ker´l\\@f/, /kru´l\\@f/, /C·R·L·F/, n\\."
-msgstr ""
+msgstr "/ker´l\\@f/, /kru´l\\@f/, /C·R·L·F/, 名詞"
 
 #: ../../C/crlf.rst:9
 msgid ""
-"(often capitalized as ‘CRLF’) A carriage return (CR, ASCII 0001101) "
-"followed by a line feed (LF, ASCII 0001010). More loosely, whatever it "
-"takes to get you from the end of one line of text to the beginning of the"
-" next line. See :ref:`newline`\\. Under :ref:`Unix` influence this usage "
-"has become less common (Unix uses a bare line feed as its ‘CRLF’)."
+"(often capitalized as ‘CRLF’) A carriage return (CR, ASCII 0001101) followed"
+" by a line feed (LF, ASCII 0001010). More loosely, whatever it takes to get "
+"you from the end of one line of text to the beginning of the next line. See "
+":ref:`newline`\\. Under :ref:`Unix` influence this usage has become less "
+"common (Unix uses a bare line feed as its ‘CRLF’)."
 msgstr ""
-
+"(しばしば‘CRLF’と大文字で書かれる) キャリッジリターン(CR、ASCII 0001101)に続く改行(LF、ASCII "
+"0001010)。もっとゆるく、テキストのある行の終わりから次の行の始まりへ行くのに必要なものは何でも。\\ :ref:`newline`\\ "
+"を参照。\\ :ref:`Unix`\\ の影響の下で、この用法はあまり一般的でなくなりました(Unixは‘CRLF’として裸の改行を使います)。"

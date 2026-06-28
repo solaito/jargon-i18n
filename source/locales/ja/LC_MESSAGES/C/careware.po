@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/careware.rst:5
 msgid "careware"
-msgstr ""
+msgstr "careware"
 
 #: ../../C/careware.rst:7
 msgid "/keir´weir/, n\\."
-msgstr ""
+msgstr "/keir´weir/, 名詞"
 
 #: ../../C/careware.rst:9
 msgid ""
-"A variety of :ref:`shareware` for which either the author suggests that "
-"some payment be made to a nominated charity or a levy directed to charity"
-" is included on top of the distribution charge. Syn. : "
-":ref:`charityware`\\; compare :ref:`crippleware`\\, sense 2."
+"A variety of :ref:`shareware` for which either the author suggests that some"
+" payment be made to a nominated charity or a levy directed to charity is "
+"included on top of the distribution charge. Syn. : :ref:`charityware`\\; "
+"compare :ref:`crippleware`\\, sense 2."
 msgstr ""
-
+"\\ :ref:`shareware`\\ "
+"の一種で、作者が指定の慈善団体への何らかの支払いを勧めるか、頒布料に上乗せして慈善団体向けの徴収金が含まれているもの。同義語は\\ "
+":ref:`charityware`\\ 。\\ :ref:`crippleware`\\ の語義2と比較せよ。"

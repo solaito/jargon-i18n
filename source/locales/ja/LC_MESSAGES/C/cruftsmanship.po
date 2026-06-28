@@ -8,28 +8,27 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/cruftsmanship.rst:5
 msgid "cruftsmanship"
-msgstr ""
+msgstr "cruftsmanship"
 
 #: ../../C/cruftsmanship.rst:7
 msgid "/kruhfts´m\\@n·ship /, n\\."
-msgstr ""
+msgstr "/kruhfts´m\\@n·ship /, 名詞"
 
 #: ../../C/cruftsmanship.rst:9
 msgid "[from :ref:`cruft`\\] The antithesis of craftsmanship."
-msgstr ""
-
+msgstr "[\\ :ref:`cruft`\\ から] craftsmanship(職人技)の対極。"

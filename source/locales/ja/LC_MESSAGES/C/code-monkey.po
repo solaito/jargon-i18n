@@ -8,44 +8,45 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/code-monkey.rst:5
 msgid "code monkey"
-msgstr ""
+msgstr "code monkey"
 
 #: ../../C/code-monkey.rst:7
 msgid "n"
-msgstr ""
+msgstr "名詞"
 
 #: ../../C/code-monkey.rst:10
 msgid ""
 "A person only capable of grinding out code, but unable to perform the "
-"higher-primate tasks of software architecture, analysis, and design. "
-"Mildly insulting. Often applied to the most junior people on a "
-"programming team."
+"higher-primate tasks of software architecture, analysis, and design. Mildly "
+"insulting. Often applied to the most junior people on a programming team."
 msgstr ""
+"コードをひたすら書き出すことしかできず、ソフトウェアアーキテクチャ、分析、設計といった高等霊長類の作業をこなせない人。軽い侮辱。プログラミングチームの最も下っ端の人々に適用されることが多いです。"
 
 #: ../../C/code-monkey.rst:15
 msgid "Anyone who writes code for a living; a programmer."
-msgstr ""
+msgstr "生計を立てるためにコードを書く者。プログラマー。"
 
 #: ../../C/code-monkey.rst:18
 msgid ""
 "A self-deprecating way of denying responsibility for a :ref:`management` "
-"decision, or of complaining about having to live with such decisions. As "
-"in \"Don't ask me why we need to write a compiler in COBOL, I'm just a "
-"code monkey.\""
+"decision, or of complaining about having to live with such decisions. As in "
+"\"Don't ask me why we need to write a compiler in COBOL, I'm just a code "
+"monkey.\""
 msgstr ""
-
+"\\ :ref:`management`\\ "
+"の決定に対する責任を否定したり、そうした決定を受け入れて生きねばならないことを愚痴ったりする、自虐的な言い方。「なぜCOBOLでコンパイラを書く必要があるのか私に聞かないでくれ。俺はただのコードモンキーなんだ」のように。"

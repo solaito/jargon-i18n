@@ -8,53 +8,56 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/crippleware.rst:5
 msgid "crippleware"
-msgstr ""
+msgstr "crippleware"
 
 #: ../../C/crippleware.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../C/crippleware.rst:10
 msgid ""
 "[common] Software that has some important functionality deliberately "
 "removed, so as to entice potential users to pay for a working version."
-msgstr ""
+msgstr "[一般的] 潜在的なユーザーに動作版の対価を払わせるよう誘うために、重要な機能の一部を意図的に取り除いたソフトウェア。"
 
 #: ../../C/crippleware.rst:13
 msgid ""
-"[Cambridge] Variety of :ref:`guiltware` that exhorts you to donate to "
-"some charity (compare :ref:`careware`\\, :ref:`nagware`\\)."
+"[Cambridge] Variety of :ref:`guiltware` that exhorts you to donate to some "
+"charity (compare :ref:`careware`\\, :ref:`nagware`\\)."
 msgstr ""
+"[ケンブリッジ] 何らかの慈善団体への寄付を勧める\\ :ref:`guiltware`\\ の一種(\\ :ref:`careware`\\ 、\\ "
+":ref:`nagware`\\ と比較せよ)。"
 
 #: ../../C/crippleware.rst:16
 msgid ""
-"Hardware deliberately crippled, which can be upgraded to a more expensive"
-" model by a trivial change (e.g., cutting a jumper)."
-msgstr ""
+"Hardware deliberately crippled, which can be upgraded to a more expensive "
+"model by a trivial change (e.g., cutting a jumper)."
+msgstr "意図的に不具にされたハードウェアで、些細な変更(たとえばジャンパーを切る)によってより高価なモデルにアップグレードできるもの。"
 
 #: ../../C/crippleware.rst:18
 msgid ""
-"An excellent example of crippleware (sense 3) is Intel's 486SX chip, "
-"which is a standard 486DX chip with the co-processor diked out (in some "
-"early versions it was present but disabled). To upgrade, you buy a "
-"complete 486DX chip with *working* co-processor (its identity thinly "
-"veiled by a different pinout) and plug it into the board's expansion "
-"socket. It then disables the SX, which becomes a fancy power sink. Don't "
-"you love Intel?"
+"An excellent example of crippleware (sense 3) is Intel's 486SX chip, which "
+"is a standard 486DX chip with the co-processor diked out (in some early "
+"versions it was present but disabled). To upgrade, you buy a complete 486DX "
+"chip with *working* co-processor (its identity thinly veiled by a different "
+"pinout) and plug it into the board's expansion socket. It then disables the "
+"SX, which becomes a fancy power sink. Don't you love Intel?"
 msgstr ""
-
+"crippleware(語義3)の優れた例は、Intelの486SXチップです。これは標準的な486DXチップから補助プロセッサを取り除いた(初期の一部のバージョンでは存在したが無効化されていた)ものです。アップグレードするには、\\"
+" *動作する*\\ "
+"補助プロセッサを備えた完全な486DXチップ(その正体は異なるピン配置でかろうじて隠されている)を買って、ボードの拡張ソケットに差し込みます。するとそれがSXを無効化し、SXは凝った電力シンクと化します。Intelってのは最高じゃないか?"

@@ -8,33 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/codewalker.rst:5
 msgid "codewalker"
-msgstr ""
+msgstr "codewalker"
 
 #: ../../C/codewalker.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../C/codewalker.rst:9
 msgid ""
-"A program component that traverses other programs for a living. Compilers"
-" have codewalkers in their front ends; so do cross-reference generators "
-"and some database front ends. Other utility programs that try to do too "
-"much with source code may turn into codewalkers. As in \"This new "
-":code:`vgrind` feature would require a codewalker to implement.\""
+"A program component that traverses other programs for a living. Compilers "
+"have codewalkers in their front ends; so do cross-reference generators and "
+"some database front ends. Other utility programs that try to do too much "
+"with source code may turn into codewalkers. As in \"This new :code:`vgrind` "
+"feature would require a codewalker to implement.\""
 msgstr ""
-
+"他のプログラムをたどることを生業とするプログラムの構成要素。コンパイラはそのフロントエンドにcodewalkerを持っています。相互参照ジェネレーターや一部のデータベースのフロントエンドもそうです。ソースコードであまりに多くをやろうとする他のユーティリティプログラムも、codewalkerに化けることがあります。「この新しい\\"
+" :code:`vgrind`\\ の機能を実装するには、codewalkerが必要になるだろう」のように。"

@@ -8,46 +8,47 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/cuspy.rst:5
 msgid "cuspy"
-msgstr ""
+msgstr "cuspy"
 
 #: ../../C/cuspy.rst:7
 msgid "/kuhs´pee/, adj\\."
-msgstr ""
+msgstr "/kuhs´pee/, 形容詞"
 
 #: ../../C/cuspy.rst:9
 msgid ""
 "[WPI: from the :ref:`DEC` abbreviation CUSP, for ‘Commonly Used System "
 "Program’, i.e., a utility program used by many people. Now rare.]"
 msgstr ""
+"[WPI: \\ :ref:`DEC`\\ の略語CUSP、‘Commonly Used System "
+"Program’、すなわち多くの人に使われるユーティリティプログラムから。今やまれ。]"
 
 #: ../../C/cuspy.rst:13
 msgid "(of a program) Well-written."
-msgstr ""
+msgstr "(プログラムについて) よく書かれた。"
 
 #: ../../C/cuspy.rst:16
 msgid ""
-"Functionally excellent. A program that performs well and interfaces well "
-"to users is cuspy. Oppose :ref:`rude`\\."
-msgstr ""
+"Functionally excellent. A program that performs well and interfaces well to "
+"users is cuspy. Oppose :ref:`rude`\\."
+msgstr "機能的に優秀な。よく動き、ユーザーとうまくインターフェースするプログラムはcuspyです。\\ :ref:`rude`\\ と対立します。"
 
 #: ../../C/cuspy.rst:21
 msgid ""
 "[NYU] Said of an attractive woman, especially one regarded as available. "
 "Implies a certain curvaceousness."
-msgstr ""
-
+msgstr "[NYU] 魅力的な女性、特に手の届きそうな女性について言われます。ある種の曲線美を含意します。"

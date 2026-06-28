@@ -8,63 +8,72 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/cat.rst:5
 msgid "cat"
-msgstr ""
+msgstr "cat"
 
 #: ../../C/cat.rst:7
 msgid "vt\\."
-msgstr ""
+msgstr "他動詞"
 
 #: ../../C/cat.rst:9
 msgid "[from catenate via :ref:`Unix` :manpage:`cat(1)`\\]"
-msgstr ""
+msgstr "[\\ :ref:`Unix`\\ の :manpage:`cat(1)`\\ を経てcatenate(連結する)から]"
 
 #: ../../C/cat.rst:12
 msgid ""
-"[techspeak] To spew an entire file to the screen or some other output "
-"sink without pause (syn. :ref:`blast`\\)."
-msgstr ""
+"[techspeak] To spew an entire file to the screen or some other output sink "
+"without pause (syn. :ref:`blast`\\)."
+msgstr "[専門用語] ファイル全体を一時停止なしに画面や他の出力先に吐き出すこと(\\ :ref:`blast`\\ と同義)。"
 
 #: ../../C/cat.rst:16
 msgid ""
-"By extension, to dump large amounts of data at an unprepared target or "
-"with no intention of browsing it carefully. Usage: considered silly. Rare"
-" outside Unix sites. See also :ref:`dd`\\, :ref:`BLT`\\."
+"By extension, to dump large amounts of data at an unprepared target or with "
+"no intention of browsing it carefully. Usage: considered silly. Rare outside"
+" Unix sites. See also :ref:`dd`\\, :ref:`BLT`\\."
 msgstr ""
+"転じて、準備のできていない相手に大量のデータを浴びせること、または注意深く閲覧する意図なくそうすること。用法:愚かとみなされます。Unixサイト以外ではまれです。\\"
+" :ref:`dd`\\ 、\\ :ref:`BLT`\\ も参照。"
 
 #: ../../C/cat.rst:21
 msgid ""
 "Among Unix fans, :manpage:`cat(1)` is considered an excellent example of "
-"user-interface design, because it delivers the file contents without such"
-" verbosity as spacing or headers between the files, and because it does "
-"not require the files to consist of lines of text, but works with any "
-"sort of data."
+"user-interface design, because it delivers the file contents without such "
+"verbosity as spacing or headers between the files, and because it does not "
+"require the files to consist of lines of text, but works with any sort of "
+"data."
 msgstr ""
+"Unixファンの間では、:manpage:`cat(1)`\\ "
+"はユーザーインターフェース設計の優れた例とみなされています。ファイル間に空白やヘッダといった冗長さなしにファイルの内容を届け、ファイルがテキストの行で構成されていることを要求せず、あらゆる種類のデータで動作するからです。"
 
 #: ../../C/cat.rst:23
 msgid ""
 "Among Unix haters, :manpage:`cat(1)` is considered the :ref:`canonical` "
-"example of *bad* user-interface design, because of its woefully unobvious"
-" name. It is far more often used to :ref:`blast` a file to standard "
-"output than to concatenate two files. The name :code:`cat` for the former"
-" operation is just as unintuitive as, say, LISP's :ref:`cdr`\\."
+"example of *bad* user-interface design, because of its woefully unobvious "
+"name. It is far more often used to :ref:`blast` a file to standard output "
+"than to concatenate two files. The name :code:`cat` for the former operation"
+" is just as unintuitive as, say, LISP's :ref:`cdr`\\."
 msgstr ""
+"Unix嫌いの間では、:manpage:`cat(1)`\\ はその嘆かわしいほど不明瞭な名前ゆえに、\\ *悪い*\\ "
+"ユーザーインターフェース設計の\\ :ref:`canonical`\\ "
+"な例とみなされています。それは2つのファイルを連結する(concatenate)よりも、ファイルを標準出力に\\ :ref:`blast`\\ "
+"するのにはるかに頻繁に使われます。前者の操作に\\ :code:`cat`\\ という名前を付けるのは、たとえばLISPの\\ :ref:`cdr`\\"
+" と同じくらい直観に反します。"
 
 #: ../../C/cat.rst:27
-msgid "Of such oppositions are :ref:`holy-wars` made.... See also :ref:`UUOC`\\."
-msgstr ""
-
+msgid ""
+"Of such oppositions are :ref:`holy-wars` made.... See also :ref:`UUOC`\\."
+msgstr "そうした対立から\\ :ref:`holy-wars`\\ が生まれるのです……。\\ :ref:`UUOC`\\ も参照。"

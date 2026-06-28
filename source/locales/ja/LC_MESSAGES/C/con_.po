@@ -8,33 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/con_.rst:5
 msgid "con"
-msgstr ""
+msgstr "con"
 
 #: ../../C/con_.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../C/con_.rst:9
 msgid ""
-"[from SF fandom] A science-fiction convention. Not used of other sorts of"
-" conventions, such as professional meetings. This term, unlike many "
-"others imported from SF-fan slang, is widely recognized even by hackers "
-"who aren't :ref:`fan`\\s. \"We'd been corresponding on the net for "
-"months, then we met face-to-face at a con.\""
+"[from SF fandom] A science-fiction convention. Not used of other sorts of "
+"conventions, such as professional meetings. This term, unlike many others "
+"imported from SF-fan slang, is widely recognized even by hackers who aren't "
+":ref:`fan`\\s. \"We'd been corresponding on the net for months, then we met "
+"face-to-face at a con.\""
 msgstr ""
-
+"[SFファンダムから] "
+"SF大会。専門家の会合のような他の種類の大会(convention)には使われません。この用語は、SFファンのスラングから取り入れられた他の多くの用語とは異なり、\\"
+" :ref:`fan`\\ でないハッカーにも広く認識されています。「ネット上で何ヶ月もやり取りした後、conで初めて顔を合わせた」。"

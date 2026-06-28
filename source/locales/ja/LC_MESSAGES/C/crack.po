@@ -8,47 +8,49 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/crack.rst:5
 msgid "crack"
-msgstr ""
+msgstr "crack"
 
 #: ../../C/crack.rst:7
 msgid "[warez d00dz]"
-msgstr ""
+msgstr "[warez d00dz]"
 
 #: ../../C/crack.rst:9
 msgid "v\\. To break into a system (compare :ref:`cracker`\\)."
-msgstr ""
+msgstr "動詞 システムに侵入すること(\\ :ref:`cracker`\\ と比較せよ)。"
 
 #: ../../C/crack.rst:12
 msgid ""
 "v\\. Action of removing the copy protection from a commercial program. "
 "People who write cracks consider themselves challenged by the copy "
 "protection measures. They will often do it as much to show that they are "
-"smarter than the developer who designed the copy protection scheme than "
-"to actually copy the program."
+"smarter than the developer who designed the copy protection scheme than to "
+"actually copy the program."
 msgstr ""
+"動詞 "
+"商用プログラムからコピープロテクトを取り除く行為。crackを書く人々は、コピープロテクト対策を自分への挑戦とみなします。彼らはしばしば、実際にプログラムをコピーするためというより、コピープロテクトの仕組みを設計した開発者より自分のほうが賢いと示すために、それを行います。"
 
 #: ../../C/crack.rst:17
 msgid ""
-"n\\. A program, instructions or patch used to remove the copy protection "
-"of a program or to uncripple features from a demo/time limited program."
+"n\\. A program, instructions or patch used to remove the copy protection of "
+"a program or to uncripple features from a demo/time limited program."
 msgstr ""
+"名詞 プログラムのコピープロテクトを取り除いたり、デモ/期間限定プログラムから機能を解放したりするのに使われるプログラム、説明書、またはパッチ。"
 
 #: ../../C/crack.rst:21
 msgid "An :ref:`exploit`\\."
-msgstr ""
-
+msgstr "\\ :ref:`exploit`\\ 。"

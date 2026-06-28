@@ -8,31 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/copper.rst:5
 msgid "copper"
-msgstr ""
+msgstr "copper"
 
 #: ../../C/copper.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../C/copper.rst:9
 msgid ""
-"Conventional electron-carrying network cable with a core conductor of "
-"copper — or aluminum! Opposed to :ref:`light-pipe` or, say, a short-range"
-" microwave link."
+"Conventional electron-carrying network cable with a core conductor of copper"
+" — or aluminum! Opposed to :ref:`light-pipe` or, say, a short-range "
+"microwave link."
 msgstr ""
-
+"銅——あるいはアルミ!——の芯導体を持つ、従来の電子搬送ネットワークケーブル。\\ :ref:`light-pipe`\\ "
+"や、たとえば短距離のマイクロ波リンクと対立します。"

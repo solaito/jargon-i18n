@@ -8,32 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/crank.rst:5
 msgid "crank"
-msgstr ""
+msgstr "crank"
 
 #: ../../C/crank.rst:7
 msgid "vt\\."
-msgstr ""
+msgstr "他動詞"
 
 #: ../../C/crank.rst:9
 msgid ""
-"[from automotive slang] Verb used to describe the performance of a "
-"machine, especially sustained performance. \"This box cranks (or, cranks "
-"at) about 6 megaflops, with a burst mode of twice that on vectorized "
-"operations.\""
+"[from automotive slang] Verb used to describe the performance of a machine, "
+"especially sustained performance. \"This box cranks (or, cranks at) about 6 "
+"megaflops, with a burst mode of twice that on vectorized operations.\""
 msgstr ""
-
+"[自動車スラングから] "
+"マシンの性能、特に持続的な性能を表すのに使われる動詞。「この箱は約6メガフロップスでcrankする(または、6メガフロップスでcrankする)。ベクトル化された操作ではバーストモードでその倍だ」。"

@@ -8,34 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../C/creeping-featuritis.rst:5
 msgid "creeping featuritis"
-msgstr ""
+msgstr "creeping featuritis"
 
 #: ../../C/creeping-featuritis.rst:7
 msgid "/kree´ping fee'·chr·i:\\`t\\@s/, n\\."
-msgstr ""
+msgstr "/kree´ping fee'·chr·i:\\`t\\@s/, 名詞"
 
 #: ../../C/creeping-featuritis.rst:9
 msgid ""
-"Variant of :ref:`creeping-featurism`\\, with its own spoonerization: "
-"feeping creaturitis. Some people like to reserve this form for the "
-"disease as it actually manifests in software or hardware, as opposed to "
-"the lurking general tendency in designers' minds. (After all, -ism means "
-"‘condition’ or ‘pursuit of’, whereas -itis usually means ‘inflammation "
-"of’.)"
+"Variant of :ref:`creeping-featurism`\\, with its own spoonerization: feeping"
+" creaturitis. Some people like to reserve this form for the disease as it "
+"actually manifests in software or hardware, as opposed to the lurking "
+"general tendency in designers' minds. (After all, -ism means ‘condition’ or "
+"‘pursuit of’, whereas -itis usually means ‘inflammation of’.)"
 msgstr ""
-
+"\\ :ref:`creeping-featurism`\\ の変種で、独自のスプーナリズムを持ちます。すなわちfeeping "
+"creaturitisです。設計者の心に潜む一般的な傾向に対して、ソフトウェアやハードウェアで実際に現れる病気のために、この形を取っておくのを好む人もいます。(なにしろ、-ismは‘状態’や‘追求’を意味し、-itisは通常‘炎症’を意味するのですから。)"
