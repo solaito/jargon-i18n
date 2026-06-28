@@ -8,141 +8,152 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../N/nybble.rst:5 ../../N/nybble.rst:24
 msgid "nybble"
-msgstr ""
+msgstr "nybble"
 
 #: ../../N/nybble.rst:7
 msgid "/nib´l/, nibble, n\\."
-msgstr ""
+msgstr "/nib´l/, nibble, 名詞"
 
 #: ../../N/nybble.rst:9
 msgid ""
-"[from v. nibble by analogy with ‘bite’ → ‘byte’] Four bits; one "
-":ref:`hex` digit; a half-byte. Though ‘byte’ is now techspeak, this "
-"useful relative is still jargon. Compare :ref:`byte`\\; see also "
-":ref:`bit`\\. The more mundane spelling \"nibble\" is also commonly used."
-" Apparently the ‘nybble’ spelling is uncommon in Commonwealth Hackish, as"
-" British orthography would suggest the pronunciation /ni:´bl/."
+"[from v. nibble by analogy with ‘bite’ → ‘byte’] Four bits; one :ref:`hex` "
+"digit; a half-byte. Though ‘byte’ is now techspeak, this useful relative is "
+"still jargon. Compare :ref:`byte`\\; see also :ref:`bit`\\. The more mundane"
+" spelling \"nibble\" is also commonly used. Apparently the ‘nybble’ spelling"
+" is uncommon in Commonwealth Hackish, as British orthography would suggest "
+"the pronunciation /ni:´bl/."
 msgstr ""
+"[‘bite’ → ‘byte’との類推による動詞nibbleから] 4ビット、1\\ :ref:`hex`\\ "
+"桁、半バイト。‘byte’は今やテックスピークだが、この有用な類縁語はいまだジャーゴンである。\\ :ref:`byte`\\ と比較せよ。\\ "
+":ref:`bit`\\ "
+"も参照。もっと平凡な綴り\"nibble\"もよく使われる。どうやら‘nybble’という綴りはコモンウェルスのハッカー語では珍しいようだ。英国式の正書法では発音"
+" /ni:´bl/ を示唆するだろうから。"
 
 #: ../../N/nybble.rst:15
 msgid ""
-"Following ‘bit’, ‘byte’ and ‘nybble’ there have been quite a few "
-"analogical attempts to construct unambiguous terms for bit blocks of "
-"other sizes. All of these are strictly jargon, not techspeak, and not "
-"very common jargon at that (most hackers would recognize them in context "
-"but not use them spontaneously). We collect them here for reference "
-"together with the ambiguous techspeak terms ‘word’, ‘half-word’, ‘double "
-"word’, and ‘quad’ or quad word; some (indicated) have substantial "
-"information separate entries."
+"Following ‘bit’, ‘byte’ and ‘nybble’ there have been quite a few analogical "
+"attempts to construct unambiguous terms for bit blocks of other sizes. All "
+"of these are strictly jargon, not techspeak, and not very common jargon at "
+"that (most hackers would recognize them in context but not use them "
+"spontaneously). We collect them here for reference together with the "
+"ambiguous techspeak terms ‘word’, ‘half-word’, ‘double word’, and ‘quad’ or "
+"quad word; some (indicated) have substantial information separate entries."
 msgstr ""
+"‘bit’、‘byte’、‘nybble’に続いて、他のサイズのビットブロックのための曖昧でない用語を構築しようとする類推的な試みがかなり多くあった。これらはすべて厳密にはジャーゴンであってテックスピークではなく、しかもあまり一般的なジャーゴンでもない(たいていのハッカーは文脈の中ではそれらを認識するだろうが、自分から使うことはないだろう)。ここでは参考のために、曖昧なテックスピーク用語‘word’、‘half-"
+"word’、‘double word’、‘quad’または quad word "
+"とともにそれらをまとめておく。いくつか(印あり)は独立した項目にかなりの情報がある。"
 
 #: ../../N/nybble.rst:21
 msgid "2 bits:"
-msgstr ""
+msgstr "2ビット:"
 
 #: ../../N/nybble.rst:22
 msgid ":ref:`crumb`\\, :ref:`quad`\\, :ref:`quarter`\\, tayste, tydbit, morsel"
-msgstr ""
+msgstr ":ref:`crumb`\\ 、\\ :ref:`quad`\\ 、\\ :ref:`quarter`\\ 、tayste、tydbit、morsel"
 
 #: ../../N/nybble.rst:23
 msgid "4 bits:"
-msgstr ""
+msgstr "4ビット:"
 
 #: ../../N/nybble.rst:25
 msgid "5 bits:"
-msgstr ""
+msgstr "5ビット:"
 
 #: ../../N/nybble.rst:26
 msgid ":ref:`nickle`"
-msgstr ""
+msgstr ":ref:`nickle`"
 
 #: ../../N/nybble.rst:27
 msgid "10 bits:"
-msgstr ""
+msgstr "10ビット:"
 
 #: ../../N/nybble.rst:28
 msgid ":ref:`deckle`"
-msgstr ""
+msgstr ":ref:`deckle`"
 
 #: ../../N/nybble.rst:29
 msgid "16 bits:"
-msgstr ""
+msgstr "16ビット:"
 
 #: ../../N/nybble.rst:30
 msgid ""
 "playte, :ref:`chawmp` (on a 32-bit machine), word (on a 16-bit machine), "
 "half-word (on a 32-bit machine)."
 msgstr ""
+"playte、\\ :ref:`chawmp`\\ (32ビットマシン上で)、word(16ビットマシン上で)、half-"
+"word(32ビットマシン上で)。"
 
 #: ../../N/nybble.rst:31
 msgid "18 bits:"
-msgstr ""
+msgstr "18ビット:"
 
 #: ../../N/nybble.rst:32
 msgid ":ref:`chawmp` (on a 36-bit machine), half-word (on a 36-bit machine)"
-msgstr ""
+msgstr ":ref:`chawmp`\\ (36ビットマシン上で)、half-word(36ビットマシン上で)"
 
 #: ../../N/nybble.rst:33
 msgid "32 bits:"
-msgstr ""
+msgstr "32ビット:"
 
 #: ../../N/nybble.rst:34
 msgid ""
 "dynner, :ref:`gawble` (on a 32-bit machine), word (on a 32-bit machine), "
 "longword (on a 16-bit machine)."
 msgstr ""
+"dynner、\\ :ref:`gawble`\\ "
+"(32ビットマシン上で)、word(32ビットマシン上で)、longword(16ビットマシン上で)。"
 
 #: ../../N/nybble.rst:35
 msgid "36 bits:"
-msgstr ""
+msgstr "36ビット:"
 
 #: ../../N/nybble.rst:36
 msgid "word (on a 36-bit machine)"
-msgstr ""
+msgstr "word(36ビットマシン上で)"
 
 #: ../../N/nybble.rst:37
 msgid "48 bits:"
-msgstr ""
+msgstr "48ビット:"
 
 #: ../../N/nybble.rst:38
 msgid ":ref:`gawble` (under circumstances that remain obscure)"
-msgstr ""
+msgstr ":ref:`gawble`\\ (依然として不明瞭な状況下で)"
 
 #: ../../N/nybble.rst:39
 msgid "64 bits:"
-msgstr ""
+msgstr "64ビット:"
 
 #: ../../N/nybble.rst:40
 msgid "double word (on a 32-bit machine) quad (on a 16-bit machine)"
-msgstr ""
+msgstr "double word(32ビットマシン上で) quad(16ビットマシン上で)"
 
 #: ../../N/nybble.rst:41
 msgid "128 bits:"
-msgstr ""
+msgstr "128ビット:"
 
 #: ../../N/nybble.rst:42
 msgid "quad (on a 32-bit machine)"
-msgstr ""
+msgstr "quad(32ビットマシン上で)"
 
 #: ../../N/nybble.rst:44
 msgid ""
-"The fundamental motivation for most of these jargon terms (aside from the"
-" normal hackerly enjoyment of punning wordplay) is the extreme ambiguity "
-"of the term word and its derivatives."
+"The fundamental motivation for most of these jargon terms (aside from the "
+"normal hackerly enjoyment of punning wordplay) is the extreme ambiguity of "
+"the term word and its derivatives."
 msgstr ""
-
+"これらのジャーゴン用語のほとんどの根本的な動機は(駄洒落の言葉遊びを楽しむ通常のハッカー的な喜びは別として)、wordという語とその派生語の極端な曖昧さである。"

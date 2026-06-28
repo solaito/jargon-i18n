@@ -8,71 +8,74 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../O/ooblick.rst:5
 msgid "ooblick"
-msgstr ""
+msgstr "ooblick"
 
 #: ../../O/ooblick.rst:7
 msgid "/oo´blik/, n\\."
-msgstr ""
+msgstr "/oo´blik/, 名詞"
 
 #: ../../O/ooblick.rst:9
 msgid ""
 "[from the Dr. Seuss title *Bartholomew and the Oobleck*\\; the spelling "
-"‘oobleck’ is still current in the mainstream] A bizarre semi-liquid "
-"sludge made from cornstarch and water. Enjoyed among hackers who make "
-"batches during playtime at parties for its amusing and extremely non-"
-"Newtonian behavior; it pours and splatters, but resists rapid motion like"
-" a solid and will even crack when hit by a hammer. Often found near "
-"lasers."
+"‘oobleck’ is still current in the mainstream] A bizarre semi-liquid sludge "
+"made from cornstarch and water. Enjoyed among hackers who make batches "
+"during playtime at parties for its amusing and extremely non-Newtonian "
+"behavior; it pours and splatters, but resists rapid motion like a solid and "
+"will even crack when hit by a hammer. Often found near lasers."
 msgstr ""
+"[Dr. Seussの作品名\\ *Bartholomew and the Oobleck*\\ "
+"から。‘oobleck’という綴りは今も主流で使われている]コーンスターチと水から作られる、奇妙な半液体のどろどろした物質。ハッカーの間では、その面白くて極めて非ニュートン的な振る舞いゆえに、パーティーの遊び時間に大量に作って楽しまれる。注いだり飛び散ったりするが、固体のように素早い動きには抵抗し、ハンマーで叩くとひびすら入る。しばしばレーザーの近くで見つかる。"
 
 #: ../../O/ooblick.rst:13
 msgid "Here is a field-tested ooblick recipe contributed by GLS:"
-msgstr ""
+msgstr "こちらはGLSが寄せた、実地でテスト済みのoobleckのレシピである。"
 
 #: ../../O/ooblick.rst:15
 msgid "1 cup cornstarch"
-msgstr ""
+msgstr "コーンスターチ 1カップ"
 
 #: ../../O/ooblick.rst:17
 msgid "1 cup baking soda"
-msgstr ""
+msgstr "重曹 1カップ"
 
 #: ../../O/ooblick.rst:19
 msgid "3/4 cup water"
-msgstr ""
+msgstr "水 3/4カップ"
 
 #: ../../O/ooblick.rst:21
 msgid "N drops of food coloring"
-msgstr ""
+msgstr "食用色素 N滴"
 
 #: ../../O/ooblick.rst:23
 msgid ""
-"This recipe isn't quite as non-Newtonian as a pure cornstarch ooblick, "
-"but has an appropriately slimy feel."
-msgstr ""
+"This recipe isn't quite as non-Newtonian as a pure cornstarch ooblick, but "
+"has an appropriately slimy feel."
+msgstr "このレシピは純粋なコーンスターチのoobleckほど非ニュートン的ではないが、ふさわしくぬるぬるした感触がある。"
 
 #: ../../O/ooblick.rst:25
 msgid ""
 "Some, however, insist that the notion of an ooblick *recipe* is far too "
-"mechanical, and that it is best to add the water in small increments so "
-"that the various mixed states the cornstarch goes through as it *becomes*"
-" ooblick can be grokked in fullness by many hands. For optional "
-"ingredients of this experience, see the * Ceremonial Chemicals* section "
-"of Appendix B."
+"mechanical, and that it is best to add the water in small increments so that"
+" the various mixed states the cornstarch goes through as it *becomes* "
+"ooblick can be grokked in fullness by many hands. For optional ingredients "
+"of this experience, see the * Ceremonial Chemicals* section of Appendix B."
 msgstr ""
-
+"しかし、oobleckの\\ *レシピ*\\ "
+"という考え方はあまりに機械的すぎると言い張る者もいる。彼らによれば、水を少しずつ加えて、コーンスターチがoobleckに\\ *なる*\\ "
+"過程で通過するさまざまな混合状態を、多くの手で十全に味わうのが最善だという。この体験の任意の材料については、付録Bの\\ *Ceremonial "
+"Chemicals*\\ の節を参照せよ。"

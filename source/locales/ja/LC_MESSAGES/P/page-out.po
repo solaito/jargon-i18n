@@ -8,39 +8,40 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/page-out.rst:5
 msgid "page out"
-msgstr ""
+msgstr "page out"
 
 #: ../../P/page-out.rst:7
 msgid "vi\\."
-msgstr ""
+msgstr "自動詞"
 
 #: ../../P/page-out.rst:9
 msgid "[MIT]"
-msgstr ""
+msgstr "[MIT]"
 
 #: ../../P/page-out.rst:12
 msgid ""
-"To become unaware of one's surroundings temporarily, due to daydreaming "
-"or preoccupation. \"Can you repeat that? I paged out for a minute.\" See "
+"To become unaware of one's surroundings temporarily, due to daydreaming or "
+"preoccupation. \"Can you repeat that? I paged out for a minute.\" See "
 ":ref:`page-in`\\. Compare :ref:`glitch`\\, :ref:`thinko`\\."
 msgstr ""
+"空想や心配事のために、一時的に自分の周囲に気づかなくなること。「もう一度言ってくれる?ちょっとページアウトしていたんだ」\\ :ref:`page-"
+"in`\\ を参照。\\ :ref:`glitch`\\ 、\\ :ref:`thinko`\\ と比較せよ。"
 
 #: ../../P/page-out.rst:19
 msgid "Syn. swap out; see :ref:`swap`\\."
-msgstr ""
-
+msgstr "swap outと同義。\\ :ref:`swap`\\ を参照。"

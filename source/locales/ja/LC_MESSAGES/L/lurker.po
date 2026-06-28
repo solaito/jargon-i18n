@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../L/lurker.rst:5
 msgid "lurker"
-msgstr ""
+msgstr "lurker"
 
 #: ../../L/lurker.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../L/lurker.rst:9
 msgid ""
@@ -35,15 +35,19 @@ msgid ""
 "occasionally or not at all but is known to read the group's postings "
 "regularly. This term is not pejorative and indeed is casually used "
 "reflexively: \"Oh, I'm just lurking.\" Often used in the lurkers, the "
-"hypothetical audience for the group's :ref:`flamage`\\-emitting regulars."
-" When a lurker speaks up for the first time, this is called delurking."
+"hypothetical audience for the group's :ref:`flamage`\\-emitting regulars. "
+"When a lurker speaks up for the first time, this is called delurking."
 msgstr ""
+"電子フォーラムにおける‘物言わぬ多数派’の一人。たまに投稿するか、まったく投稿しないが、グループの投稿を定期的に読んでいることが知られている者。この用語は軽蔑的ではなく、実際、再帰的に気軽に使われる。「ああ、ただlurkしてるだけだよ。」しばしばthe"
+" lurkers、すなわちグループの\\ :ref:`flamage`\\ "
+"を放つ常連たちにとっての仮想の聴衆という形で使われる。lurkerが初めて発言するとき、これはdelurkingと呼ばれる。"
 
 #: ../../L/lurker.rst:14
 msgid ""
-"The creator of the popular science-fiction TV series *Babylon 5* has ties"
-" to SF fandom and the hacker culture. In that series, the use of the term"
-" ‘lurker’ for a homeless or displaced person is a conscious reference to "
-"the jargon term."
+"The creator of the popular science-fiction TV series *Babylon 5* has ties to"
+" SF fandom and the hacker culture. In that series, the use of the term "
+"‘lurker’ for a homeless or displaced person is a conscious reference to the "
+"jargon term."
 msgstr ""
-
+"人気SFテレビシリーズ\\ *Babylon 5*\\ "
+"の生みの親は、SFファンダムとハッカー文化につながりがある。同シリーズでは、家を失った、あるいは流浪する人物に対する‘lurker’という語の使用は、このジャーゴン用語への意識的な言及である。"

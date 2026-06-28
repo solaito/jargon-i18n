@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/modulo.rst:5
 msgid "modulo"
-msgstr ""
+msgstr "modulo"
 
 #: ../../M/modulo.rst:7
 msgid "/mod´yu·loh/, prep\\."
-msgstr ""
+msgstr "/mod´yu·loh/, 前置詞"
 
 #: ../../M/modulo.rst:9
 msgid ""
 "Except for. An overgeneralization of mathematical terminology; one can "
 "consider saying that 4 equals 22 except for the 9s (``4 = 22`` mod 9). "
-"\"Well, LISP seems to work okay now, modulo that :ref:`GC` bug.\" \"I "
-"feel fine today modulo a slight headache.\""
+"\"Well, LISP seems to work okay now, modulo that :ref:`GC` bug.\" \"I feel "
+"fine today modulo a slight headache.\""
 msgstr ""
-
+"…を除いて。数学用語の過剰一般化。4は9を除いて22に等しいと言える(\\ ``4 = 22``\\ mod "
+"9)と考えられる。「まあ、LISPはあの\\ :ref:`GC`\\ のバグを除けば今はちゃんと動くようだ」。「今日は軽い頭痛を除けば気分がいい」。"

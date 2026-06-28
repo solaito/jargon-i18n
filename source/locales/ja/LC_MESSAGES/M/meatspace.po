@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/meatspace.rst:5
 msgid "meatspace"
-msgstr ""
+msgstr "meatspace"
 
 #: ../../M/meatspace.rst:7
 msgid "/meet´spays/, n\\."
-msgstr ""
+msgstr "/meet´spays/, 名詞"
 
 #: ../../M/meatspace.rst:9
 msgid ""
 "The physical world, where the meat lives — as opposed to "
-":ref:`cyberspace`\\. Hackers are actually more willing to use this term "
-"than ‘cyberspace’, because it's not speculative — we already have a "
-"running meatspace implementation (the universe). Compare :ref:`RL`\\."
+":ref:`cyberspace`\\. Hackers are actually more willing to use this term than"
+" ‘cyberspace’, because it's not speculative — we already have a running "
+"meatspace implementation (the universe). Compare :ref:`RL`\\."
 msgstr ""
-
+"肉が住む物理世界。\\ :ref:`cyberspace`\\ "
+"とは対照的。ハッカーは実は‘cyberspace’よりこの語を進んで使う。なぜならそれは思弁的ではないからである。我々はすでに動作するmeatspaceの実装(宇宙)を持っている。\\"
+" :ref:`RL`\\ と比較せよ。"

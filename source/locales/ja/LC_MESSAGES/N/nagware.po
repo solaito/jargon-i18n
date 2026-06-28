@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../N/nagware.rst:5
 msgid "nagware"
-msgstr ""
+msgstr "nagware"
 
 #: ../../N/nagware.rst:7
 msgid "/nag´weir/, n\\."
-msgstr ""
+msgstr "/nag´weir/, 名詞"
 
 #: ../../N/nagware.rst:9
 msgid ""
-"[Usenet] The variety of :ref:`shareware` that displays a large screen at "
-"the beginning or end reminding you to register, typically requiring some "
-"sort of keystroke to continue so that you can't use the software in batch"
-" mode. Compare :ref:`annoyware`\\, :ref:`crippleware`\\."
+"[Usenet] The variety of :ref:`shareware` that displays a large screen at the"
+" beginning or end reminding you to register, typically requiring some sort "
+"of keystroke to continue so that you can't use the software in batch mode. "
+"Compare :ref:`annoyware`\\, :ref:`crippleware`\\."
 msgstr ""
-
+"[Usenet] \\ :ref:`shareware`\\ "
+"の一種で、最初または最後に大きな画面を表示してユーザーに登録を促すもの。たいてい続行するために何らかのキー入力を要求するため、ソフトウェアをバッチモードで使うことができない。\\"
+" :ref:`annoyware`\\ 、\\ :ref:`crippleware`\\ と比較せよ。"

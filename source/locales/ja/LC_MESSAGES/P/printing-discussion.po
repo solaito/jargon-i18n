@@ -8,30 +8,29 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/printing-discussion.rst:5
 msgid "printing discussion"
-msgstr ""
+msgstr "printing discussion"
 
 #: ../../P/printing-discussion.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../P/printing-discussion.rst:9
 msgid ""
-"[XEROX PARC] A protracted, low-level, time-consuming, generally pointless"
-" discussion of something only peripherally interesting to all."
-msgstr ""
-
+"[XEROX PARC] A protracted, low-level, time-consuming, generally pointless "
+"discussion of something only peripherally interesting to all."
+msgstr "[XEROX PARC]全員にとって周辺的にしか面白くない何かについての、長引く、低レベルで、時間のかかる、概して無意味な議論。"

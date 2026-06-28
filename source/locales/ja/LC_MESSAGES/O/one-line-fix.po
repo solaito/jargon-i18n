@@ -8,32 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../O/one-line-fix.rst:5
 msgid "one-line fix"
-msgstr ""
+msgstr "one-line fix"
 
 #: ../../O/one-line-fix.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../O/one-line-fix.rst:9
 msgid ""
-"Used (often sarcastically) of a change to a program that is thought to be"
-" trivial or insignificant right up to the moment it crashes the system. "
+"Used (often sarcastically) of a change to a program that is thought to be "
+"trivial or insignificant right up to the moment it crashes the system. "
 "Usually ‘cured’ by another one-line fix. See also :ref:`I-didn-t-change-"
 "anything-`"
 msgstr ""
-
+"プログラムへの変更について、システムをクラッシュさせるその瞬間まで些細で取るに足らないと思われていたものを指して(しばしば皮肉を込めて)使われる。たいてい別のone-"
+"line fixで‘治される’。\\ :ref:`I-didn-t-change-anything-`\\ も参照。"

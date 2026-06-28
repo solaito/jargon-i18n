@@ -8,41 +8,39 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/poll.rst:5
 msgid "poll"
-msgstr ""
+msgstr "poll"
 
 #: ../../P/poll.rst:7
 msgid "v\\.,n\\."
-msgstr ""
+msgstr "動詞・名詞"
 
 #: ../../P/poll.rst:10
 msgid ""
-"[techspeak] The action of checking the status of an input line, sensor, "
-"or memory location to see if a particular external event has been "
-"registered."
-msgstr ""
+"[techspeak] The action of checking the status of an input line, sensor, or "
+"memory location to see if a particular external event has been registered."
+msgstr "[技術用語]特定の外部イベントが登録されたかどうかを見るために、入力線、センサー、メモリ位置の状態を確認する動作。"
 
 #: ../../P/poll.rst:13
 msgid ""
-"To repeatedly call or check with someone: \"I keep polling him, but he's "
-"not answering his phone; he must be swapped out.\""
-msgstr ""
+"To repeatedly call or check with someone: \"I keep polling him, but he's not"
+" answering his phone; he must be swapped out.\""
+msgstr "誰かに繰り返し電話したり連絡を取ったりすること:「彼にずっとpollしてるんだが、電話に出ない。swap outされてるに違いない」"
 
 #: ../../P/poll.rst:16
 msgid "To ask. \"Lunch? I poll for a takeout order daily.\""
-msgstr ""
-
+msgstr "尋ねること。「昼食?僕は毎日テイクアウトの注文をpollしている」"

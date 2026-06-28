@@ -8,38 +8,40 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../L/lobotomy.rst:5
 msgid "lobotomy"
-msgstr ""
+msgstr "lobotomy"
 
 #: ../../L/lobotomy.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../L/lobotomy.rst:10
 msgid ""
 "What a hacker subjected to formal management training is said to have "
-"undergone. At IBM and elsewhere this term is used by both hackers and "
-"low-level management; the latter doubtless intend it as a joke."
+"undergone. At IBM and elsewhere this term is used by both hackers and low-"
+"level management; the latter doubtless intend it as a joke."
 msgstr ""
+"正式な管理職研修を受けさせられたハッカーが受けたと言われるもの。IBMや他の場所で、この用語はハッカーと下級管理職の両方によって使われる。後者は間違いなく冗談のつもりで使っている。"
 
 #: ../../L/lobotomy.rst:14
 msgid ""
-"The act of removing the processor from a microcomputer in order to "
-"replace or upgrade it. Some very cheap :ref:`clone` systems are sold in "
-"lobotomized form — everything but the brain."
+"The act of removing the processor from a microcomputer in order to replace "
+"or upgrade it. Some very cheap :ref:`clone` systems are sold in lobotomized "
+"form — everything but the brain."
 msgstr ""
-
+"マイクロコンピュータからプロセッサを取り外して交換またはアップグレードする行為。ごく安価な\\ :ref:`clone`\\ "
+"システムの中には、脳を除いたすべて、というロボトミー化された形で売られているものもある。"

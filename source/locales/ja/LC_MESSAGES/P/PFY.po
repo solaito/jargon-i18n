@@ -8,31 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/PFY.rst:5
 msgid "PFY"
-msgstr ""
+msgstr "PFY"
 
 #: ../../P/PFY.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../P/PFY.rst:9
 msgid ""
-"[Usenet; common, originally from the :ref:`BOFH` mythos] Abbreviation for"
-" Pimply-Faced Youth. A :ref:`BOFH` in training, esp. one apprenticed to "
-"an elder BOFH aged in evil."
+"[Usenet; common, originally from the :ref:`BOFH` mythos] Abbreviation for "
+"Pimply-Faced Youth. A :ref:`BOFH` in training, esp. one apprenticed to an "
+"elder BOFH aged in evil."
 msgstr ""
-
+"[Usenet。一般的。元来は\\ :ref:`BOFH`\\ の神話から]Pimply-Faced Youth(ニキビ面の若造)の略。訓練中の\\ "
+":ref:`BOFH`\\ で、特に悪に年季の入った年配のBOFHに弟子入りした者。"

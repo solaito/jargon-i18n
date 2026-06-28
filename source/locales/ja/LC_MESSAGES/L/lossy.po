@@ -8,47 +8,48 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../L/lossy.rst:5
 msgid "lossy"
-msgstr ""
+msgstr "lossy"
 
 #: ../../L/lossy.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../L/lossy.rst:9
 msgid "[Usenet]"
-msgstr ""
+msgstr "[Usenet]"
 
 #: ../../L/lossy.rst:12
 msgid ""
-"Said of people, this indicates a poor memory, usually short-term. This "
-"usage is analogical to the same term applied to data compression and "
-"analysis. \"He's very lossy.\" means that you can't rely on him to "
-"accurately remember recent experiences or conversations, or requests. Not"
-" to be confused with a ‘loser’, which is a person who is in a continual "
-"state of lossiness, as in sense 2 (see below)."
+"Said of people, this indicates a poor memory, usually short-term. This usage"
+" is analogical to the same term applied to data compression and analysis. "
+"\"He's very lossy.\" means that you can't rely on him to accurately remember"
+" recent experiences or conversations, or requests. Not to be confused with a"
+" ‘loser’, which is a person who is in a continual state of lossiness, as in "
+"sense 2 (see below)."
 msgstr ""
+"人について言う場合、これは記憶力の悪さ、通常は短期のものを示す。この用法は、データ圧縮や解析に適用される同じ用語との類推である。「彼はとてもlossyだ。」は、最近の経験や会話、あるいは依頼を彼が正確に覚えていると当てにはできない、という意味である。継続的なlossinessの状態にある人物である‘loser’(語義2、下記参照)と混同してはならない。"
 
 #: ../../L/lossy.rst:19
 msgid ""
 "Said of an attitude or a situation, this indicates a general downturn in "
-"emotions, lack of success in attempted endeavors, etc. Eg, \"I'm having a"
-" lossy day today.\" means that the speaker has ‘lost’ or is ‘losing’ in "
-"all of their activities, and that this is causing some increase in "
-"negative emotions."
+"emotions, lack of success in attempted endeavors, etc. Eg, \"I'm having a "
+"lossy day today.\" means that the speaker has ‘lost’ or is ‘losing’ in all "
+"of their activities, and that this is causing some increase in negative "
+"emotions."
 msgstr ""
-
+"態度や状況について言う場合、これは感情の全般的な低下、試みた事業における成功の欠如などを示す。たとえば「今日はlossyな一日だ。」は、話者が自分の活動すべてにおいて‘lose’した、あるいは‘losing’しており、それが負の感情のいくらかの増大を引き起こしている、という意味である。"

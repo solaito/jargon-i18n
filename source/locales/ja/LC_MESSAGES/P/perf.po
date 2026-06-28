@@ -8,32 +8,32 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/perf.rst:5
 msgid "perf"
-msgstr ""
+msgstr "perf"
 
 #: ../../P/perf.rst:7
 msgid "/perf/, n\\."
-msgstr ""
+msgstr "/perf/, 名詞"
 
 #: ../../P/perf.rst:9
 msgid ""
-"Syn. :ref:`chad` (sense 1). The term perfory /per´f\\@-ree/ is also "
-"heard. The term :ref:`perf` may also refer to the perforations "
-"themselves, rather than the chad they produce when torn (philatelists use"
-" it this way)."
+"Syn. :ref:`chad` (sense 1). The term perfory /per´f\\@-ree/ is also heard. "
+"The term :ref:`perf` may also refer to the perforations themselves, rather "
+"than the chad they produce when torn (philatelists use it this way)."
 msgstr ""
-
+"\\ :ref:`chad`\\ (語義1)と同義。perfory /per´f\\@-ree/ という用語も聞かれる。\\ :ref:`perf`\\"
+" という用語は、引きちぎられたときに生じるchadではなく、ミシン目そのものを指すこともある(切手収集家はこの使い方をする)。"

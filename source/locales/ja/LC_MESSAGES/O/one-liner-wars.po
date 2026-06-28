@@ -8,51 +8,56 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../O/one-liner-wars.rst:5
 msgid "one-liner wars"
-msgstr ""
+msgstr "one-liner wars"
 
 #: ../../O/one-liner-wars.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../O/one-liner-wars.rst:9
 msgid ""
-"A game popular among hackers who code in the language APL (see :ref"
-":`write-only-language` and :ref:`line-noise`\\). The objective is to see "
-"who can code the most interesting and/or useful routine in one line of "
-"operators chosen from APL's exceedingly :ref:`hairy` primitive set. A "
-"similar amusement was practiced among :ref:`TECO` hackers and is now "
-"popular among :ref:`Perl` aficionados."
+"A game popular among hackers who code in the language APL (see :ref:`write-"
+"only-language` and :ref:`line-noise`\\). The objective is to see who can "
+"code the most interesting and/or useful routine in one line of operators "
+"chosen from APL's exceedingly :ref:`hairy` primitive set. A similar "
+"amusement was practiced among :ref:`TECO` hackers and is now popular among "
+":ref:`Perl` aficionados."
 msgstr ""
+"APLというプログラミング言語でコードを書くハッカーの間で人気のゲーム(\\ :ref:`write-only-language`\\ と\\ "
+":ref:`line-noise`\\ を参照)。目的は、APLの極めて\\ :ref:`hairy`\\ "
+"なプリミティブ集合から選んだ演算子1行で、誰が最も面白い、かつ/または有用なルーチンを書けるかを競うことである。似たような遊びは\\ "
+":ref:`TECO`\\ のハッカーの間でも行われ、今では\\ :ref:`Perl`\\ の愛好者の間で人気がある。"
 
 #: ../../O/one-liner-wars.rst:13
 msgid ""
-"Ken Iverson, the inventor of APL, has been credited with a one-liner "
-"that, given a number ``N``\\, produces a list of the prime numbers from 1"
-" to ``N`` inclusive. It looks like this:"
+"Ken Iverson, the inventor of APL, has been credited with a one-liner that, "
+"given a number ``N``\\, produces a list of the prime numbers from 1 to ``N``"
+" inclusive. It looks like this:"
 msgstr ""
+"APLの発明者であるKen Iversonは、ある数\\ ``N``\\ が与えられると1から\\ ``N``\\ "
+"までの素数のリストを生成する、あるワンライナーの作者だとされている。それはこのようなものである。"
 
 #: ../../O/one-liner-wars.rst:21
 msgid "Here's a :ref:`Perl` program that prints primes:"
-msgstr ""
+msgstr "こちらは素数を出力する\\ :ref:`Perl`\\ プログラムである。"
 
 #: ../../O/one-liner-wars.rst:28
 msgid ""
-"In the Perl world this game is sometimes called Perl Golf because the "
-"player with the fewest (key)strokes wins."
-msgstr ""
-
+"In the Perl world this game is sometimes called Perl Golf because the player"
+" with the fewest (key)strokes wins."
+msgstr "Perlの世界では、このゲームは(キー)ストロークが最も少ないプレイヤーが勝つことから、Perl Golfと呼ばれることがある。"

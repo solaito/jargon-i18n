@@ -8,33 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/Mongolian-Hordes-technique.rst:5
 msgid "Mongolian Hordes technique"
-msgstr ""
+msgstr "Mongolian Hordes technique"
 
 #: ../../M/Mongolian-Hordes-technique.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../M/Mongolian-Hordes-technique.rst:9
 msgid ""
-"[poss. from the Sixties counterculture expression Mongolian clusterfuck "
-"for a public orgy] Development by :ref:`gang-bang`\\. Implies that large "
-"numbers of inexperienced programmers are being put on a job better "
-"performed by a few skilled ones (but see :ref:`bazaar`\\). Also called "
-"Chinese Army technique; see also :ref:`Brookss-Law`\\."
+"[poss. from the Sixties counterculture expression Mongolian clusterfuck for "
+"a public orgy] Development by :ref:`gang-bang`\\. Implies that large numbers"
+" of inexperienced programmers are being put on a job better performed by a "
+"few skilled ones (but see :ref:`bazaar`\\). Also called Chinese Army "
+"technique; see also :ref:`Brookss-Law`\\."
 msgstr ""
-
+"[おそらく、公開乱交を指す60年代カウンターカルチャーの表現Mongolian clusterfuckから]\\ :ref:`gang-bang`\\ "
+"による開発。少数の熟練者がやればよりうまくできる仕事に、大勢の未熟なプログラマを投入していることを含意する(ただし\\ :ref:`bazaar`\\ "
+"を参照)。Chinese Army techniqueとも呼ばれる。\\ :ref:`Brookss-Law`\\ も参照。"

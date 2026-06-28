@@ -8,46 +8,48 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/Matrix.rst:5
 msgid "Matrix"
-msgstr ""
+msgstr "Matrix"
 
 #: ../../M/Matrix.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../M/Matrix.rst:9
 msgid "[FidoNet]"
-msgstr ""
+msgstr "[FidoNet]"
 
 #: ../../M/Matrix.rst:12
 msgid "What the Opus BBS software and sysops call :ref:`FidoNet`\\."
-msgstr ""
+msgstr "Opus BBSソフトウェアとそのsysopたちが\\ :ref:`FidoNet`\\ を呼ぶ名前。"
 
 #: ../../M/Matrix.rst:15
 msgid ""
 "Fanciful term for a :ref:`cyberspace` expected to emerge from current "
-"networking experiments (see :ref:`the-network`\\). The name of the rather"
-" good 1999 :ref:`cypherpunk` movie *The Matrix* played on this sense, "
-"which however had been established for years before."
+"networking experiments (see :ref:`the-network`\\). The name of the rather "
+"good 1999 :ref:`cypherpunk` movie *The Matrix* played on this sense, which "
+"however had been established for years before."
 msgstr ""
+"現在のネットワーキング実験から出現すると期待される\\ :ref:`cyberspace`\\ を指す空想的な語(\\ :ref:`the-"
+"network`\\ を参照)。1999年のかなり良くできた\\ :ref:`cypherpunk`\\ 映画\\ *The Matrix*\\ "
+"の名前はこの語義にかけたものだが、その語義はそれより何年も前から確立していた。"
 
 #: ../../M/Matrix.rst:19
 msgid ""
-"The totality of present-day computer networks (popularized in this sense "
-"by John Quarterman; rare outside academic literature)."
-msgstr ""
-
+"The totality of present-day computer networks (popularized in this sense by "
+"John Quarterman; rare outside academic literature)."
+msgstr "今日のコンピュータネットワークの総体(この語義はJohn Quartermanによって普及した。学術文献以外では稀)。"

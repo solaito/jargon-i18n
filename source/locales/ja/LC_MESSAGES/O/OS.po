@@ -8,34 +8,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../O/OS.rst:5
 msgid "OS"
-msgstr ""
+msgstr "OS"
 
 #: ../../O/OS.rst:7
 msgid "/O·S/"
-msgstr ""
+msgstr "/O·S/"
 
 #: ../../O/OS.rst:10
 msgid ""
-"[Operating System] n. An abbreviation heavily used in email, occasionally"
-" in speech."
-msgstr ""
+"[Operating System] n. An abbreviation heavily used in email, occasionally in"
+" speech."
+msgstr "[Operating System] 名詞 email、時には会話の中で多用される略語。"
 
 #: ../../O/OS.rst:12
 msgid "n\\. obs. On ITS, an output spy. See *OS and JEDGAR* in Appendix A."
-msgstr ""
-
+msgstr "名詞 廃語 ITSにおいて、出力スパイ(output spy)のこと。付録Aの\\ *OS and JEDGAR*\\ を参照。"

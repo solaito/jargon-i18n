@@ -8,36 +8,37 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../O/optimism.rst:5
 msgid "optimism"
-msgstr ""
+msgstr "optimism"
 
 #: ../../O/optimism.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../O/optimism.rst:9
 msgid ""
 "What a programmer is full of after fixing the last bug and before "
-"discovering the *next* last bug. Fred Brooks's book *The Mythical Man-"
-"Month* (See *Brooks's Law*\\) contains the following paragraph that "
-"describes this extremely well:"
+"discovering the *next* last bug. Fred Brooks's book *The Mythical Man-Month*"
+" (See *Brooks's Law*\\) contains the following paragraph that describes this"
+" extremely well:"
 msgstr ""
+"最後のバグを直した後、\\ *次の*\\ 最後のバグを発見する前のプログラマがみなぎらせているもの。Fred Brooksの著書\\ *The "
+"Mythical Man-Month*\\ (\\ *Brooks's Law*\\ を参照)には、これを極めてよく描写した次の段落がある。"
 
 #: ../../O/optimism.rst:23
 msgid "See also :ref:`Lubarskys-Law-of-Cybernetic-Entomology`\\."
-msgstr ""
-
+msgstr ":ref:`Lubarskys-Law-of-Cybernetic-Entomology`\\ も参照。"

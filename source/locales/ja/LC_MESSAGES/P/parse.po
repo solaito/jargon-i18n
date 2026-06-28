@@ -8,45 +8,47 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/parse.rst:5
 msgid "parse"
-msgstr ""
+msgstr "parse"
 
 #: ../../P/parse.rst:7
 msgid "vt\\."
-msgstr ""
+msgstr "他動詞"
 
 #: ../../P/parse.rst:10
 msgid ""
-"To determine the syntactic structure of a sentence or other utterance "
-"(close to the standard English meaning). \"That was the one I saw you.\" "
-"\"I can't parse that.\""
-msgstr ""
+"To determine the syntactic structure of a sentence or other utterance (close"
+" to the standard English meaning). \"That was the one I saw you.\" \"I can't"
+" parse that.\""
+msgstr "文やその他の発話の構文構造を判定すること(標準的な英語の意味に近い)。「あれは僕が君を見たやつだ」「それはパースできない」"
 
 #: ../../P/parse.rst:15
 msgid ""
-"More generally, to understand or comprehend. \"It's very simple; you just"
-" kretch the glims and then aos the zotz.\" \"I can't parse that.\""
+"More generally, to understand or comprehend. \"It's very simple; you just "
+"kretch the glims and then aos the zotz.\" \"I can't parse that.\""
 msgstr ""
+"より一般的には、理解する、把握すること。「とても簡単だよ。glimをkretchして、それからzotzをaosするだけさ」「それはパースできない」"
 
 #: ../../P/parse.rst:20
 msgid ""
-"Of fish, to have to remove the bones yourself. \"I object to parsing "
-"fish\", means \"I don't want to get a whole fish, but a sliced one is "
-"okay\". A parsed fish has been deboned. There is some controversy over "
-"whether unparsed should mean ‘bony’, or also mean ‘deboned’."
+"Of fish, to have to remove the bones yourself. \"I object to parsing fish\","
+" means \"I don't want to get a whole fish, but a sliced one is okay\". A "
+"parsed fish has been deboned. There is some controversy over whether "
+"unparsed should mean ‘bony’, or also mean ‘deboned’."
 msgstr ""
-
+"魚について、自分で骨を取らなければならないこと。「I object to parsing "
+"fish(魚をパースするのは嫌だ)」は、「一匹丸ごとの魚ではなく、切り身がいい」という意味である。パースされた魚は骨が取り除かれている。unparsedが‘骨だらけ’を意味すべきか、それとも‘骨抜き’をも意味すべきかについては、いくらか論争がある。"

@@ -8,39 +8,43 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/math-out.rst:5
 msgid "math-out"
-msgstr ""
+msgstr "math-out"
 
 #: ../../M/math-out.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../M/math-out.rst:9
 msgid ""
-"[poss. from ‘white-out’ (the blizzard variety)] A paper or presentation "
-"so encrusted with mathematical or other formal notation as to be "
-"incomprehensible. This may be a device for concealing the fact that it is"
-" actually :ref:`content-free`\\. See also :ref:`numbers`\\, :ref:`social-"
+"[poss. from ‘white-out’ (the blizzard variety)] A paper or presentation so "
+"encrusted with mathematical or other formal notation as to be "
+"incomprehensible. This may be a device for concealing the fact that it is "
+"actually :ref:`content-free`\\. See also :ref:`numbers`\\, :ref:`social-"
 "science-number`\\."
 msgstr ""
+"[おそらく‘white-"
+"out’(吹雪の類のもの)から]数学的または他の形式的な記法で覆い尽くされ、理解不能になった論文や発表。これは、それが実際には\\ "
+":ref:`content-free`\\ であるという事実を隠す手段かもしれない。\\ :ref:`numbers`\\ 、\\ "
+":ref:`social-science-number`\\ も参照。"
 
 #: ../../M/math-out.rst:18
 msgid "A  :ref:`math-out` approach to history."
-msgstr ""
+msgstr "歴史への\\ :ref:`math-out`\\ 的アプローチ。"
 
 #: ../../M/math-out.rst:20
 msgid ""
@@ -48,4 +52,5 @@ msgid ""
 ":ref:`73-05-19<crunchly73-05-19>`\\.  The previous one is        the  "
 ":ref:`frontispiece<crunchly-1>`\\.)"
 msgstr ""
-
+"(Crunchlyの物語の次の漫画は\\ :ref:`73-05-19<crunchly73-05-19>`\\ 。前のものは\\ "
+":ref:`frontispiece<crunchly-1>`\\ 。)"

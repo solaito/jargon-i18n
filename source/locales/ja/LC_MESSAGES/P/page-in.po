@@ -8,39 +8,41 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/page-in.rst:5
 msgid "page in"
-msgstr ""
+msgstr "page in"
 
 #: ../../P/page-in.rst:7
 msgid "v\\."
-msgstr ""
+msgstr "動詞"
 
 #: ../../P/page-in.rst:9
 msgid "[MIT]"
-msgstr ""
+msgstr "[MIT]"
 
 #: ../../P/page-in.rst:12
 msgid ""
 "To become aware of one's surroundings again after having paged out (see "
-":ref:`page-out`\\). Usually confined to the sarcastic comment: \"Eric "
-"pages in, :ref:`film-at-11`\\!\""
+":ref:`page-out`\\). Usually confined to the sarcastic comment: \"Eric pages "
+"in, :ref:`film-at-11`\\!\""
 msgstr ""
+"(\\ :ref:`page-out`\\ "
+"を参照)ページアウトした後に、再び自分の周囲を意識するようになること。たいてい皮肉なコメントに限られる:「Ericがページインだ、\\ "
+":ref:`film-at-11`\\ !」"
 
 #: ../../P/page-in.rst:16
 msgid "Syn. swap in; see :ref:`swap`\\."
-msgstr ""
-
+msgstr "swap inと同義。\\ :ref:`swap`\\ を参照。"

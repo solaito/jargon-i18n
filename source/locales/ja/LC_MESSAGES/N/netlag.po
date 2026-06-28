@@ -8,34 +8,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../N/netlag.rst:5
 msgid "netlag"
-msgstr ""
+msgstr "netlag"
 
 #: ../../N/netlag.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../N/netlag.rst:9
 msgid ""
-"[IRC, MUD] A condition that occurs when the delays in the :ref:`IRC` "
-"network or on a :ref:`MUD` become severe enough that servers briefly lose"
-" and then reestablish contact, causing messages to be delivered in "
-"bursts, often with delays of up to a minute. (Note that this term has "
-"nothing to do with mainstream \"jet lag\", a condition which hackers tend"
-" not to be much bothered by.) Often shortened to just ‘lag’."
+"[IRC, MUD] A condition that occurs when the delays in the :ref:`IRC` network"
+" or on a :ref:`MUD` become severe enough that servers briefly lose and then "
+"reestablish contact, causing messages to be delivered in bursts, often with "
+"delays of up to a minute. (Note that this term has nothing to do with "
+"mainstream \"jet lag\", a condition which hackers tend not to be much "
+"bothered by.) Often shortened to just ‘lag’."
 msgstr ""
-
+"[IRC, MUD] \\ :ref:`IRC`\\ ネットワークや\\ :ref:`MUD`\\ "
+"上の遅延が、サーバーが一時的に接続を失ってから再確立するほど深刻になり、メッセージがバースト的に、しばしば最大1分の遅延を伴って配信される状態。(この語は主流派の「時差ぼけ(jet"
+" lag)」とは何の関係もないことに注意。ハッカーはあまり時差ぼけに悩まされない傾向がある。)しばしば単に‘lag’と短縮される。"

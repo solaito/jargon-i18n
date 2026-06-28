@@ -8,40 +8,41 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../N/neat-hack.rst:5
 msgid "neat hack"
-msgstr ""
+msgstr "neat hack"
 
 #: ../../N/neat-hack.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../N/neat-hack.rst:9
 msgid "[very common]"
-msgstr ""
+msgstr "[非常に一般的]"
 
 #: ../../N/neat-hack.rst:12
 msgid "A clever technique."
-msgstr ""
+msgstr "巧妙な技法。"
 
 #: ../../N/neat-hack.rst:15
 msgid ""
-"A brilliant practical joke, where neatness is correlated with cleverness,"
-" harmlessness, and surprise value. Example: the Caltech Rose Bowl card "
-"display switch (see :ref:`Appendix A<appendixa>` for discussion). See "
-"also :ref:`hack`\\."
+"A brilliant practical joke, where neatness is correlated with cleverness, "
+"harmlessness, and surprise value. Example: the Caltech Rose Bowl card "
+"display switch (see :ref:`Appendix A<appendixa>` for discussion). See also "
+":ref:`hack`\\."
 msgstr ""
-
+"見事ないたずら。そこでは見事さが、巧妙さ、無害さ、意外性と相関する。例: Caltechのローズボウルのカード表示の切り替え(議論については\\ "
+":ref:`付録A<appendixa>`\\ を参照)。\\ :ref:`hack`\\ も参照。"

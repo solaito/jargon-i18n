@@ -8,32 +8,34 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../L/lexer.rst:5
 msgid "lexer"
-msgstr ""
+msgstr "lexer"
 
 #: ../../L/lexer.rst:7
 msgid "/lek´sr/, n\\."
-msgstr ""
+msgstr "/lek´sr/, 名詞"
 
 #: ../../L/lexer.rst:9
 msgid ""
-"Common hacker shorthand for lexical analyzer, the input-tokenizing stage "
-"in the parser for a language (the part that breaks it into word-like "
-"pieces). \"Some C lexers get confused by the old-style compound ops like "
+"Common hacker shorthand for lexical analyzer, the input-tokenizing stage in "
+"the parser for a language (the part that breaks it into word-like pieces). "
+"\"Some C lexers get confused by the old-style compound ops like "
 ":code:`=-`\\.\""
 msgstr ""
-
+"字句解析器(lexical "
+"analyzer)を表すハッカーの一般的な略語。言語のパーサにおいて入力をトークン化する段階(単語のような断片に分解する部分)。「一部のCのlexerは、\\"
+" :code:`=-`\\ のような古いスタイルの複合演算子で混乱する。」"

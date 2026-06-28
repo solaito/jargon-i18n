@@ -8,26 +8,26 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/munching.rst:5
 msgid "munching"
-msgstr ""
+msgstr "munching"
 
 #: ../../M/munching.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../M/munching.rst:9
 msgid ""
@@ -35,4 +35,5 @@ msgid ""
 "notoriety, or to annoy the system manager. Compare :ref:`cracker`\\. See "
 "also :ref:`hacked-off`\\."
 msgstr ""
-
+"スリル、悪名、あるいはシステム管理者を困らせるための、他人のコンピュータのセキュリティホールの探索。\\ :ref:`cracker`\\ "
+"と比較せよ。\\ :ref:`hacked-off`\\ も参照。"

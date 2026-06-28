@@ -8,53 +8,57 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/munge.rst:5
 msgid "munge"
-msgstr ""
+msgstr "munge"
 
 #: ../../M/munge.rst:7
 msgid "/muhnj/, vt\\."
-msgstr ""
+msgstr "/muhnj/, 他動詞"
 
 #: ../../M/munge.rst:10
 msgid "[derogatory] To imperfectly transform information."
-msgstr ""
+msgstr "[侮蔑的]情報を不完全に変換すること。"
 
 #: ../../M/munge.rst:13
-msgid "A comprehensive rewrite of a routine, data structure or the whole program."
-msgstr ""
+msgid ""
+"A comprehensive rewrite of a routine, data structure or the whole program."
+msgstr "ルーチン、データ構造、あるいはプログラム全体の包括的な書き直し。"
 
 #: ../../M/munge.rst:16
 msgid ""
-"To modify data in some way the speaker doesn't need to go into right now "
-"or cannot describe succinctly (compare :ref:`mumble`\\)."
-msgstr ""
+"To modify data in some way the speaker doesn't need to go into right now or "
+"cannot describe succinctly (compare :ref:`mumble`\\)."
+msgstr "話し手が今は立ち入る必要がない、あるいは簡潔に描写できない何らかの方法でデータを変更すること(\\ :ref:`mumble`\\ と比較せよ)。"
 
 #: ../../M/munge.rst:19
 msgid "To add :ref:`spamblock` to an email address."
-msgstr ""
+msgstr "メールアドレスに\\ :ref:`spamblock`\\ を加えること。"
 
 #: ../../M/munge.rst:21
 msgid ""
-"This term is often confused with :ref:`mung`\\, which probably was "
-"derived from it. However, it also appears the word munge was in common "
-"use in Scotland in the 1940s, and in Yorkshire in the 1950s, as a verb, "
-"meaning to munch up into a masticated mess, and as a noun, meaning the "
-"result of munging something up (the parallel with the :ref:`kluge`\\/ "
-":ref:`kludge` pair is amusing). The OED reports \"munge\" as an archaic "
-"verb meaning \"to wipe (a person's nose)\"."
+"This term is often confused with :ref:`mung`\\, which probably was derived "
+"from it. However, it also appears the word munge was in common use in "
+"Scotland in the 1940s, and in Yorkshire in the 1950s, as a verb, meaning to "
+"munch up into a masticated mess, and as a noun, meaning the result of "
+"munging something up (the parallel with the :ref:`kluge`\\/ :ref:`kludge` "
+"pair is amusing). The OED reports \"munge\" as an archaic verb meaning \"to "
+"wipe (a person's nose)\"."
 msgstr ""
-
+"この語はしばしば\\ :ref:`mung`\\ "
+"と混同される。mungはおそらくこの語から派生した。しかし、mungeという語は1940年代のスコットランドと1950年代のヨークシャーで、動詞として咀嚼された塊に噛み砕くことを意味し、名詞として何かをmungした結果を意味するものとして、一般に使われていたようでもある(\\"
+" :ref:`kluge`\\ /\\ :ref:`kludge`\\ "
+"の対との並行は面白い)。OEDは「munge」を「(人の鼻を)拭く」を意味する古語の動詞として報告している。"

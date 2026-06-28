@@ -8,48 +8,48 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/marginal.rst:5
 msgid "marginal"
-msgstr ""
+msgstr "marginal"
 
 #: ../../M/marginal.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../M/marginal.rst:9
 msgid "[common]"
-msgstr ""
+msgstr "[一般的]"
 
 #: ../../M/marginal.rst:12
 msgid ""
-"[techspeak] An extremely small change. \"A marginal increase in "
-":ref:`core` can decrease :ref:`GC` time drastically.\" In everyday terms,"
-" this means that it is a lot easier to clean off your desk if you have a "
-"spare place to put some of the junk while you sort through it."
+"[techspeak] An extremely small change. \"A marginal increase in :ref:`core` "
+"can decrease :ref:`GC` time drastically.\" In everyday terms, this means "
+"that it is a lot easier to clean off your desk if you have a spare place to "
+"put some of the junk while you sort through it."
 msgstr ""
+"[techspeak]極めて小さな変化。「\\ :ref:`core`\\ のmarginalな増加が\\ :ref:`GC`\\ "
+"の時間を劇的に減らせる」。日常的な言い方をすれば、これは、ガラクタを仕分けする間に一部を置いておける予備の場所があれば、机を片付けるのがずっと楽になる、ということである。"
 
 #: ../../M/marginal.rst:17
 msgid ""
-"Of little merit. \"This proposed new feature seems rather marginal to "
-"me.\""
-msgstr ""
+"Of little merit. \"This proposed new feature seems rather marginal to me.\""
+msgstr "ほとんど価値のない。「この提案された新機能は私にはむしろmarginalに思える」。"
 
 #: ../../M/marginal.rst:21
 msgid ""
-"Of extremely small probability of :ref:`win`\\ning. \"The power supply "
-"was rather marginal anyway; no wonder it fried.\""
-msgstr ""
-
+"Of extremely small probability of :ref:`win`\\ning. \"The power supply was "
+"rather marginal anyway; no wonder it fried.\""
+msgstr ":ref:`win`\\ する確率が極めて小さい。「どのみち電源はかなりmarginalだった。焼けたのも不思議はない」。"

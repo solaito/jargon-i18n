@@ -8,54 +8,57 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/pop.rst:5
 msgid "pop"
-msgstr ""
+msgstr "pop"
 
 #: ../../P/pop.rst:7
 msgid "/pop/"
-msgstr ""
+msgstr "/pop/"
 
 #: ../../P/pop.rst:9
 msgid ""
 "[from the operation that removes the top of a stack, and the fact that "
-"procedure return addresses are usually saved on the stack] (also "
-"capitalized ‘POP’)"
-msgstr ""
+"procedure return addresses are usually saved on the stack] (also capitalized"
+" ‘POP’)"
+msgstr "[スタックの一番上を取り除く操作と、手続きの戻りアドレスが通常スタックに保存されるという事実から](‘POP’と大文字でも書かれる)"
 
 #: ../../P/pop.rst:11
 msgid ""
-"vt\\. To remove something from a :ref:`stack`\\. If a person says he/she "
-"has popped something from his stack, that means he/she has finally "
-"finished working on it and can now remove it from the list of things "
-"hanging overhead."
+"vt\\. To remove something from a :ref:`stack`\\. If a person says he/she has"
+" popped something from his stack, that means he/she has finally finished "
+"working on it and can now remove it from the list of things hanging "
+"overhead."
 msgstr ""
+"他動詞 \\ :ref:`stack`\\ "
+"から何かを取り除くこと。ある人が自分のスタックから何かをpopしたと言えば、それは彼/彼女がそれにようやく取り組み終え、頭の上にのしかかっている事柄のリストから今やそれを取り除けるという意味である。"
 
 #: ../../P/pop.rst:16
 msgid ""
-"When a discussion gets to a level of detail so deep that the main point "
-"of the discussion is being lost, someone will shout \"Pop! \", meaning "
-"\"Get back up to a higher level!\" The shout is frequently accompanied by"
-" an upthrust arm with a finger pointing to the ceiling."
+"When a discussion gets to a level of detail so deep that the main point of "
+"the discussion is being lost, someone will shout \"Pop! \", meaning \"Get "
+"back up to a higher level!\" The shout is frequently accompanied by an "
+"upthrust arm with a finger pointing to the ceiling."
 msgstr ""
+"議論が深い詳細のレベルにまで及んで、議論の主要な論点が見失われているとき、誰かが「Pop!」と叫ぶ。それは「もっと高いレベルに戻れ!」という意味である。この叫びにはしばしば、天井を指す指を立てた腕を上に突き上げる動作が伴う。"
 
 #: ../../P/pop.rst:21
 msgid ""
 "[all-caps, as ‘POP’] Point of Presence, a bank of dial-in lines allowing "
-"customers to make (local) calls into an ISP. This is borderline "
-"techspeak."
+"customers to make (local) calls into an ISP. This is borderline techspeak."
 msgstr ""
-
+"[全部大文字で‘POP’]Point of "
+"Presence、顧客がISPに(市内)通話で接続できるダイヤルイン回線の集まり。これは技術用語すれすれである。"

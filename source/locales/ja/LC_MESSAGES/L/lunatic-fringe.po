@@ -8,30 +8,29 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../L/lunatic-fringe.rst:5
 msgid "lunatic fringe"
-msgstr ""
+msgstr "lunatic fringe"
 
 #: ../../L/lunatic-fringe.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../L/lunatic-fringe.rst:9
 msgid ""
 "[IBM] Customers who can be relied upon to accept release 1 versions of "
 "software. Compare :ref:`heatseeker`\\."
-msgstr ""
-
+msgstr "[IBM] ソフトウェアのリリース1版を受け入れると当てにできる顧客。\\ :ref:`heatseeker`\\ と比較せよ。"

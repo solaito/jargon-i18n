@@ -8,39 +8,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../P/pointy-hat.rst:5
 msgid "pointy hat"
-msgstr ""
+msgstr "pointy hat"
 
 #: ../../P/pointy-hat.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../P/pointy-hat.rst:10
 msgid ""
-"Syn. :ref:`wizard-hat`\\. This synonym specifically refers to the wizards"
-" of Unseen University in Terry Pratchett's *Discworld* series of humorous"
-" fantasies; these books are extremely popular among hackers."
+"Syn. :ref:`wizard-hat`\\. This synonym specifically refers to the wizards of"
+" Unseen University in Terry Pratchett's *Discworld* series of humorous "
+"fantasies; these books are extremely popular among hackers."
 msgstr ""
+"\\ :ref:`wizard-hat`\\ と同義。この同義語は特に、Terry Pratchettのユーモラスなファンタジー *Discworld*"
+" シリーズの見えざる大学の魔法使いを指す。これらの本はハッカーの間で非常に人気がある。"
 
 #: ../../P/pointy-hat.rst:14
 msgid ""
-"[BSD hackers; common] Notional dunce cap handed to the original author of"
-" a bug that's been corrected. Unlike the wizard had, this is often self-"
-"assumed: \"Somebody please pass me the pointy hat. I fouled up the "
-"distfile rather badly. This fixes it.\""
+"[BSD hackers; common] Notional dunce cap handed to the original author of a "
+"bug that's been corrected. Unlike the wizard had, this is often self-"
+"assumed: \"Somebody please pass me the pointy hat. I fouled up the distfile "
+"rather badly. This fixes it.\""
 msgstr ""
-
+"[BSDハッカー。一般的]訂正されたバグの元の作者に手渡される観念上のとんがり帽子。wizard "
+"hatと違って、これはしばしば自ら被るものである。「誰かそのとんがり帽子をくれ。distfileをかなりひどくしくじってしまった。これで直る」"

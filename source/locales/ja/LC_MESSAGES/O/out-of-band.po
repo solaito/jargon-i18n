@@ -8,51 +8,53 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../O/out-of-band.rst:5
 msgid "out-of-band"
-msgstr ""
+msgstr "out-of-band"
 
 #: ../../O/out-of-band.rst:7
 msgid "adj\\."
-msgstr ""
+msgstr "形容詞"
 
 #: ../../O/out-of-band.rst:9
 msgid "[from telecommunications and network theory]"
-msgstr ""
+msgstr "[電気通信とネットワーク理論から]"
 
 #: ../../O/out-of-band.rst:12
 msgid ""
-"In software, describes values of a function which are not in its "
-"‘natural’ range of return values, but are rather signals that some kind "
-"of exception has occurred. Many C functions, for example, return a "
-"nonnegative integral value, but indicate failure with an out-of-band "
-"return value of −1. Compare :ref:`hidden-flag`\\, :ref:`green-bytes`\\, "
-":ref:`fence`\\."
+"In software, describes values of a function which are not in its ‘natural’ "
+"range of return values, but are rather signals that some kind of exception "
+"has occurred. Many C functions, for example, return a nonnegative integral "
+"value, but indicate failure with an out-of-band return value of −1. Compare "
+":ref:`hidden-flag`\\, :ref:`green-bytes`\\, :ref:`fence`\\."
 msgstr ""
+"ソフトウェアにおいて、ある関数の‘自然な’戻り値の範囲には入らず、むしろ何らかの例外が発生したことを示す信号であるような値を表す。たとえば多くのC関数は非負の整数値を返すが、失敗は−1というout-"
+"of-bandの戻り値で示す。\\ :ref:`hidden-flag`\\ 、\\ :ref:`green-bytes`\\ 、\\ "
+":ref:`fence`\\ と比較せよ。"
 
 #: ../../O/out-of-band.rst:17
 msgid ""
 "Also sometimes used to describe what communications people call shift "
-"characters, such as the ESC that leads control sequences for many "
-"terminals, or the level shift indicators in the old 5-bit Baudot codes."
+"characters, such as the ESC that leads control sequences for many terminals,"
+" or the level shift indicators in the old 5-bit Baudot codes."
 msgstr ""
+"通信の人々がシフト文字と呼ぶもの、たとえば多くの端末で制御シーケンスを導くESCや、古い5ビットのBaudotコードにおけるレベルシフト指示子を表すのにも使われることがある。"
 
 #: ../../O/out-of-band.rst:20
 msgid ""
 "In personal communication, using methods other than email, such as "
 "telephones or :ref:`snail-mail`\\."
-msgstr ""
-
+msgstr "個人的なやり取りにおいて、email以外の手段、たとえば電話や\\ :ref:`snail-mail`\\ を使うこと。"

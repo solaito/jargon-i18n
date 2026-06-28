@@ -8,34 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../M/macdink.rst:5
 msgid "macdink"
-msgstr ""
+msgstr "macdink"
 
 #: ../../M/macdink.rst:7
 msgid "/mak´dink/, vt\\."
-msgstr ""
+msgstr "/mak´dink/, 他動詞"
 
 #: ../../M/macdink.rst:9
 msgid ""
-"[from the Apple Macintosh, which is said to encourage such behavior] To "
-"make many incremental and unnecessary cosmetic changes to a program or "
-"file. Often the subject of the macdinking would be better off without "
-"them. \"When I left at 11PM last night, he was still macdinking the "
-"slides for his presentation.\" See also :ref:`fritterware`\\, :ref"
-":`window-shopping`\\."
+"[from the Apple Macintosh, which is said to encourage such behavior] To make"
+" many incremental and unnecessary cosmetic changes to a program or file. "
+"Often the subject of the macdinking would be better off without them. \"When"
+" I left at 11PM last night, he was still macdinking the slides for his "
+"presentation.\" See also :ref:`fritterware`\\, :ref:`window-shopping`\\."
 msgstr ""
-
+"[そのような振る舞いを助長すると言われるApple "
+"Macintoshから]プログラムやファイルに、多くの段階的で不必要な見た目の変更を加えること。しばしばmacdinkingの対象はそれらなしのほうがよい。「昨晩11時に帰ったとき、彼はまだプレゼンのスライドをmacdinkingしていた」。\\"
+" :ref:`fritterware`\\ 、\\ :ref:`window-shopping`\\ も参照。"

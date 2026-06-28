@@ -8,33 +8,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jargon-sphinx \n"
+"Project-Id-Version: jargon-sphinx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-02 15:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../L/loser.rst:5
 msgid "loser"
-msgstr ""
+msgstr "loser"
 
 #: ../../L/loser.rst:7
 msgid "n\\."
-msgstr ""
+msgstr "名詞"
 
 #: ../../L/loser.rst:9
 msgid ""
-"An unexpectedly bad situation, program, programmer, or person. Someone "
-"who habitually loses. (Even winners can lose occasionally.) Someone who "
-"knows not and knows not that he knows not. Emphatic forms are real loser,"
-" total loser, and complete loser (but not \\*\\*moby loser, which would "
-"be a contradiction in terms). See :ref:`luser`\\."
+"An unexpectedly bad situation, program, programmer, or person. Someone who "
+"habitually loses. (Even winners can lose occasionally.) Someone who knows "
+"not and knows not that he knows not. Emphatic forms are real loser, total "
+"loser, and complete loser (but not \\*\\*moby loser, which would be a "
+"contradiction in terms). See :ref:`luser`\\."
 msgstr ""
-
+"予想外にひどい状況、プログラム、プログラマ、あるいは人物。習慣的にloseする者。(勝者でさえ、ときにはloseすることがある。)知らないのに、知らないことを知らない者。強調形はreal"
+" loser、total loser、complete loser(ただし\\*\\*\\ moby loserはだめで、それは語義矛盾になる)。\\ "
+":ref:`luser`\\ を参照。"
