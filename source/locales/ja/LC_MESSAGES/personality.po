@@ -63,7 +63,7 @@ msgid ""
 " any number of obscure subjects — if you can get them to talk at all, as "
 "opposed to, say, going back to their hacking."
 msgstr ""
-"固定観念に反して、ハッカーは普通、知的に偏狭\\ *ではない*\\ "
+"ステレオタイプに反して、ハッカーは普通、知的に偏狭\\ *ではない*\\ "
 "。彼らは精神的刺激を与えてくれるあらゆる主題に興味を持つ傾向があり、数多くの難解な主題について博識に、それどころか面白くさえ語ることがよくある——もっとも、そもそも彼らに、たとえばハッキングに戻ってしまうのではなく話をさせられればの話だが。"
 
 #: ../../personality.rst:20
